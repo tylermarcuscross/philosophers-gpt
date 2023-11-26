@@ -1,2 +1,2 @@
-# philosophers-gpt
+# philosophers_gpt
  
