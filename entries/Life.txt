@@ -1,0 +1,1627 @@
+Life
+First published Tue Nov 30, 2021
+Open a textbook in biology and you’ll find a purported
+definition of life, usually in the form of a list of characteristics
+that apply to organisms, their parts, their interactions, or their
+history. Often these definitions will be nothing more than descriptions
+or rely on more controversial theoretical commitments.
+Like many basic concepts, it is difficult to non-controversially
+define life. Most people simply avoid the issue by ignoring marginal
+cases, accepting the vagueness of the boundary cases, or setting aside
+the whole issue as beyond their scope. Nonetheless, there are many
+people whose work seems to require a rigorous demarcation of life,
+especially in new scientific contexts, such as astrobiology, origins of
+life, or synthetic biology. As such, the nature of life continues to be
+a hotly debated topic.
+This article focuses on the subject matter of biology: life. The
+first half of this article will focus on attempts to characterize life
+by both philosophers and scientists. The first section will describe
+alternative accounts of definitions, its two subsections will cover
+historical and contemporary definitions, and section 2 covers the
+recent countertrend in skepticism toward definitions of life.
+Because the various stakeholders have different goals, the second half
+will focus on those goals. Sections 3, 4, and 5 cover topics that
+some believe require a definition of life: artificial and synthetic
+life, the origin(s) of life, and the search for life in the Universe.
+Section 6 covers entities that are much larger or smaller than
+organisms, while section 7 covers the role life takes in the context
+of society, especially with respect to questions raised by new
+technology.
+1.  Definition(s)
+1.1 Definitions of Life from Antiquity to Darwin
+1.2 Contemporary Definitions of Life
+2. Definitional Skepticism
+3. Artificial and Synthetic Life
+4. Origin(s) of Life
+5. Search For Life
+6. The Macro and the Micro Perspectives
+7. Ethics, Law, and Politics
+8. Conclusion
+Bibliography
+Academic Tools
+Other Internet Resources
+Related Entries
+1. Definition(s)
+Few things in biology have been more extensively discussed than the
+definition of life. It is frustrating so little progress has been made
+on the topic in the face of so much research, theory, and
+debate. There are many reasons for this failure: disagreements about
+how abstract or specific definitions should be, different commitments
+as to what ought to be included in a definition, and even disagreement
+about the nature of definitions themselves. This section covers the
+nature and role of definitions. Each of these has been used in approaching
+the question of life.
+Historically, when philosophers and scientists define a concept,
+the aim is to provide necessary and sufficient conditions. These
+theoretical
+definitions (also
+called
+real
+,
+ideal
+or
+philosophical
+definitions) are often impractical or fragile as they can be
+challenged with a single imagined counterexample. A classic case is
+the definition of “bachelors” as “unmarried
+males.” It is trivial to find examples that fit this definition
+without intuitively being bachelors: male dogs, baby boys, widowers,
+etc. Similarly, for any definition of life, one can either show living
+cases that are left out of the definition or non-living cases that are
+included by it. Life is organized, but so are geological
+formations. Life processes energy, but so does fire. Life evolves
+using complex biochemistry, but so do prions. Life is self-sustaining,
+but parasites are not. Life is at thermodynamic disequilibrium, but so
+is much else. As we’ll see shortly, perhaps theoretical
+definitions are too rigid a standard. The real world is far too
+complex for limited criteria to decide every marginal case.
+Non-philosophers are typically quite frustrated by the
+back-and-forth that results from theoretical definitions. To that end,
+some favor
+operational
+(or
+working
+) definitions,
+ones that work in practice to narrow down the range of phenomena under
+consideration.  This approach is often not considered a kind of
+definition by philosophers (see Gupta 2021). Operational definitions
+tend to be philosophically shallow. For example, NASA’s
+operational definition of life as “a self-sustaining chemical
+system capable of Darwinian evolution” (Joyce 1994) might
+include viruses while excluding mules. The lack of depth of an
+operational definition can frustrate theoretically minded people,
+including other scientists.
+There are several other conceptions of definition, as well. The
+nominal
+(also
+lexicographer
+or
+dictionary
+)
+definition is determined by analyzing usage. It will not work for
+cutting edge or controversial issues because such definitions follow
+the slow process of cultural acceptance rather than provide guidance
+to researchers at the forefront of these debates. Scholars are more
+likely to quote a dictionary definition than be illuminated by
+one.
+There are also
+demonstrative
+or
+ostensive
+definitions, which are concepts we can convey by mere shared
+observations: “that is red” while pointing at a red
+object, for instance. Potter Stewart famously defined pornography in
+this manner by saying “I know it when I see it” (Stewart
+1964). Knowledge by ostension may reflect epistemic access to a
+natural kind, although this may feel indistinguishable from an
+internalized cultural category. There is huge variation among what
+scientists consider ‘life,’ even among objects on Earth,
+like viruses and prions, which suggests this kind of definition is not
+viable for this target.
+Then there are
+stipulative
+definitions, which are terms introduced
+and defined by fiat. A circle in Euclidean geometry can be defined as a
+round plane figure whose boundary consists of infinite points
+equidistant to a single other point. There are no possible
+counterexamples to this definition, given the axioms of Euclidean
+geometry. This approach provides little refuge in the real world.
+Consider an attempt to define swans as “white birds with long
+necks.” By stipulation, storks, great egrets, and many cranes
+would be swans, while Australia’s black swans would not. Such a
+quick and dirty definition seems to define the category out of hand and
+perhaps only works within accepted axioms or theories. Life could be
+stipulated as “carbon-based reproducing entities,” which
+would rule out silicon-based life by fiat. Such a definition merely
+pushes the debate to the scenarios in which the stipulated definition
+goes against intuitive notions.
+The 20th century saw some steps away from definitions toward
+alternative views of concepts,
+notably
+prototypes
+,
+exemplars
+, and
+theories
+(Machery 2009).
+Prototype
+concepts are
+abstract features shared by most, but not all members of a category
+(Rosch & Mervis 1975; Rosch 1978; Hampton 1979, 2006; Smith
+2002). The definitions of life in biology textbooks might be
+charitably understood as prototype concepts.  So, too, are the
+property cluster natural kinds popular in philosophy of biology (Boyd
+1991, 1999, 2010; Diguez 2013; Slater 2015).
+Exemplars
+are
+concepts built around similarity to a particular individual case
+(Medin & Schaffer 1978, Nosofsky 1986). Both prototypes and
+exemplar concepts rely on similarity to paradigmatic cases, with the
+former being an imagined ideal and the latter being a real instance
+(Komatsu 1992). For similarity-based concepts to work in scientific
+cases such as life, we need an account of which similarities matter,
+how much, and why. In contrast to similarity-based concepts, the
+requirements of theory concepts are somewhat more
+nebulous.
+Theory
+concepts are modeled on scientific theories
+and thus reflect their diversity (Carey 1985, Murphy & Medin 1985,
+Gopnik & Meltzoff 1997). At the core, theory concepts rely on
+explanations for why the members of a category share certain
+properties. Marginal cases of life, such as viruses, prions, or
+protocells, might be included in some theories of life but not
+others.
+In sum, there are many potential approaches to definitions, each
+with different benefits, drawbacks, and standards of success. Much more
+could be said about these and other possible approaches, but this will
+suffice for our purposes. Some of the disagreements about defining life
+dissolve upon clarifying which type of definition or concept is being
+used. Many of the explicit attempts to define life have focused on
+either operational and philosophical definitions, while often not
+acknowledging or misunderstanding the distinction between these. One
+will note these two definitions are at cross-purposes –
+operational definitions can be quick and dirty, but philosophical
+definitions seek to give necessary and sufficient conditions. Less work
+has been done on life as a non-definitional concept, although that is
+perhaps changing.
+1.1 Definitions of Life from Antiquity to Darwin
+This subsection briefly explores historical definitions of life. There
+are more in depth treatments of the matter, to which an interested
+reader should turn (Bedau & Cleland 2010, Riskin 2015, Mix 2018).
+Approaches to this issue vary widely across historians, philosophers,
+and scientists, so some skepticism about any individual author’s
+approach to the topic is warranted.
+We begin with the Greeks. In several dialogues, notably the
+Phaedrus
+,
+Timeaus
+, and
+Republic
+, Plato
+divided life into three parts: vegetable life, animal life, and
+rational life. All living creatures possessed the first in the form of
+nutrition and reproduction, animals were additionally capable of
+sensation and locomotion, and humans also had rational souls.
+Plato’s subsequent influence in Christian theology may be
+apparent in spirit if not in detail. In Christian theology, human life
+was not only rational, but also involved an eternal, spiritual soul and
+an internal, conscious life.
+Plato’s student, Aristotle, had a different notion in which
+living things had an appropriate form, material, and goal-directedness
+(
+De Anima
+, 412a1–416b). Aristotle held life to be a
+form of self-motion, perpetuation, or self-alteration (Byers 2006). For
+Aristotle, the capacity to resist internal and external perturbations
+was the essential distinction between living beings and non-living
+objects. Other features were accidental. This quest for demarcating the
+essential from the accidental for life has persisted to this day in
+searches for theoretical definitions of life as well as in attacks
+against those not interested in such definitions.
+Centuries later, Descartes drew a sharper distinction between animal
+life and rational life than between inanimate objects and animal life.
+This was a turn away from medieval approaches, which had taken the gap
+between vegetables and animals to be broader. For Descartes, animals
+are analogous to complex clocks and lack the inner or spiritual life
+central to the human experience (Descartes 2010/1664). As such,
+Descartes’ category of life neither mapped onto Greek conceptions
+nor current conceptual frameworks. The mechanistic view developed by
+Descartes and his followers is often thought to be continuous with
+current scientific thinking, but this is perhaps anachronistic, as much
+of the theoretical underpinning separating animal life and rational
+life is no longer accepted.
+The responses to Descartes came to be grouped under the
+heading ‘vitalism.’ Vitalism, which spanned three
+centuries, was a heterogenous philosophical position unified by
+adherents’ doubt of a fully mechanistic view of life. Vitalists
+had ontologies of defining features of life as varied as immaterial
+causes, particular arrangements of matter, a special life fluid, a
+particular end goal, or even mental forces. A whiggish history of
+biology will declare the death of vitalism with Friedrich
+Wöhler’s synthesis of urea from ammonium cyanate. The
+suggestion is that if biological chemicals can be produced from mere
+chemistry, then biology is also mere chemistry. Although this was an
+important step, many chemists already had accepted a mechanistic world
+view, and many other researchers continued to develop vitalist theories
+well into the 20th century (Bergson 1959, Driesch 1905/1914).
+1.2 Contemporary Definitions of Life
+The 20th century largely saw the mechanist/vitalist divide
+dissipate. Despite the difficulties described above about definitions,
+hundreds of scientists, philosophers, and others have tried their hand
+at defining life. Much of the interest is motivated by new science and
+new technologies – including artificial life, synthetic biology,
+origins of life, and astrobiology – which complicate the issue
+by violating some of the traditional groupings of properties
+associated with life. There are numerous books, articles, and
+workshops on the nature of life (Pályi et al. 2002, Popa 2004,
+Bedau & Cleland 2010).
+Popa 2004
+Trifonov 2011
+Malaterre & Chartier 2019
+Matter & Energy
+Mechanistic
+: pragmatic interpretations that see life
+as a complex machine, including thermodynamic approaches
+Energy
+: relating to terms like
+force
+Material-Related
+: those based on biochemistry and other
+feature of life on Earth
+Matter
+: relating to terms like
+organic
+,
+material
+, and
+molecules
+1. Matter/Energy
+, including the categories:
+Holistic Definitions
+: function- and purpose-related
+descriptions that treat life as a collective property
+System
+: relating to terms:
+systems,
+organization, organism, order, network, etc.
+1a. Metabolism
+: including digestion,
+fermentation, digestion, and thermodynamics
+Chemical
+: relating to terms:
+process
+,
+metabolism
+,
+reactions
+, etc.
+1b. Catalysis and Synthesis of Proteins:
+including everything from monomers to macromolecules
+Structure
+Reductionist
+: definitions which focus on underlying
+structures common to life
+2. Structural
+, including the single subcategory:
+Cellularist:
+views of life that take single cells
+to be the relevant origin and, hence central feature of life
+2a. Cellular/Structural Features
+: including cell
+division, stressors, and transporters
+Environment
+Environment
+: relating to terms:
+external
+,
+etc.
+3. Environmental Interactions
+, a broad category that
+included:
+3a. Micro/Macro Environment
+: including all sorts of
+mutualisms and properties for interacting with other creatures
+3b. Plant/animals related
+: including those 
+intersecting with human society: ticks, farming, spillover diseases,
+etc.
+3c. Human related
+: including phenomena that
+resemble human physiology or produces immune responses, primarily in
+humans
+Evolution
+Evolution
+: relating to terms:
+evolve
+,
+change
+,
+mutation
+, etc.
+4. Evolution
+, including the single subcategory:
+4a. Evolvability
+: including most features of
+heredity and evolution, such as variation, adaptation, and
+speciation
+Information
+Minimalist
+: approaches that use the least amount of
+information to demarcate life from non-life
+Complexity:
+relating to terms:
+complex
+,
+information
+, etc.
+5. Information
+, including the single subcategory:
+Genetic
+: views of life that take replication and
+variability to be the origin and key feature of life
+Reproduction
+: relating to terms:
+reproduce
+,
+replication
+, etc.
+5a. Genetics:
+including all genetic
+material, transcription and translation, and subsequent epigenetic
+modification
+Miscellaneous
+Cybernetic
+: approaches to life that abstract in
+such a way as to incorporate computer-based artificial life
+Ability:
+relating to terms:
+ability
+,
+capacity
+, etc.
+Generalist
+: approaches that are broad,
+obscurantist, or otherwise purposefully vague
+Vitalist
+: definitions that take life to be an
+as-yet mysterious force, organization of matter, or other
+phenomenon
+Parametric:
+definitions that identify one or more
+relevant features of life
+Table 1.
+Some recent attempts at meta-categories
+for life definitions. Each column is one account’s categories,
+the rows are lined up according to rough similarity.
+There are perhaps thousands of competing definitions proposed
+across hundreds of articles. A true survey of that variety would be
+beyond the scope of this article and beyond your patience as a reader.
+Nevertheless, some broad categories have been proposed that might
+offer some insight into current contending definitions. Table 1
+summarizes three of the most rigorous attempts this century to
+categorize definitions of life.
+Each of these authors used different approaches to arrive at their
+categories. Popa 2004 and Trifonov 2011 attempted to reverse engineer
+the categories from dozens of definitions collected from many dozens of
+experts, while Malaterre and Chartier 2019 conducted a more extensive,
+text-mining approach across 30,000 scientific articles selected from
+journals that published pieces in biology. As one can see, there are
+areas of rough overlap, but each categorization scheme has its own
+unique categories as well.
+Most of the definitions considered by these authors straddle some of
+these distinctions and are often ambiguous as to whether they are
+intended to be theoretical definitions, operational definitions, or
+something else. For example, Popa 2004 considers definitions ranging
+from Oparin 1961’s “Any system capable of replication and
+mutation is alive” to Schulze-Makuch et al. 2002:
+We propose to define living systems as those that are: (1)
+composed of bounded micro-environments in thermodynamic equilibrium
+with their surroundings; (2) capable of transforming energy to maintain
+their low-entropy states; and (3) able to replicate structurally
+distinct copies of themselves from an instructional code perpetuated
+indefinitely through time despite the demise of the individual carrier
+through which it is transmitted.
+Categorizing definitions such as these
+necessarily requires some choices and reasonable people can disagree
+about whether each belongs in one or more categories.
+The takeaway from current understandings of the definition of life
+is that there is no consensus forthcoming in the near future. One concern is that these are summaries of attempts to define a category for which there is only loose agreement.
+Many scientists disagree as to the phenomena a definition of life is
+intended to unify. Some scientists would include prions, viruses, and
+entities only hypothesized to exist in the origin of life, while others
+would completely reject them. Some might accept digital organisms as
+alive, others would deny this approach. Conceptual equivocation could
+have significant costs for research. One field recently quantified this
+cost, suggesting it is more than a merely theoretical concern (Trombley
+and Cottenie 2019). Given the diversity described above, one may be
+tempted to adopt a
+definitional pluralism
+: there are many ways to be
+alive. For some reason, that approach is not common in the
+literature.
+2. Definitional Skepticism
+Nearly everybody agrees there is a distinction between life and
+non-life, typically understood as a difference in kind rather than one
+of degree. Furthermore, most people involved accept that life is some
+sort of natural kind, rather than a human psychological concept. That
+said, a common theme in recent philosophical work has been to express
+skepticism of life definitions as a goal. The literature on the
+definition of life is vast, repetitive, and utterly inconclusive.
+Philosophers have disagreed as to the ultimate source of the lack of
+consensus, citing unstated assumptions in either the definer’s
+approach or the question itself. Note that many scientists are less
+likely to be skeptical of the goal of defining life, though also more
+resistant to engaging in the philosophical debate.
+One skeptical view has arisen from the observation that theoretical
+definitions of life presume a theory of life (Cleland and Chyba 2002,
+Benner 2010, Cleland 2019). Although it is not obvious that the authors
+allude to the theory-theory of concepts, described in section 1, a
+common analogy is to early chemical theory. According to this analogy,
+early alchemists likened the alchemists’
+Aqua regia
+(“royal water”) and
+Aqua fortis
+(“strong
+water”). Development of atomic theory revealed, Cleland argues,
+that the true nature of water was H
+2
+O, while the other
+‘waters’ were  HNO
+3
++ 3 HCl and
+HNO
+3
+, respectively. Cleland advocates avoiding definitions altogether,
+fearing they will blind us to new instances of life, and instead opts
+for tentative criteria, which she believes avoid the implicit dogma of
+even operational definitions.
+Other authors have pointed out that the explanandum of life is
+itself up for debate (Tsokolov 2009, Mix 2020, Parke 2020). According
+to Emily Parke, some accept life as applying to individuals, whereas
+other definitions apply to collectives first (including entire planets)
+and individuals derivatively. Relatedly, most believe life is some kind
+of entity rather than some kind of relation or process (but see
+Nicholson and Dupré 2018). Parke also points out that some
+definitions seek a material basis, perhaps limiting life’s
+substrate to the biochemistry we know on Earth, while others are
+functional. Sagan famously worried about biochemical definitions
+because they were prone to ‘Earth Chauvinism’ for
+privileging our own biochemistry (1970). Other authors take our
+biochemistry to be independently justified as universal (Pace 2001,
+Benner et al. 2004, but see Bains 2004). Finally, Parke distinguishes
+between those that seek clean boundaries and those that accept the
+possibility of a continuum of ‘lifelikeness.’
+Other authors have advocated a kind of quietism about definitions,
+maintaining that folk concepts need not match up with scientific ones
+(Machery 2011), any definitions would not change scientific practice
+(Szostak 2012), advocated a radical conceptual rethinking (Mariscal
+& Doolittle 2020), or denied the distinction between life & non-life entirely (Jabr 2013).
+This last position of eliminativism could be expanded as it helps
+illustrate all other life skeptical positions. Cowie 2009 classifies
+eliminativist goals as either linguistic or ontological. Ontological
+eliminativists don’t believe the objects they are eliminating
+truly exist. We’re all eliminativists about something, perhaps
+ghosts or fairies. Linguistic/conceptual eliminativists, on the other
+hand are merely suspicious of theoretical terms or concepts, what
+Ramsey 2020 calls ‘category dissolution’ or ‘conceptual fragmentation.’ In essence, it’s not that
+there aren’t living things, it’s just that the category
+life
+is heterogeneous rather than a natural kind. According to Cowie, one can deny that anything matching our theoretical definition of life
+actually exists in the world while still accepting it as a useful fiction. Conversely, one may think scientific theories about life are fruitless or that the term is too vague and confused to be useful, without doubting life exists. If we accept any of these
+alternatives, we should perhaps avoid ever using the term
+‘life’ in isolation and instead reference Metabolic Life and Evolutionary Life and all the other conceptions.
+At play in these various forms of skepticism are several
+underlying assumptions. Among other disagreements, researchers disagree
+about what life is, whether it is a natural kind with an essence or a
+human construct; they disagree as to the purpose of defining life,
+especially if it will not change scientific practice; and they disagree
+as to the features of life that are relevant and the ones that are mere
+consequences. When researchers hold unstated assumptions such as these,
+they are liable to mistake the source of their disagreement.
+3. Artificial and Synthetic Life
+The rest of this article will focus on uses of the various life
+concepts. Some of the definitions described above are derived from, or
+necessary for, specific scientific and societal purposes. This section
+focuses on artificial and synthetic life.
+In principle, most contemporary scientists and philosophers believe
+life can be created, but there is broad disagreement as to what needs
+to be recreated for something to be life. In functional approaches,
+mere formal organization sufficiently similar to organisms may be
+enough. Complexly configured robots (“hardware”) or computer programs (“software”) might qualify. This view is known as Strong Artificial Life (A-Life for short) and has received much of the same pushback as the Strong Artificial Intelligence
+approach before it (Sober 1991, Boden 1999, Brooks 2001). Those who
+reject the Strong A-Life view believe that functional approaches miss
+some of the essential features of biology for either epistemic or
+ontological reasons. Epistemic objections might be consistent with the
+possibility of Strong A-Life, but doubt that we have the knowledge to
+recreate the relevant biological functions in a digital framework.
+Conversely, most of the objections to Strong A-Life have been
+ontological, resting on the view that representations cannot be
+equivalent to that which they represent and that perhaps life requires chemical embodiment, ruling Strong A-Life impossible by fiat.
+Weak A-Life approaches, on the other hand, don’t presume the
+ontological equivalence of structurally similar circuits and cells.
+Instead, proponents suggest the more modest goal of developing a deeper
+understanding of life as we know it by exploring the effects of various
+parameters in simulations, effectively placing life in a broader
+context of possible biology (Langton 1989, 1995). For example, in the
+Terra program, software was pitted against other software for
+processing power (Ray 1993). Unexpected by the researchers at the time,
+software parasitism evolved: software would co-opt the reproductive
+processing of other software. Policing mechanisms also evolved, leading
+to an arms race between free-riders and the software trying to stop
+them.
+Whether one accepts the strong or weak interpretation of A-Life,
+these
+in silico
+approaches are cheaper than equivalent work done in
+real organisms. They also offer possibilities that are not available in
+ordinary biology, such as programming alternative parameters to take
+the place of laws of nature and exploring relationships across deep
+time and space quickly and efficiently.
+Another approach worth highlighting is that of synthetic life
+(“wetware”). Less conceptually troubled, synthetic life can
+also address some questions of A-Life, while allowing for a finer grain
+of realism. Synthetic life approaches have explored creating
+self-replication (Lincoln & Joyce 2009), minimal genomes (Koonin
+2000, Hutchinson et al. 2016), a chemical evolution (Gromski et al.
+2020), and other projects. Not all synthetic biology is in the business
+of investigating life as it could be, as not all computer programming
+is A-Life. Nevertheless, the tools developed by both can be
+illuminating. By exploring possibilities, scientists can discover
+previously hidden relationships, revealing which aspects of life are
+more or less plausible than expected.
+4. Origin(s) of Life
+Inextricable from the question of life’s nature is the
+question of its origin. Ancient and modern thinkers accepted that life
+often arose spontaneously from non-life. Two centuries of experiments
+eventually overturned this widely accepted view, culminating in Louis
+Pasteur’s swan-neck bottle experiments. Since then, the puzzle of
+Life’s origin has been one of the biggest and most important in
+all of science.
+Darwin was famously silent about the problem, although in a letter
+to his friend Joseph Hooker, Darwin confided that he imagined life
+originating in “some warm little pond” (see 
+Other Internet Resources below; and  Peretó et al. 2009).
+Subsequent work on the subject was sparse until the 1920s when
+Alexander Oparin and J.B.S. Haldane independently proposed hypotheses
+for life’s origin in then plausible early Earth conditions
+(Haldane 1929; Oparin 2010/1936). As a graduate student in the 1950s,
+Stanley Miller tested the proposal, discovering dozens of amino acids
+in the mixture (1953). Since then, the field of origins-of-life studies
+has expanded dramatically.
+Our earliest reliable records of this planet, some 3.5 billion years
+ago, contain distinctive evidence of microbial fossils, including
+distinctive shapes that correlate to the sizes and shapes of current
+prokaryotes, as well as carbon-ratios distinctive to life as we know it
+(Schopf 1993, Schopf et al. 2017). Many analyses have pushed our
+confidence in life’s earlier origin significantly further back,
+suggesting that basically as soon as Earth was not molten, it was
+filled with life (Pearce et al. 2018, Lineweaver 2020). How life
+started and why it started so quickly remains one of the most pressing
+open questions in science.
+There are many open philosophical issues in origins of life
+research. Several of these are centered around the explanandum in
+question and epistemological limits to our knowledge. Researchers
+differ, for example, as to whether the purpose of origins-of-life
+research is to discover how life
+could have
+originated or how it
+did
+originate (Scharf et al. 2015, Mariscal et al. 2019). Some steps in the
+process could have been chancy, others could have been deterministic
+but highly contingent, still others could have been the only way life
+ever originates anywhere in the Universe.
+There are several broad approaches to investigating the origin of
+life. “Bottom-Up” approaches begin with pre-biotic chemistry and explore how it could withstand stressors in order
+for lifelike entities to form and evolve. At present, there are many
+unsolved problems, most notably that most energetically favorable interactions would
+consume the proto-life forms involved. Scientists have cleverly
+attempted to ease the problem by relaxing assumptions: perhaps the
+environment provided our first boundaries (Koonin 2009), or perhaps it
+provided porto-genetic material (Mathis et al. 2017), all of this could
+have occurred in a viscous solvent instead of a cell (He et al. 2017),
+or on a surface (Wächtershäuser 1988), or using a variety of
+entities that eventually became encapsulated (Eigen & Schuster
+1977). Nevertheless, the gulf between the pre-biotic chemistry and the
+simplest life forms is still huge and any number of explanations only
+account for a tiny portion of the conceptual distance.
+Another approach, “Top-Down,” uses current taxa to infer
+the nature and timing of the origin of life on Earth. To do so, we take
+current examples of life on Earth and trace their ancestry, by
+comparing the nearly hundred shared genes, primarily associated with
+biological translation (Koonin 2011). All life shares a last universal
+common ancestor, “LUCA” for short. There may have been
+several origins of life, but our evidence is insufficient to
+distinguish this scenario from a single origin. Nevertheless, at least
+one origin, presumably in Earthly pre-biotic conditions, led to the
+existence of LUCA, an important constraint upon theorizing about the
+origin of life. It is widely expected that LUCA was merely one creature
+in a larger population and existed long after the origin of the first
+organism. There are also a variety of concerns with respect to LUCA:
+whether it was simple or complex (Mariscal & Doolittle 2015);
+whether it had a membrane that resembled any of the current membranes
+(Koonin 2011); whether the genes it contained were ancestors of our own
+genes or subsequently acquired (Doolittle & Brown 1994, Woese &
+Fox 1977; Woese 1998); whether its genome was made of DNA (Forterre
+2006a), whether it was a heterotroph or autotroph; where it lived; and
+when it lived.
+The gap between Top-Down and Bottom-Up approaches is huge: untold
+generations passed between pre-biotic chemistry and LUCA. We may never
+be able to solve Life’s origin, but each step brings us closer to
+understanding the trajectory.
+5. Search For Life
+Even the most pessimistic analyses of the likelihood of life
+suggests life on Earth is not unique (Frank & Sullivan 2016). Many
+scientists take that as a good reason to search for life elsewhere in
+the Universe. The current search for life elsewhere focuses on two
+extremes: the chemical byproducts of life and the technological signals
+of
+intelligent
+life. The social interactions of alien populations might
+be interesting, but they are hard to study as of yet. Thus, we search
+for biosignatures that might uniquely identify life from a great
+distance. We’ll take each in turn.
+Biosignatures, as the name implies, are purported to be markers of
+life. Chemical biosignatures are compounds either rarely or never
+produced without the assistance of life on Earth. Finding biosignatures
+thus implies a material conception of life, likely in the form of
+biochemistry, metabolism, or thermodynamics. There have been many
+attempts to detect biosignatures, primarily on Mars. These approaches
+include experiments done on planetary surfaces, observations from Earth
+or low-earth orbit, and study of meteors and other debris from nearby
+planetary bodies.
+More practically, satellite or telescope observations of other
+planets have been used to search for gasses outside of thermodynamic
+equilibrium. Methane has been sporadically detected on Mars since 2004
+(Formisano et al. 2004, Webster et al. 2018) with an accompanying claim
+of formaldehyde detection (Peplow 2005). Venus has also been a source
+of attention, with phosphine gas detected in the clouds above Venus
+(Greaves et al. 2020). A controversial finding, it nevertheless caught
+the scientific imagination. Future scientific research is expected to
+accelerate this method of observation, especially with new data gathered by the new
+James Webb Space Telescope (JWST). With its equipment, JWST is able to image exoplanets at  resolutions allowing the detection of gas biomarkers in the atmospheres of exoplanets (Loeb & Maoz 2013).
+By contrast, there have been scarce attempts to detect
+chemical life while on the surface of another planet. In 1975, NASA
+sent the Viking landers to Mars, tasked with a variety of scientific
+experiments including some that were purported to detect life if it was
+present. One, the Labeled Release Experiment, did, but its results were
+inconsistent with the other on-board experiments, so the result was
+deemed inconclusive (Levin & Straat 1976, Ezell & Ezell 1984).
+The current
+Perseverence
+rover on Mars is able to assess
+certain biosignatures and upcoming missions by NASA, the Chinese
+National Space Administration, and the Japanese Aerospace Exploration
+Agency all seek to determine whether Mars has evidence of past or
+current life.
+It is not obvious that life on Mars would be a separate origin than
+life on Earth, as the two planets exchange tons of rocks each year and
+it is at least theoretically possible that life could have formed on
+one planet and been subsequently transferred to the other (McKay 2010).
+Since Mars is a smaller body than Earth, it coalesced before Earth and
+thus it is conceivable that life might have formed there first,
+although this is a relatively marginal view in the astrobiology
+community. Meteorites from Mars and other planetary bodies have
+also been the source of purported biosignatures. The Martian meteorite
+ALH84001 was instrumental in forming the science of astrobiology in
+1996, after NASA scientists discovered bacteria-like structures (McKay
+et al. 1996). Subsequent meteorites have also garnered scientific
+interest (e.g. White et al. 2014).
+The other major attempt to search for life, that of searching for
+intelligence, more readily captures the imagination. The search for
+extraterrestrial intelligence (SETI) has been ongoing for centuries
+(Dick  1982). Fierce debates between those that took Earth to be
+unique and those that took it to be one of a plurality of worlds
+persisted for millennia (and still do, to some extent). Advocates of
+the plurality of worlds view searched their telescopes for evidence. A
+famous instance is Percival Lowell’s drawings of Martian canals
+in the 1890s. Influenced by the mid-1800s observations of what appeared
+to be channels criss-crossing Mars, Lowell drew a series of canals
+based on his observations. Science fiction soon picked up the
+observation and conjectured a dying civilization, hoping to squeeze
+water out of the last bits of remaining ice in the Martian poles.
+Partially driven by the science fiction following Lowell’s
+drawings, the early 20th century saw increased interest in detecting
+radio signals from Outer Space. This interest accelerated after the
+launch of Sputnik in 1957 and was more systematically and formally
+approached starting in the late 1970s. SETI research has not been
+publicly funded since 1994, but private and public donors, as well as
+academic and lay researchers have kept the program going since. There
+are many technical challenges to the search: space is unimaginably
+huge, signals are weak, possibilities of interstellar communication are
+myriad, and our searches can only cover an insignificant portion of the
+task.
+More controversially, many dozens of messages have been sent into
+Outer Space since 1974. A few have been in the form of physical objects
+aboard spacecraft, but most have been radio signals aimed at promising
+stars or star clusters. sometimes called Active SETI or METI (Messaging
+Extraterrestrial Intelligence). Although the practice continues due to
+its low cost and relative ease, many philosophers, scientists, and
+policy experts have come out against the practice largely due to the
+risk of broadcasting our presence to potentially hostile forces on
+behalf of future generations that cannot consent (Smith 2020).
+6. The Macro and the Micro Perspectives
+Scientists grow more concerned about philosophical questions when
+scientific limitations or conceptual choices are made apparent to them.
+Those scientists who study deep time, deep space, abstract issues, or
+questions of ethics are often keenly aware of the philosophical choices
+that influence their research from identification of research question
+to interpretation of the data. This section briefly goes through
+other scientific contexts in which how life is defined is relevant,
+which address scales well below and well above the organism level.
+There are several biological entities for which it is an open
+question as to whether they are alive. Viruses, for example, are units
+of genetic material encased in a protein coat. It is unknown whether all
+viruses share common ancestor (Koonin et al. 2006, Moreira and
+López Garcia 2009) nor how they originated, be it escaped
+transposable elements, reduced cells, or some ancestral third option
+(Forterre 2006b). The status of viruses as living is mired with controversy, with some people holding virons to be alive, others
+believing them not to be, and a third camp has them as living only in
+the context of an infected cell, but a mere ‘seed’
+otherwise (Forterre 2010).
+There are other entities in the “twilight zone of
+microbiology,” including transposable elements, viroids,
+unculturable (but putatively existing) microbes, organisms in
+vegetative states, and prions (Postgate 1999). The problems facing each
+of these are similar: several of them can evolve by natural selection,
+are biochemically complex, but lack other properties associated with
+life. For example, prions are protein products of life that can fold
+other prions in a way that allows for cumulative evolution (Li et al.
+2010). They are rarely included in the category ‘life’ due
+to their inactivity in most settings and rather simple origin as a
+misfold of a functional protein.
+If there is a twilight zone of microbiology, there is also a
+twilight zone of ecology. Organisms form populations, species,
+lineages, clades, and ecosystems. The status of each of these is an
+open question, but they have many of the same features associated with
+life as described above. Perhaps the strongest case can be made for
+eusocial insects, such as some ants, bees, wasps, and termites. In
+several species, there are rigid distinctions between the castes that
+reproduce and those that do not, with many of the latter serving the
+role of caring for the young (Hölldobler & Wilson 2009). One
+might note that entities above the organism level are as a rule less
+integrated and connected than the organisms that comprise them. This is
+perhaps a general feature of life: from the perspective of every item
+in the biological hierarchy, its parts are much more homogenous than it
+is. Our cells seem much more integrated and self-contained than our
+bodies, so, too, are individual insects more self-contained than the
+colonies to which they belong.
+Most controversial has been the case of Gaia. Gaia is a term from
+Greek mythology; she is a personification of the planet Earth. In 1979,
+James Lovelock, revived the concept in his book,
+Gaia: A New Look
+at Life on Earth
+. In his view, the Earth-wide set of interlocking
+ecosystems could be viewed as a single entity. One insight of
+Lovelock’s was already mentioned in the previous section:
+planet-wide interactions are the scale that matters in detecting life
+elsewhere. Lovelock’s book sparked controversy centered around
+the plausibility of his model of the Earth as a self-regulating
+homeostatic system. In the view of many at the time, it was an
+inaccurate description: Earth could not evolve in principle,  and
+the subsequent ontological move of granting Earth the status of life
+was unmotivated (Doolittle 1981). Recent attempts to revitalize the
+notion of Gaia on a more theoretic footing involve both abiotic and
+biotic regulatory mechanisms and natural selection acting at the level
+of clades (Lenton et al. 2018, Doolittle 2019). Regardless of current
+attempts at a theoretical justification, the thought of Earth as a
+living entity motivated many in the environmental movement and the idea
+remains a common reference.
+7. Ethics, Law, and Politics
+The term ‘life’ is important outside of biology. Often,
+the focus is not on the concept of life or life in general, but on the
+status of individual living entities. Typically, the focus is on the
+beginning and end stages of individual lives, which raises legal,
+religious, and moral questions. The start of an individual life
+has been the source of contraception and abortion discussions 
+(Noonan 1967, Dellapenna 1978). Unfortunately, developmental biology
+does not provide an uncontroversial starting point for when
+‘life’ begins (Maienschein 2014). The end of individual lives was also a heated debate in the 20th century as new technologies were
+able to keep human bodies alive long after they would have died in
+nature (DeGrazia 2016).
+Any discussion of defining life in these contexts should begin by
+distinguishing between life and other phenomena that are often
+conflated with it in public discourse, such as sentience, personhood,
+and moral considerability. It’s unclear how much ontological,
+epistemic, or moral weight the category of life has independently of
+other properties. Attributing moral worth to non-living entities is
+still a minority position in environmental or comparative philosophy
+(but see Leopold 1949, Basl 2019). Thus, a starting position might be
+that life is a prerequisite for moral considerability. Nonetheless,
+most humans don’t mind killing bacteria for the sake of
+cleanliness and many people eat or wear the flesh of animals. So, in
+many discussions, life is only valuable when it is the vehicle for
+other equally nebulous properties like sentience, personhood, or
+immaterial souls.
+If any living entities have a distinct moral or ontological status,
+most philosophers would accept that humans are among them (Rolston
+1975, Goodpaster 1978). In these contexts, it matters when individual
+humans come into being and acquire such a status in their own right, be
+it conception, birth, or some time period in between. Considered
+opinions differ as to when this occurs and in virtue of what, be it
+mere possibility of self-sustained life, sentience, or other features.
+There is still a rampant pro-life/pro-choice split in cultural
+politics, which is somewhat lessened in European countries (Corbella
+2020). There are equivalent, but less tendentious analogues in the
+contexts of euthanasia, the death penalty, war, and the prevention of
+death and disease. In these debates, both ethical and metaphysical
+commitments matter.
+The public questions of life are often raised by new technologies.
+In the abortion discussion above, for example, new techniques to end
+pregnancies, from birth control to abortion procedures, as well as new
+medical technologies facilitating premature deliveries made the topic
+more contentious. Other technological innovations also raise questions
+about life. One such area is that of transhumanism  (c.f. More and
+Vita-More 2013). Transhumanism is the movement aimed toward the use of
+technology for the human enhancement of social, psychological, and
+physical lives. These can range from prosthetics to implants or from
+pharmaceuticals to mental ‘uploading.’ There are
+bioconservatives, who argue against transhumanism for practical, moral,
+or aesthetic reasons. There are also posthumanists, who look forward to
+a world in which humans are replaced or eliminated by subsequent
+artificial intelligence. The debate over whether such posthumans might
+be ‘alive’ is similar in structure to the artificial life
+discussion in section 3. Bioconservatives also argue against this view.
+Among the topics in these debates are whether a particular technology
+counts as therapy or enhancement, whether the risks of alteration
+outweigh the benefits, whether certain goals of transhumanism are even
+possible, and which alterations will affect the moral or ontological
+status of the people that receive them.
+That life is a source of ethical, legal, and political controversy
+is to be expected. And although it is beyond the scope of this article
+to adjudicate these debates, advocates ought to be aware of the deep
+vagueness in biology and disagreement within philosophy with respect to
+what life is, what an individual living organism is, when individual
+lives begin or end, and what features of life ground moral
+considerability.
+8. Conclusion
+Although the conceptual terrain of life concepts is well covered,
+there is no accepted view as yet. This is unlikely to change given the
+disciplinary backgrounds, explanatory values, and theoretical
+commitments of the stakeholders involved. A wide range of practices
+rely on competing conceptions of life: including artificial life,
+origins-of-life research, the search for life, and other projects
+described above.
+Future scientific discoveries or inventions may break this impasse,
+as they have in other cases of theoretical gridlock. The development of
+atomic theory, discussed in section 2, created new categorical
+divisions that scientists accepted as more real than the categories of
+the ancients or alchemists. With this conceptual fragmentation, old
+categories were discarded and new ones accepted. One can imagine
+something similar happening in the case of life: many discoveries might show
+a clear cluster of how complex, lifelike entities can form from
+prebiotic chemistry, eventually winning over the majority of the
+scientific and philosophical community (e.g. Weber 2007, 2010).
+Conversely, a simple decision might be made based on shared values
+or explanatory goals. The example of death may be illustrative. After
+decades of debate, a new decision, not a discovery, was made.
+Physicians concluded the irreversibility of death was the most
+important property for their purposes. They adopted the concept of
+whole-brain death as their operational criterion (DeGrazia 2016). The
+facts on the ground did not change, but the shared understanding
+did.
+Finally, perhaps life will be accepted as a polysemous concept with
+each definitional cluster applying to a subset of the whole:
+biochemical life, evolutionary life, metabolic life, etc. Researchers
+may rely on context, accept some miscommunication, or simply stipulate
+the kind of life they mean. The example of planets, discussed in Brusse
+2016 may help make this point. There was always a huge diversity within
+the category planet, which included the Sun and Moon until the
+Renaissance. In the early 1800s, asteroids were discovered. Initially,
+they were considered planets, they were demoted to ‘minor’
+planets a few decades later, then simply ‘asteroids’ after
+the 1950s. Pluto was discovered in 1930, recognized as the smallest
+planet by the 1970s. From 1992 until 2006, many objects similar to
+Pluto were discovered until astronomers decided that the term planet
+actually covered at least two distinct, but scientifically interesting
+categories: typical planets and dwarf planets. Similarly, perhaps some
+of the categories described in section 1.2 will form the basis of
+accepted sub-categories of life.
+It is still an open question as to how long the current situation
+will persist before a discovery forces a scientific reckoning or a
+decision obviates the need. For now, the debate continues.
+Bibliography
+Aristotle,
+De Anima
+(selections), in  M.A. Bedau &
+C.E. Cleland (eds.),
+The Nature of Life: Classical and Contemporary
+Perspectives from Philosophy and Science
+, New York: Cambridge
+University Press, 2010, pp. 9–14.
+Bains, William, 2004, “Many chemistries could be used to build
+living systems,”
+Astrobiology
+, 4(2): 137–167.
+Basl, John, 2019,
+The Death of the Ethic of Life
+, Oxford:
+Oxford University Press.
+Bedau, Mark A., and Carol E. Cleland (eds.), 2010,
+The Nature of
+Life: Classical and Contemporary Perspectives from Philosophy and
+Science
+, New York: Cambridge University Press.
+Benner, Steven Albert, 2010, “Defining life,”
+Astrobiology
+, 10(10): 1021–1030.
+doi:10.1089/ast.2010.0524
+Bergson, Henri, 1907 [1959],
+L’évolution
+créatrice
+, Paris: Presses Universitaires de France.
+Boden, Margaret Ann, 1999, “Is metabolism necessary?”
+The British Journal for the Philosophy of Science
+, 50(2):
+231–248. doi: 10.1093/bjps/50.2.231
+Boyd, Richard, 1991, “Realism, Anti-Foundationalism and the
+Enthusiasm for Natural Kinds,”
+Philosophical Studies
+,
+61(1–2): 127–148.
+–––, 1999, “Homeostasis, species, and higher taxa,”
+in R. Wilson (ed.),
+Species: New Interdisciplinary Essays
+,
+Cambridge, Mass.: MIT Press, pp. 141–185.
+–––, 2010, “Homeostasis, Higher Taxa, and Monophyly,”
+Philosophy of Science
+, 77(5): 686–701.
+Brooks, Rodney, 2001, “The relationship between matter and
+life,”
+Nature
+, 409(6818): 409–411
+ [
+Brooks 2001 available online
+].
+Brusse, Carl, 2016, “Planets, pluralism, and conceptual
+lineage,”
+Studies in History and Philosophy of Science Part
+B: Studies in History and Philosophy of Modern Physics
+, 53:
+93–106.
+Byers, Sarah, 2006, “Life as ‘Self-Motion’:
+Descartes and ‘the Aristotelians’ on the Soul as the Life
+of the Body,”
+The Review of Metaphysics
+, 59(3): 723–755.
+Carey, Susan E., 1985,
+Conceptual Change in Childhood
+,
+Cambridge, Mass.: MIT Press.
+–––, 1988, “Conceptual differences between
+children and adults,”
+Mind & Language
+, 3:
+167–181.
+Cleland, Carol E., 2019,
+The Quest for a Universal Theory of
+Life: Searching for Life as we Don’t Know It
+(Vol. 11), Cambridge:
+Cambridge University Press.
+Cleland, Carol E. and Christopher F. Chyba, 2002, “Defining
+‘life,’”
+Origins of Life and Evolution of the
+Biosphere
+, 32(40): 387–393.
+Corbella, Mercedes, 2020, “Globally, seven in ten adults favor
+allowing abortion,” IPSOS, published online 17 August 2020
+ [
+Corbella 2020 available online
+].
+Cowie, Fiona, 2009, “Why isn’t Stich an
+Eliminativist?” in D. Murphy and M. Bishop (eds.),
+Stich: And
+his Critics
+, Chichester: Blackwell Publishing, pp. 74–100.
+DeGrazia, David, “The Definition of Death,”,
+The
+Stanford Encyclopedia of Philosophy
+(Spring 2017 Edition), Edward
+N. Zalta (ed.), URL =
+<
+https://plato.stanford.edu/archives/spr2017/entries/death-definition/
+>.
+Dellapenna, Joseph W., 1978, “The History of Abortion:
+Technology, Morality, and Law.”
+University of Pittsburgh Law
+Review
+, 40: 359–428.
+Descartes, René, 1664 [2010], “Treatise on
+Man,” in M.A. Bedau and C.E. Cleland (eds.),
+The Nature of
+Life: Classical and Contemporary Perspectives from Philosophy and
+Science
+, New York, N.Y.: Cambridge University Press, pp. 15–20;
+original translation by J. Cottingham, R. Stoothoff, and
+D. Murdoch,
+The Philosophical Writings of Descartes
+,
+Cambridge: Cambridge University Press; original work published in
+1664.
+Dick, Steven J., 1982,
+Plurality of Worlds: The Origins of the
+Extraterrestrial Life Debate from Democritus to Kant
+, Cambridge:
+Cambridge University Press.
+Diguez, Antonio, 2013, “Life as a homeostatic property
+cluster,”
+Biological Theory
+, 7(2): 180–186.
+Doolittle, W. Ford, 1981, “Is Nature Really Motherly?”
+CoEvolution Quarterly
+, 29: 58–63.
+–––, 2019, “Making evolutionary sense of
+Gaia,”
+Trends in Ecology & Evolution
+, 34(10):
+889–894.
+Doolittle, W. Ford and James R. Brown, 1994, “Tempo, Mode, the
+Progenote, and the Universal Root,”
+Proceedings of the
+National Academy of Sciences
+, 91(15): 6721–6728.
+Driesch, Hans, 1905 [1914],
+The History & Theory of
+Vitalism
+, C.K. Ogden (trans.), London: Macmillan and Co.,
+Limited.
+Eigen, Manfred and Peter Schuster, 1977, “A Principle of
+Natural Self-Organization,”
+Naturwissenschaften
+, 63(11):
+541–565.
+Ezell, Edward Clinton and Linda Neuman Ezell, 1984,
+On Mars:
+Exploration of the Red Planet, 1958–1978
+(NASA History Series:
+Volume 4212), Washington, DC: National Aeronautics and Space
+Administration.
+Formisano, Vittorio, Sushil Atreya, Thérèse Encrenaz,
+Nikolai Ignatiev, and Marco Giuranna, 2004, “Detection of methane
+in the atmosphere of Mars,”
+Science
+, 306(5702):
+1758–1761.
+Forterre, Patrick, 2006a, “Three RNA cells for ribosomal
+lineages and three DNA viruses to replicate their genomes: a hypothesis
+for the origin of cellular domain,”
+Proceedings of the
+National Academy of Sciences
+, 103(10): 3669–3674.
+–––, 2006b, “The origin of viruses and
+their possible roles in major evolutionary
+transitions,”
+Virus Research
+, 117(1): 5–16.
+–––, 2010, “Defining Life: the Virus
+Viewpoint,”
+Origins of Life and Evolution of Biospheres
+, 40(2):
+151–160.
+Frank, Adam and Woody T. Sullivan III, 2016, “A new empirical
+constraint on the prevalence of technological species in the
+universe,”
+Astrobiology
+, 16(5): 359–362.
+Goodpaster, Kenneth E., 1978, “On being morally
+considerable,”
+The Journal of Philosophy
+, 75(6):
+308–325.
+Gopnik, Alison, and Andrew N. Meltzoff, 1997,
+Words, Thoughts,
+and Theories
+, Cambridge, Mass.: MIT Press.
+Greaves, Jane S., Anita M.S. Richards, William Bains, Paul B.
+Rimmer, Hideo Sagawa, David L. Clements, Sara Seager, Janusz J.
+Petkowski, Clara Sousa-Silva, Sukrit Ranjan, Emily Drabek-Maunder,
+Helend J. Fraser, Annabel Cartwright, Ingo Muller-Wodarg, Zhuchang
+Zhan, Per Frieberg, Iain Coulson, E’lisa Lee, and Jim Hoge, 2020,
+“Phosphine gas in the cloud decks of Venus,”
+Nature
+Astronomy
+, 5: 655–664.
+Gromski, Piotr S., Granda, Jaroslaw M. and Cronin, Leroy, 2020,
+“Universal chemical synthesis and discovery with ‘the
+chemputer,’”
+Trends in Chemistry
+, 2(1): 4–12.
+Gupta, Anil, “Definitions,”,
+The Stanford
+Encyclopedia of Philosophy
+(Summer 2021 Edition), E.N. Zalta
+(ed.), URL =
+<
+https://plato.stanford.edu/archives/sum2021/entries/definitions/
+>.
+Haldane, John Burdon Sanderson, 1929, “The Origin of
+Life,”
+Rationalist Annual
+, 148: 3–10.
+Hampton, James A., 1979, “Polymorphous concepts in semantic
+memory,”
+Journal of Verbal Learning and Verbal Behavior
+,
+18: 441–461.
+–––, 2006, “Concepts as prototypes,”
+in B.H. Ross (ed.),
+The Psychology of Learning and Motivation:
+Advances in Research and Theory
+(Volume 46), New York: Academic
+Press, pp. 79–113.
+He, Christine, Isaac Gállego, Brandon Laughlin, Martha A.
+Grover, and Nicholas V. Hud, 2017, “A Viscous Solvent Enables
+Information Transfer from Gene-Length Nucleic Acids in a Model
+Prebiotic Replication Cycle,”
+Nature Chemistry
+, 9(4):
+318–324.
+Hölldobler, Bert and Wilson, Edward O., 2009,
+The
+Superorganism: the Beauty, Elegance, and Strangeness of Insect
+Societies
+, New York: W.W. Norton & Company.
+Hutchison, Clyde A., Ray-Yuan Chuang, Vladimir N. Noskov, Nacyra
+Assad-Garcia, Thomas J. Deerinck, Mark H. Ellisman, John Gill, Krishna
+Kannan, Bogumil J. Karas, Li Ma, James F. Pelletier, Zhi-Qing Qi, R.
+Alexander Richter, Elizabeth A. Strychalski, Lijie Sun, Yo Suzuki,
+Billyana Tsvetanova, Kim S. Wise, Hamilton O. Smith, John I. Glass,
+Chuck Merryman, Daniel G. Gibson, J. Craig Venter, 2016, “Design
+and synthesis of a minimal bacterial genome,”
+Science
+,
+351(6280). doi:10.1126/science.aad6253
+Jabr, Ferris, 2013, “Why Life Does Not Really Exist,”
+Scientific American
+, published 02 December 2013
+ [
+Jabr 2013 available online
+].
+Joyce, Gerard F., 1994, forward, in D. W. Deamer, G. R. Fleischaker
+(eds.),
+Origins of Life: the Central Concepts
+, Boston:
+Jones & Bartlett, pp. xi–xii.
+Komatsu, Lloyd K., 1992, “Recent Views of Conceptual
+Structure,”
+Psychological Bulletin
+, 112: 500–526.
+Koonin, Eugene V., 2000, “How Many Genes can Make a Cell: the
+Minimal-Gene-Set Concept,”
+Annual Review of Genomics and
+Human Genetics
+, 1(1): 99–116.
+–––, 2009, “On the Origin of Cells and
+Viruses: Primordial Virus World Scenario,”
+Annals of the New
+York Academy of Sciences
+, 1178(1): 47–64.
+–––, 2011,
+The Logic of Chance: the Nature and Origin
+of Biological Evolution
+, New Jersey: FT press.
+Koonin, Eugene V., Tatiana G. Senkevich, and Valerian V. Dolja,
+2006, “The Ancient Virus World and Evolution of cells,”
+Biology Direct
+, 1(1): 1–27.
+Langton, Christopher G., 1989, “Artificial life,” in
+C.G. Langton (ed.),
+Artificial life
+(Santa Fe Institute Studies
+in the Sciences of Complexity: Proceedings Volume IV), Redwood City,
+Calif.: Addison-Wesley, pp. 1–47.
+–––, 1995,
+Artificial Life: An
+Overview
+, Cambridge, Mass.: MIT Press.
+Lenton, Timothy M., Stuart J. Daines, James G. Dyke, Arwen E.
+Nicholson, David M. Wilkinson, and Hywel T.P. Williams, 2018,
+“Selection for Gaia Across Multiple Scales,”
+Trends in
+Ecology & Evolution
+, 33(8): 633–645.
+Leopold, Aldo, 1949,
+A Sand County Almanac
+, New York:
+Oxford University Press.
+Levin, Gilbert V. and Patricia Ann Straat, 1976, “Viking
+labeled release biology experiment: interim results,”
+Science
+, 194(4271): 1322–1329.
+Li, Jiali, Shawn Browning, Sukhvir P. Mahal, Anja M. Oelschlegel,
+and Charles Weissmann, 2010, “Darwinian evolution of prions in
+
+cell culture,”
+Science
+, 327(5967): 869–872.
+Lincoln, Tracey A. and Joyce, Gerald F., 2009, “Self-sustained
+replication of an RNA enzyme,”
+Science
+, 323(5918):
+
+1229–1232.
+Lineweaver, Charley H., 2020, “What Do the DPANN Archaea and
+the CPR Bacteria Tell Us about the Last Universal Common
+Ancestors?” in J. Seckbach and H. Stan-Lotter (eds.),
+Extremophiles as Astrobiological Models
+, London: Wiley,
+pp.359–367.
+Loeb, Abraham and Dan Maoz, 2013, “Detecting Biomarkers in
+Habitable-Zone Earths Transiting White Dwarfs,”
+Monthly
+Notices of the Royal Astronomical Society: Letters
+, 432(1):
+L11–L15.
+Lovelock, James E., 2000,
+Gaia: A New Look at Life on
+Earth
+, Oxford: Oxford University Press.
+Machery, Edouard, 2009,
+Doing without Concepts
+, Oxford:
+Oxford University Press.
+–––, 2011, “Why I Stopped Worrying About the Definition of
+Life… and Why you Should as Well,”
+Synthese
+,
+185(1): 145–164. doi: 10.1007/s11229-011-9880-1
+Maienschein, Jane, 2014,
+Embryos Under the Microscope
+,
+Cambridge, Mass.: Harvard University Press.
+Malaterre, Christophe and Jean-François Chartier, 2019,
+“Beyond Categorical Definitions of Life: a Data-Driven Approach
+to Assessing Lifeness,”
+Synthese
+, 198: 4543–4572.
+Mariscal, Carlos, Ana Barahona, Nathanael Aubert-Kato, Arsev Umur
+Aydinoglu, Stuart  Bartlett, María Luz Cárdenas,
+Kuhan Chandru, Carol E. Cleland, Benjamin T. Cocanougher, Nathaniel
+Comfort, and Athel Cornish-Bowden, 2019, “Hidden concepts in the
+history and philosophy of origins-of-life studies: A workshop
+report,”
+Origins of Life and Evolution of Biospheres
+,
+49(3): 111–145.
+Mariscal, Carlos and W. Ford Doolittle, 2015, “Eukaryotes
+first: how could that be?”
+Philosophical Transactions of the
+Royal Society B
+(Biological Sciences), 370(1678): 20140322.
+–––, 2020, “Life and Life Only: a
+Radical Alternative to Life Definitionism,”
+Synthese
+,
+197(7): 2975–2989.
+Mathis, Cole, Tanmoy Bhattacharya, and Sara Imari Walker, 2017,
+“The Emergence of Life as a First-Order Phase Transition,”
+Astrobiology
+, 17(3): 266–276.
+McKay, David S., Everett K. Gibson, Kathie L. Thomas-Keprta,
+Hojatollah Vali, Christopher S. Romanek, Simon J. Clemett, Xavier D.F.
+Chillier, Claude R. Maechling, and Richard N. Zare, 1996, “Search
+for past life on Mars: possible relic biogenic activity in Martian
+meteorite ALH84001,”
+Science
+, 273(5277): 924–930.
+Medin, Douglas L. and Marguerite M. Schaffer, 1978, “Context
+Theory of Classification Learning,”
+Psychological
+Review
+, 85(3): 207–238.
+Miller, Stanley L., 1953, “A Production of Amino Acids Under
+Possible Primitive Earth Conditions,”
+Science
+,
+117(3046): 528–529.
+Mix, Lucas John, 2018,
+Life Concepts from Aristotle to Darwin:
+On Vegetable Souls
+, New York: Springer.
+–––, 2020, “Three Lives and
+Astrobiology,” in K.C.  Smith and C. Mariscal (eds.)
+Social
+and Conceptual Issues in Astrobiology
+, Oxford: Oxford University
+Press, pp. 57–78.
+More, Max and Natasha Vita-More, (eds.), 2013,
+The Transhumanist
+Reader: Classical and Contemporary Essays on the Science, Technology,
+and Philosophy of the Human Future
+, London: John Wiley &
+Sons.
+Moreira, David and Purificación López-García,
+2009, “Ten reasons to exclude viruses from the tree of
+life,”
+Nature Reviews Microbiology
+, 7(4): 306–311.
+Murphy, Gregory L., and Douglas L. Medin, 1985, “The Role of
+Theories in Conceptual Coherence,”
+Psychological Review
+,
+92(3): 289–316.
+Nicholson, Daniel J. and Dupré, John, 2018,
+Everything
+Flows: Towards a Processual Philosophy of Biology
+, Oxford: Oxford
+University Press.
+Noonan John T. Jr., 1967, “Abortion and the Catholic Church: A
+Summary History,”
+National Law Forum
+, 12: 85–131.
+Nosofsky, Robert M., 1986, “Attention, similarity, and the
+identification categorization relationship,”
+Journal of
+Experimental Psychology: Learning, Memory, and Cognition
+, 115(1):
+39–57.
+Oparin, Aleksandr Ivanovich, 1961,
+Life: Its Nature, Origin and
+Development
+, New York: Academic Press.
+–––, 1936 [2010], “The Nature of
+Life,” in M.A. Bedau and C.E. Cleland,
+The Nature of Life:
+Classical and Contemporary Perspectives from Philosophy and
+Science
+, New York: Cambridge University Press; this translation
+by Ann Synge was first published in
+A. I. Oparin, Life: Its
+nature, origin, and development
+, New York: Academic Press, 1964,
+pp. 1–37.
+Pace, Norman R., 2001, “The Universal Nature of
+Biochemistry,”
+Proceedings of the National Academy of
+Sciences
+, 98(3): 805–808.
+Pályi, Gyula, Claudia Zucchi, and Luciano Caglioti, (eds.),
+2002,
+Fundamentals of Life
+, Paris: Elsevier.
+Parke, Emily C., 2020, “Dimensions of Life Definitions,”
+in  K.C. Smith & C. Mariscal (eds.),
+Social and Conceptual
+Issues in Astrobiology
+, Oxford: Oxford University Press, pp.
+79–90.
+Pearce, Ben K.D., Andrew S. Tupper, Ralph E. Pudritz, and Paul G.
+Higgs, 2018, “Constraining the time interval for the origin of
+life on Earth,”
+Astrobiology
+, 18(3): 343–364.
+Peplow, Mark, 2005, “Formaldehyde claim inflames Martian
+debate,”
+Nature
+, published online 25 February 2005.
+doi:10.1038/news050221-15
+Peretó, Juli, Jeffrey L. Bada, and Antonio Lazcano, 2009,
+“Charles Darwin and the origin of life,”
+Origins of
+Life and Evolution of Biospheres
+, 39(5): 395–406.
+Plato,
+Phaedrus
+, in
+Plato: Complete Works
+, J.
+Cooper and D. Hutchinson (eds.), Indianapolis: Hackett, 1997.
+–––,
+The Republic
+, in
+Plato:
+Complete Works
+, J.  Cooper and D. Hutchinson (eds.),
+Indianapolis: Hackett, 1997.
+–––,
+Timeaus
+, in
+Plato: Complete
+Works
+, J.  Cooper and D. Hutchinson (eds.), Indianapolis:
+Hackett, 1997.
+Popa, Radu, 2004,
+Between Necessity and Probability: Searching
+for the Definition and Origin of Life
+, New York: Springer.
+Postgate, John, 2000, “The Twilight Zones of
+Microbiology,”
+Microbiology Today
+, 27: 162–163.
+Ramsey, William, “Eliminative Materialism,”
+The
+Stanford Encyclopedia of Philosophy
+(Summer 2020 Edition), Edward N.
+Zalta (ed.), URL =
+ <
+https://plato.stanford.edu/archives/sum2020/entries/materialism-eliminative/
+>.
+Ray, Thomas S., 1993, “An evolutionary approach to synthetic
+biology: Zen and the art of creating life,”
+Artificial
+Life
+, 1(1/2): 179–209.
+Rolston III, H., 2017, “Is there an Ecological Ethic?”
+in M. Wachs (ed.),
+Ethics in Planning
+, London: Routledge, pp.
+299–317.
+Rosch, Eleanor, and Mervis, C. B., 1975, “Family resemblance:
+Studies in the internal structure of categories,”
+Cognitive
+Psychology
+, 7: 573–605.
+Rosch, Eleanor, 1978, “Principles of Categorization,” in
+E. Rosch and B.B. Lloyd (eds.),
+Cognition and Categorization
+,
+Hillsdale, NJ: Erlbaum, pp. 27–48.
+Riskin, Jessica, 2016,
+The Restless Clock: A History of the
+Centuries-Long Argument Over what Makes Living Things Tick
+,
+Chicago: University of Chicago Press.
+Sagan, Carl, 1970, “Life,”
+Encyclopedia
+Britannica
+, Chicago: Encyclopædia Britannica
+Incorporated, pp. 1083–1083A.
+Scharf, Caleb, Nathaniel Virgo, H. James Cleaves III, Masashi Aono,
+Nathanael Aubert-Kato, Arsev Aydinoglu, Ana Barahona, Laura M. Barge,
+Steven A. Benner, Martin Biehl, Ramon Brasser, Christopher J. Butch,
+Kuhan Chandru, Leroy Cronin, Sabastian Danielache, Jakob Fischer, John
+Hernlund, Piet Hut, Takashi Ikegami, Jun Kimura, Kensei Kobayashi,
+Carlos Mariscal, Shawn McGlynn, Brice Menard, Norman Packard, Robert
+Pascal, Juli Pereto, Sudha Rajamani, Lana Sinapayen, Eric Smith,
+Christopher Switzer, Ken Takai, Feng Tian, Yuichiro Ueno, Mary Voytek,
+Olaf Witkowski, and Hikaru Yabuta, 2015, “A Strategy for Origins
+of Life Research,”
+Astrobiology
+, 15(12): 1031–1042.
+Schopf, J. William, 1993, “Microfossils of the Early Archean
+Apex chert: new evidence of the antiquity of life,”
+Science
+, 260(5108): 640–646.
+Schopf, J. William, Kouki Kitajima, Michael J. Spicuzza, Anatoliy B.
+Kudryavtsev, and John W. Valley, 2018, “SIMS analyses of the
+oldest known assemblage of microfossils document their taxon-correlated
+carbon isotope compositions,”
+Proceedings of the National
+Academy of Sciences
+, 115(1): 53–58.
+Schulze-Makuch, Dirk, Huade Guan, Louis N. Irwin, E Vega, 2002,
+“Redefining life: An ecological, thermodynamic, and bioinformatic
+approach,” in G. Pályi, C. Zucchi, L. Caglioti (eds.),
+Fundamentals of Life
+, New York: Elsevier, pp.
+169–179.
+Slater, Matthew H., 2015, “Natural Kindness,”
+The
+British Journal for the Philosophy of Science
+, 66(2): 375–411.
+Smith, J. David, 2002, “Exemplar Theory’s Predicted
+Typicality Gradient can be Tested and Disconfirmed,”
+Psychological Science
+, 13(5): 437–442.
+Smith, Kelly C., 2020, “METI or REGRETTI,” in K.C. Smith
+and C. Mariscal (eds.),
+Social and Conceptual Issues in
+Astrobiology
+, Oxford: Oxford University Press, pp.
+209–235.
+Sober, Elliott, 1991, “Learning from Functionalism: prospects
+for strong artificial life,” in C.G. Langton, C. Taylor, J.D.
+Farmer, and S. Rasmussen (eds.),
+Artificial life
+II (Santa Fe
+Institute Studies in the Sciences of Complexity: Proceedings Volume X),
+Redwood City, CA: Addison-Wesley, pp. 749–765.
+Stewart, Potter, 1964, “Jacobellis vs. Ohio,” 378 U.S.
+184, 197.
+Szostak, Jack W., 2012, “Attempts to Define Life Do Not Help
+to Understand the Origin of Life.”
+Journal of Biomolecular
+Structure & Dynamics
+, 29(4): 599–600. doi:
+10.1080/073911012010524998
+Trifonov, Edward N., 2011, “Vocabulary of definitions of life
+suggests a definition.”
+Journal of Biomolecular Structure and
+Dynamics
+, 29(2): 259–266
+Trombley, Carolyn A. and Karl Cottenie, 2019, “Quantifying the
+scientific cost of ambiguous terminology in community ecology,”
+Philosophical Topics
+, 47(1): 203–218.
+Tsokolov, Serhiy A., 2009, “Why Is the Definition of Life So
+Elusive? Epistemological Considerations,”
+Astrobiology
+,
+9(4): 401–412. doi:10.1089/ast.2007.0201
+Wächtershäuser, Günter, 1988, “Before Enzymes
+and templates: Theory of Surface Metabolism,”
+Microbiological
+Reviews
+, 52(4): 452–484.
+Weber, Bruce H., 2007, “Emergence of life,”
+Zygon
+, 42: 837–856.
+–––, 2010, “What is Life? Defining Life in the Context of
+Emergent Complexity,”
+Origins of Life and Evolution of
+Biospheres
+, 40: 221–229.
+Webster, Christopher R., Paul R. Mahaffy, Sushil K. Atreya, John E.
+Moores, Gregory J. Flesch, Charles Malespin, Christopher P. McKay,
+German Martinez, G., Christina L. Smith, Javier Martin-Torres, Javier
+Gomez-Elvira, Maria-Paz Zorzano, Michael H. Wong, Melissa G. Trainer,
+Andrew Steele, Doug Archer Jr., Brad Sutter, Patrice J. Coll, Caroline
+Freissinet, Pierre-Yves Meslin, Raina V. Gough, Christopher H. House,
+Alexander Pavlov, Jennifer L. Eigenbrode, Daniel P. Glavin, John C.
+Pearson, Didier Keymeulen, Lance E. Christensen, Susanne P. Schwenzer,
+Rafael Navarro-Gonzalez, Jorge Pla-García, Scot C.R. Rafkin,
+Álvaro Vicente-Retortillo, Henrik Kahanpää, Daniel
+Viudez-Moreiras, Michael D. Smith, Ari-Matti Harri, Maria Genzer,
+Donald M. Hassler, Mark Lemmon, Joy Crisp, Stanley P. Sander, Richard
+W. Zurek, Ashwin R. Vasavada, 2018, “Background Levels of Methane
+in Mars’ Atmosphere Show Strong Seasonal Variations,”
+Science
+, 360(6393): 1093–1096.
+White, Lauren M., Everett K. Gibson, Kathie L. Thomas-Keprta, Simon
+J. Clemett, and David S. McKay, 2014, “Putative Indigenous
+Carbon-Bearing Alteration Features in Martian Meteorite Yamato
+000593,”
+Astrobiology
+, 14(2): 170–181.
+Woese, Carl R. and George E. Fox, 1977, “The Concept of
+Cellular Evolution,”
+Journal of Molecular Evolution
+,
+10(1): 1–6.
+Woese, Carl R., 1998, “The Universal Ancestor,”
+Proceedings of the National Academy of Sciences
+,
+ 95(12):  6854–6859.
+Academic Tools
+How to cite this entry
+.
+Preview the PDF version of this entry
+at the
+Friends of the SEP Society
+.
+Look up topics and thinkers related to this entry
+at the Internet Philosophy Ontology Project (InPhO).
+Enhanced bibliography for this entry
+at
+PhilPapers
+, with links to its database.
+Other Internet Resources
+Weber, Bruce, “Life”,
+Stanford Encyclopedia of Philosophy
+(Fall 2021 Edition),
+Edward N. Zalta (ed.), URL =
+ <
+https://plato.stanford.edu/archives/fall2021/entries/life/
+>.
+ [This was the previous entry on this topic in the
+Stanford
+Encyclopedia of Philosophy
+— see the
+version history
+.]
+Darwin, C.,
+Letter to J. D. Hooker, 01 February 1871
+, 
+Letter no. 7471, Darwin Correspondence Project.
+Related Entries
+abortion
+|
+death
+|
+death: definition of
+|
+definitions
+|
+end of life, aging and
+|
+life: meaning of

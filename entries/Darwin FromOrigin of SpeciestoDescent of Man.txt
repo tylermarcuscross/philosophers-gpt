@@ -1,0 +1,2763 @@
+Darwin: From
+Origin of Species
+to
+Descent of Man
+First published Mon Jun 17, 2019
+This entry intends to give a broad historical review of the origin and
+development of Darwin’s theory of evolution by natural selection
+through the initial Darwinian phase of the “Darwinian
+Revolution” up to the publication of the
+Descent of Man
+in 1871. The development of evolutionary ideas before Darwin’s
+work has been treated in the separate entry
+evolutionary thought before Darwin
+.
+ Several additional aspects of Darwin’s theory of evolution and
+his biographical development are dealt with in other entries in this
+encyclopedia (see the entries on
+Darwinism
+;
+species
+;
+natural selection
+;
+creationism
+). The remainder of this entry will focus on the following
+points in relation to Darwin’s theory not developed in the other
+entries. It will also maintain a historical and textual approach.
+Other entries in this encyclopedia cited at the end of the article and
+the bibliography should be consulted for discussions beyond this
+point. The issues will be examined under the following headings:
+1. The Origins of Darwin’s Theory
+1.1 Historiographical Issues
+1.2 Darwin’s Early Reflections
+2. Darwinian Evolution
+2.1. The Concept of Natural Selection
+2.2. The Central Argument of the
+Origin
+3. The Reception of the
+Origin
+3.1 The Popular Reception of Darwin’s Theory
+3.2 The Professional Reception of Darwin’s Theory
+4. Human Evolution and the
+Descent of Man
+4.1 The Genesis of Darwin’s
+Descent
+4.2. Reception of the
+Descent
+4.3 The Ethical Theory of the
+Descent of Man
+5. Summary and Conclusion
+Bibliography
+Academic Tools
+Other Internet Resources
+Related Entries
+1. The Origins of Darwin’s Theory
+1.1 Historiographical Issues
+Charles Darwin’s version of transformism has been the subject of
+massive historical and philosophical scholarship almost unparalleled
+in any other area of the history of science. This includes the
+continued flow of monographic studies and collections of articles on
+aspects of Darwin’s theory (Richards and Ruse 2016; Ruse 2013a,
+2009a,b, 2008; Ruse & Richards 2008; Hodge & Radick 2003
+[2009]; Hösle & Illies [eds] 2005; Gayon 1998; Bowler 1996;
+Depew & Weber 1995; Kohn 1985a). The continuous production of
+popular and professional biographical studies on Darwin provide ever
+new insights (Ruse et al.  2013a; Johnson 2012; Desmond & Moore
+1991, 2009; Browne 1995, 2002; Bowlby 1990; Bowler 1990). In addition,
+major editing projects on Darwin’s manuscripts and
+Correspondence, now completed through 1878, continue to reveal details
+and new insights into the issues surrounding Darwin’s own
+thought (Keynes [ed.] 2000; Burkhardt et al. [eds] 1985–; Darwin
+1836–1844 [1987]). The Cambridge Darwin Online website (see
+Other Internet Resources
+) serves as an international
+clearinghouse for this worldwide Darwinian scholarship.
+A long tradition of scholarship has interpreted Darwin’s theory
+to have originated from a framework defined by endemic British natural
+history, a British tradition of natural theology defined particularly
+by William Paley (1743–1805), the methodological precepts of
+John Herschel (1792–1871), and the geological theories of
+Charles Lyell (1797–1875). His conversion to the uniformitarian
+geology of Charles Lyell and to Lyell’s thesis of gradual change
+over time during the voyage of the
+HMS Beagle
+(December
+1831–October 1836) has been seen as fundamental in his formation
+(Norman 2013; Herbert 2005; Hodge 1983a). Complementing this
+predominantly anglophone historiography has been the
+social-constructivist analyses emphasizing the origins of
+Darwin’s theories in British Political Economy (Young, 1985:
+chps. 2, 4, 5). Recently, it has been argued that a primary generating
+source of Darwin’s inquiries was his involvement with the
+British anti-slavery movement, a concern reaching back to his
+revulsion against slavery developed during the
+Beagle
+years
+(Desmond & Moore 2009).
+A strain of revisionist historiography, on the other hand, has
+de-emphasized some of the novelty of Darwin’s views; questions
+have been raised regarding the validity of the standard biographical
+picture of the early Darwin; new emphasis has been placed on
+Darwin’s relations to the German Romantic movement, to British
+and Scottish medical developments, and to his early formation in
+Scottish science and philosophy (R.J. Richards 1999, 2002; Desmond
+1989; Manier 1978). Such revisions to a long-standing historiography
+in the understanding of the genesis of Darwinian theory are indebted
+to the wealth of manuscripts and correspondence that have become
+available since the 1960s and which are now electronically accessible
+at the Darwin Online “Papers and Manuscripts” section (see
+Other Internet Resources
+).
+These materials have drawn attention to previously ignored aspects of
+Darwin’s biography. In particular, the importance of his
+Edinburgh period from 1825–27, largely discounted in importance
+by Darwin himself in his late
+Autobiography
+, has been seen as
+critical for his subsequent development (Desmond & Moore 1991;
+Hodge 1985). As a young medical student at the University of Edinburgh
+(1825–27), Darwin developed a close relationship with the
+comparative anatomist Robert Edmond Grant (1793–1874) through
+the student Plinian Society, and in many respects Grant served as
+Darwin’s first mentor in science in the pre-
+Beagle
+years (Desmond & Moore 1991, chp. 1). Through Grant he was exposed
+to the transformist theories of Jean Baptiste Lamarck and the
+Cuvier-Geoffroy debate centered on the Paris
+Muséum
+nationale d’histoire naturelle
+(see entry on
+evolutionary thought before Darwin
+,
+Section 4). This Scottish period also developed in Darwin an abiding
+interest in invertebrate zoology that would later emerge in full in
+his important work on the barnacles (Stott 2004; Love 2002; Sloan
+1985).
+Similarly, there has been a new appreciation of the importance of
+Darwin’s work in physiological botany and entomology during his
+studies in Cambridge from 1827–31 under the guidance of his
+mentor John Stevens Henslow (1795–1861), who exposed him to the
+physiological botany of Swiss botanist Alphonse De Candolle
+(1806–93). Through Henslow he was also led to the writings of
+John Herschel, Alexander von Humboldt (1769–1859), and Charles
+Lyell. Deeper understanding is now possible concerning Darwin’s
+work in geology at Cambridge with Adam Sedgwick (1795–1873). All
+of this has considerably deepened the understanding of his scientific
+and intellectual preparation for the theoretical work that transpired
+during the voyage of the
+H.M.S. Beagle
+(Sloan 2003b
+[2009]). Some scholars now interpret Darwin’s initial
+reflections on transformism to have developed from lines of thought
+stimulated by Humboldt’s version of German philosophy of nature
+as much as from the traditional sources usually assumed in Lyell,
+Herschel and British natural theology (R.J.  Richards 2005, 2002:
+chp. 14). This scholarly work, while not rejecting the importance of
+traditional British sources, has revealed the multiplicity of origins
+of Darwin’s reflections that display the interaction of British
+traditions with Continental developments in life science and
+philosophy, including those of German origin (R.J.  Richards 2002;
+Sloan 2003a, 2007).
+The continued scholarly interest in the origins of Darwin’s
+theory reflects not only the concerns of historians of science, but
+also those who see a continued relevance of Darwin’s own
+writings as sources of creative reflection for contemporary work in
+evolutionary biology (Gayon 2003). This phenomenon, however, presents
+difficulties for the historical understanding of Darwinism.
+Particularly within anglophone philosophy of biology, the emphasis on
+the lines of the development of Darwin’s evolutionary theory
+that have led to the consensus position achieved in the so-named
+“Synthetic” theory of evolution of the 1930s (Smocovitis
+1996; Mayr & Provine [ed.] 1980; Provine 1971), has tended to
+obscure the complex history of Darwin’s own theoretical
+reflections and the history of Darwinian theory since 1859 (Depew
+& Weber 1995; Bowler 1983).
+These internal complexities in the heritage of Darwin’s works
+have shaped Darwinism into more than one tradition, with pre-existing
+social and intellectual contexts playing a critical role in the
+interpretation of Darwin’s achievement. French biology, for
+example, still pays greater respect to Lamarck than is true in
+anglophone literature (Laurent [ed.] 1997). Several commentators
+currently seek to de-emphasize the contrasts between the presumably
+failed theories of Lamarck and those of Darwin that figure largely in
+British and American literature, or else see some greater
+compatibility between a “molecularized” understanding of
+evolution and Lamarckianism (Gissis & Jablonka [eds] 2011). The
+long heritage of Kantianism and German Idealism has influenced lines
+of the German interpretations of Darwin up to the present (Hösle
+& Illies [eds] 2005). The general importance of prior social and
+intellectual context in the reception of Darwin’s work is a
+topic of active research that will be summarized in greater detail
+below.
+1.2 Darwin’s Early Reflections
+In its historical origins, Darwin’s theory was different in kind
+from its main predecessors in important ways (Ruse 2013b; see also the
+entry on
+evolutionary thought before Darwin
+).
+ Viewed against a longer historical scenario,
+Darwin’s theory does not deal with cosmology or the origins of
+the world and life through naturalistic means, and therefore was more
+restricted in its theoretical scope than its main predecessors
+influenced by the reflections of Buffon, Herder, and German
+Naturphilosophen.
+It also differed from the historical
+developmentalism of his German contemporary, the paleontologist
+Heinrich G. Bronn (Gliboff 2008, 2007). This restriction also
+distinguished Darwin’s work more immediately from the grand
+evolutionary cosmology put forth anonymously in 1844 by the Scottish
+publisher Robert Chambers (1802–71) in his immensely popular
+Vestiges of the Natural History of Creation
+, a work which in
+many respects prepared Victorian society in England, and pre-Civil War
+America for general evolutionary theories (Secord 2000; MacPherson
+2015). It also distinguished it from the theories of his contemporary
+Herbert Spencer (1820–1903) summarized below.
+Darwin’s theory first took written form in reflections in a
+series of notebooks begun during the latter part of the
+Beagle
+voyage and continued after the return of the
+Beagle
+in October of 1836. His reflections on the possibility
+of species change are first entered in March of 1837 (“Red
+Notebook”) and are developed in the other notebooks (B–E)
+through July of 1839 (Darwin 1836–1844 [1987]; Hodge 2013a,
+2003). Beginning with the reflections of the third or “D”
+Notebook, composed between July and October of 1838, Darwin first
+worked out the rudiments of what was to become his theory of natural
+selection. In the parallel “M” and “N”
+Notebooks, dating between July of 1838 and July of 1839, and in a
+loose collection called “Old and Useless Notes”, dating
+from approximately 1838–40, he also developed many of his main
+ideas on human evolution that would only be made public in the
+Descent of Man
+of 1871 (see below).
+To summarize a complex issue, these Notebook reflections show
+Darwin proceeding through a series of stages in which he first
+formulated a general theory of the transformation of species from
+common ancestry.  He then attempted to work out a causal theory of
+life that would explain the tendency of life to complexify and
+diversify (Hodge 2013a, 2003, 1985; Sloan 1986). This causal inquiry
+into the underlying nature of life , and the explanation of
+life’s innate tendency to develop and complexify, was then
+replaced by a shift in focus away from inner tendencies of life. It
+was replaced by a concern with external forces controlling population,
+which was, following Thomas Malthus’s (1766–1834), assumed
+to expand geometrically.  This shift allowed him to develop the
+implications of population increase for the transformation of
+species.
+By universalizing the Malthusian “principle of
+population”, Darwin introduced an “inertial”
+principle into his theory, although such language is never used in his
+text. Newton’s first law, for example, established his physical
+system upon the tendency of a body in motion to persist either at rest
+or in uniform motion in a straight line, requiring a causal
+explanation for any deviations from this initial state. But Newton did
+not seek a deeper metaphysical explanation for this tendency.
+Similarly, the principle of population supplied Darwin with the
+assumption of an initial dynamic state of affairs that was not itself
+explained within the theory—there is no attempt to account
+causally for this tendency of living beings universally to reproduce
+geometrically. The principle of population might therefore be regarded
+as functioning axiomatically, defining a set of initial conditions
+from which any deviance from this ideal state demands explanation.
+This theoretical shift enabled Darwin to bracket his earlier efforts
+to develop a causal theory of life, and focus instead on the means by
+which the dynamic force of population was controlled. This allowed him
+to emphasize how this control on population worked in company with the
+phenomenon of slight individual variation and changing conditions of
+life to produce a gradual change of form and function. Darwin would
+later claim that he was able empirically to support the claim that
+living populations do tend to increase in this way, but he does not
+offer a causal theory of life to explain this tendency
+(
+Origin
+1859: chp. 3, 63–68).
+2. Darwinian Evolution
+2.1. The Concept of Natural Selection
+The primary distinguishing feature of Darwin’s theory that separates it
+from previous explanations of species change centers on the causal
+explanation he offered for how this process occurred. Prior theories,
+such as that of Jean-Baptiste Lamarck, relied on the inherent dynamic
+properties of matter, or in some of the German reflections, on special
+dynamic forces, such as those building upon the “Formative
+Drive” (
+Bildungstrieb
+) theory of Johann Blumenbach
+(1752–1840) (Zammito 2018: chps. 7–9). The change of
+species was not, in these pre-Darwinian efforts, explained through an
+adaptive process. Darwin’s emphasis after Notebook D on the
+factors controlling population increase, rather than on a dynamic
+theory of life grounded in vital forces, however, accounts for many of
+the differences between Darwin’s theory and those of his
+predecessors and contemporaries.
+These differences can be summarized in the concept of natural
+selection as a central ingredient of Darwinian theory. However, the
+exact meaning of this concept, and the varying ways he stated the
+principle in the
+Origin
+over its six editions
+(1859–1872), has given rise to multiple interpretations of the
+meaning of this principle in the history of Darwinism.
+One way to see the complexity of Darwin’s own thinking on these
+issues is to follow the textual development of this concept between
+the close of the Notebook period (1839) and the publication of the
+Origin of Species
+in 1859. This period of approximately
+twenty years involved Darwin in a series of reflections that form
+successive strata in the final version of his theory of the evolution
+of species. Understanding the historical sequence of these
+developments also has significance for subsequent controversies over
+this concept and the different readings of the
+Origin
+as it
+went through successive editions, and as it was received in other
+cultural contexts (see below,
+Section 3
+).
+ It also has some bearing on assessing Darwin’s relevance for
+more general philosophical questions, such as those surrounding the
+teleology of nature.
+The earliest set of themes in the manuscript elaboration of natural
+selection theory can be characterized as those developed through a
+strong analogy between human art and the workings of nature
+(Theunissen 2013). As this was expressed in the first coherent draft
+of the theory, a 39-page manuscript written in 1842, this discussion
+transferred the concept of selection of forms by human agency in the
+creation of the varieties of domestic animals and plants, to the
+active selection in the natural world by an almost conscious agency, a
+“being more sagacious than man (not an omniscient
+creator)” (Darwin 1842 [1909: 6] [1996: 91]). This agency
+selects out those features most beneficial to organisms in relation to
+conditions of life, analogous in its action to the selection by man on
+domestic forms in the production of different breeds. Interwoven with
+these references to an almost Platonic demiurge are appeals to the
+selecting  power of an active “Nature”:
+Nature’s variation far less, but such selection far more rigid
+and scrutinizing[.…] Nature lets [an] animal live, till on
+actual proof it is found less able to do the required work to serve
+the desired end, man judges solely by his eye, and knows not whether
+nerves, muscles, arteries, are developed in proportion to the change
+of external form. (1842 [1909: 9] [1996: 93])
+These themes were continued in the 230 page draft of his theory of
+1844. Again he referred to the selective action of a wise imaginary
+being whose selection was made with greater foresight and wisdom than
+human selection. This agency worked as a secondary cause in a larger
+plan of a superintending creator, allowing that
+the process of selection could go on adapting, nicely and wonderfully,
+organisms, if in ever so small a degree plastic, to diverse ends. I
+believe such secondary means do exist. (Darwin 1844a [1909: 87] [1996:
+103])
+Darwin returned to these issues in 1856, following a twelve-year
+period in which he published his
+Geological Observations on the
+Volcanic Islands
+(1844b), the second edition of his
+Journal
+of Researches
+(1845),
+Geological Observations on South
+America
+(1846), the four volumes on fossil and living barnacles
+(1851, 54, 55), and
+Geological Observations on Coral Reefs
+(1851). In addition, he had published several smaller papers on
+invertebrate zoology, on geology, and had reported on his experiments
+on the resistance of seeds to salt water, a topic that would be of
+importance in his explanation of the population of remote islands.
+These intervening inquiries, conducted between 1844 and 1856,
+positioned Darwin to deal with the question of species permanence
+against an extensive empirical background. The initial major synthesis
+of these investigations takes place in his long manuscript, or
+“Big Species Book”, commenced in 1856, known in current
+scholarship as the “Natural Selection” manuscript. This
+formed the immediate background text behind the published
+Origin
+. Although incomplete, “Natural Selection”
+provides insights into many critical issues in Darwin’s
+thinking. It was also prepared with an eye to the scholarly community.
+This distinguishes its form of argument from that of the subsequent
+“abstract” which became the published
+Origin of
+Species
+. “Natural Selection” contained tables of
+data, references to scholarly literature, and other apparatus expected
+of a non-popular work, none of which survived in the published
+Origin
+.
+The “Natural Selection” manuscript also contained some new
+theoretical developments of relevance to the concept of natural
+selection that are not found in earlier manuscripts. Scholars have
+noted the introduction in this manuscript of the “principle of
+divergence”, the thesis that organisms under the action of
+natural selection will tend to radiate and diversify within their
+“conditions of life”—the contemporary name for the
+complex of environmental and species-interaction relationships (Kohn
+1985b, 2008). Although the concept of group divergence under the
+action of natural selection might be seen as an implication of
+Darwin’s theory from his earliest formulations of the 1830s,
+nonetheless Darwin’s explicit definition of this as a
+“principle”, and its discussion in a long later insertion in the
+“Natural Selection” manuscript, suggests its importance
+for Darwin’s mature theory. The principle of divergence was now
+seen by Darwin to form an important link between natural variation and
+the conditions of existence under the action of the driving force of
+population increase.
+Still evident in the “Natural Selection” manuscript is
+Darwin’s implicit appeal to some kind of teleological ordering
+of the process. The action of the “wise being” of the
+earlier manuscripts, however, has now been given over entirely to the
+action of a selective “Nature”, now referred to in the
+traditional feminine gender. This Nature,
+…cares not for mere external appearance; she may be said to
+scrutinise with a severe eye, every nerve, vessel & muscle; every
+habit, instinct, shade of constitution,—the whole machinery of
+the organisation. There will be here no caprice, no favouring: the
+good will be preserved & the bad rigidly destroyed.… Can we
+wonder then, that nature’s productions bear the stamp of a far
+higher perfection than man’s product by artificial selection.
+With nature the most gradual, steady, unerring, deep-sighted
+selection,—perfect adaption [sic] to the conditions of
+existence.… (
+Natural Selection
+1856 [1974:
+224–225])
+The language of this passage, directly underlying statements about the
+action of “natural selection” in the first edition of the
+published
+Origin
+, indicates the complexity in the exegesis of
+Darwin’s meaning of “natural selection” when viewed
+in light of its historical genesis (Ospovat 1981). The parallels
+between art and nature, the intentionality implied in the term
+“selection”, the notion of “perfect”
+adaptation, and the substantive conception of “nature” as
+an agency working toward certain ends, all render Darwin’s views
+on teleological purpose more complex than they are typically
+interpreted from the standpoint of contemporary Neo-selectionist
+theory (Lennox 1993, 2013). As will be discussed below, the changes
+Darwin subsequently made in his formulations of this concept over the
+history of the
+Origin
+lead to different conceptions of what
+he meant by this principle and underlie most contemporary meanings of
+natural selection.
+The hurried preparation and publication of the
+Origin
+between
+the summer of 1858 and November of 1859 was prompted by the receipt on
+June 18 of 1858 of a letter from Alfred Russel Wallace that outlined
+his remarkably similar views on the possibility of continuous species
+change under the action of a selection upon natural variation. This
+event had important implications for the subsequent form of
+Darwin’s published argument. Rapidly condensing the detailed
+arguments of the “Natural Selection” manuscript into
+shorter chapters, Darwin also universalized several claims that he had
+only developed with reference to specific groups of organisms, or
+which he had applied only to more limited situations in the
+manuscript. This resulted in a presentation of his theory at the level
+of broad generalization. The absence of tables of data, detailed
+footnotes, and references to the secondary literature in the published
+version also resulted in predictable criticisms which will be
+discussed below in
+Section 3
+.
+2.2. The Central Argument of the
+Origin
+The structure of the argument of the
+Origin
+has been the
+topic of considerable literature and can only be summarized here
+ (
+Darwinism
+,
+ this encyclopedia; Hodge 2013b; Hoquet 2013; Waters 2003; Depew 2008; Ruse 2008;
+Lennox 2005). Darwin himself described his book as “one long
+argument”. The exact nature of this argument is, however, not
+immediately transparent, and alternative interpretations have been
+made of his reasoning and rhetorical strategies in formulating his
+evolutionary theory.
+The scholarly reconstruction of Darwin’s methodology employed in
+the
+Origin
+has taken two primary forms. One approach has been
+to reconstruct it from the standpoint of currently accepted models of
+scientific explanation, sometimes presenting it as a formal deductive
+model (Sober 1984). Another, more historical, approach interprets his
+methodology in the context of accepted canons of scientific
+explanation found in Victorian discussions of the period (Ruse 2013b;
+Waters 2003; Hull 2003; Lewens 2008; Ruse 2008; Lennox 2005; Hodge
+1983b). The degree to which Darwin did in fact draw from the available
+methodological discussions of his contemporaries—John Herschel,
+William Whewell, John Stuart Mill—is not fully clear from
+available documentary sources. The claim most readily documented, and
+defended particularly by M. J. S. Hodge (1977, 1983a), has emphasized
+the importance of John Herschel’s
+A Preliminary Discourse on
+the Study of Natural Philosophy
+(1830), which Darwin read as a
+young student at Cambridge prior to his departure on the
+HMS
+Beagle
+in December of 1831. In Herschel’s writings he would
+have encountered the claim that science seeks to determine “true
+causes”—
+verae causae
+. This concept Newton had
+specified in the
+Principia
+as the third of his “Rules
+of Reasoning in Philosophy” (see the entry on
+Newton’s philosophy
+, 
+  Section 4). This was
+to be the goal of scientific explanation. Such causes, in
+Herschel’s formulation, were those necessary to produce the
+given effects; they were truly active in producing the effects; and
+they adequately explained these effects (Herschel 1830; Lennox 2005;
+Waters 2003). These criteria distinguished a satisfactory scientific
+account from the simple “saving of phenomena” by plausible
+explanations in the tradition of scientific conventionalism. The
+impact of Herschel’s arguments on Darwin’s intellectual
+development was evidently profound, although there is no direct
+textual reference to Herschel’s concept of a
+vera causa
+itself in the Notebooks and other early writings.
+The other plausible methodological source for Darwin’s mature
+reasoning was the work of his older contemporary and former Cambridge
+mentor, the Rev. William Whewell (1794–1866), whose three-volume
+History of the Inductive Sciences
+(1837) Darwin read with
+care after his return from his round-the-world voyage. Again, the
+impact of Whewell’s explicit theory of scientific method, as set
+forth in his
+Philosophy of Inductive Science
+(first ed. 1840)
+in the pre-
+Origin
+period is difficult to document, with no
+direct evidence of the reading of Whewell’s
+Philosophy
+in the Darwin reading Notebooks or
+Correspondence
+from his
+formative years before the publication of the
+Origin
+.
+Nevertheless, a plausible argument has been made that the actual
+structure of Darwin’s text is more closely similar to a
+“Whewellian” rather than to a “Herschelian”
+model of argument (Ruse 1975, 2013c). In Whewell’s 1840 account, the emphasis of
+scientific inquiry is, as Herschel had also argued, to be placed on
+the discovery of “true causes”. But evidence for the
+determination of a
+vera causa
+was to be demonstrated by the
+ability of disparate phenomena to be drawn together under a single
+unifying “Conception of the Mind”, exemplified for Whewell
+by Newton’s universal law of gravitation. This
+“Consilience of Inductions”, as Whewell termed this
+process of theoretical unification under a few simple concepts, was
+achieved only by true scientific theories employing true causes
+(Whewell 1840: xxxix). In a restatement of this principle in a revised
+edition of his
+Philosophy of Inductive Science
+published only
+a year before the
+Origin
+, Whewell argued that
+the cases in which inductions from classes of facts altogether
+different have thus
+jumped together
+, belong only to the best
+established theories which the history of science contains. (Whewell
+1858: 88)
+It has therefore been argued that Darwin’s theory fundamentally
+produces this kind of consilience argument, and that his methodology is more properly aligned with that of Whewell.
+In rhetorical structure, the
+Origin
+more evidently develops
+what can be termed a “constructive” argument, with a
+complex style of presentation indebted to what has been called
+“situated argumentation”, similar to the views developed
+by contemporary Oxford logician and rhetorical theorist Richard
+Whately (1787–1863) (Depew 2008). It proceeds by drawing the
+reader into Darwin’s world by personal narration as it presents
+a series of limited issues for acceptance in the first three chapters,
+none of which required of the reader a considerable leap of
+theoretical assent, and most of which, such as natural variation and
+Malthusian population increase, had already been recognized in some
+form in the literature of the period.
+These ingredients are then assembled together in chapter four into a
+remarkable synthesis that rapidly extends the claims by generalization
+to cover the full range of life, both in time and in space. With
+Darwin’s carefully-designed rhetorical strategy of presentation,
+only by chapter four would the reader know the full character and
+broad implications of the claims being developed in the early
+chapters. By the end of that chapter, the reader would be presented
+with a remarkably comprehensive theory of the relations of living
+forms, and the mode of their origin, both in the present and in the
+past history of the planet.
+Opening with a pair of chapters that draw upon the art-nature analogy
+developed in the manuscripts, Darwin framed the argument with an
+account of the probable origin of domestic animals, and by inference,
+of domesticated plants (Theunissen 2013). These forms are presumed to
+have arisen through the action of human selection on the slight
+variations existing between individuals within the same species. A
+possible interpretation of this process as implying directional, and
+even intentional, selection, was at the same time downplayed in the
+published work through the importance given by Darwin to the role of
+“unconscious” selection, a concept not encountered in the
+Natural Selection manuscript. This denotes the selection practiced
+even by aboriginal peoples who simply seek to maintain the integrity
+of a breed by preserving the best forms. The domestic breeding analogy
+is, however, more than a decorative rhetorical strategy. It repeatedly
+functions for Darwin as the principal empirical example to which he
+could appeal at several places in the text as a means of visualizing
+the working of natural selection in nature, and this appeal remains
+intact through the six editions of the
+Origin
+.
+From this model of human selection working on small natural variations
+to produce the domestic forms, Darwin then developed in the second
+chapter the implications of “natural” variation, delaying
+discussion of the concept of natural selection until chapter four. The
+focus of the second chapter introduces another important issue. Here
+he extends the discussion of variation developed in chapter one into
+an attack on the traditional “Linnaean” understanding of
+classification as a sorting out of species by means of essential
+defining properties. It is in this chapter that Darwin most explicitly
+develops his own position on the nature of organic species in relation
+to his theory of descent. It is also here that he sets forth the
+ingredients for his attack on species “essentialism”.
+Darwin’s analysis of the “species question” is a
+complex issue that has many implications for how his work was read by
+his contemporaries and successors. This still forms a topic of
+extensive discussion in the literature (see
+species
+and
+Darwinism
+,
+ this encyclopedia; Mallet 2013; Hodge 2013b; R.A. Richards 2010; Wilkins 2009;
+Stamos 2007; Sloan 2008, 2013). His sometimes contradictory statements
+on this issue—alternating between overt denials of the reality
+of species in some places, and clear affirmation of the reality of
+species in others—have been seen by some scholars as an
+intentional rhetorical strategy (Stamos 2007; Beatty 1985).
+Prior tradition had been heavily affected by Buffon’s
+novel conception of biological species in which he made a sharp
+distinction between “natural” species defined by such
+properties as fertile interbreeding, and “artificial”
+species and varieties defined by morphological traits and measurements
+upon these (see the entry on
+evolutionary thought before Darwin
+,
+ Section 3.3). This distinction was utilized selectively by Darwin. Particularly as
+conceptualized by German natural historians of the early
+nineteenth-century, “Buffonian” species were defined by
+the unity of common descent, and distinguished by their historical and
+ontological character from the taxonomic species of Linnaean natural
+history. This distinction between “natural” and
+“logical” species had maintained a distinction between
+problems of practical classification of preserved specimens, and those
+relating to the unity of natural species, which most maintained as
+fixed on the basis of reproductive unity and the sterility criterion
+(Sloan 2008).
+Remarkable in Darwin’s argument, however, is the way in which he
+draws selectively from these preexistent traditions to undermine the
+species “realism” assumed within these. One
+tradition—what can be considered in his immediate context the
+Linnaean tradition—regarded species in the sense of universals
+of logic or class concepts, whose “reality” rested in many
+cases on divine creation. The alternative “Buffonian”
+tradition viewed species in the sense of material lineages of descent
+whose fixity was determined by some kind of immanent principle, such
+as an “internal mold” or specifying vital force (see
+evolutionary thought before Darwin
+3.3). The result in Darwin’s hands is a complex interweaving of
+concepts of varieties, races, sub-species, tribes, and natural
+families that can be shown to represent different traditions of
+discussion in the literature of the period. This creative conflation
+also led to many confusions about how Darwin actually did conceive of
+species and species change in time (Sloan 2008).
+Darwin addresses the species question by raising the problems caused
+by natural variation in the practical discrimination of taxa at the
+species and varietal levels. Although the difficulty of taxonomic
+distinctions at this level was a well-recognized problem in the
+literature of the time, he subtly transforms this
+practical
+problem into a
+metaphysical
+ambiguity—the fuzziness of
+formal taxonomic distinctions is seen to imply a similar ambiguity of
+“natural” species boundaries.
+For example, natural variation is employed by Darwin in chapter two of
+the
+Origin
+to break down the distinction between species and
+varieties as these concepts were commonly employed in the practical
+taxonomic literature. The arbitrariness apparent in making
+distinctions, particularly in plants and invertebrates, meant that
+such species were only what “naturalists having sound judgment and wide experience” defined them to
+be (
+Origin
+1859: 47). These arguments form the basis for
+claims by his contemporaries that Darwin was a species
+“nominalist”, who defined species only as conventional and
+convenient divisions of a continuum of individuals.
+But this feature of Darwin’s discussion of species only in part
+captures the complexity of his argument. Drawing also on the tradition
+of species realism developed within the Buffonian tradition, Darwin
+also affirmed that species and varieties are defined by common descent
+and material relations of interbreeding. Darwin then employed the
+ambiguity of the distinction between species and varieties created by
+taxonomic variation in practical taxonomy to undermine the ontological
+fixity of “natural” species. Varieties are not simply the
+formal taxonomic subdivisions of a natural species as conceived in the
+Linnaean tradition. They are, as he terms them,
+“incipient” species (
+Origin
+1859: 52). This
+subtly transformed the issue of local variation and adaptation to
+circumstances into a primary ingredient for historical evolutionary
+change. The conclusions to be drawn from this argument were, however,
+only to be revealed in chapter four of the text.
+Before assembling the ingredients of these first two chapters, Darwin
+then introduced in chapter three the concept of a “struggle for
+existence”. This concept is introduced in a “large and
+metaphorical sense” that included different levels of organic
+interactions, from direct struggle for food and space to the struggle
+for life of a plant in a desert. Although described as an application
+of Thomas Malthus’s parameter of geometrical increase of
+population in relation to the arithmetical increase of food supply,
+Darwin’s use of this concept in fact reinterprets
+Malthus’s principle, which was formulated only with reference to
+human population in relation to food supply. It now becomes a general
+principle governing all of organic life. Thus the organisms comprising
+food itself would also be included. Through this universalization, the
+controls on population becomes only in the extreme case grounded
+directly on the traditional Malthusian limitations of food and space.
+Normal controls are instead exerted through a complex network of
+relationships of species acting one on another in predator-prey,
+parasite-host, and food-web relations. This profound revision of
+Malthus’s arguments rendered Darwin’s theory deeply
+“ecological” as this term would later be employed. The abundance of red clover in England Darwin sees as dependent on the numbers of  pollinating humble bees  which are controlled by mice, and these are controlled by the number of cats, making cats the determinants of clover abundance. The
+abundance of Scotch Firs is limited by the number of cattle, to cite
+two examples employed by Darwin (
+Origin
+1859: 72–74).
+This recognition of complex species-species interactions as the
+primary means of population control also prevents one from reading the
+Origin
+as a simple extension of British political economy and
+the competition embedded in Victorian industrialization to the natural
+world.
+With the ingredients of the first three chapters in place, Darwin was
+positioned to assemble these together in his culminating fourth
+chapter on natural selection. In this long discussion, Darwin develops
+the main exposition of his central theoretical concept. For his
+contemporaries and for the subsequent tradition, however,
+Darwin’s concept of “natural” selection was not
+unambiguously clear for reasons we have outlined above, and these
+unclarities were to be the source of several persistent lines of
+disagreement and controversy. It is not clear, for example, whether
+Darwin conceives of natural selection as an
+efficient
+or as a
+final
+cause; whether it is an emergent
+result
+of
+other causes; or if it is a simple
+description
+of the working
+together of several independent causal factors without its own causal
+status. Judging from the text of the
+Origin
+itself, it is
+difficult to verify the claim that natural selection was itself
+considered by Darwin to be a
+vera causa
+in Herschel’s
+sense. The importance of the
+vera causa
+principle for
+Darwin’s argument has been claimed by several scholars (Hodge
+2013b; Waters 2003 [2009:
+124–27]). But from textual evidence, Darwin  reserved this designation in the
+Origin
+for “community of descent”, for the causes
+of “ordinary generation”, or even for the mistaken beliefs
+of “special creationists” (
+Origin
+1859: 159, 352,
+482; Depew 2008: 243).
+In the initial definition of natural selection presented in the first
+edition of Darwin’s text, it is characterized as
+“preservation of favourable variations and the rejection of
+injurious variations” (
+Origin
+1859: 81). When Darwin
+elaborated on this concept in chapter four of the first edition, he
+continued to describe natural selection in language suggesting that it
+involved intentional selection, continuing the strong art-nature
+parallel found in the manuscripts. For example:
+As man can produce and certainly has produced a great result by his
+methodical and unconscious means of selection, what may not nature
+effect? Man can act only on external and visible characters: nature
+cares nothing for appearances, except in so far as they may be useful
+to any being. She can act on every internal organ, on every shade of
+constitutional difference, on the whole machinery of life. Man selects
+only for his own good; Nature only for that of the being which she
+tends. Every selected character is fully exercised by her; and the
+being is placed under well-suited conditions of life. (
+Origin
+1859: 83)
+The manuscript history behind such passages prevents the simple
+discounting of these statements as mere rhetorical imagery. As we have
+seen, the parallel between intentional human selectivity and that of
+“nature” formed the original model upon which the concept
+of natural selection was originally constructed.
+Criticisms that quickly developed over the overt intentionality
+embedded in such passages, however, led Darwin to revise the argument
+in editions beginning with the third edition of 1861. From this point
+onward he explicitly downplayed the intentional and teleological
+language of the first two editions, denying that his appeals to the
+selective role of “nature” were anything more than a
+literary figure, and he moved decisively in the direction of defining
+natural selection as the description of the action of natural laws
+working upon organisms rather than as an efficient or final cause of
+life. He also regrets in his
+Correspondence
+his mistake in
+not utilizing the designation “natural preservation”
+rather than “natural selection” to characterize his
+principle (letter to Lyell 28 September 1860,  Burkhardt et al. 1993 8:
+397; also see
+ Darwin Correspondence Project in
+Other Internet Resources
+).
+ The adoption in the fifth edition of 1869 of contemporary Herbert
+Spencer’s designator, “survival of the fittest”
+(Spencer 1864: 444–445;
+Origin
+1869: 72), as a synonym
+for “natural selection”, further emphasized this shift of
+meaning away from the concept that can be extracted from the early
+texts and drafts. Thus the formulations of the principle in the final
+statements of the late 1860s and early 70s underlie the tradition of
+later “mechanistic” and non-teleological understandings of
+natural selection, a reading developed by his disciples who, in the
+words of David Depew, “had little use for either his natural
+theodicy or his image of a benignly scrutinizing selection”
+(Depew 2008: 253).
+The conceptual synthesis of chapter four also introduced discussions
+of such matters as the conditions under which natural selection most
+optimally worked, the role of isolation, the causes of the extinction
+of species, and the principle of divergence. Many of these points were
+made through the imaginative use of “thought experiments”
+in which Darwin constructed possible scenarios through which natural
+selection could bring about substantial change. Although these were
+not regarded by his critics as empirical evidence for his claims, it
+has been argued that these assisted Darwin in satisfying certain
+criteria of adequacy as set forth by John Herschel’s
+methodological canons (Lennox 2005). One prominent way Darwin captured the complexity of this process is reflected in the single diagram to appear in all the
+editions of the
+Origin
+(Velasco 2013). In this illustration
+was summarized the image of gradual change from common ancestral
+points, the depiction of the frequent extinction of most lineages, the
+general tendency of populations to diverge and fragment under the
+pressure of population increase, and a way of envisioning relations of
+taxonomic affinity to time. It also depicted the persistence of some
+forms that are unchanged over long geological periods in which stable
+conditions prevail.
+Figure:
+Tree of life diagram from
+Origin of Species
+(
+Origin
+1859: between pages 116
+and 117).
+Remarkable about Darwin’s diagram of the tree of life is the
+relativity of its coordinates. It is first presented as applying only
+to the divergences taking place at the varietal level, with varieties
+represented by the small lower-case letters within species A–L
+of a “wide ranging genus”, with the horizontal time
+coordinates measured in terms of a limited number of generations.
+However, the attentive reader could quickly see that Darwin’s
+destructive analysis of the distinction between “natural”
+and “artificial” species and the relativity of the
+species-variety distinction, worked out in chapter two, allowed this
+diagram to represent eventually all organic relationships, from those
+at the non-controversial level of diverging varieties within fixed
+species, to those of the relations of species within different genera.
+Letters A–L could also represent taxa at the level of Genera,
+Families or Orders. The diagram can thus be applied to relationships
+between all levels of the Linnaean hierarchy with the vertical
+coordinates representing potentially vast expanses of time, and the
+horizontal coordinates the degree of taxonomic divergence over time.
+In a very few pages of argument, the diagram was generalized to
+represent the most extensive group relations, encompassing the whole
+of geological time. Extension of the dotted lines at the bottom could
+even suggest, as Darwin argues in the last paragraph of the book, that
+all life was a result of “several powers, having been originally
+breathed into a few forms or into one” (
+Origin
+1859:
+490). This could suggest a naturalistic origin of original forms
+either by material emergence, or through the action of a vitalistic
+power of life. It could also be read as implying the action of a
+supernatural cause.
+In response to criticisms of his unclarity on this latter point,
+Darwin quickly added to the final paragraph in the second edition of
+1860 the phrase “by the Creator” (1860: 484), which
+remained in all subsequent editions. Coupled with the quotations on
+the frontispiece that remained in all editions of the work, this could
+imply for some readers Darwin’s intent to locate work within the
+tradition of British natural theology and the long tradition running
+back to the Scholastics that conceptualized creation by secondary law.
+Conceptual space was thereby created for a reading of the
+Origin
+by some contemporaries, notably by the Harvard
+botanist Asa Gray (1810–88), as compatible with traditional
+natural theology (Gray 1860; Lennox 2013).
+The sweep of the theoretical generalization that closed the natural
+selection chapter, one restated even more generally in the final
+paragraph of the book, required Darwin to deal with several obvious
+objections to the theory that would occupy him through the numerous
+revisions of the text between 1859 and 1872. As suggested by David
+Depew, the rhetorical structure of the original text developed in an
+almost “objections and response” structure that resulted
+in a constant stream of revisions to various editions of the original
+text as Darwin engaged his opponents (Depew 2008; Peckham 1959
+[2006]). Anticipating at first publication several obvious lines of
+objection, Darwin devoted much of the text of the original
+Origin
+to offering a solution in advance to predictable
+difficulties. As Darwin outlined these main lines of objection, they
+included first the apparent absence of numerous slight gradations
+between species, both in the present and in the fossil record, of the
+kind that would seem to be predictable from the gradualist workings of
+the theory (chps. 6, 9). Second, the existence of organs and
+structures of extreme complexity, such as the vertebrate eye,
+structures that had since the writings of Galen in Hellenistic
+antiquity served as a mainstay of the argument for external
+teleological design, needed some plausible explanation (chp. 6).
+Third, the evolution of the elaborate instincts of animals and the
+puzzling problem of the evolution of social insects that developed
+sterile neuter castes, proved to be a particularly difficult issue for
+Darwin in the manuscript phase of his work and needed some account
+(chp. 7). As a fourth major issue needing attention, the traditional
+distinction between natural species defined by interfertility, and
+artificial species defined by morphological differences, first dealt
+with in Chapter Two, required an additional chapter of analysis in
+which he sought to undermine the absolute character of the
+interbreeding criterion as a sign of fixed natural species (chp.
+8).
+As a fifth topic, in chapter ten, Darwin developed his position on the
+fossil record. At issue was whether the known fossil record displays a
+gradual progression of forms from simple to complex, as might be
+argued by Lamarckian transformists, or whether it supported the claim
+for the persistence of major groups throughout the record as might be
+held by someone endorsing the tradition of Cuvier (see the entry on
+evolutionary thought before Darwin
+,
+ Section 4.1). The thesis of geological progressionism had in fact
+been denied by none other than Darwin’s great mentor in geology,
+Charles Lyell in his
+Principles of Geology
+(1830–33;
+Desmond 1984; Bowler 1976). Darwin defended the progressionist view in
+this chapter.
+To each of the lines of objection to his theory, Darwin offered his
+contemporaries plausible, if not for many critics compelling, replies
+(Hull 1973). Additional arguments were worked out through the
+insertion of numerous textual insertions over the five revisions of
+the
+Origin
+between 1860 and 1872, including the addition of a
+new chapter to the sixth edition dealing with
+“miscellaneous” objections. For reasons related both to
+the condensed and summary form of public presentation, and also as a
+reflection of the bold conceptual sweep of the theory, the primary
+argument of the
+Origin
+could not gain its force from the data
+presented by the book itself. Instead, it presented an argument from
+unifying simplicity, gaining its force from the ability of
+Darwin’s theory to draw together a wide variety of issues in
+taxonomy, comparative anatomy, paleontology, biogeography, and
+embryology under the simple principles worked out in the first four
+chapters (chps. 11–13). In important respects, this
+“consilience” argument might be seen as best reflecting
+the impact of William Whewell’s methodology (see above),
+although Whewell is not cited in any of the editions.
+The explanatory methodology of Darwin’s theory also provided him
+with a means of defeating certain major objections, such as those
+drawn from the existence of organs of great complication and function.
+To deal with the question of the vertebrate eye in chapter six, for
+example, Darwin offered a few speculations on how such a structure
+could have developed by the gradual selection upon the rudimentary
+eyes of invertebrates. But the primary solution offered was the
+ability of his theory to draw together in its total argument numerous
+lines of inquiry that would not otherwise receive a coherent
+explanation. In such a case one would
+admit that a structure even as perfect as the eye of an eagle might be
+formed by natural selection, although in this case he does not know
+any of the transitional grades. (
+Origin
+1859: 188)
+Here again, one might see Whewell’s notion of a
+“consilience of inductions” at work.
+As Darwin envisioned it, with the acceptance of his theory, “a
+grand untrodden field of inquiry will be opened”
+(
+Origin
+1859: 486) in biology and natural history. The
+long-standing issues of species origins, if not the ultimate origins
+of life, as well as the causes of their extinction, had been brought
+within the domain of naturalistic explanation. It is in this context
+that he makes the sole reference in the text to the claim that
+“light will be thrown on the origin of man and his
+history” (
+Origin
+1859: 488).
+3. The Reception of the
+Origin
+3.1 The Popular Reception of Darwin’s Theory
+The broad sweep of Darwin’s claims, the brevity of the empirical
+evidence actually supplied in the text, and the implications of his
+theory for several more general philosophical and theological issues,
+immediately opened up a controversy over Darwinian evolution that has
+waxed and waned over more than 150 years. As is well-known, Darwin
+developed his argument rhetorically with the claims of its explanatory
+superiority over the doctrine of “special creation”, which
+he posed as the main alternative to his account. This stylized
+opposition to “creationism”, rather than to the arguments
+raised by the traditions of Cuvier, Buffon, and Lyell that
+demonstratively formed the basis of the scientific opposition to
+transformism before Darwin (see the entry on
+evolutionary thought before Darwin
+),
+ was a point of considerable criticism by contemporaries such as
+Richard Owen, who held no such theory of special creationism (Bowler
+2013a). But the rhetorical strategy of opposing his theory to theistic
+creationism served to define much of the popular debate over
+Darwin’s theory in the succeeding period, and continues to
+define it in the present.
+On the level of popular culture, Darwin’s theory fell into a
+complex social situation that took on different features in different
+national traditions. In the anglophone world, the great popularity of
+the anonymous
+Vestiges of the Natural History of Creation
+of
+1844, which had reached 11 editions and sold 23,350 copies by December
+of 1860 (Secord “Introduction” to Chambers 1844 reprint
+[1994: xxvii]), with several more editions to appear by the end of the
+century, certainly prepared the groundwork for the general notion of
+the evolutionary origins of species by natural law. The
+Vestiges
+’s grand schema of a teleological development
+of life from the earliest beginnings of the solar system in a gaseous
+nebula to the emergence of humanity under the action of a great
+“law of development”, had also been popularized for
+Victorian readers by Alfred Lord Tennyson’s epic poem
+In
+Memoriam
+(1850). This provided a context in which some could read
+Darwin as supplying additional support for the belief in an optimistic
+historical development of life under teleological guidance with the
+promise of ultimate historical redemption. Such readings also rendered
+the
+Origin
+seemingly compatible with the progressive
+evolutionism of Herbert Spencer (1820–1903; see the entry on
+Herbert Spencer
+).
+ Spencer’s writings have been shown to be an important vehicle
+by which Darwin’s views, modified to fit the progressivist views
+expounded by Spencer, were first introduced in non-Western contexts
+(Jin 2019a,b; Yang 2013; Lightman [ed.] 2015; Pusey 1983; Elshakry
+2013) Most of this popular reception ignored or revised Darwin’s
+concept of evolution by natural selection to fit these progressivist
+alternatives (Bowler 1983). The popular image often depicted of a
+great public outcry against Darwin’s work has been shown by
+careful historical analysis to be generally mythical, or at least in
+need of careful discrimination by social group, national tradition,
+and religious affiliation (Bowler 2013a; Ellegård 1958).
+Analysis of the various European receptions of Darwin’s work
+currently forms a scholarly industry in its own right (Bowler 2013a;
+Gayon 2013; Glick 1974 [1988], 2013; Glick & Shaffer 2014; Engels
+& Glick 2008; Gliboff 2008; Numbers 1998; Pancaldi, 1983 [1991];
+Todes 1989; Kelly 1981; Hull 1973). Studies of non-Western receptions
+is a newer area in Darwin studies. These display similar patterns, but
+also important differences, from the reception in European contexts
+(Jin 2019a,b; Yang 2013; Shen 2016; Elshakry 2013; Glick 1988
+“Preface”; Pusey 1983). These studies continue to display
+a common pattern in which the general reception of Darwin’s
+theories was conditioned, if not determined, by the pre-existing
+intellectual, scientific, social, and political contexts into which
+Darwin’s theories were inserted.
+Three examples—France, Germany, and China—can be
+elaborated upon. In France, Darwin’s theory was received against
+the background of the prior debates over transformism of the 1830s
+that pitted the theories of Lamarck and Etienne Geoffroy St. Hilaire
+against Cuvier (Gayon 2013; entry on
+evolutionary thought before Darwin
+,
+ 4.1). At least within official Parisian science, these debates had
+been resolved in favor of Cuvier’s anti-transformism. Darwin
+was, as a consequence, viewed as endorsing rejected science by leading
+figures of French science. As the leading physiologist and
+methodologist of French Science, Claude Bernard (1813–78) put
+this in 1865, Darwin’s theory was to be regarded with those of
+“a Goethe, an Oken, a Carus, a Geoffroy Saint Hilaire”,
+locating it within speculative philosophy of nature rather than
+granting it the status of “positive” science (Bernard
+1865: 158–159 [1957: 91–92]). The intellectual framework
+provided by the “positive philosophy” of Auguste Comte
+(1798–1857) also worked both for and against Darwin. On one
+hand, Comte’s emphasis on the historical progress of science
+over superstition and metaphysics allowed Darwin to be summoned in
+support of a theory of the progress of science. The
+Origin
+was so interpreted in the preface to the first French translation of
+the
+Origin
+made by Clémence Royer (Harvey 2008). On
+the other hand, the Comtean three stages view of history, with its
+claim about the historical transcendence of speculative and
+metaphysical periods of science by a final period of experimental
+science governed by determinate laws, placed Darwinism in a
+metaphysical phase of speculative nature philosophy, as captured in
+the above quotation from Claude Bernard.
+In the Germanies, Darwin’s work entered a complex social,
+intellectual and political situation in the wake of the failed efforts
+to establish liberal democracy in 1848. It also entered an
+intellectual culture strongly influenced by the pre-existent
+philosophical traditions of Kant, of Schelling’s
+Naturphilosophie
+, German Romanticism, and the Idealism of
+Fichte and Hegel (R.J. Richards 2002, 2008, 2013; Gliboff 2008, 2007;
+Mullen 1964). These factors formed a complex political and
+philosophical environment into which Darwin’s developmental view
+of nature and theory of the transformation of species was quickly
+assimilated, if also altered. Many readings of Darwin consequently
+interpreted his arguments against a background of Schelling’s
+philosophy of nature. Darwin’s role in debates over scientific
+materialism were also brought to the fore by the enthusiastic advocacy
+of Darwinism in Germany by University of Jena professor of zoology
+Ernst Heinrich Haeckel (1834–1919). More than any other
+individual, Haeckel made
+Darwinismus
+a major player in the
+polarized political and religious disputes of Bismarckian Germany
+(R.J. Richards 2008). Through his polemical writings, such as the
+Natural History of Creation
+(1868),
+Anthropogeny
+(1874), and
+Riddle of the Universe
+(1895–99), Haeckel
+advocated a materialist monism in the name of Darwin, and used this as
+a stick with which to beat traditional religion. Much of the
+historical conflict between religious communities and evolutionary
+biology can be traced back to Haeckel’s polemical writings,
+which went through numerous editions and translations, including
+several English and American editions that appeared into the early
+decades of the twentieth century.
+To turn to a very different context, that of China, Darwin’s
+works entered Chinese discussions by a curious route. The initial
+discussions of Darwinian theory were generated by the translation of
+Thomas Henry Huxley’s 1893 Romanes Lecture “Evolution and
+Ethics” by
+the naval science scholar Yan Fu (1854–1921) who had encountered Darwinism while  being educated at the Royal Naval College in Greenwich from 1877 to 1899.  This translation was  accompanied by Huxley’s
+“Prolegomena”, and was accompanied  with an extensive
+commentary by Yan Fu drawing heavily upon the writings of Herbert
+Spencer. This translation, published under the name of
+Tianyan
+Lun
+in 1898, has been shown to have been the main vehicle by
+which the Chinese learned of Darwin’s work (Jin 2019a,b; Yang
+2013; Pusey 1983). Beginning in 1902 with a partial translation by Ma
+Junwu (1881–1940), a Chinese scientist, trained in chemistry and metallurgy in
+Japan and Germany, the early chapters of the
+Origin
+itself
+were made available to a Chinese audience. This initial translation of the first five chapters between 1902 and 1906  by
+Ma Junwu modified the text to agree with the progressive evolutionism
+of Spencer and with Yan Fu’s popular
+Tianyan Lun.
+Only
+in September of 1920 did the Chinese have Ma Junwu’s full
+translation of Darwin’s sixth edition. This gave a more faithful
+rendering of Darwin’s text, including an accurate translation of
+Darwin’s final views on natural selection (Jin 2019a,b). As a
+political reformer and close associate of democratic reformer Sun
+Yat-Sen (1866–1925), Junwu’s concern with Darwin also was
+involved in revolutionary Chinese politics (Jin 2019a).
+3.2 The Professional Reception of Darwin’s Theory
+One cannot always distinguish between “popular” and
+“professional” receptions of Darwin. The simplest solution
+is to confine the latter designation to those who embraced
+Darwin’s version of a general theory of descent with
+modification by people with professional research and teaching
+positions in universities and scientific societies, those who were
+intimately familiar with the empirical evidence and the technical
+scientific issues under debate in the 1860s in geology, comparative
+anatomy, embryology, biogeography, and classification theory. This
+group can usually be distinguished from lay interpreters who may not
+have made distinctions between the views of Lamarck, Chambers,
+Schelling, Spencer, and Darwin on the historical development of life.
+But this only gives a crude instrument of analysis.
+The case of Ernst Haeckel displays this imprecision. He was a leading
+professor of zoology at an important German university (Jena), and he
+formed a generation of scientific workers in embryology and natural
+history who had major impact on the history of the life sciences. From
+his position, Haeckel was able to develop Darwinism both as a popular
+movement with social and political extensions, and also as a
+scientific research program that pursued the study of morphology and
+comparative embryology in the light of Darwin’s general theory
+(R.J. Richards 1992: chp. 6, 2008, 2013; Nyhart 1995).
+If we concentrate on the reception by workers holding professional
+positions in museums, laboratories, and research and teaching
+positions in universities and membership in elite scientific
+societies, Darwin’s reception was varied (Bowler 1996; Hull
+1973). Many prominent members of Darwin’s immediate intellectual
+circle—Adam Sedgwick, William Whewell, Charles Lyell, Richard
+Owen, and Thomas Huxley—had previously been highly critical of
+Chambers’s
+Vestiges
+in the 1840s for its speculative
+character and its scientific incompetence (Secord 2000). Darwin
+himself feared a similar reception, and he recognized the substantial
+challenge facing him in convincing this group and the larger community
+of scientific specialists with which he interacted and corresponded
+widely. With this group he was only partially successful.
+Historical studies have revealed that only rarely did members of the
+scientific elites accept and develop Darwin’s theories exactly
+as they were presented in his texts. Statistical studies on the
+reception by the scientific community in England in the first decade
+after the publication of the
+Origin
+have shown a complicated
+picture in which there was neither wide-spread conversion of the
+scientific community to Darwin’s views, nor a clear generational
+stratification between younger converts and older resisters, counter
+to Darwin’s own predictions in the final chapter of the
+Origin
+(Hull et al. 1978). These studies also reveal a
+distinct willingness within the scientific community to separate
+acceptance of Darwin’s more general claim of species descent
+with modification from common ancestors from the endorsement of his
+explanation of this descent through the action of natural selection
+(Bowler 1983, 2013a). To utilize the categories of a Lakatosian
+“research program” analysis of scientific theories in
+their historical extension, one can distinguish between a “hard
+core” of defining central assumptions, a “protective
+belt” of auxiliary hypotheses that protect this central core
+from refutations, and a “positive heuristic” of applied
+research applications that are subject to continued revision and even
+refutation (Lakatos 1970). With these distinctions in mind, it is
+difficult to claim that anything more than the belief in descent from
+common ancestry was maintained by a broadly international scientific
+community at the “hard core” level in the period between
+1870–1930. This meant that the historical impact of
+Darwin’s theories on the professional scientific community must
+consider the important deviations from his own formulations (Bowler
+1983, 2003).
+Of central importance in analyzing this complex professional reception
+was the role assigned to normal individual variation and its causes.
+In the initial public presentation of his theory, Darwin had relied on
+the novel claim that small individual variations—the kind of
+differences considered by an earlier tradition as merely
+“accidental”—formed the raw material upon which, by
+unlimited addition through the action of natural selection, major
+changes could be produced sufficient to explain the origin and
+subsequent differences in all the various forms of life over time.
+Darwin, however, left the specific causes of this variation unspecified beyond some effect of the environment on the sexual organs.
+Variation was presented in the
+Origin
+with the statement that
+“the laws governing inheritance are quite unknown” (Darwin
+1859: 13). In keeping with his commitment to the
+gradualism of Lyellian geology, Darwin also rejected the role of major
+“sports” or other sources of discontinuous change in this
+process.
+As critics focused their attacks on the claim that such
+micro-differences between individuals could be accumulated over time
+without natural limits, Darwin began a series of modifications and
+revisions of the theory through a back and forth dialogue with his
+critics that can be followed by revisions to the text of the
+Origin
+. In the fourth edition of 1866, for example, Darwin
+inserted the claim that the continuous gradualism illustrated by his
+branching diagram was misleading, and that transformative change does
+not necessarily go on continuously. “It is far more probable
+that each form remains for long periods unaltered, and then again
+undergoes modification” (
+Origin
+1866: 132 [Peckham 1959
+[2006: 213]). This change-stasis-change model presumably allowed
+variation to stabilize for a period of time around a mean value from
+which additional change could then resume. Such a model would,
+however, presumably require even more time for its working than the
+multi-millions of years assumed in the original presentation of the
+theory.
+The difficulties in Darwin’s arguments that had emerged by 1866
+were highlighted in a lengthy and telling critique in 1867 by the
+Scottish engineer Henry Fleeming Jenkin (1833–85) (typically
+Fleeming Jenkin). Using an argument previously raised in the 1830s by
+Charles Lyell against Lamarck, Fleeming Jenkin cited empirical
+evidence from domestic breeding that suggested a distinct limitation
+on the degree of variation, and denied that selection upon this could
+be taken to the extent assumed by Darwin (Fleeming Jenkin 1867; Hoquet
+2013). Using a loosely mathematical argument, Fleeming Jenkin argued
+that the effects of intercrossing would continuously swamp deviations
+from the mean values of characters and result in a tendency of the
+variation in a population to return to mean values over time. For
+Fleeming Jenkin, Darwin’s reliance on continuous additive
+deviation was presumed to be undermined by this argument, and only
+more dramatic and discontinuous change—something Darwin
+explicitly rejected—could account for the origin of new
+species.
+Fleeming Jenkin also argued that the time needed by Darwin’s
+theory was simply inadequate, supporting this claim by an appeal to
+the physical calculations of the probable age of the earth presented
+in publications by Fleeming Jenkin’s mentor, the Glasgow
+physicist William Thompson (Lord Kelvin, 1824–1907; Burchfield,
+1975). On the basis of Thompson’s quantitative physical
+arguments, Fleeming Jenkin judged the time since the origin of the
+solar system to be insufficient for the Darwinian gradualist theory of
+species transformation to take place. Jenkin’s multi-pronged
+argument gave Darwin considerable difficulties and set the stage for
+more detailed empirical inquiries into variation and its causes. The
+time difficulties were only resolved in the twentieth-century with the
+discovery of radioactivity.
+As a solution to the variation question, Darwin developed his
+“provisional hypothesis” of pangenesis, which he presented
+the year after the appearance of the Fleeming Jenkin review in his
+two-volume
+Variation of Plants and Animals Under
+Domestication
+(1868, second edition 1875; Olby 2013). Although
+this theory had been formulated independently of the Jenkin review
+(Olby 1963), in effect it functioned as his reply to it. This offered
+a causal theory of variation and inheritance through a return to a
+theory resembling Buffon’s theory of the organic molecules of
+the previous century (see entry on
+evolutionary thought before Darwin
+section 3.2). Invisible material “gemmules” were presumed
+to exist within the cells, and according to theory, these were subject
+to possible external alteration by environment and circumstance. The
+gemmules were then shed continually into the blood stream (the
+“transport” hypothesis) and assembled by “mutual affinity for each other, leading to their aggregation into buds or into the sexual elements”
+(
+Variation
+1875: vol. 2: 370). In this form they were then
+transmitted—the details were not explained—by sexual
+generation to the next generation to form the new organism out of
+“units of which each individual is composed” (ibid.). In
+Darwin’s view, this hypothesis united together numerous issues
+into a coherent and causal theory of inheritance and explained the
+basis of variation. It also explained how use-disuse inheritance, a
+theory which Darwin never abandoned, could work.
+The pangenesis theory, although not specifically referred to, seems to
+be behind an important distinction he inserted into the fifth edition
+of the
+Origin
+of 1869 where he made a direct reply to the
+criticisms of Jenkin. In this textual revision, Darwin distinguished
+“certain variations, which no one would
+rank as mere individual differences”, from ordinary variations
+(
+Origin
+1869: 105) [Peckham 1959
+[2006: 178–179]]). This revision shifted Darwin’s emphasis
+away from his early reliance on normal slight individual variation,
+and gave new status to what he termed by the sixth edition of 1872 “strongly
+marked” variations. The latter were now the form of variation to
+be given primary evolutionary significance, and presumably this was
+more likely to be transmitted to the offspring, although details are
+left unclear. In this form it presumably could be maintained in a
+population against the tendency to swamping by intercrossing.
+Darwin’s struggles over this issue defined a set of problems
+that British life scientists in particular were to deal with into the
+1930s. The debates over variation placed Darwinism in a defensive
+posture that forced its supporters into major revisions in the
+Darwinian research program (Gayon 1998; Vorzimmer 1970). The long
+period between 1870 and 1930, sometimes characterized as the
+“Eclipse” of Darwinism, or at least of his natural
+selection theory, was the outcome of these debates (Bowler 1983,
+2013a).
+4. Human Evolution and the
+Descent of Man
+4.1 The Genesis of Darwin’s
+Descent
+Darwin had retained his own conclusions on human evolution quietly in
+the background while the defense of his general theory was conducted
+by advocates as diverse as Thomas Henry Huxley (1825–95) in
+England, Asa Gray (1810–88) in the United States, and Ernst
+Haeckel (1834–1919) in Germany. Darwin’s own position on
+the “human question” remained unclear, and his rhetorical
+situating of the
+Origin
+within a tradition of divine creation
+by secondary law, captured in the frontispiece quotations from William
+Whewell and Francis Bacon, retained in all editions, in some degree
+allowed many before 1871 to see Darwin as more open to religious views
+than those of some of his popularizers.
+It was in February of 1867 that Darwin decided to remove material from
+his massive manuscript of the
+Variation of Plants and Animals
+Under Domestication
+and create a “very small volume,
+‘an essay on the origin of mankind’” (Darwin to
+Hooker, 8 February 1867 and CD to Turner, 11 February 1867, Burkhardt
+et al. 2006 15: 74, 80). At this time he also sent to several
+correspondents a questionnaire asking for information on human
+emotional expression. This expanded into a major enterprise in which
+he became deeply engaged with the issue of the implications of his
+theory for ethics, writing to Asa Gray that “the difficulties of
+the Moral sense has [sic] caused me much labor” (CD to Gray, 15 March
+1870, Burkhardt et al. 2010 18: 68). This was expanded into a two volume
+work by the time it was sent to the printer in June of 1870. By this
+date he had also pulled out a separate section from the
+Variation
+manuscript that was to become the
+Expression of
+the Emotions in Man and the Animals
+,published in 1872.
+4.2. Reception of the
+Descent
+The dual publication of the
+Descent of Man, and Selection in
+Relation to Sex
+(1871) and the
+Expression of the
+Emotions
+(1872) created a watershed in the public reception of
+Darwin’s views (Radick 2013). Although Darwin had first worked
+out many of his views on human evolution in the early “M”
+and “N” Notebooks of 1838–40, public knowledge of
+Darwin’s own conclusions on human evolution rested on the one
+vague sentence on the issue in the
+Origin
+itself. The
+Descent
+, however, made public his more radical conclusions,
+and seemed to many of his readers, even those previously sympathetic
+to the
+Origin
+, to throw Darwin’s weight behind
+materialist and anti-religious forces spearheaded by such individuals
+as German physiologist Friederich Ludwig Büchner
+(1824–1899), Dutch physiologist Jacob Moleschott
+(1822–93), English socialist and Darwin popularizer Edward
+Aveling (1849–98), and German zoologist Ernst Haeckel. Although
+the question of human evolution had already been dealt with in part by
+Thomas Huxley in the
+Man’s Place in Nature
+of 1863, by
+Charles Lyell in the same year in his
+Geological Evidences of the
+Antiquity of Man
+, by Alfred Russel Wallace in articles in 1864
+and 1870 (Wallace 1864, 1870 and online), and by Haeckel in
+his
+Natürliche Schöpfungsgeschichte
+of 1868, these
+authors had either not dealt with the full range of questions
+presented by the inclusion of human beings in the evolutionary process
+(Huxley), or they had emphasized the moral and mental discontinuity
+between humans and animals (Lyell, Wallace). Only Haeckel had drawn
+out a more general reductive conception of humanity from evolutionary
+theory and he had not ventured into the specific issues of ethics,
+social organization, the origins of human races, and the relation of
+human mental properties to those of animals, all of which are dealt
+with in the
+Descent
+. Darwin’s two-volume treatise
+presented, as one commentator has put it, “a closer resemblance
+to Darwin’s early naturalistic vision than anything else he ever
+published” (Durant 1985: 294).
+Darwin’s extension of his theory to a range of questions
+traditionally discussed within philosophy, theology, and social and
+political theory, hardened the opposition of many religiously-based
+communities to evolutionary theory, although here again, distinctions
+must be made between different communities (Ellegård 1958: chp.
+14). Such opposition was not simply based upon the denial of the
+literal scriptural account of the origins of humankind, an issue that
+played out differently within the main religious communions (Haught
+2013; Finnegan 2013; Swetlitz 2013; Artigas, Glick, & Martinez
+2006; Moore 1979). The more fundamental opposition was due to the
+denial of distinctions, other than those of degree, between
+fundamental human properties and those of animals. Furthermore, the
+apparent denial of some kind of divine guidance in the processes
+behind human evolution and the non-teleological character of
+Darwin’s final formulations of the natural selection theory in
+the fifth and sixth editions of the
+Origin
+, hardened this
+opposition. His adoption from Herbert Spencer of designator
+“survival of the fittest” as a synonym for “natural
+selection” in the fifth edition added to this growing
+opposition. As a consequence, the favorable readings that many
+influential religious thinkers—John Henry Newman
+(1801–1890) is a good example—had given to the original
+Origin
+, disappeared. The rhetoric of the
+Descent
+,
+with its conclusion that “man is descended from a hairy
+quadruped, furnished with a tail and pointed ears” (1871: vol.
+2: 389), presented to the public a different Darwin than many had
+associated with the author of the
+Journal of Researches
+and
+the early editions of the
+Origin
+.
+Most striking in comparing the
+Origin
+to the
+Descent
+was the strong emphasis on the workings of the secondary process of
+sexual selection in the animal kingdom (E. Richards 2017;
+R.A. Richards 2013). Sexual selection—the selection of females
+by males or vice versa for breeding purposes—had given a general
+statement of this principle in chapter four of the
+Origin
+,
+but this played a minor role in the original argument, and its
+importance was denied by contemporaries like A. R. Wallace. Darwin now
+developed this secondary form of selection in extensive detail as a
+factor in evolution that could even work against ordinary natural
+selection. Sexual selection could now be marshaled to explain both
+sexual dimorphism and also those character and properties of
+organisms—elaborate feeding organs, bright colors on fish and
+birds, and seemingly maladaptive structures such as the great horn on
+the Rhinoceros beetle—, that might appear to be anomalous
+outcomes of ordinary natural selection working to the optimal survival
+of organisms in nature. In a dramatic extension of this principle to
+human beings, the combination of natural and sexual selection is used
+to explain the origins of the human beings from simian ancestors. It
+also explains the sexual dimorphism displayed by human beings, and is
+the main factor accounting for the origin of human races.
+4.3 The Ethical Theory of the
+Descent of Man
+The many dimensions of “social” Darwinism that were
+affected by the
+Descent
+demand separate articles, as does the
+separate impact of the
+Expression of the Emotions
+, a treatise
+that in many respects is different in tone and content from the
+Descent.
+It is also the case that many of the social
+implications of evolutionary theory were due more to the influence of
+Herbert Spencer than to Darwin’s own writings, and for this
+reason what has been termed “social Darwinism” may have
+developed independently of Darwin (Bowler 2013b). In this closing
+subsection the author will focus exclusively on one important aspect
+of this broader social impact of the
+Descent
+, the Darwinian
+treatment of ethics. This will be examined within its specific
+Victorian context, rather than in light of more recent discussions of
+altruism within contemporary sociobiology that may owe some filiation
+with these Darwinian discussion (see entries on
+morality and evolutionary biology
+and
+biological altruism
+).
+As can be seen from the letter to Asa Gray of March 1870 (Burkhardt et
+al. 2010 18: 68) , Darwin was
+particularly exercised by the issue of ethics in preparing the
+Descent
+. His published treatment focused the long chapter
+three of the
+Descent
+on the issue of the “moral
+sense”. In approaching ethics “exclusively from the side
+of natural history” (
+Descent
+1871: vol 1: 71), he
+offered some innovations that do not easily map on to standard ethical
+positions formulated around the familiar categories of Utilitarianism
+and the Kantian heritage of Deontology. The closest connections might
+be drawn with certain aspects of contemporary virtue ethics and some
+aspects of Natural Law theory, although there are many specific
+differences that prevent assimilation to these traditions as well
+(Sloan 1999). His closest historical affinities are with the Scottish
+moral sense tradition of Adam Smith, David Hume, and particularly as
+this was developed in the writings of Darwin’s distant relative,
+Sir James Macintosh (1765–1832) (R.J. Richards
+1987, 1999, 2003,
+.
+Traditional moral sense theory linked ethical behavior to an innate
+property or instinct that was considered universal in human beings,
+even though it required education and cultivation to reach its highest
+expression (see
+moral sentimentalism
+in this encyclopedia). This inherent property, or “moral
+sense”, presumably explained such phenomena as ethical
+conscience, and it also accounted for altruistic actions that could
+not be reduced to a hedonic seeking of pleasure and avoiding pain. It
+also did not involve the rational calculation of advantage by the
+individual prior to action.
+Darwin’s reinterpretation of the moral sense tradition within
+his evolutionary framework, however, implied important
+transformations. The moral sense, for Darwin, was derived by
+biological descent from animal instinct, and particularly from the
+social instincts developed by natural selection. From this
+perspective, Darwin could then argue for a genuine
+“homology” of ethical foundations holding between humans
+and animals, with the precursors of human ethical behavior found in
+the behavior of other animals, particularly those with social
+organization. Natural and sexual selection then shaped these ethical
+instincts in ways that favored group survival rather than immediate
+individual benefit (
+Descent
+1871: vol. 1: 98). Human ethical
+behavior is therefore grounded in a natural property, and ethical
+action can occur without moral calculus or rational deliberation.
+Because he considered ethical action to be grounded on a biologically
+innate property, Darwin criticized John Stuart Mill’s
+Utilitarian theory because it relied on acquired habits rather than
+something present in humans from the beginning (1871: vol. 1: 71n5).
+The innate moral sense is his explanation for self-sacrifice and other
+altruistic acts that cannot be attributed to individual self-survival
+(1871: vol. 1: 86). Humans can be
+impelled by the same instinctive motive, which made the heroic little
+American monkey…attack the great and dreaded baboon, to save
+his keeper. (
+Descent
+1871: vol. 1: 87)
+When moral conflict occurs, this is generally attributed to a conflict
+of instincts, with the stronger of two conflicting instincts favored
+by natural selection insofar as it favors group benefit
+(
+Descent
+1871: vol. 1: 84). In human beings the “more
+enduring Social Instincts” thus come to override the less
+persistent “individual” instincts (1871: vol. 1: 87).
+The adequacy of evolutionary ethical naturalism as a foundation for
+ethical realism has been a point of contention for Darwin’s
+contemporaries and successors since the publication of the
+Descent
+. For some moral philosophers, Darwin had simply
+reduced ethics to a property subject to the relativizing tendencies of
+natural selection (Farber 1994: chp. 5). It was, in the view of
+Darwin’s philosophical critics, to reduce ethics to biology and
+in doing so, to offer no way to distinguish ethical goods from
+survival advantages. Not even for some strong supporters of Darwinism,
+such as Thomas Huxley and Alfred Russel Wallace, was Darwin’s
+account adequate (Farber 1994: chp. 4). Much of subsequent moral
+philosophy was to be grounded upon the canonical acceptance of the
+“is-ought” distinction,  which developed from this critique of
+“evolutionary” ethical theory. Receiving its most
+influential expression in G. E. Moore ’s (1873–1958)
+Principia Ethica
+(1903)—itself an attack on
+Spencer’s version of evolutionary ethics—, the debate over
+the adequacy of evolutionary ethics has continued (Hauser 2006; Katz
+(ed.) 2000; Maienschein & Ruse (eds.) 1999).
+5. Summary and Conclusion
+The historiography adopted in this article rejects a simple linear
+story of the development of Darwinian theory as a history of
+increasingly true theories leading to a present consensus. Instead it
+favors a more complicated “competing research programs”
+analysis (Lakatos 1970), programs which through historical competition
+have resulted in more adequate accounts of the relation of living
+beings to historical time and naturalistic processes, but which show
+repeated historical competition with one another .
+More general philosophical issues associated with evolutionary
+theory—those surrounding natural teleology, ethics, the relation
+of evolutionary naturalism to the claims of religious traditions, the
+implications for the relation of human beings to the rest of the
+organic world—continue as issues of scholarly inquiry. If
+contemporary neo-selectionist evolutionary theory displays continuity
+with select features of the theories of Darwin, alternative
+interpretations, such as the current movement known as evolutionary
+developmental theory or “evo-devo”, mark a return to
+presumably discarded traditions of the nineteenth and twentieth
+century that considered it essential to link evolution with embryonic
+development and with the effects of external conditions on inheritance
+(Gilbert 2015; Newman 2015; Laubichler & Maienschein 2013, [eds]
+2007; Gissis & Jablonka [eds] 2011; Pigliucci & Müller
+[eds] 2010; Amundson 2005; Gilbert, Opitz, & Raff 1996). Such
+developments suggest that there are still substantial theoretical
+issues at stake that may alter the future understanding of
+evolutionary theory in important ways (Sloan, McKenny, & Eggleson
+[eds] 2015).
+Bibliography
+Amundson, Ron, 2005,
+The Changing Role of the Embryo in
+Evolutionary Thought: Roots of Evo-Devo
+, Cambridge: Cambridge
+University Press. doi:10.1017/CBO9781139164856
+Artigas, Mariano, Thomas F. Glick, and Rafael A. Martínez,
+2006,
+Negotiating Darwin: The Vatican Confronts Evolution,
+1877–1902
+, (Medicine, Science, and Religion in Historical
+Context), Baltimore, MD: Johns Hopkins University Press.
+Beatty, John 1985, “Speaking of Species: Darwin’s
+Strategy”, in Kohn 1985a: 265–281.
+doi:10.1515/9781400854714.265
+Bernard, Claude, 1865 [1957],
+Introduction à
+l’étude de la médecine expérimentale
+,
+Paris: J.-B. Baillière. Translated as
+Introduction to the
+Study of Experimental Medicine
+, Henry Copley Greene (trans.), New
+York: Dover. Translation version originally published in 1927, New
+York: Macmillan.
+ [
+Bernard 1865 available online
+]
+Bowlby, John, 1990,
+Charles Darwin: A New Life
+, New York:
+Norton.
+Bowler, Peter J., 1976,
+Fossils and Progress: Paleontology and
+the Idea of Progressive Evolution in the Nineteenth Century
+, New
+York: Science History.
+–––, 1983,
+The Eclipse of Darwinism:
+Anti-Darwinian Evolution Theories in the Decades Around 1900
+,
+Baltimore, MD: Johns Hopkins University Press.
+–––, 1990,
+Charles Darwin: The Man and His
+Influence
+, Oxford: Blackwell.
+–––, 1996,
+Life’s Splendid Drama:
+Evolutionary Biology and the Reconstruction of Life’s Ancestry,
+1860–1940
+, Chicago: University of Chicago Press.
+–––, 2003,
+Evolution: the History of an
+Idea
+, third edition, completely revised and expanded, Berkeley,
+CA: University of California Press.
+–––, 2013a, “Darwinism in Britain”,
+in Ruse 2013a: 218–225. doi:10.1017/CBO9781139026895.028
+–––, 2013b,
+Darwin Deleted:Imagining a World
+Without Darwin
+, Chicago: University of Chicago Press.
+Browne, Janet, 1995,
+Charles Darwin: Voyaging
+, New York:
+Knopf.
+–––, 2002,
+Charles Darwin: The Power of
+Place
+, Princeton: Princeton University Press.
+Burchfield, Joe D., 1975,
+Lord Kelvin and the Age of the
+Earth
+, Chicago: University of Chicago Press.
+Burkhardt, Frederick et al., (eds.), 1985–,
+The
+Correspondence of Charles Darwin
+, Cambridge: Cambridge University
+Press. 26 volumes as of October 2018.
+Chambers, Robert, 1844 [1994],
+Vestiges of the Natural History
+of Creation
+, facsimile reprint of first edition, J. Secord (ed.),
+Chicago: University of Chicago Press.
+ [
+Chambers 1844 available online
+]
+Darwin, Charles Robert, 1836–1844 [1987],
+Charles
+Darwin’s Notebooks: 1836–1844
+, Paul H. Barrett, Peter J.
+Gautrey, Sandra Herbert, David Kohn, and Sydney Smith (eds.),
+Cambridge: Cambridge University Press. See also the Darwin Online
+section on
+Darwin’s notebooks and reading lists
+.
+–––, 1856–1858 [1974],
+Charles
+Darwin’s “Natural Selection”, Being the Second Part
+of his Big Species Book Written from 1856 to 1858
+, R.C. Stauffer
+(ed.), 1974, Cambridge: Cambridge University Press.
+ [
+Natural Selection
+1974 available online
+]
+–––, 1842 [1909] [1996], “1842 Sketch On
+Selection Under Domestication, Natural Selection, and Organic Beings
+in the Wild State”, in Darwin 1996: 89–99. Also in Darwin
+1909: 1–53.
+–––, 1844a [1909] [1996], “1844 Essay:
+Variation of Organic Beings in the Wild State”, in Darwin 1996:
+99–117. Also in Darwin 1909: 55–255.
+–––, 1844b,
+Geological Observations on the
+Volcanic Islands…
+, London: Smith Elder and Co.
+ [
+Darwin 1844b available online
+]
+–––,
+Origin
+1859,
+On the Origin of
+Species By Means of Natural Selection
+, London: Murray.
+Various
+Origin
+editions are available online
+.
+ The present entry refers to the following:
+1859, first edition, There is a 1964 facsimile reprint of this
+edition, Cambridge, MA: Harvard University Press.
+ [
+Origin
+first edition available online
+]
+1860, second edition,
+ [
+Origin
+second edition available online
+]
+1861, third edition,
+ [
+Origin
+third edition available online
+]
+1862, first French edition,
+De l’origine des
+espèces
+, Clémence Royer (trans.), Paris:
+Guillaumin.
+ [
+Origin
+French first edition available online
+]
+1866, fourth edition,
+ [
+Origin
+fourth edition available online
+]
+1869, fifth edition,
+ [
+Origin
+fifth edition available online
+]
+1872, sixth edition,
+ [
+Origin
+sixth edition available online
+]
+–––,
+Variation
+1868 [1875],
+The
+Variation of Plants and Animals Under Domestication
+, two volumes.
+See Darwin Online discussion of editions
+.
+1868, first edition, London: John Murray.
+ [
+Variation
+1868 volume 1
+and
+1868 volume 2
+available online]
+1875, second edition, London: John Murray.
+ [
+Variation
+1875 volume 1
+and
+1875 volume 2
+available online]
+–––,
+Descent
+1871,
+The Descent of
+Man, and Selection in Relation to Sex
+, two volumes, London: John
+Murray. Reprinted, James Moore and Adrian Desmond, London: Penguin
+Classics, 2004.
+ [
+Descent
+1871 available online
+]
+–––,
+Expression
+1872,
+Expression of
+the Emotions in Man and the Animals
+, London: John Murray.
+ [
+Expression
+available online
+]
+–––, 1909,
+The Foundations of the Origin of
+Species, Two Essays Written in 1842 and 1844
+, Francis Darwin
+(ed.), Cambridge: Cambridge University Press.
+ [
+Darwin 1909 available online
+]
+–––, 1996,
+On Evolution: The Development of
+the Theory of Natural Selection
+, Thomas F. Glick, and David Kohn
+(eds.), Indianapolis, IN: Hackett. Selections of Darwin’s
+works.
+Depew, David J., 2008, “The Rhetoric of the Origin of
+Species”, in Ruse and Richards 2008: 237–255.
+doi:10.1017/CCOL9780521870795.015
+Depew, David J. and Bruce H. Weber, 1995,
+Darwinism Evolving:
+Systems Dynamics and the Genealogy of Natural Selection
+,
+Cambridge, MA: MIT Press.
+Desmond, Adrian J., 1984,
+Archetypes and Ancestors:
+Palaeontology in Victorian London, 1850–1875
+, Chicago:
+University of Chicago Press.
+–––, 1989,
+The Politics of Evolution
+,
+Chicago: University of Chicago Press.
+Desmond, Adrian J. and James R. Moore, 1991,
+Darwin
+,
+London: Michael Joseph.
+–––, 2009,
+Darwin’s Sacred Cause: How
+a Hatred of Slavery Shaped Darwin’s Views on Human
+Evolution
+, Boston: Houghton, Mifflin, Harcourt.
+Durant, John R., 1985, “The Ascent of Nature in
+Darwin’s
+Descent of Man
+”, in Kohn 1985a:
+283–306. doi:10.1515/9781400854714.283
+Ellegård, Alvar, 1958 [1990],
+Darwin and the General
+Reader; the Reception of Darwin’s Theory of Evolution in the British
+Periodical Press, 1859–1872
+, reprint of 1958 edition,
+Chicago: University of Chicago Press.
+Elshakry, Marwa, 2013,
+Reading Darwin in Arabic,
+1860–1950.
+Chicago: University of Chicago Press.
+Engels, Eve-Marie and Thomas F. Glick (eds.), 2008,
+The
+Reception of Charles Darwin in Europe
+, (The Athlone Critical
+Traditions Series 17), London/New York: Continuum.
+Ereshefsky, Marc (ed.), 1992,
+The Units of Evolution: Essays
+on the Nature of Species
+, Cambridge, MA: MIT Press.
+Farber, Paul Lawrence, 1994,
+The Temptations of Evolutionary
+Ethics
+, Berkeley: University of California Press.
+Finnegan, Diarmid A., 2013, “Darwin and
+Protestantism”, in Ruse 2013a: 468–475.
+doi:10.1017/CBO9781139026895.060
+Gayon, Jean, 1998,
+Darwinism’s Struggle for Survival:
+Heredity and the Hypothesis of Natural Selection
+, Cambridge:
+Cambridge University Press.
+–––, 2003 [2009], “From Darwin to Today in
+Evolutionary Biology”, in Hodge and Radick 2003: 240–264,
+doi:10.1017/CCOL0521771978.011 and also Hodge and Radick 2009:
+277–301 doi:10.1017/CCOL9780521884754.012
+–––, 2013, “Darwin and Darwinism in France
+before 1900”, in Ruse 2013a: 243–249.
+doi:10.1017/CBO9781139026895.031
+–––, 2015, “What Future for
+Darwinism?”, in Sloan, McKenny and Eggleson 2015:
+404–423.
+Gilbert, Scott F., 2015, “Evolution Through Developmental
+Change”, in Sloan, McKenny, & Eggleson 2015:
+35–60.
+Gilbert, Scott F., John M. Opitz, and Rudolf A. Raff, 1996,
+“Resynthesizing Evolutionary and Developmental Biology”,
+Developmental Biology
+, 173(2): 357–372.
+doi:10.1006/dbio.1996.0032
+Gissis, Snait B. and Eva Jablonka (eds.), 2011,
+Transformations of Lamarckism: From Subtle Fluids to Molecular
+Biology
+, (Vienna Series in Theoretical Biology), Cambridge, MA:
+MIT Press.
+Gliboff, Sander, 2007, “H. G. Bronn and the History of
+Nature”,
+Journal of the History of Biology
+, 40(2):
+259–294. doi:10.1007/s10739-006-9114-4
+–––, 2008,
+H. G. Bronn, Ernst Haeckel, and
+the Origins of German Darwinism: A Study in Translation and
+Transformation
+, Cambridge, MA: MIT Press.
+Glick, Thomas F. (ed.), 1974 [1988],
+The Comparative Reception
+of Darwinism
+, (The Dan Danciger Publication Series), Austin, TX:
+University of Texas Press. New edition with new preface, Chicago:
+University of Chicago Press, 1988.
+–––, 2013, “Darwinism in Latin
+America”, in Ruse 2013a: 258–263.
+doi:10.1017/CBO9781139026895.033
+Glick, Thomas F. and Elinor S. Shaffer (eds.), 2014,
+The
+Literary and Cultural Reception of Charles Darwin in Europe
+, (The
+Reception of British and Irish Authors), London: Bloomsbury.
+Gray, Asa, 1860, “Review: The Origin of Species by Means of
+Natural Selection”,
+American Journal of Science and
+Arts
+, series 2, 29: 153–184, written anonymously.
+doi:10.2475/ajs.s2-29.86.153
+ [
+Gray 1860 available online
+]
+Haeckel, Ernst, 1868,
+Natürliche
+Schöpfungsgeschichte
+, Berlin: G. Reimer. Translated as
+The History of Creation
+, two volumes, London: Henry S. King,
+1876.
+–––, 1874,
+Anthropogenie oder
+Entwickelungsgeschichte des Menschen
+(
+Anthropogeny: Or, the
+Evolutionary History of Man
+). Translated as
+The Evolution of
+Man
+.
+–––, 1895–99,
+Die
+Welträthsel
+(
+Riddle of the Universe
+). Translated by
+Joseph McCabe, New York/London: Harper & Brothers, 1901.
+Hauser, Marc D., 2006,
+Moral Minds: How Nature Designed Our
+Universal Sense of Right and Wrong
+, New York: Ecco.
+Haught, John F., 2013, “Darwin and Catholicism”, in
+Ruse 2013a: 485–492. doi:10.1017/CBO9781139026895.062
+Harvey, Joy, 2008, “Darwin in French Dress: Translating,
+Publishing and Supporting Darwin in Nineteenth-Century France”,
+in Engels and Glick 2008: 354–374.
+Herbert, Sandra, 2005,
+Charles Darwin, Geologist
+, Ithaca,
+NY: Cornell University Press.
+Herschel, John F. W., 1830 [1987],
+A Preliminary Discourse on
+the Study of Natural Philosophy
+, reprint, Chicago: University of
+Chicago Press.
+ [
+Herschel 1830 available online
+]
+Hodge, Jonathan [M.J.S.}, 1977, “The Structure and Strategy
+of Darwin’s ‘Long Argument’”,
+British
+Journal for the History of Science
+, 10(3): 237.
+doi:10.1017/S0007087400015685
+–––,1983a, “Darwin and the Laws of the
+Animate Part of the Terrestrial System (1835–1837): On the
+Lyellian Origins of His Zoonomical Explanatory Program”,
+Studies in the History of Biology
+, 6: 1–106.
+–––, 1983b, “The Development of
+Darwin’s General Biological Theorizing”, in D. S. Bendall,
+Evolution From Molecules to Men
+, Cambridge: Cambridge
+University Press, 43–62.
+–––, 1985, “Darwin as a Lifelong
+Generation Theorist”, in Kohn 1985a: 207–243.
+doi:10.1515/9781400854714.207
+–––, 2003 [2009], “The Notebook Programmes
+and Projects of Darwin’s London Years”, in Hodge and Radick
+2003: 40–68, doi:10.1017/CCOL0521771978.003 and in Hodge and
+Radick 2009: 44–72, doi:10.1017/CCOL9780521884754.003
+–––, 2013a, “The Origins of the
+Origin
+”, in Ruse 2013a: 64–71.
+doi:10.1017/CBO9781139026895.007
+–––, 2013b, “Darwin’s Book:
+On the Origin of Species
+”,
+Science and Education
+, 22(9): 2267–2294. doi:10.1007/s11191-012-9544-7
+Hodge, Jonathan and Gregory Radick (eds.), 2003 [2009],
+The
+Cambridge Companion to Darwin
+, Cambridge: Cambridge University
+Press, doi:10.1017/CCOL0521771978. Second edition, 2009,
+doi:10.1017/CCOL9780521884754
+Hoquet, Thierry, 2013, “The Evolution of the Origin
+(1859–1872)”, in Ruse 2013a: 158–164.
+doi:10.1017/CBO9781139026895.020
+Hösle, Vittorio and Christian Illies (eds.), 2005,
+Darwinism & Philosophy
+, Notre Dame, IN: University of
+Notre Dame Press.
+Hull, David L. (ed.), 1973,
+Darwin and His Critics: The
+Reception of Darwin’s Theory of Evolution by the Scientific
+Community
+, Cambridge, MA: Harvard University Press.
+–––, 1989,
+The Metaphysics of
+Evolution
+, (SUNY Series in Philosophy and Biology), Albany, NY:
+State University of New York Press.
+–––, 2003 [2009], “Darwin’s Science and
+Victorian Philosophy of Science”, in Hodge and Radick 2003:
+168–191, doi:10.1017/CCOL0521771978.008 and Hodge and Gregory
+Radick 2009: 173–196, doi:10.1017/CCOL9780521884754.008
+Hull, David L., Peter D. Tessner, and Arthur M. Diamond, 1978,
+“Planck’s Principle”,
+Science
+, 202(4369):
+717–723. doi:10.1126/science.202.4369.717
+Huxley, Thomas Henry, 1863,
+Evidence as to Man’s Place
+in Nature
+, London: Williams and Norgate.
+ [
+Huxley 1863 available online
+]
+–––, 1893, “Evolution and Ethics”,
+London: Macmillan. Romanes lecture. Reprinted in Huxley 1895.
+–––, 1895,
+Evolution and Ethics and Other
+Essays
+, London: Macmillan. Includes a “Prolegomena”.
+
+Parts translated into Chinese by Yan Fu as 天演論
+
+(
+Tianyan lun
+), 1898.
+
+ [
+Huxley 1895 available online
+]
+
+ [
+Yan Fu translation of Huxley 1895 available online
+]
+Jenkin, H. Fleeming, 1867 [1973], “[Review] The Origin of
+Species”,
+The North British Review
+, 46(June):
+277–318. Reprinted in Hull 1973: 303–350.
+ [
+Jenkin 1867 available online
+]
+Jin, Xiaoxing, 2019a, “Darwin in China,
+1870–1935”, Unpublished Ph.D. Thesis, University of Notre
+Dame.
+–––, 2019b, “Translation and
+Transmutation: The Origin of Species in China”,
+The British
+Journal for the History of Science
+, 52(1): 117–141.
+doi:10.1017/S0007087418000808
+Johnson, Paul, 2012,
+Darwin: Portrait of a Genius
+, New
+York: Viking.
+Katz, Leonard D. (ed.), 2000,
+Evolutionary Origins of
+Morality: Cross-Disciplinary Perspectives
+, Exeter, UK: Imprint
+Academic.
+Kelly, Alfred, 1981,
+The Descent of Darwin: The Popularization
+of Darwinism in Germany, 1860–1914
+, Chapel Hill, NC:
+University of North Carolina Press.
+Keynes, Richard (ed.), 2000,
+Charles Darwin’s Zoology
+Notes & Specimen Lists from H.M.S. Beagle
+, Cambridge:
+Cambridge University Press.
+ [
+Keynes 2000 available online
+]
+Kohn, David (ed.), 1985a,
+The Darwinian Heritage
+,
+Princeton: Princeton University Press. doi:10.1515/9781400854714
+–––, 1985b, “Darwin’s Principle of
+Divergence as Internal Dialogue”, in Kohn 1985a: 245–257.
+doi:10.1515/9781400854714.245
+–––, 2008, “Darwin’s Keystone: The
+Principle of Divergence”, in Ruse and Richards 2008:
+87–108, doi:10.1017/CCOL9780521870795.008.
+Lakatos, Imre, 1970, “Falsification and the Methodology of
+Scientific Research Programmes”, in
+Criticism and the Growth
+of Knowledge
+, Imre Lakatos and Alan Musgrave (eds.), Cambridge:
+Cambridge University Press, 91–196.
+doi:10.1017/CBO9781139171434.009
+Laubichler, Manfred Dietrich and Jane Maienschein (eds.), 2007,
+From Embryology to Evo-Devo: A History of Developmental
+Evolution
+, (Dibner Institute Studies in the History of Science
+and Technology), Cambridge, MA: MIT Press.
+–––, 2013, “Developmental
+Evolution”, in Ruse 2013a: 375–382.
+doi:10.1017/CBO9781139026895.048
+Laurent, Goulven (ed.), 1997,
+Jean-Baptiste Lamarck:
+1744–1829
+, Paris: Editions du CTHS. Proceedings of the 119e
+congrès national des sociétés historiques et
+scientifiques, Amiens, 1994.
+Lennox, James G., 1993, “Darwin Was a Teleologist”,
+Biology & Philosophy
+, 8(4): 409–421.
+doi:10.1007/BF00857687
+–––, 2005, “Darwin’s Methodological
+Evolution”,
+Journal of the History of Biology
+, 38(1):
+85–99. doi:10.1007/s10739-004-6511-4
+–––, 2007, “Darwinism and
+Neo-Darwinism”, in
+A Companion to the Philosophy of
+Biology
+, Sarkar Sahotra and Anya Plutynski (eds.), Oxford, UK:
+Blackwell Publishing Ltd, 77–98.
+doi:10.1002/9780470696590.ch5
+–––, 2013, “Darwin and Teleology”,
+in Ruse 2013a: 152–157. doi:10.1017/CBO9781139026895.019
+Lewens, Tim, 2008, “The Origin and Philosophy”, in
+Ruse and Richards 2008: 314–332.
+doi:10.1017/CCOL9780521870795.019
+Lightman, Bernard (ed.), 2015,
+Global Spencerism: The
+Communication and Appropriation of a British Evolutionist
+,
+Leiden: Brill. doi:10.1163/9789004264007
+Love, Alan C., 2002, “Darwin and
+Cirripedia
+Prior
+to 1846: Exploring the Origins of the Barnacle Research”,
+Journal of the History of Biology
+, 35(2): 251–289.
+doi:10.1023/A:1016020816265
+Lyell, Charles, 1863,
+The Geological Evidences of the
+Antiquity of Man
+, London: John Murray.
+ [
+Lyell 1863 available online
+]
+MacPherson, Ryan, 2015,
+Debating Evolution Before Darwinism:
+An Exploration of Science and Religion in America,
+1844–1859
+, Mantako, MN: Into Your Hands Press.
+Maienschein, Jane and Michael Ruse (eds.), 1999,
+Biology and
+the Foundation of Ethics
+, Cambridge: Cambridge University Press.
+doi:10.1017/CBO9780511609077
+Mallet, James, 2013, “Darwin and Species”, in Ruse
+2013a: 109–115. doi:10.1017/CBO9781139026895.013
+Manier, Edward, 1978,
+The Young Darwin and His Cultural
+Circle: A Study of Influences Which Helped Shape the Language and
+Logic of the First Drafts of the Theory of Natural Selection
+,
+Dordrecht: D. Reidel.
+Mayr, Ernst and William B. Provine (eds.), 1980,
+The
+Evolutionary Synthesis: Perspectives on the Unification of
+Biology
+, Cambridge, MA: Harvard University Press.
+Moore, George Edward, 1903,
+Principia Ethica
+, Cambridge:
+Cambridge University Press.
+ [
+G.E. Moore 1903 available online
+]
+Moore, James R., 1979,
+The Post-Darwinian Controversies: A
+Study of the Protestant Struggle to Come to Terms with Darwin in Great
+Britain and America 1870–1900
+, Cambridge: Cambridge
+University Press. doi:10.1017/CBO9780511622830
+Moore, James and Adrian Desmond, 2004, “Introduction”
+to Charles Darwin’s
+The Descent of Man, and Selection in
+Relation to Sex
+, reprint, New York: Penguin, xi–lxiv.
+Mullen, Pierce C., 1964, “The Preconditions and Reception of
+Darwinian Biology in Germany, 1800–1870”, Unpublished Ph.D
+Dissertation, University of California, Berkeley.
+Newman, Stuart A., 2015, “The Evolution of Evolutionary
+Mechanisms”, in Sloan, McKenny, and Eggleson 2015:
+61–89.
+Norman, David, 2013, “Charles Darwin’s Geology”, in
+Ruse 2013a: 46–55. doi:10.1017/CBO9781139026895.005
+Numbers, Ronald L., 1998,
+Darwinism Comes to America
+,
+Cambridge, MA: Harvard University Press.
+Nyhart, Lynn K., 1995,
+Biology Takes Form: Animal Morphology
+and the German Universities, 1800–1900
+, (Science and Its
+Conceptual Foundations), Chicago: University of Chicago Press.
+Olby, Robert C., 1963, “Charles Darwin’s Manuscript of
+Pangenesis”,
+The British Journal for the History of
+Science
+, 1(3): 251–263. doi:10.1017/S0007087400001497
+–––, 2013, “Darwin and Heredity”, in
+Ruse 2013a: 116–123. doi:10.1017/CBO9781139026895.014
+Ospovat, Dov, 1981,
+The Development of Darwin’s Theory:
+Natural History, Natural Theology, and Natural Selection
+,
+Cambridge: Cambridge University Press.
+Pancaldi, Giuliano, 1983 [1991],
+Darwin in Italia: Impresa
+scientifica e frontiere culturali
+, (Saggi 248), Bologna: il
+Mulino. Translated as
+Darwin in Italy: Science across Cultural
+Frontiers
+, Ruey Brodine Morelli (trans.), Bloomington: Indiana
+University Press, 1991.
+Peckham, Morse (ed.), 1959/2006,
+The Origin of Species: a
+Variorum Text
+, Philadelphia: University of Pennsylvania Press,
+originally published 1959, page numbers from the 2006 edition. Covers
+the variations in English editions and printings from the first
+edition through the 1890 edition.
+Pigliucci, Massimo and Gerd Müller (eds.), 2010,
+Evolution, the Extended Synthesis
+, Cambridge, MA: MIT
+Press.
+Provine, William B., 1971,
+The Origins of Theoretical
+Population Genetics
+, Chicago: University of Chicago Press.
+Pusey, James Reeve, 1983,
+China and Charles Darwin
+,
+(Harvard East Asian Monographs 100), Cambridge, MA: Harvard University
+Press.
+Radick, Gregory, 2013, “Darwin and Humans”, in Ruse
+2013a: 173–181. doi:10.1017/CBO9781139026895.022
+Richards, Evelleen, 2017,
+Darwin and the Making of Sexual
+    Selection
+, Chicago: University of Chicago Press. doi:10.7208/chicago/9780226437064.001.0001
+Richards, Richard A., 2010,
+The Species Problem: A
+Philosophical Analysis
+, Cambridge: Cambridge University Press.
+doi:10.1017/CBO9780511762222
+–––, 2013, “Sexual Selection”, in
+Ruse 2013a: 103–108. doi:10.1017/CBO9781139026895.012
+Richards, Robert J., 1987,
+Darwin and the Emergence of
+Evolutionary Theories of Mind and Behavior
+, Chicago: University
+of Chicago Press.
+–––, 1992,
+The Meaning of Evolution: the
+Morphological Construction and Ideological Reconstruction of
+Darwin’s Theory
+, Chicago: University of Chicago Press.
+–––, 1999, “Darwin’s Romantic
+Biology: The Foundation of His Evolutionary Ethics”, in
+J. Maienschein and M. Ruse 1999 (eds.) 1999:
+113–153. doi:10.1017/CBO9780511609077.007
+–––, 2002,
+The Romantic Conception of Life:
+Science and Philosophy in the Age of Goethe
+, Chicago: University
+of Chicago Press.
+–––, 2005, “Darwin’s Metaphysics of
+Mind”, in Hösle and Illies 2005, 166–180.
+–––, 2008,
+The Tragic Sense of Life: Ernst
+Haeckel and the Struggle Over Evolutionary Thought
+, Chicago:
+University of Chicago Press.
+–––, 2003 [2009], “Darwin on Mind, Morals
+and Emotions”, in Hodge and Radick 2003: 92–115,
+doi:10.1017/CCOL0521771978.005 and Hodge and Radick 2009:
+96–119, doi:10.1017/CCOL9780521884754.005
+–––, 2013, “The German Reception of
+Darwin’s Theory, 1860–1945”, in Ruse 2013a:
+235–242. doi:10.1017/CBO9781139026895.030
+Richards, Robert J. and Michael Ruse, 2016,
+Debating Darwin
+,
+Chicago: University of Chicago Press.
+Ruse, Michael, 1975, “Darwin’s Debt to Philosophy: An
+Examination of the Influence of the Philosophical Ideas of John F. W.
+Herschel and William Whewell on the Development of Charles
+Darwin’s Theory of Evolution”,
+Studies in the History
+and Philosophy of Science
+, 6: 159–181.
+–––, 1979,
+The Darwinian Revolution: Science
+Red in Tooth and Claw
+, Chicago: University of Chicago Press.
+–––, 2008, “The Origin of the
+Origin
+”, in Ruse and Richards 2008: 14–14.
+doi:10.1017/CCOL9780521870795.003
+–––, 2009a,
+Defining Darwin: Essays on the
+History and Philosophy of Evolutionary Biology
+, Amherst, MA:
+Prometheus Books.
+–––, 2009b,
+Philosophy After Darwin: Classic
+and Contemporary Readings
+, Princeton: Princeton University
+Press.
+––– (ed.), 2013a,
+The Cambridge Encyclopedia
+of Darwin and Evolutionary Thought
+, Cambridge: Cambridge
+University Press. doi:10.1017/CBO9781139026895
+–––, 2013b, “Evolution before
+Darwin”, in Ruse 2013a: 39–45.
+doi:10.1017/CBO9781139026895.004
+–––, 2013c, “The
+Origin of
+Species
+”, in Ruse 2013a: 95–102.
+doi:10.1017/CBO9781139026895.011
+Ruse, Michael and Robert J. Richards (eds.), 2008,
+The
+Cambridge Companion to the “Origin of Species”
+,
+Cambridge: Cambridge University Press.
+doi:10.1017/CCOL9780521870795
+Secord, James A., 2000,
+Victorian Sensation: The Extraordinary
+Publication, Reception, and Secret Authorship of Vestiges of the
+Natural History of Creation
+, Chicago: University of Chicago
+Press.
+Shen, Vincent, 2016, “Translation and Interpretation: the
+Case of Introducing Darwinian Evolutionism into China”,
+Universitas: Monthly Review of Philosophy and Culture
+, 43:
+3–25.
+Sloan, Phillip R., 1985, “Darwin’s Invertebrate
+Program, 1826–1836: Preconditions for Transformism”, in
+Kohn 1985a: 71–120. doi:10.1515/9781400854714.71
+–––, 1986, “Darwin, Vital Matter, and the
+Transformism of Species”,
+Journal of the History of
+Biology
+, 19(3): 369–445. doi:10.1007/BF00138286
+–––, (ed.), 1992,
+Richard Owen’s
+Hunterian Lectures, May–June 1837
+, Chicago: University of
+Chicago Press.
+–––, 1995, “The Gaze of Natural
+History”, in
+Inventing Human Science: Eighteenth Century
+Domains
+, Christopher Fox, Roy Porter, and Robert Wokler, (eds.),
+Berkeley: University of California Press, 112–151.
+–––, 1997, “Lamarck in Britain:
+Transforming Lamarck’s Transformism”, in Laurent 1997:
+667–687.
+–––, 1999, “From Natural Law to
+Evolutionary Ethics in Enlightenment French Natural History”, in
+Maienschein and Ruse 1999: 52–83.
+doi:10.1017/CBO9780511609077.004
+–––, 2001, “‘The Sense of Sublimity’:
+Darwin on Nature and Divinity”,
+Osiris
+, 16:
+251–269. doi:10.1086/649347
+–––, 2003, “Whewell’s Philosophy of
+Discovery and the Archetype of the Vertebrate Skeleton: The Role of
+German Philosophy of Science in Richard Owen’s Biology”,
+Annals of Science
+, 60(1): 39–61.
+doi:10.1080/713801780
+–––, 2006, “Kant on the History of Nature:
+The Ambiguous Heritage of the Critical Philosophy for Natural
+History”,
+Studies in History and Philosophy of Science Part
+C: Studies in History and Philosophy of Biological and Biomedical
+Sciences
+, 37(4): 627–648.
+doi:10.1016/j.shpsc.2006.09.003
+–––, 2007, “Kant and British
+Bioscience”, in
+Understanding Purpose: Kant and the
+Philosophy of Biology
+, (NAKS Studies in Philosophy 8), Philippe
+Huneman (ed.), Rochester, NY: University Rochester Press,
+149–171.
+–––, 2003 [2009], “The Making of a
+Philosophical Naturalist”, in Hodge and Radick 2003:
+17–39, doi:10.1017/CCOL0521771978.002 and Hodge and Radick 2009:
+21–43, doi:10.1017/CCOL9780521884754.002
+–––, 2008, “Originating Species: Darwin on
+the Species Problem”, in Ruse and Richards 2008: 67–86.
+doi:10.1017/CCOL9780521870795.007
+–––, 2013, “The Species Problem and
+History”,
+Studies in History and Philosophy of Science Part
+C: Studies in History and Philosophy of Biological and Biomedical
+Sciences
+, 44(2): 237–241.
+doi:10.1016/j.shpsc.2013.01.001
+Sloan, Phillip R, Gerald P McKenny, and Kathleen Eggleson (eds.),
+2015,
+Darwin in the Twenty-First Century: Nature, Humanity, and
+God
+, Notre Dame, IN: University of Notre Dame Press.
+Smocovitis, Vassiliki Betty, 1996,
+Unifying Biology: The
+Evolutionary Synthesis and Evolutionary Biology
+, Princeton, NJ:
+Princeton University Press.
+Sober, Elliott, 1984,
+The Nature of Selection: Evolutionary
+Theory in Philosophical Focus
+, Cambridge, MA: MIT Press.
+Spencer, Herbert, 1864,
+Principles of Biology
+, London:
+Williams and Noegate.
+ [
+Spencer 1864 available online
+]
+Stamos, David N., 2003,
+The Species Problem: Biological
+Species, Ontology, and the Metaphysics of Biology
+, Lanham, MA:
+Lexington Books.
+–––, 2007,
+Darwin and the Nature of
+Species
+, Albany, NY: State University of New York Press.
+Stott, Rebecca, 2004,
+Darwin and the Barnacle
+, New York:
+Norton.
+Swetlitz, Marc, 2013, “Judaism, Jews, and Evolution”,
+in Ruse 2013a: 493–498. doi:10.1017/CBO9781139026895.063
+Tennyson, Alfred, 1850,
+In Memoriam A.H.H.
+, London:
+Edward Moxon.
+Theunissen, Bert, 2013, “The Analogy between Artificial and
+Natural Selection”, in Ruse 2013a: 88–94.
+doi:10.1017/CBO9781139026895.010
+Todes, Daniel Philip, 1989,
+Darwin Without Malthus: the
+Struggle for Existence in Russian Evolutionary Thought
+, New York
+and Oxford: Oxford University Press.
+Velasco, Joel D., 2013, “The Tree of Life”, in Ruse
+2013a: 340–345. doi:10.1017/CBO9781139026895.043
+Vorzimmer, Peter J., 1970,
+Charles Darwin, The Years of
+Controversy: The Origin of Species and Its Critics,
+1859–1882
+, Philadelphia: Temple University Press.
+Wallace, Alfred W., 1864,“The Origin of Human Races and the
+  Antiquity of Man Deduced from the Theory of ‘Natural
+  Selection’”,
+Journal of the Anthropological Society
+    of London
+, 2: clviii–clxxxvii. doi:10.2307/3025211
+–––, 1870,
+Contributions to the Theory of
+    Natural Selection: A Series of Essays
+, London:
+  Macmillan.[
+Wallace 1870 available online
+]
+Waters, C. Kenneth, 2003 [2009], “The Arguments in the
+Origin of Species
+”, in Hodge and Radick 2003:
+116–140, doi:10.1017/CCOL0521771978.006 and Hodge and Radick
+2009: 120–144, doi:10.1017/CCOL9780521884754.006
+Whewell, William, 1837,
+History of the Inductive Sciences,
+from the Earliest to the Present Times
+, three volumes, London:
+Parker.
+–––, 1840,
+The Philosophy of the Inductive
+Sciences
+, London: Parker.
+ [
+Whewell 1840 available online
+]
+–––, 1858,
+Novum Organon Renovatum, Being
+the Second Part of the Philosophy of the Inductive Sciences
+,
+thirrd edition, London: Parker.
+ [
+Whewell 1858 available online
+]
+Wilkins, John S., 2009,
+Species: a History of the Idea
+,
+Berkeley and Los Angeles: University of California Press.
+Wilson, Catherine, 2006, “Kant and the Speculative Sciences
+of Origins”, in
+The Problem of Animal Generation in Early
+Modern Philosophy
+, Justin E. H. Smith (ed.), Cambridge: Cambridge
+University Press, 375–401. doi:10.1017/CBO9780511498572.017
+Yang Haiyan, 2013, “Encountering Darwin and Creating
+Darwinism in China”, in Ruse 2013a: 250–257.
+doi:10.1017/CBO9781139026895.032
+Young, Robert M., 1985,
+Darwin’s Metaphor:
+Nature’s Place in Victorian Culture
+, Cambridge: Cambridge
+University Press.
+Zammito, John H., 2018,
+The Gestation of German
+Biology:Physiology and Philosophy from Stahl to Schelling
+,
+Chicago: University of Chicago Press.
+Academic Tools
+How to cite this entry
+.
+Preview the PDF version of this entry
+at the
+Friends of the SEP Society
+.
+Look up topics and thinkers related to this entry
+at the Internet Philosophy Ontology Project (InPhO).
+Enhanced bibliography for this entry
+at
+PhilPapers
+, with links to its database.
+Other Internet Resources
+The Complete Works of Charles Darwin Online
+,
+ maintained by John van Wyhe, Cambridge University Library. In
+particular note the
+Darwin Papers & Manuscripts
+section
+Darwin Manuscripts Project
+,
+ maintained by David Kohn in cooperation with the American Museum of
+Natural History Research Library.
+Darwin Correspondence Project
+,
+ University of Cambridge.
+Letter to Charles Lyell, 28 September 1860, DCP-LETT-2931
+Letter from J.D. Hooker, 8 February 1867, DCP-LETT-5395
+Letter to William Turner, 11 February 1867, DCP-LETT-5398
+Letter to Asa Gray, 15 March 1870, DCP-LETT-7132
+Ghiselin, Michael T., 2009,
+Darwin: A Reader’s Guide
+[PDF], Occasional Papers of the California Academy of Sciences
+155.
+The Huxley File
+,
+ maintained by Charles Blinderman and David Joyce (Clark
+University).
+Works by Ernst Heinrich Haeckel
+,
+ Project Gutenberg.
+Wallace Online
+,
+ maintained by John van Wyhe, Cambridge University Library.
+Related Entries
+adaptationism
+|
+altruism
+|
+altruism: biological
+|
+biology: philosophy of
+|
+creationism
+|
+Darwinism
+|
+evolution: cultural
+|
+fitness
+|
+genetics: ecological
+|
+life
+|
+moral sentimentalism
+|
+natural selection
+|
+natural selection: units and levels of
+|
+species
+|
+Spencer, Herbert
+|
+teleology: teleological notions in biology
+|
+Whewell, William
+Acknowledgments
+The author wishes to acknowledge the valuable comments on this article
+by David Depew, M.J.S. Hodge, Robert Richards, and Xiaoxing
+Jin. Additional comments were made by Michael Ruse, Edward Zalta,
+M. Katherine Tillman, and the anonymous reviewers for the Stanford
+Encyclopedia of Philosophy. I am particularly indebted to my student,
+Mr. Xiaoxing Jin, for information contained in his substantial
+doctoral work and subsequent research on the reception of Darwinism
+into China. Responsibility for all interpretations is my own.

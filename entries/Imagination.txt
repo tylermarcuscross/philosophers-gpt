@@ -1,0 +1,2942 @@
+Imagination
+First published Mon Mar 14, 2011; substantive revision Tue Jan 22, 2019
+To imagine
+is to represent without aiming at things as they actually, presently, and subjectively are. One
+can use imagination to represent possibilities other than the actual,
+to represent times other than the present, and to represent
+perspectives other than one’s own. Unlike perceiving and
+believing, imagining something does not require one to consider that
+something to be the case. Unlike desiring or anticipating, imagining
+something does not require one to wish or expect that something to be
+the case.
+Imagination is involved in a wide variety of human activities, and has
+been explored from a wide range of philosophical perspectives.
+Philosophers of mind have examined imagination’s role in
+mindreading and in pretense. Philosophical aestheticians have examined
+imagination’s role in creating and in engaging with different
+types of artworks. Epistemologists have examined imagination’s
+role in theoretical thought experiments and in practical
+decision-making. Philosophers of language have examined
+imagination’s role in irony and metaphor.
+Because of the breadth of the topic, this entry focuses exclusively on
+contemporary discussions of imagination in the Anglo-American
+philosophical tradition. For an overview of historical discussions of
+imagination, see the sections on pre-twentieth century and early
+twentieth century accounts of entry on
+mental imagery
+;
+ for notable historical accounts of imagination, see corresponding
+entries on
+Aristotle
+,
+Thomas Hobbes
+,
+David Hume
+,
+Immanuel Kant
+, and
+Gilbert Ryle
+;
+ for a more detailed and comprehensive historical survey, see Brann
+1991; and for a sophisticated and wide-ranging discussion of
+imagination in the phenomenological tradition, see Casey 2000.
+1. The Nature of Imagination
+1.1 Varieties of Imagination
+1.2 Taxonomies of Imagination
+1.3 Norms of Imagination
+2. Imagination in Cognitive Architecture
+2.1 Imagination and Belief
+2.2 Imagination and Desire
+2.3 Imagination, Imagery, and Perception
+2.4 Imagination and Memory
+2.5 Imagination and Supposition
+3. Roles of Imagination
+3.1 Mindreading
+3.2 Pretense
+3.3 Psychopathology
+3.4 Engagement with the Arts
+Supplement: Puzzles and Paradoxes of Imagination and the Arts
+3.5 Creativity
+3.6 Knowledge
+3.7 Figurative Language
+Bibliography
+Academic Tools
+Other Internet Resources
+Related Entries
+1. The Nature of Imagination
+A variety of roles have been attributed to imagination across various
+domains of human understanding and activity
+ (
+section 3
+).
+ Not surprisingly, it is doubtful that there is one component of the
+mind that can satisfy all the various roles attributed to imagination
+(Kind 2013). Nevertheless, perhaps guided by these roles, philosophers
+have attempted to clarify the nature of imagination in three ways.
+First, philosophers have tried to disambiguate different senses of the
+term “imagination” and, in some cases, point to some core
+commonalities amongst the different disambiguations
+ (
+section 1.1
+).
+ Second, philosophers have given partial taxonomies to distinguish
+different types of imaginings
+ (
+section 1.2
+).
+ Third, philosophers have located norms that govern paradigmatic
+imaginative episodes
+ (
+section 1.3
+).
+1.1 Varieties of Imagination
+There is a general consensus among those who work on the topic that
+the term “
+imagination
+” is used too broadly to
+permit simple taxonomy. Indeed, it is common for overviews to begin
+with an invocation of P.F. Strawson’s remarks in
+“Imagination and Perception”, where he writes:
+The uses, and applications, of the terms “image”,
+“imagine”, “imagination”, and so forth make up
+a very diverse and scattered family. Even this image of a family seems
+too definite. It would be a matter of more than difficulty to identify
+and list the family’s members, let alone their relations of
+parenthood and cousinhood. (Strawson 1970: 31)
+These taxonomic challenges carry over into attempts at
+characterization. In the opening chapter of
+Mimesis as
+Make-Believe
+—perhaps the most influential contemporary
+monograph on imagination—Kendall Walton throws up his hands at
+the prospect of delineating the notion precisely. After enumerating
+and distinguishing a number of paradigmatic instances of imagining, he
+asks:
+What is it to imagine? We have examined a number of dimensions along
+which imaginings can vary; shouldn’t we now spell out what they
+have in common?—Yes, if we can. But I can’t. (Walton 1990:
+19)
+Leslie Stevenson (2003: 238) makes arguably the only recent attempt at
+a somewhat comprehensive inventory of the term’s uses, covering
+twelve of “the most influential conceptions of
+imagination” that can be found in recent discussions in
+“philosophy of mind, aesthetics, ethics, poetry and …
+religion”.
+1.2 Taxonomies of Imagination
+To describe the varieties of imaginings, philosophers have given
+partial and overlapping taxonomies.
+Some taxonomies are merely descriptive, and they tend to be less
+controversial. For example, Kendall Walton (1990) distinguishes
+between
+spontaneous
+and
+deliberate imagining
+(acts
+of imagination that occur with or without the one’s conscious
+direction); between
+occurrent
+and
+nonoccurrent
+imaginings
+(acts of imagination that do or do not occupy the
+one’s explicit attention); and between
+social
+and
+solitary imaginings
+(episodes of imagining that occur with or
+without the joint participation of several persons).
+One notable descriptive taxonomy concerns imagining
+from the
+inside
+versus
+from the outside
+(Williams 1973; Wollheim
+1973; see Ninan 2016 for an overview). To imagine from the outside
+that one is Napoleon involves imagining a scenario in which one is
+Napoleon. To imagine from the inside that one is Napoleon involves
+that plus something else: namely, that one is occupying the
+perspective
+of Napoleon. Imagining from the inside is
+essentially first-personal, imagining from the outside is not. This
+distinction between two modes of imagining is especially notable for
+its implications for thought experiments about the metaphysics of
+personal identity (Nichols 2008; Ninan 2009; Williams 1973).
+Some taxonomies aim to be more systematic—to carve imaginings at
+their joints, so to speak—and they, as one might expect, tend to
+be more controversial.
+Gregory Currie and Ian Ravenscroft (2002) distinguishes
+creative
+imagination
+(combining ideas in unexpected and unconventional
+ways);
+sensory imagination
+(perception-like experiences in
+the absence of appropriate stimuli); and what they call
+recreative
+imagination
+(an ability to experience or think about the world
+from a perspective different from the one that experience presents).
+Neil Van Leeuwen (2013, 2014) takes a similar approach to delineate
+three common uses of “imagination” and cognate terms.
+First, these terms can be used to refer to
+constructive
+imagining
+, which concerns the process of generating mental
+representations. Second, these terms can be used to refer to
+attitude imagining
+, which concerns the propositional attitude
+one takes toward mental representations. Third, these terms can be
+used to refer to
+imagistic imagining
+, which concerns the
+perception-like format of mental representations.
+Amy Kind and Peter Kung (2016b) pose the puzzle of imaginative
+use—on the seeming irreconcilability between the
+transcendent
+uses of imagination, which enables one to escape
+from or look beyond the world as it is, and the
+instructive
+uses of imagination, which enables one to learn about the world as it
+is. Kind and Kung ultimately resolve the puzzle by arguing that the
+same attitude can be put to these seemingly disparate uses because the
+two uses differ not in kind, but in degree—specifically, the
+degree of constraint on imaginings.
+Finally, varieties of imagination might be classified in terms of
+their structure and content. Consider the following three types of
+imaginings, each illustrated with an example. When one
+imagines
+propositionally
+, one represents to oneself that something is the
+case. So, for example, Juliet might imagine
+that Romeo is by her
+side
+. To imagine in this sense is to stand in some mental
+relation to a particular proposition (see the entry on
+propositional attitude reports
+).
+ When one
+imagines objectually
+, one represents to oneself a
+real or make-believe entity or situation (Yablo 1993; see also Martin
+2002; Noordhof 2002; O’Shaughnessy 2000). So, for example,
+Prospero might imagine
+an acorn
+or
+a nymph
+or
+the city of Naples
+or
+a wedding feast
+. To imagine in
+this sense is to stand in some mental relation to a representation of
+an (imaginary or real) entity or state of affairs. When one
+imagines X-ing
+, one simulatively represents to oneself some
+sort of activity or experience (Walton 1990). So, for example, Ophelia
+might imagine
+seeing Hamlet
+or
+getting herself to a
+nunnery
+. To imagine in this sense is to stand in a first-personal
+mental relation to some (imaginary or real) behavior or
+perception.
+1.3 Norms of Imagination
+There are general norms that govern operations of imagination (Gendler
+2003).
+Mirroring
+is manifest to the extent that features of the
+imaginary situation that have not been explicitly stipulated are
+derivable via features of their real-world analogues, or, more
+generally, to the extent that imaginative content is taken to be
+governed by the same sorts of restrictions that govern believed
+content. For example, in a widely-discussed experiment conducted by
+Alan Leslie (1994), children are asked to engage in an imaginary tea
+party. When an experimenter tips and “spills” one of the
+(empty) teacups, children consider the non-tipped cup to be
+“full” (in the context of the pretense) and the tipped cup
+to be “empty” (both within and outside of the context of
+the pretense). In fact, both make-believe games and more complicated
+engagements with the arts are governed by
+principles of
+generation
+, according to which prompts or props prescribe
+particular imaginings (Walton 1990).
+Quarantining
+is manifest to the extent that events within the
+imagined or pretended episode are taken to have effects only within a
+relevantly circumscribed domain. So, for example, the child engaging
+in the make-believe tea party does not expect that
+“spilling” (imaginary) “tea” will result in
+the table
+really
+being wet, nor does a person who imagines
+winning the lottery expect that when she visits the ATM, her bank
+account will contain a million dollars. More generally, quarantining
+is manifest to the extent that proto-beliefs and proto-attitudes
+concerning the imagined state of affairs are not treated as beliefs
+and attitudes relevant to guiding action in the actual world.
+Although imaginative episodes are generally governed by mirroring and
+quarantining, both may be violated in systematic ways.
+Mirroring gives way to
+disparity
+as a result of the ways in
+which (the treatment of) imaginary content may differ from (that of)
+believed content. Imagined content may be
+incomplete
+(for
+example, there may be no fact of the matter (in the pretense) just how
+much tea has spilled on the table) or
+incoherent
+(for
+example, it might be that the toaster serves (in the pretense) as a
+logical-truth inverter). And content that is imagined may give rise to
+discrepant responses
+, most strikingly in cases of discrepant
+affect—where, for example, the imminent destruction of all human
+life is treated as amusing rather than terrifying.
+Quarantining gives way to
+contagion
+when imagined content
+ends up playing a direct role in actual attitudes and behavior (see
+also Gendler 2008a, 2008b). This is common in cases of
+affective
+transmission
+, where an emotional response generated by an
+imagined situation may constrain subsequent behavior. For example,
+imagining something fearful (such as a tiger in the kitchen) may give
+rise to actual hesitation (such as reluctance to enter the room). And
+it also occurs in cases of
+cognitive transmission
+, where
+imagined content is thereby “primed” and rendered more
+accessible in ways that go on to shape subsequent perception and
+experience. For example, imagining some object (such as a sheep) may
+make one more likely to “perceive” such objects in
+one’s environment (such as mistaking a rock for a ram).
+2. Imagination in Cognitive Architecture
+One way to make sense of the nature of imagination is by drawing
+distinctions, giving taxonomies, and elucidating governing norms
+ (
+section 1
+).
+ Another, arguably more prominent, way to make sense of the nature is
+by figuring out, in a broadly functionalist framework, how it fits in
+with more well-understood mental entities from folk psychology and
+scientific psychology (see the entry on
+functionalism
+).
+There are two related tasks involved. First, philosophers have used
+other mental entities to define imagination by contradistinction (but
+see Wiltsher forthcoming for a critique of this approach). To give an
+oversimplified example, many philosophers hold that imagining is like
+believing except that it does not directly motivate actions. Second,
+philosophers have used other mental entities to understand the inputs
+and outputs of imagination. To give an oversimplified example, many
+philosophers hold that imagination does not output to
+action-generating systems.
+Amongst the most widely-discussed mental entities in contemporary
+discussions of imagination are belief
+ (
+section 2.1
+),
+ desire
+ (
+section 2.2
+),
+ mental imagery
+ (
+section 2.3
+),
+ memory
+ (
+section 2.4
+),
+ and supposition
+ (
+section 2.5
+).
+ The resolution of these debates ultimately rest on the extent to
+which the imaginative attitude(s) posited can fulfill the roles
+ascribed to imagination from various domains of human understanding
+and activity
+ (
+section 3
+).
+2.1 Imagination and Belief
+To
+believe
+is to take something to be the case or regard it
+as true (see the entry on
+belief
+).
+ When one says something like “the liar believes that his pants
+are on fire”, one attributes to the subject (the liar) an
+attitude (belief) towards a proposition (his pants are on fire).
+Likewise, when one says something like “the liar imagines that
+his pants are on fire”, one attributes to the subject (the liar)
+an attitude (imagination) towards a proposition (his pants are on
+fire). The similarities and differences between the belief attribution
+and the imagination attribution point to similarities and differences
+between imagining and believing.
+Imagining and believing are both cognitive attitudes that are
+representational. They take on the same kind of content:
+representations that stand in inferential relationship with one
+another. On the
+single code hypothesis
+, it is the sameness of
+the representational format that grounds functional similarities
+between imagining and believing (Nichols & Stich 2000, 2003;
+Nichols 2004a). As for their differences, there are two main options
+for distinguishing imagining and believing (Sinhababu 2016).
+The first option characterizes their difference in normative terms.
+While belief
+aims
+at truth, imagination does not (Humberstone
+1992; Shah & Velleman 2005). If the liar did not regard it as true
+that his pants are on fire, then it seems that he cannot really
+believe that his pants are on fire. By contrast, even if the liar did
+not regard it as true that his pants are on fire, he can still imagine
+that his pants are on fire. While the norm of truth is constitutive of
+the attitude of belief, it is not constitutive of the attitude of
+imagination. In dissent, Neil Sinhababu (2013) argues that the norm of
+truth is neither sufficient nor necessary for distinguishing imagining
+and believing.
+The second option characterizes their difference in functional terms.
+One purported functional difference between imagination and belief
+concerns their characteristic connection to actions. If the liar truly
+believes that his pants are on fire, he will typically attempt to put
+out the fire by, say, pouring water on himself. By contrast, if the
+liar merely imagines that his pants are on fire, he will typically do
+no such thing. While belief outputs to action-generation system,
+imagination does not (Nichols & Stich 2000, 2003). David Velleman
+(2000) and Tyler Doggett and Andy Egan (2007) point to particular
+pretense behaviors to challenge this way of distinguishing imagining
+and believing. Velleman argues that a belief-desire explanation of
+children’s pretense behaviors makes children “depressingly
+unchildlike”. Doggett and Egan argue that during immersive
+episodes, pretense behaviors can be directly motivated by imagination.
+In response to these challenges, philosophers typically accept that
+imagination can have a guidance or stage-setting role in motivating
+behaviors, but reject that it directly outputs to action-generation
+system (Van Leeuwen 2009; O’Brien 2005; Funkhouser &
+Spaulding 2009; Everson 2007; Kind 2011; Currie & Ravenscroft
+2002).
+Another purported functional difference between imagination and belief
+concerns their characteristic connection to emotions. If the liar
+truly believes that his pants are on fire, then he will be genuinely
+afraid of the fire; but not if he merely imagines so. While belief
+evokes genuine emotions toward real entities, imagination does not
+(Walton 1978, 1990, 1997; see also related discussion of the paradox
+of fictional emotions in
+Supplement on Puzzles and Paradoxes of Imagination and the Arts
+).
+ This debate is entangled with the controversy concerning the nature
+of emotions (see the entry on
+emotion
+).
+ In rejecting this purported functional difference, philosophers also
+typically reject narrow cognitivism about emotions (Nichols 2004a;
+Meskin & Weinberg 2003; Weinberg & Meskin 2005, 2006; Kind
+2011; Spaulding 2015; Carruthers 2003, 2006).
+Currently, the consensus is that there exists some important
+difference between imagining and believing. Yet, there are two
+distinct departures from this consensus. On the one hand, some
+philosophers have pointed to novel psychological phenomena in which it
+is unclear whether imagination or belief is at work—such as
+delusions (Egan 2008a) and immersed pretense (Schellenberg
+2013)—and argued that the best explanation for these phenomena
+says that imagination and belief exists on a continuum. In responding
+to the argument from immersed pretense, Shen-yi Liao and Tyler Doggett
+(2014) argue that a cognitive architecture that collapses distinctive
+attitudes on the basis of borderline cases is unlikely to be fruitful
+in explaining psychological phenomena. On the other hand, some
+philosophers have pointed to familiar psychological phenomena and
+argued that the best explanation for these phenomena says that
+imagination is ultimately reducible to belief. Peter Langland-Hassan
+(2012, 2014) argues that pretense can be explained with only reference
+to beliefs—specifically, beliefs about counterfactuals. Derek
+Matravers (2014) argues that engagements with fictions can be
+explained without references to imaginings.
+2.2 Imagination and Desire
+To
+desire
+is to want something to be the case (see the entry on
+desire
+).
+ Standardly, the
+conative
+attitude of desire is contrasted
+with the
+cognitive
+attitude of belief in terms of direction
+of fit: while belief aims to make one’s mental representations
+match the way the world is, desire aims to make the way the world is
+match one’s mental representations. Recall that on the
+single code hypothesis
+, there exists a cognitive imaginative
+attitude that is structurally similar to belief. Is there a conative
+imaginative attitude—call it
+desire-like imagination
+(Currie 1997, 2002a, 2002b, 2010; Currie & Ravenscroft 2002),
+make-desire
+(Currie 1990; Goldman 2006), or
+i-desire
+(Doggett & Egan 2007, 2012)—that is structurally similar to
+desire?
+The debates on the relationship between imagination and desire is, not
+surprisingly, thoroughly entangled with the debates on the
+relationship between imagination and belief. One impetus for positing
+a conative imaginative attitude comes from behavior motivation in
+imaginative contexts. Tyler Doggett and Andy Egan (2007) argue that
+cognitive and conative imagination jointly output to action-generation
+system, in the same way that belief and desire jointly do. Another
+impetus for positing a conative imaginative attitude comes from
+emotions in imaginative contexts (see related discussions of the
+paradox of fictional emotions and the paradoxes of tragedy and horror
+in
+Supplement on Puzzles and Paradoxes of Imagination and the Arts
+).
+ Gregory Currie and Ian Ravenscroft (2002) and Doggett and Egan (2012)
+argue the best explanation for people’s emotional responses
+toward non-existent fictional characters call for positing conative
+imagination. Currie and Ravenscroft (2002), Currie (2010), and Doggett
+and Egan (2007) argue that the best explanation for people’s
+apparently conflicting emotional responses toward tragedy and horror
+too call for positing conative imagination.
+Given the entanglement between the debates, competing explanations of
+the same phenomena also function as arguments against conative
+imagination (Nichols 2004a, 2006b; Meskin & Weinberg 2003;
+Weinberg & Meskin 2005, 2006; Spaulding 2015; Kind 2011;
+Carruthers 2003, 2006; Funkhouser & Spaulding 2009; Van Leeuwen
+2011). In addition, another argument against conative imagination is
+that its different impetuses call for conflicting functional
+properties. Amy Kind (2016b) notes a tension between the argument from
+behavior motivation and the argument from fictional emotions: conative
+imagination must be connected to action-generation in order for it to
+explain pretense behaviors, but it must be disconnected from
+action-generation in order for it to explain fictional emotions.
+Similarly, Shaun Nichols (2004b) notes a tension between Currie and
+Ravenscroft’s (2002) argument from paradox of fictional emotions
+and argument from paradoxes of tragedy and horror.
+2.3 Imagination, Imagery, and Perception
+To have a (merely) mental image is to have a perception-like
+experience triggered by something other than the appropriate external
+stimulus; so, for example, one might have “a picture in the
+mind’s eye or … a tune running through one’s
+head” (Strawson 1970: 31) in the absence of any corresponding
+visual or auditory object or event (see the entry on
+mental imagery
+).
+ While it is
+propositional
+imagination that gets compared to
+belief and desire, it is
+sensory
+or
+imagistic
+imagination that get compared to perception (Currie & Ravenscroft
+2002). Although it is possible to form mental images in any of the
+sensory modalities, the bulk of discussion in both philosophical and
+psychological contexts has focused on
+visual
+imagery.
+Broadly, there is agreement on the similarity between mental imagery
+and perception in phenomenology, which can be explicated as a
+similarity in content (Nanay 2016b; see, for example, Kind 2001; Nanay
+2015; Noordhof 2002). Potential candidates for distinguishing mental
+imagery and perception include intensity (Hume’s
+Treatise of
+Human Nature
+; but see Kind 2017), voluntariness (McGinn 2004;
+Ichikawa 2009), causal relationship with the relevant object (Noordhof
+2002); however, no consensus exists on features that clearly
+distinguish the two, in part because of ongoing debates about
+perception (see the entries on
+contents of perception
+and
+epistemological problems of perception
+).
+What is the relationship between imaginings and mental imagery?
+Historically, mental imagery is thought to be an essential component
+of imaginings. Aristotle’s
+phantasia
+, which is
+sometimes translated as imagination, is a faculty that produces images
+(
+De Anima
+; see entry on
+Aristotle’s conception of imagination
+;
+ but see Caston 1996). René Descartes (
+Meditations on First
+Philosophy
+) and David Hume (
+Treatise of Human Nature
+)
+both thought that to imagine just is to hold a mental image, or an
+impression of perception, in one’s mind. However, George
+Berkeley’s puzzle of visualizing the unseen (
+Three Dialogues
+between Hylas and Philonous
+) arguably suggests the existence of a
+non-imagistic hypothetical attitude.
+Against the historical orthodoxy, the contemporary tendency is to
+recognize that there is at least one species of
+imagination—propositional imagination—that does not
+require mental imagery. For example, Kendall Walton simply states,
+“imagining can occur without imagery” (1990: 13). In turn, against
+this contemporary tendency, Amy Kind (2001) argues that an image-based account can
+explain three crucial features of imagination—directedness,
+active nature, and phenomenological character—better than its
+imageless counterpart. As a partial reconciliation of the two, Peter Langland-Hassan (2015) develops
+a pluralist position on which there exists a variety of imaginative
+attitudes, including ones that can take on hybrid contents that are
+partly propositional and partly sensorily imagistic. (For a nuanced
+overview of this debate, see Gregory 2016: 103–106.)
+Finally, the relationship between mental imagery and perception has
+potential implications for the connection between imagination and
+action. The orthodoxy on propositional belief-like imagination holds
+that imagination does not directly output to action-generation system;
+rather, the connection between the two is mediated by belief and
+desire. In contrast, the enactivist program in the philosophy of
+perception holds that perception can directly output to
+action-generation system (see, for example, Nanay 2013). Working from
+the starting point that imagistic imagination is similar to perception
+in its inclusion of mental imagery, some philosophers have argued for
+a similar direct connection between imagistic imagination and
+action-generation system (Langland-Hassan 2015; Nanay 2016a; Van
+Leeuwen 2011, 2016b). That is, there exist imagery-oriented actions
+that are analogous to perception-oriented actions. For example, Neil
+Van Leeuwen (2011) argues that an account of imagination that is
+imagistically-rich can better explain pretense behaviors than its
+propositional-imagination-only rivals. Furthermore, Robert Eamon Briscoe (2008, 2018) argues that representations that blend inputs from perception and mental imagery, which he calls “make-perceive”, guide many everyday actions. For example, a sculptor might use a blend of the visual perception of a stone and the mental imagery of different parts of the stone being subtracted to guide their physical manipulation of the stone.
+2.4 Imagination and Memory
+To
+remember
+, roughly, is to represent
+something that is no longer the case. On the standard taxonomy, there
+are three types of memory. Nondeclarative memory involves mental
+content that is not consciously accessible, such as one’s memory
+of how to ride a bike. Semantic declarative memory involves mental
+content that are propositional and not first-personal, such as
+one’s memory that Taipei is the capital of Taiwan. Episodic
+declarative memory involves mental content about one’s own past,
+such as one’s memory of the birth of one’s child. (See
+the entry on
+memory
+for a detailed discussion of this taxonomy, and especially the
+criterion of episodicity.) In situating imagination in cognitive
+architecture, philosophers have typically focused on similarities and
+differences between imagination and episodic declarative memory.
+There are obvious similarities between imagination and memory: both
+typically involve imagery, both typically concern what is not
+presently the case, and both frequently involve perspectival
+representations. Thomas Hobbes (
+Leviathan
+: 2.3) claims that
+“imagination and memory are but one thing, which for diverse
+consideration has diverse names”. In making this bold statement,
+Hobbes represents an extreme version of continuism, a view on which
+imagination and memory refer to the same psychological mechanisms.
+The orthodoxy on imagination and memory in the history of philosophy,
+however, is discontinuism, a view on which there are significant
+differences between imagination and memory, even if there are overlaps
+in their psychological mechanisms. Some philosophers find the
+distinction in internalist factors, such as the
+phenomenological
+difference between imagining and
+remembering. Most famously, David Hume sought to distinguish the two
+in terms of
+vivacity
+—“the ideas of the memory are
+much more lively and strong than those of the imagination”
+(
+Treatise of Human Nature
+: 1.3; but see Kind 2017). Others
+who have adopted a phenomenological criterion include René
+Descartes, Bertrand Russell, and William James (De Brigard 2017).
+Other philosophers find the distinction in externalist factors, such
+as the
+causal connection
+that exists between memories and the
+past that is absent with imagination. Aristotle uses the causal
+connection criterion to distinguish between imagination and memory
+(
+De Anima
+451a2; 451a8–12; see De Brigard 2017).
+Indeed, nowadays the idea that a causal connection is essential to
+remembering is accepted as “philosophical common sense”
+(see the entry on
+memory
+;
+ but see also De Brigard 2014 on memory traces). As such, it is
+unsurprising that discontinuism remains the orthodoxy. As J. O. Urmson
+(1967: 83) boldly claims, “One of these universally admitted
+distinctions is that between memory and imagination”.
+In recent years, two sets of findings from cognitive science has given
+philosophers reasons to push back against discontinuism.
+The first set of findings concern distortions and confabulations. The
+traditional conception of memory is that it functions as an archive:
+past experiences are encapsulated and stored in the archive, and
+remembering is just passively retrieving the encapsulated mental
+content from the archive (Robins 2016). Behavioral psychology has
+found numerous effects that challenge the empirical adequacy of the
+archival conception of memory. Perhaps the most well-known is the
+misinformation effect, which occurs when a subject incorporates
+inaccurate information into their memory of an event—even
+inaccurate information that they received after the event (Loftus 1979
+[1996]).
+The second set of findings concern the psychological underpinnings of
+“mental time travel”, or the similarities between
+remembering the past and imagining the future, which is also known as
+mental time travel (see Schacter et al. 2012 for a review). Using
+fMRI, neuroscientists have found a striking overlap in the brain
+activities for remembering the past and imagining the future, which
+suggest that the two psychological processes utilize the same neural
+network (see, for example, Addis et al. 2007; Buckner & Carroll
+2007; Gilbert & Wilson 2007; Schacter et al. 2007; Suddendorf
+& Corballis 1997, 2007). The neuroscientific research is preceded
+by and corroborated by works from developmental psychology (Atance
+& O’Neill 2011) and on neurodivergent individuals: for
+example, the severely amnesic patient KC exhibits deficits with
+remembering the past and imagining the future (Tulving 1985), and also
+exhibits deficits with the generation of non-personal fictional
+narratives (Rosenbaum et al. 2009). Note that, despite the evocative
+contrast between “remembering the past” and
+“imagining the future”, it is questionable whether
+temporality is the central contrast. Indeed, some philosophers and
+psychologists contend that temporality is orthogonal to the comparison
+between imagination and memory (De Brigard & Gessell 2016;
+Schacter et al. 2012).
+These two set of findings have given rise to an alternative conception
+that sees memory as essentially constructive, in which remembering is
+actively generating mental content that more or less represent the
+past. The constructive conception of memory is in a better position to
+explain why memories can contain distortions and confabulations (but
+see Robins 2016 for complications), and why remembering makes use of
+the same neural networks as imagining.
+In turn, this constructive turn in the psychology and philosophy of
+memory has revived philosophers’ interest in continuism
+concerning imagination and memory. Kourken Michaelian (2016)
+explicitly rejects the causal connection criterion and defends a
+theory on which remembering, like imagining, centrally involves
+simulation. Karen Shanton and Alvin Goldman (2010) characterizes
+remembering as mindreading one’s past self. Felipe De Brigard
+(2014) characterizes remembering as a special instance of hypothetical
+thinking. Robert Hopkins (2018) characterizes remembering as a kind of
+imagining that is controlled by the past. However, the philosophical
+interpretation of empirical research remain contested; in dissent,
+Dorothea Debus (2014, 2016) considers the same sets of findings but
+ultimately concludes that remembering and imagining remain distinct
+mental kinds.
+2.5 Imagination and Supposition
+To
+suppose
+is to form a hypothetical mental representation.
+There exists a highly contentious debate on whether supposition is
+continuous with imagination, which is also a hypothetical attitude, or
+whether there are enough differences to make them discontinuous. There
+are two main options for distinguishing imagination and supposition,
+by phenomenology and by function.
+The phenomenological distinction standardly turns on the notion of
+vivacity: whereas imaginings are vivid, suppositions are not. Indeed,
+one often finds in this literature the contrast between “merely
+supposing” and “vividly imagining”. Although
+vivacity has been frequently invoked in discussions of imagination,
+Amy Kind (2017) draws on empirical and theoretical considerations to
+argue that it is ultimately philosophically untenable. If that is
+correct, then the attempt to demarcate imagination and supposition by
+their vivacity is untenable too. More rarely, other phenomenological
+differences are invoked; for example, Brian Weatherson (2004) contends
+that “supposing can be coarse in a way that imagining
+cannot”.
+Imagination
+Supposition
+Affect
+Variable
+Atypical
+Monitoring
+Typical
+Typical
+Inference
+Typical
+Typical
+Updater
+Typical
+Atypical
+Domain-Specific Systems
+Typical
+Variable
+Script Elaborator
+Variable
+Atypical
+Inputter (punctuate)
+Typical
+Typical
+Inputter (streaming)
+Typical
+Atypical
+Table 1.
+Architectural similarities and
+differences between imagination and supposition (Weinberg & Meskin
+2006).
+There have been diverse functional distinctions attributed to the
+discontinuity between imagination and supposition, but none has gained
+universal acceptance. Richard Moran (1994) contends that imagination
+tends to give rise to a wide range of further mental states, including
+affective responses, whereas supposition does not (see also Arcangeli
+2014, 2017). Tamar Szabó Gendler (2000a) contends that while
+attempting to imagine something like that female infanticide is
+morally right seems to generate imaginative resistance, supposing it
+does not (see the discussion on imaginative resistance in
+Supplement on Puzzles and Paradoxes of Imagination and the Arts
+).
+ Gregory Currie and Ian Ravenscroft (2002) contend that supposition
+involves only cognitive imagination, but imagination involves both
+cognitive and conative imagination. Alvin Goldman contends that
+suppositional imagination
+involves supposing that particular
+content obtains (for example, supposing that I am elated) but
+enactment imagination
+involves “enacting, or trying to
+enact, elation itself.” (2006: 47–48, italics omitted).
+Tyler Doggett and Andy Egan (2007) contend that imagination tends to
+motivate pretense actions, but supposition tends not to. On Jonathan
+Weinberg and Aaron Meskin (2006)’s synthesis, while there are a
+few functional similarities, there are many more functional
+differences between imagination and supposition (Table 1).
+There remain ongoing debates about specific alleged functional
+distinctions, and about whether the functional distinctions are
+numerous or fundamental enough to warrant discontinuism or not.
+Indeed, it remains contentious which philosophers count as continuists
+and which philosophers count as discontinuists (for a few sample
+taxonomies, see Arcangeli 2017; Balcerak Jackson 2016; Kind 2013).
+3. Roles of Imagination
+Much of the contemporary discussion of imagination has centered around
+particular roles that imagination is purported to play in various
+domains of human understanding and activity. Amongst the most
+widely-discussed are the role of imagination in understanding other
+minds
+ (
+section 3.1
+),
+ in performing and recognizing pretense
+ (
+section 3.2
+),
+ in characterizing psychopathology
+ (
+section 3.3
+),
+ in engaging with the arts
+ (
+section 3.4
+),
+ in thinking creatively
+ (
+section 3.5
+),
+ in acquiring knowledge about possibilities
+ (
+section 3.6
+),
+ and in interpreting figurative language
+ (
+section 3.7
+).
+The variety of roles ascribed to imagination, in turn, provides a
+guide for discussions on the nature of imagination
+ (
+section 1
+)
+ and its place in cognitive architecture
+ (
+section 2
+).
+3.1 Mindreading
+Mindreading
+is the activity of attributing mental states to
+oneself and to others, and of predicting and explaining behavior on
+the basis of those attributions. Discussions of mindreading in the
+1990s were often framed as debates between “theory
+theory”—which holds that the attribution of mental states
+to others is guided by the application of some (tacit) folk
+psychological theory—and “simulation
+theory”—which holds that the attribution of mental states
+is guided by a process of replicating or emulating the target’s
+(apparent) mental states, perhaps through mechanisms involving the
+imagination. (Influential collections of papers on this debate include
+Carruthers & Smith (eds.) 1996; Davies & Stone (eds.) 1995a,
+1995b.) In recent years, proponents of both sides have increasingly
+converged on common ground, allowing that both theory and simulation
+play some role in the attribution of mental states to others (see
+Carruthers 2003; Goldman 2006; Nichols & Stich 2003). Many such
+hybrid
+accounts include a role for imagination.
+On
+theory theory
+views, mindreading involves the application
+of some (tacit) folk psychological theory that allows the subject to
+make predictions and offer explanations of the target’s beliefs
+and behaviors. On pure versions of such accounts, imagination plays no
+special role in the attribution of mental states to others. (For an
+overview of theory theory, see entry on
+folk psychology as a theory
+).
+On
+simulation theory
+views, mindreading involves simulating
+the target’s mental states so as to exploit similarities between
+the subject’s and target’s processing capacities. It is
+this simulation that allows the subject to make predictions and offer
+explanations of the target’s beliefs and behaviors. (For early
+papers, see Goldman 1989; Gordon 1986; Heal 1986; for recent dissent,
+see, for example, Carruthers 2009; Gallagher 2007; Saxe 2005, 2009;
+for an overview of simulation theory, see entry on
+folk psychology as mental simulation
+).
+Traditional versions of simulation theory typically describe
+simulation using expressions such as “imaginatively putting
+oneself in the other’s place”. How this metaphor is
+understood depends on the specific account. (A collection of papers
+exploring various versions of simulation theory can be found in Dokic
+& Proust (eds.) 2002.) On many accounts, the projection is assumed
+to involve the subject’s imaginatively running mental processes
+“off-line” that are directly analogous to those being run
+“on-line” by the target (for example Goldman 1989).
+Whereas the “on-line” mental processes are genuine, the
+“off-line” mental processes are merely imagined. For
+example, a target that is deciding whether to eat sushi for lunch is
+running their decision-making processes “on-line”; and a
+subject that is simulating the target’s decision-making is
+running the analogous processes “off-line”—in part,
+by imagining the relevant mental states of the target. Recent
+empirical work in psychology has explored the accuracy of such
+projections (Markman, Klein, & Suhr (eds.) 2009, section V; Saxe
+2005, 2006, 2009.)
+Though classic simulationist accounts have tended to assume that the
+simulation process is at least in-principle accessible to
+consciousness, a number of recent simulation-style accounts appeal to
+neuroscientific evidence suggesting that at least some simulative
+processes take place completely unconsciously. On such accounts of
+mindreading, no special role is played by conscious imagination (see
+Goldman 2009; Saxe 2009.)
+Many contemporary views of mindreading are
+hybrid theory
+views according to which both theorizing and simulation play a role in
+the understanding of others’ mental states. Alvin Goldman
+(2006), for example, argues that while mindreading is primarily the
+product of simulation, theorizing plays a role in certain cases as
+well. Many recent discussions have endorsed hybrid views of this sort,
+with more or less weight given to each of the components in particular
+cases (see Carruthers 2003; Nichols & Stich 2003.)
+A number of philosophers have suggested that the mechanisms underlying
+subjects’ capacity to engage in mindreading are those that
+enable engagement in pretense behavior (Currie & Ravenscroft 2002;
+Goldman 2006; Nichols & Stich 2003; for an overview of recent
+discussions, see Carruthers 2009.) According to such accounts,
+engaging in pretense involves imaginatively taking up perspectives
+other than one’s own, and the ability to do so skillfully may
+rely on—and contribute to—one’s ability to
+understand those alternate perspectives (see the entry on
+empathy
+).
+ Partly in light of these considerations, the relative lack of
+spontaneous pretense in children with autistic spectrum disorders is
+taken as evidence for a link between the skills of pretense and
+empathy.
+3.2 Pretense
+Pretending
+is an activity that occurs during diverse
+circumstances, such as when children make-believe, when criminals
+deceive, and when thespians act (Langland-Hassan 2014). Although
+“imagination” and “pretense” have been used
+interchangeably (Ryle 1949), in this section we will use “imagination” to
+refer to one’s state of mind, and “pretense” to
+refer to the one’s actions in the world.
+Different theories of pretense disagree fundamentally about what it is
+to pretend (see Liao & Gendler 2011 for an overview).
+Consequently, they also disagree about the mental states that enable
+one to pretend.
+Metarepresentational
+theories hold that
+engaging in pretend play requires the innate mental-state concept
+pretend (Baron-Cohen, Leslie, & Frith 1985; Friedman 2013;
+Friedman & Leslie 2007; Leslie 1987, 1994). To pretend is to
+represent one’s own representations under the concept pretend.
+Behaviorist
+theories hold that engaging in pretend play
+requires a process of behaving-as-if (Harris 1994, 2000; Harris &
+Kavanaugh 1993; Jarrold et al. 1994; Lillard & Flavell 1992;
+Nichols & Stich 2003; Perner 1991; Rakoczy, Tomasello, &
+Striano 2004; Stich & Tarzia 2015). Different
+behaviorist theories explicate behaving-as-if in different ways, but
+all aim to provide an account of pretense without recourse to the
+innate mental-state concept pretend.
+Philosophical and psychological theories have sought to explain both
+the
+performance
+of pretense and the
+recognition
+of
+pretense, especially concerning evidence from developmental psychology
+(see Lillard 2001 for an early overview). On the performance side,
+children on a standard developmental trajectory exhibit early
+indicators of pretend play around 15 months; engage in explicit
+prop-oriented play by 24 months; and engage in sophisticated joint
+pretend play with props by 36 months (Harris 2000; Perner, Baker,
+& Hutton 1994; Piaget 1945 [1951]). On the recognition side,
+children on a standard developmental trajectory distinguish pretense
+and reality via instinctual behavioral cues around 15–18 months;
+and start to do so via conventional behavioral cues from 36 months on
+(Friedman et al. 2010; Lillard & Witherington 2004; Onishi &
+Baillargeon 2005; Onishi,
+Baillargeon, & Leslie 2007; Richert and Lillard 2004).
+Not surprisingly, the debate between theories of pretense often rest
+on interpretations of such empirical evidence. For example, Ori
+Friedman and Alan Leslie (2007) argue that behavioral theories cannot
+account for the fact that children as young as 15 months old can
+recognize pretend play and its normativity (Baillargeon, Scott, &
+He 2010). Specifically, they argue that behavioral theories do not
+offer straightforward explanations of this early development of
+pretense recognition, and incorrectly predicts that children
+systematically mistake other acts of behaving-as-if—such as
+those that stem from false beliefs—for pretense activities. In
+response, Stephen Stich and Joshua Tarzia (2015) has acknowledged
+these problems for earlier behaviorist theories, and developed a new
+behaviorist theory that purportedly explains the totality of empirical
+evidence better than metarepresentational rivals. Importantly, Stich
+and Tarzia argue that their account can better explain Angeline
+Lillard (1993)’s empirical finding that young children need not
+attribute a mental concept such as pretend to someone else in order to
+understand them as pretending.
+The debate concerning theories of pretense has implications for the
+role of imagination in pretense. Behaviorist theories tend to take
+imagination as essential to explaining pretense performance;
+metarepresentational theories do not. (However, arguably the innate
+mental-state concept pretend posited by metarepresentational theories
+serve similar functions. See Nichols and Stich’s (2000) discussion
+of the
+decoupler
+mechanism, which explicitly draws from
+Leslie 1987. Currie and Ravenscroft (2002) give a broadly behaviorist
+theory of pretense that does not require imagination.) Specifically,
+on most behaviorist theories, imagination is essential for guiding
+elaborations of pretense episodes, especially via behaviors (Picciuto
+& Carruthers 2016; Stich & Tarzia 2015).
+Most recently, Peter Langland-Hassan (2012, 2014) has developed a
+theory that aims to explain pretense behavior and pretense recognition
+without appeal to either metarepresentation or imagination.
+Langland-Hassan argues that pretense behaviors can be adequately
+explained by beliefs, desires, and intentions—including beliefs
+in counterfactuals; and that the difference between pretense and
+sincerity more generally can be adequately characterized in terms of a
+person’s beliefs, intentions, and desires. While Langland-Hassan
+does not deny that pretense is in some sense an imaginative activity,
+he argues that we do not need to posit a sui generis component of the
+mind to account for it.
+3.3 Psychopathology
+Autism and delusions have been—with much
+controversy—characterized as disorders of imagination. That is,
+the atypical patterns of cognition and behavior associated with each
+psychopathology have been argued to result from atypical functions of
+imagination.
+Autism
+can be characterized in terms of a trio of
+atypicalities often referred to as “Wing’s triad”:
+problems in typical social competence, communication, and imagination
+(Happé 1994; Wing & Gould 1979). The imaginative aspect of
+autism interacts with other prominent roles of imagination, namely
+mindreading, pretense, and engagement with the arts (Carruthers 2009).
+Children with autism do not engage in spontaneous pretend play in the
+ways that typically-developing children do, engaging instead in
+repetitive and sometimes obsessional activities; and adults with
+autism often show little interest in fiction (Carpenter, Tomasello,
+& Striano 2005; Happé 1994; Rogers, Cook, & Meryl 2005;
+Wing & Gould 1979). The degree to which an imaginative deficit is
+implicated in autism remains a matter of considerable debate. Most
+radically, Gregory Currie and Ian Ravenscroft (2002) have argued that,
+with respect to Wing’s triad, problems in typical social
+competence and communication are rooted in an inability to engage in
+imaginative activities.
+Delusions
+can be characterized as belief-like mental
+representations that manifest an unusual degree of disconnectedness
+from reality (Bortolotti & Miyazono 2015). Particularly striking
+examples would include Capgras and Cotard delusions. In the former,
+the sufferer takes her friends and family to have been replaced by
+imposters; in the latter, the sufferer takes himself to be dead. More
+mundane examples might include ordinary cases of self-deception.
+One approach to delusions characterize them as beliefs that are
+dysfunctional in their content or formation. (For a representative
+collection of papers that present and criticize this perspective, see
+Coltheart & Davies (eds.) 2000). However, another approach to
+delusions characterize them as dysfunctions of imaginings. Currie and
+Ravenscroft (2002: 170–175) argue that delusions are imaginings
+that are misidentified by the subject as the result of an inability to
+keep track of the sources of one’s thoughts. That is, a delusion
+is an imagined representation that is misidentified by the subject as
+a belief. Tamar Szabó Gendler (2007) argues that in cases of
+delusions and self-deceptions, imaginings come to play a role in
+one’s cognitive architecture similar to that typically played by
+beliefs. Andy Egan (2008a) likewise argues that the mental states
+involved in delusions are both belief-like (in their connection to
+behaviors and inferences) and imagination-like (in their
+circumscription); however, he argues that these functional
+similarities suggest the need to posit an in-between attitude called
+“bimagination”.
+3.4 Engagement with the Arts
+There is an entrenched historical connection between imagination and
+the arts. David Hume and Immanuel Kant both invoke imagination
+centrally in their exploration of aesthetic phenomena (albeit in
+radically different ways; see entries on
+Hume’s aesthetics
+and
+Kant’s aesthetics
+).
+ R.G. Collingwood (1938) defines art as the imaginative expression of
+feeling (Wiltsher 2018; see entry on
+Collingwood’s aesthetics
+).
+ Roger Scruton (1974) develops a Wittgensteinian account of
+imagination and accords it a central role in aesthetic experience and
+aesthetic judgment.
+In contemporary philosophy, the most prominent theory of
+imagination’s role in engagement with the arts is presented in
+Kendall Walton’s
+Mimesis as Make-Believe
+(1990).
+(Although Walton uses “fictions” as a technical term to
+refer to artworks, his conception of the arts is broad enough to
+include both high-brow and low-brow; popular and obscure; a variety of
+specific arts such as poetry and videogames; and—as Stacie
+Friend (2008) clarifies—both fictive and non-fictive works.)
+Walton’s core insight is that engagement with the arts is
+fundamentally similar to children’s games of make-believe. When
+one engages with an artwork, one uses it as a prop in a make-believe
+game. As props, artworks generate prescriptions for imaginings. These
+prescriptions also determine the representational contents of artworks
+(that is, “fictionality”, or what is true in a fictional
+world). When one correctly engages with an artwork, then, one imagines
+the representational contents as prescribed.
+Out of all the arts, it is the engagement with narratives that
+philosophers have explored most closely in conjunction with
+imagination (see Stock 2013 for an overview). Gregory Currie (1990)
+offers an influential account of imagination and fiction, and Peter
+Lamarque and Stein Haugom Olsen (1996) discuss literature
+specifically. Indeed, this research program—despite many
+criticisms of Walton’s specific theory—remains lively
+today (see, for example, papers in Nichols (ed.) 2006b). For example, Kathleen Stock (2017) argues that a specific kind of propositional imagination is essential for engagement with fictions. In dissent, Derek Matravers (2014) argues that, contra Walton, imagination is not essential for engagement with fictions.
+Philosophers have also done much to articulate the connection between
+imagination and engagement with music (see the entry on
+philosophy of music
+;
+ see also Trivedi 2011). Some philosophers focus on commonalities
+between engagement with narratives and engagement with music. For
+example, even though Walton (1990, 1994a, 1999) acknowledges that
+fictional worlds of music are much more indeterminate than fictional
+worlds of narratives, he maintains that the same kind of imagining
+used in experiencing narratives is also used in experiencing various
+elements of music, such as imagining continuity between movements and
+imagining feeling musical tension. Similarly, Andrew Kania (2015)
+argues that experiencing musical space and movement is imaginative
+like our experience of fictional narratives. Other philosophers draw
+parallels between engagement with music and other imaginative
+activities, namely as understanding other minds
+ (
+section 3.1
+)
+ and interpreting metaphor
+ (
+section 3.7
+).
+ As an example of the former, Jerrold Levinson (1996) argues that the
+best explanation of musical expressiveness requires listeners to
+experience music imaginatively—specifically, imagining a persona
+expressing emotions through the music. As an example of the latter,
+Scruton (1997) argues that musical experience is informed by spatial
+concepts applied metaphorically, and so imaginative perception is
+necessary for musical understanding (but see Budd 2003 for a
+criticism; see also De Clercq 2007 and Kania 2015). Stephen Davies
+(2005, 2011) and Peter Kivy (2002) notably criticize the imaginative
+accounts of engagement with music on empirical and theoretical
+grounds.
+Other imaginative accounts of engagement with the arts can be found in entries on
+philosophy of film
+and
+philosophy of dance
+. 
+Indeed, imagination’s aesthetic significance extends beyond the
+arts; philosophical aestheticians have recognized the role of
+imagination in appreciating nature (Brady 1998) and in appreciating
+mundane objects, events, and activities (see the entry
+on
+aesthetics of the everyday
+).
+Philosophers have sought to clarify the role of imagination in
+engagement with the arts by focusing on a number of puzzles and
+paradoxes in the vicinity. The
+puzzle of imaginative
+resistance
+explores apparent limitations on what can be imagined
+during engagements with the arts and, relatedly, what can be made
+fictional in artworks. The
+paradox of emotional response to
+fictions
+(widely known as “paradox of fiction”)
+examines psychological and normative similarities between affective
+responses prompted by imaginings versus affective responses by
+reality-directed attitudes. The
+paradox of tragedy
+and the
+paradox of horror
+examine psychological and normative
+differences between affective responses prompted by imaginings versus
+affective responses by reality-directed attitudes. Finally, the
+puzzle of moral persuasion
+is concerned with real-world
+outputs of imaginative engagements with artworks; specifically,
+whether and how artworks can morally educate or corrupt. For more
+detail on each of these artistic phenomena, see the
+Supplement on Puzzles and Paradoxes of Imagination and the Arts
+.
+3.5 Creativity
+The idea that imagination plays a central role in creative processes
+can be traced back to Immanuel Kant (
+Critique of Pure
+Reason
+), who takes artistic geniuses as paradigmatic examples of
+creativity. On Kant’s account, when imagination aims at the
+aesthetic, it is allowed to engage in free play beyond the
+understanding available to oneself. The unconstrained imagination can
+thereby take raw materials and produce outputs that transcend concepts
+that one possesses.
+While the precise characterization of creativity remains controversial
+(see Gaut & Kieran (eds.) 2018; Paul & Kaufman (eds.) 2014),
+contemporary philosophers typically conceive of it more broadly than
+Kant did. In addition to creative processes in the aesthetic realm,
+they also consider creative processes in, for example, “science,
+craft, business, technology, organizational life and everyday
+activities” (Gaut 2010: 1034; see also Stokes 2011). As an
+example, Michael Polanyi (1966) gives imagination a central role in
+the creative endeavor of scientific discovery, by refining and
+narrowing the solution space to open-ended scientific problems (see
+Stokes 2016: 252–256). And, in addition to creative processes of
+geniuses, contemporary philosophers also consider creative processes
+of ordinary people.
+With this broadened scope, contemporary philosophers have followed
+Kant’s lead in exploring the role of imagination in creativity
+(see Stokes 2016 for an overview). Berys Gaut (2003) and Dustin Stokes
+(2014) argue that two characteristic features of imagination—its
+lack of aim at truth and its dissociation from action—make it
+especially suitable for creative processes. Peter Carruthers (2002)
+argues that the same cognitive resources, including imagination,
+underlie children’s pretend play and adults’ creative
+thinking. Specifically, Carruthers hypothesizes that children’s
+play evolutionarily developed as precursors to and practices for
+adults’ creative thinking.
+There are two points of disagreement regarding the role of imagination
+in creative processes. First, philosophers disagree about the nature
+and the strength of the connection between imagination and creativity.
+Kant takes imagination to be
+constitutive
+of creativity: what
+makes a creative process creative is the involvement of imagination
+aiming at the aesthetic (see also A. Hills & Bird forthcoming).
+Gaut and Stokes, by contrast, thinks there is only an imperfect
+causal
+connection between imagination and creativity: while
+imagination is useful for creative processes, there are creative
+processes that do not involve imagination and there are imaginings
+that are uncreative (see also Beaney 2005). Second, philosophers
+disagree about the type of imagination involved in creative processes.
+By hypothesizing a common evolutionary cause, Carruthers suggests that
+the same imaginative capacity is involved in pretense and in
+creativity. By contrast, perhaps echoing Kant’s distinction of
+productive versus reproductive imagination, Currie and Ravenscroft
+(2002) sharply distinguish recreative imagination, which is involved
+in pretense and mindreading, from creative imagination.
+3.6 Knowledge
+Imagination plays a role in the acquisition of knowledge. Many
+philosophical arguments call on imagination when they appeal to
+metaphysical modal knowledge (see the entry on
+epistemology of modality
+;
+ the papers collected in Gendler & Hawthorne (eds.) 2002; and Kung
+2016 and Strohminger & Yli-Vakkuri 2017 for overviews). The kind
+of thought experiments that are regularly used in scientific
+theorizing is also plausibly premised on imaginative capacities (see
+the entry on
+thought experiments
+).
+ As already discussed, people use imagination to understand the
+perspectives of others
+ (
+section 3.1
+).
+ Moreover, people often make decisions via thinking about
+counterfactuals, or what would happen if things had been different
+from how they in fact are (see the entries on
+causation
+and
+counterfactual conditionals
+).
+ However, the phenomenon of transformative experience has recently
+called into question which kind of imaginary scenarios are truly
+epistemically accessible. (For a representative collection of papers
+that explore different epistemic roles of imagination, see Kind &
+Kung (eds.) 2016a.)
+Broadly speaking, thought experiments use imaginary scenarios to
+elicit responses that (ideally) grant people knowledge of
+possibilities. A special, but prominent, type of thought experiment in
+philosophy concerns the link between imagination, conceivability, and
+metaphysical possibility. René Descartes famously offered a
+modal argument
+in the
+Sixth Meditation
+, reasoning
+from the fact that he could clearly and distinctly conceive of his
+mind and body as distinct to the real distinctness between them. The
+current prevalence of similar modal arguments can be verified by
+entries on
+zombies
+and
+dualism
+.
+ These modal arguments all rely, in some way, on the idea that what
+one can imagine functions as a fallible and defeasible guide to what
+is really possible in the broadest sense.
+Pessimists, notably Peter Van Inwagen (1998: 70), doubt that
+imagination can give us an accurate understanding of scenarios that
+are “remote from the practical business of everyday life”,
+such as those called upon in philosophical modal arguments. Optimists
+typically take it as a given that there is some connection between
+imagination and metaphysical modal knowledge, but focus on
+understanding where the connection is imperfect, such as when one
+(apparently) imagines the impossible. To just give a few examples,
+Saul Kripke (1972 [1980]), Stephen Yablo (1993), David Chalmers
+(2002), Dominic Gregory (2004), Timothy
+Williamson (2007, 2016), Peter Kung (2010), and Magdalena Balcerak Jackson (2018) have each developed a distinctive approach to
+this task. For example, Kripke adopts a redescription approach to
+modeling (some) modal errors: in some cases where one is apparently
+imagining the impossible, one is in fact imagining a possible scenario
+but misconstruing it as an impossible one. On this diagnosis, in such
+cases, the error resides not with imaginative capacities, but with the
+capacity to describe one’s own imaginings.
+Other thought experiments are scoped more narrowly; for example,
+scientific thought experiments are intended to allow people to explore
+nomic possibilities. Galileo (
+On Motion
+) famously offered a
+thought experiment that disproved Aristotle’s theory of motion,
+which predicts that heavier objects fall more quickly. In this thought
+experiment, Galileo asked people to imagine the falling of a composite
+of a light and heavy object versus the falling of the heavy object
+alone. When one runs the thought experiment—that is, when one
+elaborates on the starting point of this imaginary scenario—one
+notices an incoherence in Aristotle’s theory: on the one hand,
+it should predict that the composite would fall more slowly because
+the light object would slow down the heavy object; on the other hand,
+it should also predict that the composite would fall more quickly
+because the composite is heavier than the heavy object alone. While it
+is incontrovertible that imagination is central to thought
+experiments, debates remain on whether imagination can be invoked in
+the context of justification (Gendler 2000b; Williamson 2016) or only
+in the context of discovery (Norton 1991, 1996; Spaulding 2016).
+The role of imagination in counterfactual reasoning—and, in
+particular, the question of what tends to be held constant when one
+contemplates counterfactual scenarios—has been explored in
+detail in recent philosophical and psychological works (Byrne 2005;
+Williamson 2005, 2007, 2016). Williamson suggests that
+When we work out what would have happened if such-and-such had been
+the case, we frequently cannot do it without imagining such-and-such
+to be the case and letting things run. (2005: 19)
+It is imagination that lets one move from counterfactuals’
+antecedents to their consequents. Williamson (2016) argues that our
+imaginings have evolved to be suitably constrained, such that such
+counterfactual reasoning can confer knowledge. Indeed, he argues that
+if one were to be skeptical about gaining knowledge from such a
+hypothetical reasoning process, then one would be forced to be
+(implausibly) skeptical about much of ordinary reasoning about
+actuality. Developing an idea anticipated by Williamson (2007), Margot
+Strohminger and Juhani Yli-Vakkuri (forthcoming) argue that the same
+imaginative mechanisms that capable of producing metaphysical modal
+knowledge are also capable of producing knowledge of other restricted
+modalities, such as nomic and practical modality. In parallel, Amy Kind (2016c, 2018) argues that imaginings can confer knowledge when they are guided by reality-sensitive constraints, in a manner akin to computer simulations.
+Thinking about counterfactuals is just one way that imagination can
+factor into mundane decision-making. Neil Van Leeuwen (2011, 2016a,
+2016b) and Bence Nanay (2016a) have recently started to elaborate on the connection
+between imagination and actions via decision-making. Although neither
+authors focus on the epistemic status of imagination, their accounts
+of decision-making seem to suggest that imagination is used to gain
+practical knowledge about the probability and value of actions’
+possible outcomes.
+At the same time, the recently prominent discussion of transformative
+experiences calls into question the extent to which imagination can be
+epistemically useful for making life-altering decisions. L.A. Paul
+(2014, 2015, 2018; see also Jackson 1982, 1986; D. Lewis 1988) argues
+that some types of knowledge—especially
+de se
+knowledge
+concerning one’s values—are inaccessible by imaginings;
+only actual experiences can confer these types of knowledge. For
+example, one cannot really know whether one wants to become a parent
+without experiencing being a parent because parenthood itself can
+transform one’s values. If one cannot reasonably imagine oneself
+with radically different values, then plausibly one cannot
+appropriately imagine the values associated with the outcomes of
+one’s actions. As such, despite their epistemic worth in
+ordinary contexts, imaginings might not help in making life-altering
+decisions.
+3.7 Figurative Language
+Finally, imagination might play a role in interpreting figurative
+language. The exact role ascribed to imagination varies greatly from
+theory to theory. In part, this variation arose from a longstanding
+debate in philosophy of language concerning the divide between literal
+and figurative language: while some imaginative theories of figurative
+language (such as Walton 1990) accept a strong divide, others (such as
+Lepore & Stone 2015) reject it. Although this controversy cannot
+be avoided entirely, it is worth reiterating that the present aim is
+only to highlight the possible role(s) that imagination might play in
+the psychology of irony, metaphor, and nearby linguistic
+phenomena.
+Despite immense differences between them, numerous theories of irony
+have converged on the idea that interpreting irony involves
+imagination. Kendall Walton (1990) treats ironic and metaphoric speech
+as props in momentary games of make-believe. On Walton’s theory,
+imagination is central to understanding and interpreting such
+figurative speech. Herbert Clark and Richard Gerrig (1984) and Gregory
+Currie (2006) connect irony to pretense, but without further linking
+all cases of pretense to imaginative capacities. Elisabeth Camp (2012)
+similarly endorses a role for pretense in the interpretation of irony
+and the related case of sarcasm. Finally, this idea that interpreting
+irony involves imagination is corroborated by psychological research:
+irony recognition is difficult for neurodivergent individuals who lack
+imaginative capacities (Happé 1991)—specifically, in
+individuals with Asperger’s syndrome, who have deficits with
+meta-representation—and in individuals with schizophrenia, who
+have deficits with theory-of-mind (Langdon et al. 2002).
+Again, despite immense differences between them, numerous theories of
+metaphor have also converged on the idea that interpreting metaphor
+involves imagination (see the entry on
+metaphor
+).
+ The first family of theories focus on imagination’s role in
+pretense. As mentioned earlier, Walton (1990) takes metaphors to be
+props in momentary games of make-believe. Walton (1993, 2000) and
+David Hills (1997) further develop this idea. (Importantly, Walton
+(1993) notes that interpretation of a metaphor may not involve actual
+imaginings, but only the recognition of the type of imaginings
+prescribed.) Andy Egan (2008b) extends the idea to account for idioms.
+These theories remain controversial: in particular, Camp (2009) and
+Catherine Wearing (2011) have offered forceful criticisms. The second
+family of theories focus on imagination’s role in providing
+novel perspectives. While Camp (2009) criticizes the first family of
+theories, she also acknowledges a role for imagination. On her
+account, pretense and metaphor typically involve distinct types of
+imaginings: pretense-imaginings allow one to access counterfactual
+content, but metaphor-imaginings allow one to re-interpret actual
+content from a novel perspective. Indeed Camp (2007) argues that the
+kind of imagination involved in interpreting metaphors is also used to
+interpret similes and juxtapositions. The third family of theories
+focus on imagination’s role in providing mental images. Paul
+Ricoeur (1978), Richard Moran (1989), and Robyn Carston (2010) all
+propose theories on which mental imagery plays an important role in
+processing metaphors. Outside of philosophy of language, James Grant
+(2011) argues that metaphors are prevalent in art criticism because
+they prompt readers’ imaginings.
+Bibliography
+Addis, Donna Rose, Alana T. Wong, and Daniel L. Schacter, 2007,
+“Remembering the Past and Imagining the Future: Common and
+Distinct Neural Substrates During Event Construction and
+Elaboration”,
+Neuropsychologia
+45(7): 1363–1377.
+doi:10.1016/j.neuropsychologia.2006.10.016
+Arcangeli, Margherita, 2014, “Against Cognitivism about
+Supposition”,
+Philosophia
+, 42(3): 607–624.
+doi:10.1007/s11406-014-9535-9
+–––, 2017, “Interacting with Emotions:
+Imagination and Supposition”,
+The Philosophical
+Quarterly
+, 67(269): 730–750. doi:10.1093/pq/pqx007
+Aristotle [fourth century BCE],
+The Complete Works of
+Aristotle
+, Vol. 1–2, Jonathan Barnes (ed.), Princeton:
+Princeton University Press, 1984.
+De Anima
+(One the Soul), volume 1: 641–692.
+Poetics
+, volume 2: 2316–2340.
+Atance, Cristina M. and Daniela K. O’Neill, 2001,
+“Episodic Future Thinking”,
+Trends in Cognitive
+Sciences
+5(12): 533–539.
+doi:10.1016/S1364-6613(00)01804-0
+Baillargeon, Renée, Rose M. Scott, and Zijing He, 2010,
+“False-Belief Understanding in Infants”,
+Trends in
+Cognitive Sciences
+, 14(3): 110–118.
+doi:10.1016/j.tics.2009.12.006
+Balcerak Jackson, Magdalena, 2016, “On the Epistemic Value
+of Imagining, Supposing, and Conceiving”, in Kind and Kung (eds.)
+2016a: 41–60. doi:10.1093/acprof:oso/9780198716808.003.0002
+–––, 2018, “Justification by
+Imagination”, in Macpherson and Dorsch (eds.) 2018:
+209–226. doi:10.1093/oso/9780198717881.003.0010
+Baron-Cohen, Simon, Alan M. Leslie, and Uta Frith, 1985,
+“Does the Autistic Child Have a ‘Theory of
+Mind’?”,
+Cognition
+, 21(1): 37–46.
+doi:10.1016/0010-0277(85)90022-8
+Beaney, Michael, 2005,
+Imagination and Creativity
+, Milton
+Keynes: Open University Press.
+Berkeley, George, 1713,
+Three Dialogues Between Hylas and
+Philonous
+, in
+The Works of George Berkeley, Bishop of Cloyne,
+Vol. 1–9
+, A. A. Luce and T. E. Jessop (eds.), London:
+Thomas Nelson and Sons, 1948–1957.
+Black, Jessica E., Stephanie C. Capps, and Jennifer
+L. Barnes, 2018, “Fiction, Genre Exposure, and Moral
+Reality”,
+Psychology of Aesthetics, Creativity, and the
+Arts
+, 12(3): 328–340. doi:10.1037/aca0000116
+Bortolotti, Lisa and Kengo Miyazono, 2015, “Recent Work on
+the Nature and Development of Delusions”,
+Philosophy
+Compass
+, 10(9): 636–645. doi:10.1111/phc3.12249
+Brady, Emily, 1998, “Imagination and the Aesthetic
+Appreciation of Nature”,
+The Journal of Aesthetics and Art
+Criticism
+, 56(2): 139–147. doi:10.2307/432252
+Brann, Eva T.H., 1991,
+The World of the Imagination
+,
+Lanham: Rowman & Littlefield.
+Briscoe, Robert Eamon, 2008, “Vision, Action, and
+Make-Perceive”,
+Mind and Language
+, 23(4):
+457–497. doi:10.1111/j.1468-0017.2008.00351.x
+–––, 2018, “Superimposed Mental Imagery:
+On the Uses of Make-Perceive”, in Macpherson and Dorsch (eds.) 2018:
+161–185. doi:10.1093/oso/9780198717881.003.0008
+Brock, Stuart, 2012, “The Puzzle of
+Imaginative Failure”,
+The Philosophical Quarterly
+,
+62(248): 443–463. doi:10.1111/j.1467-9213.2012.00058.x
+Buckner, Randy L. and Daniel C. Carroll, 2007,
+“Self-Projection and the Brain”,
+Trends in Cognitive
+Sciences
+11(2): 49–57. doi:10.1016/j.tics.2006.11.004
+Budd, Malcolm, 2003, “Musical Movement and Aesthetic
+Metaphors”,
+British Journal of Aesthetics
+, 43(3):
+209–223. doi:10.1093/bjaesthetics/43.3.209
+Byrne, Ruth M.J., 2005,
+The Rational Imagination: How People
+Create Alternatives to Reality
+, Cambridge: MIT Press.
+Camp, Elisabeth, 2007, “Showing, Telling, and Seeing:
+Metaphor and ‘Poetic’ Language”,
+The Baltic
+International Yearbook of Cognition, Logic, and Communication
+, 3:
+1–24. doi:10.4148/biyclc.v3i0.20
+–––, 2009, “Two Varieties of Literary
+Imagination: Metaphor, Fiction, and Thought Experiments”,
+Midwest Studies in Philosophy
+, 33(1): 107–130.
+doi:10.1111/j.1475-4975.2009.00186.x
+–––, 2012, “Sarcasm, Pretense, and The
+Semantics/Pragmatics Distinction”,
+Noûs
+, 46(4):
+587–634. doi:10.1111/j.1468-0068.2010.00822.x
+Carpenter, Malinda, Michael Tomasello, and Tricia Striano, 2005,
+“Role Reversal Imitation and Language in Typically-Developing
+Infants and Children with Autism”,
+Infancy
+, 8(3):
+253–278. doi:10.1207/s15327078in0803_4
+Carroll, Noël, 1990,
+The Philosophy of
+Horror, or, Paradoxes of the Heart
+, New York: Routledge.
+–––, 2000, “Art and Ethical
+Criticism: An Overview of Recent Directions of Research”,
+Ethics
+, 110(2): 350–387. doi:10.1086/233273
+–––, 2002, “The Wheel of
+Virtue: Art, Narrative and Moral Knowledge”,
+The Journal of
+Aesthetics and Art Criticism
+, 60(1): 3–26.
+doi:10.1111/1540-6245.00048
+Carroll, Noël and John Gibson (eds.), 2016,
+The Routledge Companion to Philosophy of Literature
+, New
+York: Routledge.
+Carruthers, Peter, 2002, “Human Creativity: Its Cognitive
+Basis, Its Evolution, and Its Connections with Childhood
+Pretence”,
+British Journal for the Philosophy of
+Science
+, 53(2): 225–249. doi:10.1093/bjps/53.2.225
+–––, 2003, “Review of
+Recreative
+Minds
+, by Gregory Currie and Ian Ravenscroft”,
+Notre
+Dame Philosophical Reviews
+, 2003.11.12.
+ [
+Carruthers 2003 available online
+]
+–––, 2006, “Why Pretend?”, in
+Nichols 2006b: 89–109.
+doi:10.1093/acprof:oso/9780199275731.003.0006
+–––, 2009, “How We Know our Own Minds: The
+Relationship between Mindreading and Metacognition”,
+Behavioral and Brain Sciences
+, 32(2): 121–138.
+doi:10.1017/S0140525X09000545
+Carruthers, Peter and Peter K. Smith (eds.), 1996,
+Theories of
+Theories of Mind
+, New York: Cambridge University Press.
+doi:10.1017/CBO9780511597985
+Carston, Robyn, 2010, “Metaphor: Ad Hoc Concepts, Literal
+Meaning and Mental Images”,
+Proceedings of the Aristotelian
+Society
+, 110(3pt3): 295–321.
+doi:10.1111/j.1467-9264.2010.00288.x
+Casey, Edward S., 2000,
+Imagining: A Phenomenological
+Study
+, second edition, Bloomington: Indiana University
+Press.
+Caston, Victor, 1996, “Why Aristotle Needs
+Imagination”,
+Phronesis
+, 41(1): 20–55.
+doi:10.1163/156852896321051774
+Chalmers, David J., 2002, “Does Conceivability Entail
+Possibility?”, in Gendler and Hawthorne (eds.) 2002:
+145–200.
+Clark, Herbert H. and Richard J. Gerrig, 1984, “On the
+Pretense Theory of Irony”,
+Journal of Experimental
+Psychology: General
+, 113(1): 121–126.
+doi:10.1037/0096-3445.113.1.121
+Clavel-Vazquez, Adriana, 2018, “Sugar and
+Spice, and Everything Nice: What Rough Heroines Tell Us about
+Imaginative Resistance”,
+The Journal of Aesthetics and Art
+Criticism
+, 76(2): 201–212. doi:10.1111/jaac.12440
+Coleridge, Samuel Taylor, 1817,
+Biographia
+Literaria
+, John Shawcross (ed.), Oxford: Oxford University Press,
+1907.
+Collingwood, R.G., 1938,
+The Principles of Art
+, Oxford:
+Clarendon Press.
+Coltheart, Max and Martin Davies (eds.), 2000,
+Pathologies of
+Belief
+, Malden, MA: Blackwell.
+Currie, Gregory, 1990,
+The Nature of Fiction
+, New York:
+Cambridge University Press. doi:10.1017/CBO9780511897498
+–––, 1995, “The Moral
+Psychology of Fiction”,
+Australasian Journal of
+Philosophy
+, 73(2): 250–259.
+doi:10.1080/00048409512346581
+–––, 1997, “The Paradox of Caring: Fiction
+and the Philosophy of Mind”, in Hjort and Laver (eds.) 1997:
+63–77.
+–––, 2002a, “Desire in Imagination”,
+in Gendler and Hawthorne (eds.) 2002: 201–221.
+–––, 2002b, “Imagination as
+Motivation”,
+Proceedings of the Aristotelian Society
+,
+102(1): 201–216. doi:10.1111/j.0066-7372.2003.00050.x
+–––, 2006, “Why Irony is Pretence”,
+in Nichols (ed.) 2006b: 111–133.
+doi:10.1093/acprof:oso/9780199275731.003.0007
+–––, 2010, “Tragedy”,
+Analysis
+, 70(4): 632–638.
+doi:10.1093/analys/anq076
+Currie, Gregory and Ian Ravenscroft, 2002,
+Recreative Minds:
+Imagination in Philosophy and Psychology
+, New York: Oxford
+University Press. doi:10.1093/acprof:oso/9780198238089.001.0001
+D’Arms, Justin and Daniel Jacobson, 2000,
+“The Moralistic Fallacy: On the ‘Appropriateness’ of
+Emotions”,
+Philosophy and Phenomenological Research
+,
+61(1): 65–90. doi:10.2307/2653403
+Davies, Martin and Tony Stone (eds.), 1995a,
+Folk Psychology:
+The Theory of Mind Debate
+, Cambridge: Blackwell.
+––– (eds.), 1995b,
+Mental Simulation
+,
+Cambridge: Blackwell.
+Davies, Stephen, 2005, “Artistic Expression and the Hard
+Case of Pure Music”, in Kieran 2005: 179–191.
+–––, 2011, “Music and Metaphor”, in
+Musical Understandings and Other Essays on the Philosophy of
+Music
+, New York: Oxford University Press, pp. 21–33.
+doi:10.1093/acprof:oso/9780199608775.003.0003
+De Brigard, Felipe, 2014, “The Nature of Memory
+Traces”,
+Philosophy Compass
+, 9(6): 402–414.
+doi:10.1111/phc3.12133
+–––, 2017, “Memory and Imagination”,
+in Sven Bernecker and Kourken Michaelian (eds.) 2017,
+The
+Routledge Handbook of Philosophy of Memory
+, New York: Routledge,
+pp. 127–140.
+De Brigard, Felipe and Bryce S. Gessell, 2016, “Time is Not
+of the Essence”, in Kourken Michaelian, Stanley B. Klein, and
+Karl K. Szpunar (eds.), 2016,
+Seeing the Future: Theoretical
+Perspectives on Future-Oriented Mental Time Travel
+, New York:
+Oxford University Press, pp. 153–179.
+doi:10.1093/acprof:oso/9780190241537.003.0008
+De Clercq, Rafael, 2007, “Melody and Metaphorical
+Movement”,
+British Journal of Aesthetics
+, 47(2):
+156–168. doi:10.1093/aesthj/ayl053
+Debus, Dorothea, 2014, “Mental Time Travel: Remembering the
+Past, Imagining the Future, and the Particularity of Events”,
+Review of Philosophy and Psychology
+, 5(3): 333–350.
+doi:10.1007/s13164-014-0182-7
+–––, 2016, “Imagination and Memory”,
+in Kind (ed.) 2016a: 135–148.
+Descartes, René, 1642,
+Meditations on First
+Philosophy
+, in volume 2 of John Cottingham, Robert Stoothoff,
+Dugald Murdoch, and A. Kenny (trans.),
+The Philosophical Writings
+of Descartes
+, Vol. 1–3, New York: Cambridge University
+Press, 1984–1991.
+Doggett, Tyler and Andy Egan, 2007, “Wanting Things You
+Don’t Want: The Case for an Imaginative Analogue of
+Desire”,
+Philosophers’ Imprint
+, 7(9): 1–17.
+ [
+Doggett & Egan 2007 available online
+]
+–––, 2012, “How We Feel About Terrible,
+Non-Existent Mafiosi”,
+Philosophy and Phenomenological
+Research
+, 84(2): 277–306.
+doi:10.1111/j.1933-1592.2010.00437.x
+Dokic, Jérôme and Joëlle Proust (eds.), 2002,
+Simulation and Knowledge of Action
+, Philadelphia; John
+Benjamins.
+Eaton, A.W., 2016, “Literature and
+Morality”, in Carroll and Gibson (eds.) 2016: 433–450.
+Egan, Andy, 2008a, “Imagination, Delusion, and
+Self-Deception”, in
+Delusion and Self-Deception: Affective
+Influences on Belief-formation
+, Tim Bayne and John Fernandez
+(eds.), 2008, New York: Psychology Press, pp. 263–280.
+–––, 2008b, “Pretense for the Complete
+Idiom”,
+Noûs
+, 42(3): 381–409.
+doi:10.1111/j.1468-0068.2008.00686.x
+Everson, Stephen, 2007, “Belief in Make-Believe”,
+European Journal of Philosophy
+, 15(1): 63–81.
+doi:10.1111/j.1468-0378.2007.00242.x
+Feagin, Susan L., 1983, “The Pleasures of
+Tragedy”,
+American Philosophical Quarterly
+, 20(1):
+95–104.
+–––, 1996,
+Reading With
+Feeling: The Aesthetics of Appreciation
+, Ithaca, NY: Cornell
+University Press.
+Friedman, Ori, 2013, “How Do Children Represent Pretend
+Play?”, in Marjorie Taylor (ed.), 2013,
+The Oxford Handbook
+of the Development of Imagination
+, New York: Oxford University
+Press, pp. 186–195.
+Friedman, Ori and Alan M. Leslie, 2007, “The Conceptual
+Underpinning of Pretense: Pretending is Not ‘Behaving as
+if’”,
+Cognition
+, 105(1): 103–124.
+doi:10.1016/j.cognition.2006.09.007
+Friedman, Ori, Karen R. Neary, Corinna L. Burnstein, and Alan M.
+Leslie, 2010, “Is Young Children’s Recognition of Pretense
+Metarepresentational or Merely Behavioral? Evidence from 2- and
+3-year-olds’ Understanding of Pretend Sounds and Speech”,
+Cognition
+, 115(2): 314–319.
+doi:10.1016/j.cognition.2010.02.001
+Friend, Stacie, 2008, “Imagining Fact and Fiction”, in
+Kathleen Stock and Katherine Thomsen-Jones (eds.), 2008,
+New Waves
+in Aesthetics
+, New York: Palgrave Macmillan, pp.
+150–169.
+–––, 2010, “Getting Carried
+Away: Evaluating the Emotional Influence of Fiction Film”, in
+Midwest Studies in Philosophy
+, 34(1): 77–105.
+doi:10.1111/j.1475-4975.2010.00196.x
+–––, 2016, “Fiction and
+Emotion”, in Kind (ed.) 2016a: 217–229.
+Funkhouser, Eric and Shannon Spaulding, 2009, “Imagination
+and Other Scripts”,
+Philosophical Studies
+, 143(3):
+291–314. doi:10.1007/s11098-009-9348-z
+Galilei, Galileo, c.1590,
+De Motu Antiquiora
+(
+On
+Motion
+), unpublished manuscript, not published until 1687.
+Translated as part of
+On motion, and On mechanics; comprising De
+motu
+, I.E. Drabkin (trans/ed.), Madison: University of Wisconsin
+Press, 1960.
+Gallagher, Shaun, 2007, “Simulation Trouble”,
+Social Neuroscience
+, 2(3–4): 353–365.
+doi:10.1080/17470910601183549
+Gaut, Berys, 2003, “Creativity and Imagination”, in
+Berys Gaut and Paisley Livingston (eds.), 2003,
+The Creation of
+Art: New Essays in Philosophical Aesthetics
+, New York: Cambridge
+University Press, pp. 148–173.
+–––, 2010, “The Philosophy of
+Creativity”,
+Philosophy Compass
+, 5(12):
+1034–1046. doi:10.1111/j.1747-9991.2010.00351.x
+Gaut, Berys and Matthew Kieran (eds.), 2018,
+Creativity and
+Philosophy
+, New York: Routledge.
+Gendler, Tamar Szabó, 2000a, “The Puzzle of
+Imaginative Resistance”,
+The Journal of Philosophy
+,
+97(2): 55–81. doi:10.2307/2678446
+–––, 2000b, “Thought Experiments
+Rethought—and Reperceived”,
+Philosophy of
+Science
+, 71(5): 1152–1163. doi:10.1086/425239
+–––, 2003, “On the Relation between
+Pretence and Belief”, in Matthew Kieran and Dominic M. Lopes
+(eds.), 2003,
+Imagination, Philosophy, and the Arts
+, New
+York: Routledge, pp. 124–141.
+–––, 2006, “Imaginative
+Resistance Revisited”, in Nichols (ed.) 2006b: 149–173.
+doi:10.1093/acprof:oso/9780199275731.003.0009
+–––, 2007, “Self-Deception as
+Pretense”,
+Philosophical Perspectives
+, 21(1):
+231–258. doi:10.1111/j.1520-8583.2007.00127.x
+–––, 2008a, “Alief and Belief”,
+The Journal of Philosophy
+, 105(10): 634–663.
+doi:10.5840/jphil20081051025
+–––, 2008b, “Alief in Action (and
+Reaction)”,
+Mind and Language
+, 23(5): 552–585.
+doi:10.1111/j.1468-0017.2008.00352.x
+Gendler, Tamar Szabó and John Hawthorne (eds.), 2002,
+Conceivability and Possibility
+, New York: Oxford University
+Press.
+Gendler, Tamar Szabó and Karson Kovakovich,
+2005, “Genuine Rational Fictional Emotions”, in Kieran
+2005: 241–253.
+Gendler, Tamar Szabó and Shen-yi Liao, 2016,
+“The Problem of Imaginative Resistance”, in Carroll and
+Gibson (eds.) 2016: 405–418.
+Gilbert, Daniel T. and Timothy D. Wilson, 2007,
+“Prospection: Experiencing the Future”,
+Science
+,
+317(5843): 1351–1354. doi:10.1126/science.1144161
+Gilmore, Jonathan, 2011, “Aptness of Emotions
+for Fictions and Imaginings”,
+Pacific Philosophical
+Quarterly
+, 92(4): 468–489.
+doi:10.1111/j.1468-0114.2011.01407.x
+Goldman, Alvin I., 1989, “Interpretation
+Psychologized”,
+Mind and Language
+4(3): 161–185.
+doi:10.1111/j.1468-0017.1989.tb00249.x
+–––, 2006,
+Simulating Minds: The Philosophy,
+Psychology, and Neuroscience of Mindreading
+, New York: Oxford
+University Press. doi:10.1093/0195138929.001.0001x
+–––, 2009, “Précis of
+Simulating Minds: The Philosophy, Psychology, and Neuroscience of
+Mindreading
+”,
+Philosophical Studies
+, 144(3):
+431–434. doi:10.1007/s11098-009-9355-0
+Gordon, Robert M., 1986, “Folk Psychology as
+Simulation”,
+Mind and Language
+1(2): 158–171.
+doi:10.1111/j.1468-0017.1986.tb00324.x
+Grant, James, 2011, “Metaphor and Criticism”,
+British Journal of Aesthetics
+51(3): 237–257.
+doi:10.1093/aesthj/ayr016
+Gregory, Dominic, 2016, “Imagination and Mental
+Imagery”, in Kind (ed.) 2016a: 97–110.
+Hakemulder, F. Jèmeljan, 2000,
+The Moral
+Laboratory: Experiments Examining the Effects of Reading Literature on
+Social Perception and Moral Self-Knowledge
+, Philadelphia: John
+Benjamins.
+Happé, Francesca G.E., 1991, “The Autobiographical
+Writings of Three Asperger Syndrome Adults: Problems of Interpretation
+and Implications for Theory”, in Uta Frith (ed.), 1991,
+Autism and Asperger Syndrome
+, New York: Cambridge University
+Press, pp. 207–242. doi:10.1017/CBO9780511526770.007
+–––, 1994.
+Autism: An Introduction to
+Psychological Theory
+, London: UCL Press.
+Harris, Paul L., 1994, “Understanding Pretense”, in C.
+Lewis and Mitchell 1994: 235–259.
+–––, 2000,
+The Work of the Imagination
+,
+Malden, MA: Blackwell.
+Harris, Paul L. and Robert D. Kavanaugh, 1993, “Young
+Children’s Understanding of Pretense”,
+Monographs of
+the Society for Research in Child Development
+, 58(1): serial no.
+231. doi:10.2307/1166074
+Heal, Jane, 1986, “Replication and Functionalism”, in
+Jeremy Butterfield (ed.),
+Language, Mind, and Logic
+,
+Cambridge: Cambridge University Press, pp. 135–150.
+Hills, Alison and Alexander Bird, forthcoming, “Against
+Creativity”,
+Philosophy and Phenomenological Research
+,
+early online: 3 June 2018. doi:10.1111/phpr.12511
+Hills, David, 1997, “Aptness and Truth in Verbal
+Metaphor”,
+Philosophical Topics
+, 25(1): 117–153.
+doi:10.5840/philtopics199725118
+Hjort, Mette and Sue Laver (eds.), 1997,
+Emotion and the
+Arts
+, New York: Oxford University.
+Hobbes, Thomas, 1651 [1991],
+Leviathan
+, Richard Tuck
+(ed.), New York: Cambridge University Press, 1991.
+Hopkins, Robert, 2018, “Imagining the Past: On the Nature of
+Episodic Memory”, in Macpherson and Dorsch (eds.) 2018: 46–71. doi:10.1093/oso/9780198717881.003.0004
+Humberstone, I.L., 1992, “Direction of Fit”,
+Mind
+, 101(401): 59–83. doi:10.1093/mind/101.401.59
+Hume, David, 1738 [1975],
+A Treatise of Human Nature
+, L.
+A. Selby-Bigge (ed.), Oxford: Clarendon Press, 1975.
+–––, 1757, “Of
+Tragedy”, in
+The Philosophical Works of David Hume
+,
+Vol. 1–4, T.H. Green and T.H. Gross (eds.), London: Longman,
+Green, 1874–1875.
+Ichikawa, Jonathan, 2009, “Dreaming and Imagination”,
+Mind and Language
+, 24(1): 103–121.
+doi:10.1111/j.1468-0017.2008.01355.x
+Jackson, Frank, 1982, “Epiphenomenal Qualia”,
+The
+Philosophical Quarterly
+, 32(127): 127–136.
+doi:10.2307/2960077
+–––, 1986, “What Mary Didn’t
+Know”,
+The Journal of Philosophy
+, 83(5): 291–295.
+doI:10.2307/2026143
+Jacobson, Daniel, 1996, “Sir Philip
+Sidney’s Dilemma: On the Ethical Function of Narrative
+Art”,
+The Journal of Aesthetics and Art Criticism
+,
+54(4): 327–336. doi:10.1111/j.1468-0017.1994.tb00318.x
+Jarrold, Chris, Peter Carruthers, Peter K. Smith, and Jill
+Boucher, 1994, “Pretend Play: Is it
+Metarepresentational?”,
+Mind and Language,
+9(4):
+445–468. doi:10.1111/j.1468-0017.1994.tb00318.x
+Kania, Andrew, 2015, “An Imaginative Theory of Musical Space
+and Movement”,
+British Journal of Aesthetics
+, 55(2):
+157–172. doi:10.1093/aesthj/ayu100
+Kant, Immanuel, 1781 [2000],
+Critique of the Power of
+Judgment
+, in Eric Matthews Guyer (ed.), New York: Cambridge
+University Press, 2000.
+Kieran, Matthew, 1996, “Art, Imagination, and
+the Cultivation Of Morals”,
+The Journal of Aesthetics and
+Art Criticism
+, 54(4): 337–351. doi:10.2307/431916
+––– (ed.), 2005,
+Contemporary Debates in
+Aesthetics and the Philosophy of Art
+, Malden, MA: Blackwell.
+Kim, Hanna, Markus Kneer, and Michael T. Stuart,
+2018, “The Content-Dependence of Imaginative
+Resistance”, in Florian Cova and Sébastien Réhault
+(eds.), 2018,
+Advances in Experimental Philosophy of
+Aesthetics
+, New York: Bloomsbury, 143–165.
+Kind, Amy, 2001, “Putting the Image Back in
+Imagination”,
+Philosophy and Phenomenological Research
+,
+62(1): 85–109. doi:10.1111/j.1933-1592.2001.tb00042.x
+–––, 2011, “The Puzzle of Imaginative
+Desire”,
+Australasian Journal of Philosophy
+, 89(3):
+421–439. doi:10.1080/00048402.2010.503763
+–––, 2013, “The Heterogeneity of the
+Imagination”,
+Erkenntnis
+, 78(1): 141–159.
+doi:10.1007/s10670-011-9313-z
+––– (ed.), 2016a,
+The Routledge Handbook of
+Philosophy of Imagination
+, New York: Routledge.
+–––, 2016b, “Desire-like
+Imagination”, in Kind (ed.) 2016a: 163–176.
+–––, 2016c, “Imagining Under
+Constraints”, in Kind and Kung (eds.) 2016a:
+145–159. doi:10.1093/acprof:oso/9780198716808.003.0007
+–––, 2017, “Imaginative Vividness”,
+Journal of the American Philosophical Association
+, 3(1):
+32–50. doi:10.1017/apa.2017.10
+–––, 2018, “How Imagination Gives Rise to
+Knowledge”, in Macpherson and Dorsch (eds.) 2018:
+227–246. doi:10.1093/oso/9780198717881.003.0011
+Kind, Amy and Peter Kung (eds.), 2016a,
+Knowledge Through
+Imagination
+, New York: Oxford University Press.
+doi:10.1093/acprof:oso/9780198716808.001.0001
+–––, 2016b, “Introduction: The Puzzle of
+Imaginative Use”, in Kind and Kung (eds.) 2016a: 1–37.
+doi:10.1093/acprof:oso/9780198716808.003.0001
+Kivy, Peter, 2002,
+Introduction to a Philosophy of Music
+,
+New York: Oxford University Press.
+Kripke, Saul, 1972 [1980],
+Naming and Necessity
+,
+Cambridge, MA: Harvard University Press.
+Kung, Peter, 2010, “Imagining as a Guide to
+Possibility”,
+Philosophy and Phenomenological Research
+,
+81(3): 621–663. doi:10.1111/j.1933-1592.2010.00377.x
+–––, 2016, “Imagination and Modal
+Knowledge”, in Kind (ed.) 2016a: 437–450.
+Lamarque, Peter, 1981, “How Can We Fear and
+Pity Fictions?”
+British Journal of Aesthetics
+, 21(4):
+291–304. doi:10.1093/bjaesthetics/21.4.291
+Lamarque, Peter and Stein Haugom Olsen, 1996,
+Truth, Fiction,
+and Literature: A Philosophical Perspective
+, Oxford: Oxford
+University Press. doi:10.1093/acprof:oso/9780198236818.001.0001
+Langdon, Robyn, M. Coltheart, P.B. Ward, and S.V. Catts, 2002,
+“Disturbed Communication in Schizophrenia: The Role of Poor
+
+Pragmatics and Poor Mind-reading”,
+Psychological
+
+Medicine
+, 32(7): 1273–1284.
+doi:10.1017/S0033291702006396
+Langland-Hassan, Peter, 2012, “Pretense, Imagination, and
+
+Belief: the Single Attitude Theory”,
+Philosophical
+Studies
+, 159(2): 155–179.
+
+doi:10.1007/s11098-011-9696-3
+–––, 2014, “What It is to Pretend”,
+Pacific Philosophical Quarterly
+, 95(3): 397–420.
+
+doi:10.1111/papq.12037
+–––, 2015, “Imaginative Attitudes”,
+Philosophy and Phenomenological Research
+, 90(3):
+664–686. doi:10.1111/phpr.12115
+Lepore, Ernie and Matthew Stone, 2015,
+Imagination and
+Convention: Distinguishing Grammar and Inference in Language
+, New
+York: Oxford University Press.
+doi:10.1093/acprof:oso/9780198717188.001.0001
+Leslie, Alan M., 1987, “Pretense and Representation: The
+Origins of ‘Theory of Mind’”,
+Psychological
+Review
+, 94(4): 412–426. doi:10.1037/0033-295X.94.4.412
+–––, 1994, “Pretending and Believing:
+Issues in the Theory of ToMM”,
+Cognition
+,
+50(1–3): 211–238. doi:10.1016/0010-0277(94)90029-9
+Levinson, Jerrold, 1996, “Musical Expressiveness”, in
+The Pleasures of Aesthetics
+, Ithaca, NY: Cornell University
+Press, pp. 90–125.
+Lewis, Charlie and Peter Mitchell (eds.), 1994,
+Children’s Early Understanding of Mind: Origins and
+Development
+, Hillsdale, NJ: Lawrence Erlbaum.
+Lewis, David K., 1998, “What Experience Teaches”,
+Proceedings of the Russellian Society
+13: 29–57.
+Liao, Shen-yi, 2013, “Moral Persuasion and the
+Diversity of Fictions”,
+Pacific Philosophical
+Quarterly
+, 94(3): 269–289. doi:10.1111/papq.12000
+–––, 2016, “Imaginative
+Resistance, Narrative Engagement, Genre”,
+Res
+Philosophica
+, 93(2): 461–482.
+doi:10.11612/resphil.2016.2.93.3
+Liao, Shen-yi and Tyler Doggett, 2014, “The Imagination
+Box”,
+The Journal of Philosophy
+, 111(5): 259–275.
+doi:10.5840/jphil2014111521
+Liao, Shen-yi and Tamar Szabó Gendler, 2011,
+“Pretense and Imagination”,
+Wiley Interdisciplinary
+Reviews: Cognitive Science
+, 2(1): 79–94.
+doi:10.1002/wcs.91
+Liao, Shen-yi, Nina Strohminger, and Chandra Sekhar
+Sripada, 2014, “Empirically Investigating Imaginative
+Resistance”,
+British Journal of Aesthetics
+54(3):
+339­–355. doi:10.1093/aesthj/ayu027
+Lillard, Angeline S., 1993, “Young Children’s
+Conceptualization of Pretend: Action or Mental Representation
+State?”
+Child Development
+, 64(2): 372–386.
+doi:10.1111/j.1467-8624.1993.tb02915.x
+–––, 2001, “Pretend Play as Twin Earth: A
+Social-Cognitive Analysis”,
+Developmental Review
+,
+21(4): 495–531. doi:10.1006/drev.2001.0532
+Lillard, Angeline S. and John H. Flavell, 1992, “Young
+Children’s Understanding of Different Mental States”,
+Developmental Psychology
+, 28(4): 626–634.
+doi:10.1037/0012-1649.28.4.626
+Lillard, Angeline S. and David C. Witherington, 2004,
+“Mothers’ Behavior Modifications During Pretense Snacks
+and Their Possible Signal Value for Toddlers”,
+Developmental
+Psychology
+, 40(1): 95–113.
+doi:10.1037/0012-1649.40.1.95
+Loftus, Elizabeth F., 1979 [1996],
+Eyewitness Testimony
+,
+Cambridge, MA: Harvard University Press.
+Macpherson, Fiona and Fabian Dorsch (eds.), 2018,
+Perceptual Memory and Perceptual Imagination
+, New York: Oxford University Press.
+doi: 10.1093/oso/9780198717881.001.0001
+Markman, Keith D., William M.P. Klein, and Julie A. Suhr (eds.),
+2009,
+Handbook of Imagination and Mental Simulation
+, New
+York: Taylor & Francis.
+Martin, M.G.F., 2002, “The Transparency of
+Experience”,
+Mind and Language
+, 17(4): 376–425.
+doi:10.1111/1468-0017.00205
+Matravers, Derek, 1998,
+Art and Emotion
+,
+New York: Oxford University Press.
+doi:10.1093/acprof:oso/9780199243167.001.0001
+–––, 2014,
+Fiction and Narrative
+, New
+York: Oxford University Press.
+doi:10.1093/acprof:oso/9780199647019.001.0001
+McGinn, Colin, 2004,
+Mindsight: Image, Dream, Meaning
+,
+Cambridge, MA: Harvard University Press.
+Meskin, Aaron and Jonathan M. Weinberg, 2003, “Emotions,
+Fiction, and Cognitive Architecture”,
+British Journal of
+Aesthetics
+, 43(1): 18–34.
+doi:10.1093/bjaesthetics/43.1.18
+Michaelian, Kourken, 2016,
+Mental Time Travel: Episodic Memory
+and Our Knowledge of the Personal Past
+, Cambridge, MA: MIT
+Press.
+Miyazono, Kengo and Shen-yi Liao, 2016, “The
+Cognitive Architecture of Imaginative Resistance”, in Kind (ed.) 2016:
+233–246.
+Moran, Richard, 1989, “Seeing and Believing: Metaphor,
+Image, and Force”,
+Critical Inquiry
+, 16(1):
+87–112. doi:10.1086/448527
+–––, 1994, “The Expression of Feeling in
+Imagination”,
+The Philosophical Review
+, 103(1):
+75–106. doi:10.2307/2185873
+Mothersill, Mary, 2003, “Make-Believe Morality
+and Fictional Worlds”, in José Luis Bermúdez and
+Sebastian Gardner (eds.),
+Arts and Morality
+, New York:
+Routledge, pp. 74–94.
+Murdoch, Iris, 1970,
+The Sovereignty of
+Good
+, London: Routledge & Kegan Paul.
+Nanay, Bence, 2010, “Imaginative Resistance
+and Conversational Implicatures”,
+The Philosophical
+Quarterly
+, 60(240): 586–600.
+doi:10.1111/j.1467-9213.2009.625.x
+–––, 2013,
+Between Perception and
+Action
+, New York: Oxford University Press.
+doi:10.1093/acprof:oso/9780199695379.001.0001
+–––, 2015, “Perceptual Content and the
+Content of Mental Imagery”,
+Philosophical Studies
+,
+172(7): 1723–1736. doi:10.1007/s11098-014-0392-y
+–––, 2016a, “The Role of Imagination in
+Decision-Making”,
+Mind and Language
+, 31(1):
+127–143. doi:10.1111/mila.12097
+–––, 2016b, “Imagination and
+Perception”, in Kind (ed.) 2016a: 124–134.
+Nichols, Shaun, 2004a, “Imagining and Believing: The Promise
+of a Single Code”,
+The Journal of Aesthetics and Art
+Criticism
+, 62(2): 129–139.
+doi:10.1111/j.1540-594X.2004.00146.x
+–––, 2004b, “Review of
+Recreative
+Minds
+, by Gregory Currie and Ian Ravenscroft”,
+Mind
+, 113(450): 329–334.
+doi:10.1093/mind/113.450.329
+–––, 2006a, “Just the Imagination: Why
+Imagining Doesn’t Behave Like Believing”,
+Mind and
+Language
+, 21(4): 459–474.
+doi:10.1111/j.1468-0017.2006.00286.x
+––– (ed.), 2006b,
+The Architecture of the
+Imagination: New Essays on Pretense, Possibility, and Fiction
+,
+New York: Oxford University Press.
+doi:10.1093/acprof:oso/9780199275731.001.0001
+–––, 2008, “Imagination and the
+I
+”,
+Mind and Language
+23(5): 518–535.
+doi:10.1111/j.1468-0017.2008.00356.x
+Nichols, Shaun and Stephen P. Stich, 2000, “A Cognitive
+Theory of Pretense”,
+Cognition
+, 74(2): 115–147.
+doi:10.1016/S0010-0277(99)00070-0
+–––, 2003,
+Mindreading: An Integrated
+Account of Pretense, Self-Awareness and Understanding Other
+Minds
+, New York: Oxford University Press.
+doi:10.1093/0198236107.001.0001
+Ninan, Dilip, 2009, “Persistence and the First-Person
+Perspective”,
+The Philosophical Review
+, 118(4):
+425–464. doi:10.1215/00318108-2009-014
+–––, 2016, “Imagination and the
+Self”, in Kind (ed.) 2016a: 274–285.
+Noordhof, Paul, 2002, “Imagining Objects and Imagining
+Experiences”,
+Mind and Language
+, 17(4): 426–455.
+doi:10.1111/1468-0017.00206
+Norton, John D., 1991, “Thought Experiments in
+Einstein’s Work”, in Tamara Horowitz and Gerald J. Massey
+(eds.), 1991,
+Thought Experiments in Science and Philosophy
+,
+Lanham: Rowman & Littlefield, pp. 129–148.
+–––, 1996, “Are Thought Experiments Just
+What You Thought?”,
+Canadian Journal of Philosophy
+,
+26(3): 333–366. doi:10.1080/00455091.1996.10717457
+Nussbaum, Martha C., 1990.
+Love’s
+Knowledge: Essays on Philosophy and Literature
+, New York: Oxford
+University Press.
+O’Brien, Lucy, 2005, “Imagination and the Motivational
+Role of Belief”,
+Analysis
+, 65(1): 55–62.
+doi:10.1093/analys/65.1.55
+O’Shaughnessy, Brian, 2000,
+Consciousness and the
+World
+, New York: Oxford University Press.
+doi:10.1093/0199256721.001.0001
+Onishi, Kristine H. and Renée Baillargeon, 2005, “Do
+15-month-old Infants Understand False Beliefs?”,
+Science
+, 308(5719): 255–258.
+doi:10.1126/science.1107621
+Onishi, Kristine H., Renée Baillargeon, and Alan M. Leslie,
+2007, “15-month-old Infants Detect Violations in Pretend
+Scenarios”,
+Acta Psychologica
+, 124(1): 106–128.
+doi:10.1016/j.actpsy.2006.09.009
+Paul, Elliot Samuel and Scott Barry Kaufman (eds.), 2014,
+The
+Philosophy of Creativity: New Essays
+, New York: Oxford University
+Press. doi:10.1093/acprof:oso/9780199836963.001.0001
+Paul, L.A., 2014,
+Transformative Experience
+, New York:
+Oxford University Press.
+doi:10.1093/acprof:oso/9780198717959.001.0001
+–––, 2015, “What You Can’t Expect
+When You’re Expecting”,
+Res Philosophica
+, 92(2):
+149–170. doi:10.11612/resphil.2015.92.2.1
+–––, 2018, “
+De Se
+Preferences and
+Empathy for Future Selves”,
+Philosophical Perspectives
+,
+31(1): 7–39. doi:10.1111/phpe.12090
+Perner, Josef, 1991,
+Understanding the Representational
+Mind
+, Cambridge, MA: MIT Press.
+Perner, Josef, Sarah Baker, and Deborah Hutton, 1994,
+“Prelief: The Conceptual Origins of Belief and Pretense”,
+in C. Lewis and Mitchell 1994: 261–286.
+Piaget, Jean, 1945 [1951],
+La formation du symbole chez
+l’enfant
+. Translated as
+Play, Dreams, and Imitation in
+Childhood
+, C. Gattegno and F. M. Hodgson (trans.), London:
+Rougledge, 1951.
+Picciuto, Elizabeth and Peter Carruthers, 2016, “Imagination
+and Pretense”, in Kind (ed.) 2016a: 314–325.
+Plato,
+Republic
+, in J. M. Cooper (ed.),
+Plato: Complete Works
+, Indianapolis: Hackett, 1970.
+Polanyi, Michael, 1966 [2009], “Creative Imagination”,
+Chemical & Engineering News
+, 44(17): 85–94,104.
+Reprinted in Karen Bardsley, Denis Dutton, and Michael Krausz (eds.),
+2009,
+The Idea of Creativity
+, Boston: Brill, pp.
+147–163. doi:10.1021/cen-v044n017.p085
+doi:10.1163/ej.9789004174443.i-348.52
+Radford, Colin, 1975, “How Can We Be Moved by
+the Fate of Anna Karenina?”
+Proceedings of the Aristotelian
+Society, Supplementary Volumes
+,
+49: 67–80.
+doi:10.1093/aristoteliansupp/49.1.67
+Rakoczy, Hannes, Michael Tomasello, and Tricia Striano, 2004,
+“Young Children Know that Trying is not Pretending: a Test of
+the ‘Behaving-as-If’ Construal of Children’s
+Understanding of Pretense”,
+Developmental Psychology
+,
+40(3): 388–399. doi:10.1037/0012-1649.40.3.388
+Ricoeur, Paul, 1978, “The Metaphorical Process as Cognition,
+Imagination, and Feeling”,
+Critical Inquiry
+, 5(1):
+143–159. doi:10.1086/447977
+Richert, Rebekah A. and Angeline S. Lillard, 2004,
+“Observers’ Proficiency at Identifying Pretend Acts Based
+on Different Behavioral Cues”,
+Cognitive Development
+,
+19(2): 223–240. DOI:10.1016/j.cogdev.2004.01.001
+Robinson, Jenefer, 2005,
+Deeper Than Reason:
+Emotion And Its Role In Literature, Music, And Art
+, New York:
+Oxford University Press. doi:10.1093/0199263655.001.0001
+Rogers, Sally J., Ian Cook, and Adrienne Meryl, 2005,
+“Imitation and Play in Autism”, in Fred R. Volkmar, Rhea
+Paul, Ami Klin, and Donald Cohen (eds.), 2005,
+Handbook of Autism
+and Pervasive Developmental Disorders
+, third edition, John Wiley
+and Sons, pp. 382–405. doi:10.1002/9780470939345.ch14
+Robins, Sarah K., 2016, “Misremembering”,
+Philosophical Psychology
+29(3): 432–447.
+doi:10.1080/09515089.2015.1113245
+Rosenbaum, R. Shayna, Asaf Gilboa, Brian Levine, Gordon Winocur,
+and Morris Moscovitch, 2009, “Amnesia as an Impairment of Detail
+Generation and Binding: Evidence from Personal, Fictional, and
+Semantic Narratives in K.C.”,
+Neuropsychologia
+47(11):
+2181–2187. doi:10.1016/j.neuropsychologia.2008.11.028
+Ryle, Gilbert, 1949,
+The Concept of Mind
+, London: Hutchinson.
+Saxe, Rebecca, 2005, “Against Simulation: The Argument From
+Error”,
+Trends in Cognitive Sciences
+, 9(4):
+174–179. doi:10.1016/j.tics.2005.01.012
+–––, 2006, “Why and How to Study Theory of
+Mind with fMRI”,
+Brain Research
+, 1079(1): 57–65.
+doi:10.1016/j.brainres.2006.01.001
+–––, 2009, “The Neural Evidence for
+Simulation is Weaker Than I Think You Think It Is”,
+Philosophical Studies
+, 144(3): 447–456.
+doi:10.1007/s11098-009-9353-2
+Schacter, Daniel L., Donna Rose Addis, and Randy L. Buckner, 2007,
+“Remembering the Past to Imagine the Future: the Prospective
+Brain”,
+Nature Reviews Neuroscience
+, 8(9):
+657–661. doi:10.1038/nrn2213
+Schacter, Daniel L., Donna Rose Addis, Dennis Hassabis, Victoria
+C. Martin, R. Nathan Spreng, and Karl K. Szpunar, 2012, “The
+Future of Memory: Remembering, Imagining, and the Brain”,
+Neuron
+, 76(4): 677–694.
+doi:10.1016/j.neuron.2012.11.001
+Schellenberg, Susanna, 2013, “Belief and Desire in
+Imagination and Immersion”,
+The Journal of Philosophy
+,
+110(9): 497–517. doi:10.5840/jphil2013110914
+Scruton, Roger, 1974,
+Art and Imagination
+, London:
+Methuen.
+–––, 1997,
+The Aesthetics of Music
+, New
+York: Oxford University Press. doi:10.1093/019816727X.001.0001
+Shah, Nishi and J. David Velleman, 2005, “Doxastic
+Deliberation”,
+The Philosophical Review
+, 114(4):
+497–534. doi:10.1215/00318108-114-4-497
+Shanton, Karen and Alvin Goldman, 2010, “Simulation
+Theory”,
+Wiley Interdisciplinary Reviews: Cognitive
+Science
+, 1(4): 527–538. doi:10.1002/wcs.33
+Sinhababu, Neil, 2013, “Distinguishing Belief and
+Imagination”,
+Pacific Philosophical Quarterly
+, 94(2):
+152–165. doi:10.1111/j.1468-0114.2012.01449.x
+–––, 2016, “Imagination and Belief”,
+in Kind (ed.) 2016a: 111–123.
+Smuts, Aaron, 2007, “The Paradox of Painful
+Art”,
+Journal of Aesthetic Education
+, 41(3):
+59–77.
+–––, 2009, “Art and Negative
+Affect”,
+Philosophy Compass
+, 4(1): 39–55.
+doi:10.1111/j.1747-9991.2008.00199.x
+Spaulding, Shannon, 2015, “Imagination, Desire, and
+Rationality”,
+The Journal of Philosophy
+, 112(9):
+457–476. doi:10.5840/jphil2015112929
+–––, 2016, “Imagination Through
+Knowledge”, in Kind and Kung (eds.) 2016a: 207–226.
+doi:10.1093/acprof:oso/9780198716808.003.0010
+Stear, Nils-Hennes, 2015, “Imaginative and
+Fictionality Failure: A Normative Approach”,
+Philosophers’ Imprint
+, 15(34): 1–18.
+ [
+Stear 2015 available online
+]
+Stevenson, Leslie, 2003, “Twelve Conceptions of
+Imagination”,
+British Journal of Aesthetics
+, 43(3):
+238–259. doi:10.1093/bjaesthetics/43.3.238
+Stich, Stephen and Joshua Tarzia, 2015, “The Pretense
+Debate”,
+Cognition
+, 143: 1–12.
+doi:10.1016/j.cognition.2015.06.007
+Stock, Kathleen, 2005, “Resisting Imaginative
+Resistance”,
+Philosophical Quarterly
+, 55(221):
+607–624. doi:10.1111/j.0031-8094.2005.00419.x
+–––, 2013, “Imagining and Fiction: Some
+Issues”,
+Philosophy Compass
+, 8(10): 887–896.
+doi:10.1111/phc3.12068
+–––, 2017,
+Only Imagine: Fiction,
+Interpretation, and Imagination
+, New York: Oxford University
+Press. doi:10.1093/oso/9780198798347.001.0001
+Stokes, Dustin R., 2006, “The Evaluative
+Character of Imaginative Resistance”,
+British Journal of
+Aesthetics
+, 46(4): 347–405. doi:10.1093/aesthj/ayl022
+–––, 2011, “Minimally Creative
+Thought”,
+Metaphilosophy
+42(5): 658–681.
+doi:10.1111/j.1467-9973.2011.01716.x
+–––, 2014, “The Role of Imagination in
+Creativity”, in Paul and Kaufman (eds.) 2014: 157–184.
+doi:10.1093/acprof:oso/9780199836963.003.0009
+–––, 2016, “Imagination and
+Creativity”, in Kind (ed.) 2016a: 247–261.
+Strawson, P.F., 1970, “Imagination and Perception”, in
+Experience and Theory
+, L. Foster and J. W. Swanson (eds.),
+Amherst, MA: University of Massachusetts Press, pp. 31–54.
+Strohl, Matthew, forthcoming, “Art and Painful Emotion”,
+Philosophy Compass
+, early online: 29 October 2018. doi:10.1111/phc3.12558
+Strohminger, Margot and Juhani Yli-Vakkuri, 2017, “The
+Epistemology of Modality”,
+Analysis
+, 77(4):
+825–838. doi:10.1093/analys/anx058
+–––, forthcoming, “Knowledge of Objective
+Modality”,
+Philosophical Studies
+, early online: 28
+February 2018. doi:10.1007/s11098-018-1052-4
+Suddendorf, Thomas and Michael C. Corballis, 1997, “Mental
+Time Travel and the Evolution of the Human Mind”,
+Genetic,
+Social, and General Psychology Monographs
+, 123(2):
+133–167.
+–––, 2007, “The Evolution of Foresight:
+What is Mental Time Travel, and is it Unique to Humans?”,
+Behavioral and Brain Sciences
+, 30(3): 299–313.
+doi:10.1017/S0140525X07001975
+Tanner, Michael, 1994, “Morals in Fiction and
+Fictional Morality”,
+Proceedings of the Aristotelian
+Society, Supplementary Volumes
+, 68: 51–66.
+doi:10.1093/aristoteliansupp/68.1.27
+Todd, Cain Samuel, 2009, “Imaginability,
+Morality, and Fictional Truth: Dissolving the Puzzle of
+‘Imaginative Resistance’”,
+Philosophical
+Studies
+, 143(2): 187–211.
+doi:10.1007/s11098-007-9198-5
+Trivedi, Saam, 2011, “Music and Imagination”, in
+Theodore Gracyk and Andrew Kania (eds.), 2011,
+The Routledge
+Companion to Philosophy and Music
+, New York: Routledge, pp.
+113–122.
+Tulving, Endel, 1985, “Memory and Consciousness”,
+Canadian Psychology
+, 26(1): 1–12.
+doi:10.1037/h0080017
+Urmson, J. O., 1967, “Memory and Imagination”,
+Mind
+, 76(301): 83–91.
+doi:10.1093/mind/LXXVI.301.83
+Van Inwagen, Peter, 1998, “Modal Epistemology”,
+Philosophical Studies
+, 92(1–2): 67–84.
+doi:10.1023/A:1017159501073
+Van Leeuwen, D.S. Neil, 2009, “The Motivational Role of
+Belief”,
+Philosophical Papers
+, 38(2): 219–246.
+doi:10.1080/05568640903146534
+–––, 2011, “Imagination is Where the
+Action is”,
+The Journal of Philosophy
+, 108(2):
+55–77. doi:10.5840/jphil201110823
+–––, 2013, “The Meaning of
+‘Imagine’ Part I: Constructive Imagination”,
+Philosophy Compass
+, 8(3): 220–230.
+doi:10.1111/j.1747-9991.2012.00508.x
+–––, 2014, “The Meaning of
+‘Imagine’ Part II: Attitude and Action”,
+Philosophy Compass
+, 9(11): 791–802.
+doi:10.1111/phc3.12141
+–––, 2016a, “Imagination and
+Action”, in Kind (ed.) 2016a: 286–299.
+–––, 2016b, “The Imaginative Agent”,
+in Kind and Kung (eds.) 2016a: 85–109.
+doi:10.1093/acprof:oso/9780198716808.003.0004
+Velleman, J. David, 2000, “On the Aim of Belief”, in
+The Possibility of Practical Reason
+. New York: Oxford
+University Press.
+ [
+Velleman 2000 available online
+]
+Walton, Kendall L., 1978, “Fearing Fictions”,
+The
+Journal of Philosophy
+, 75(1): 5–27.
+doi:10.2307/2025831
+–––, 1990,
+Mimesis as Make-Believe
+,
+Cambridge, MA: Harvard University Press.
+–––, 1993, “Metaphor and Prop-Oriented
+Make-Believe”,
+European Journal of Philosophy
+, 1(1):
+39–57. doi:10.1111/j.1468-0378.1993.tb00023.x
+–––, 1994a, “Listening with Imagination:
+Is Music Representational?”,
+The Journal of Aesthetics and
+Art Criticism
+, 52(1): 47–61. doi:10.2307/431584
+–––, 1994b, “Morals in
+Fiction and Fictional Morality”,
+Proceedings of the
+Aristotelian Society, Supplementary Volumes
+, 68: 27–50.
+doi:10.1093/aristoteliansupp/68.1.27
+–––, 1997, “Spelunking, Simulation, and
+Slime: On Being Moved by Fiction”, in Hjort and Laver (eds.) 1997:
+37–49.
+–––, 1999, “Projectivism, Empathy, and
+Musical Tension”,
+Philosophical Topics
+, 26(1–2):
+407–440. doi:10.5840/philtopics1999261/231
+–––, 2000, “Existence as Metaphor?”,
+in Anthony Everett and Thomas Hofweber (eds.),
+Empty Names,
+Fiction, and the Puzzles of Non-Existence
+, Stanford, CA: CSLI
+Publications, pp. 69–94.
+–––, 2006, “On the
+(So-called) Puzzle of Imaginative Resistance”, in Nichols (ed.) 2006b:
+137–148. doi:10.1093/acprof:oso/9780199275731.003.0008
+Wearing, Catherine, 2011, “Metaphor, Idiom, and
+Pretense”,
+Noûs
+, 46(2): 1–26.
+doi:10.1111/j.1468-0068.2010.00819.x
+Weatherson, Brian, 2004, “Morality, Fiction, and
+Possibility”,
+Philosophers’ Imprint
+, 4(3):
+1–27.
+ [
+Weatherson 2004 available online
+]
+Weinberg, Jonathan M. and Aaron Meskin, 2005, “Imagine
+That!”, in Kieran 2005: 222–235.
+–––, 2006, “Puzzling Over the Imagination:
+Philosophical Problems, Architectural Solutions”, in Nichols (ed.) 2006b: 175–202.
+doi:10.1093/acprof:oso/9780199275731.003.0010
+Williams, Bernard, 1973, “Imagination and the Self”,
+in his
+Problems of the Self: Philosophical Papers
+1956–1972
+, Cambridge: Cambridge University Press, pp.
+26–45. doi:10.1017/CBO9780511621253.005
+Williamson, Timothy, 2005, “Armchair Philosophy,
+Metaphysical Modality, and Counterfactual Thinking”,
+Proceedings of the Aristotelian Society
+, 105(1): 1–23.
+doi:10.1111/j.0066-7373.2004.00100.x
+–––, 2007,
+The Philosophy of
+Philosophy
+, Malden, MA: Blackwell.
+–––, 2016, “Knowing by Imagining”,
+in Kind and Kung (eds.) 2016a: 113–123.
+doi:10.1093/acprof:oso/9780198716808.003.0005
+Wiltsher, Nick, 2018, “Feeling, Emotion, and Imagination: In
+Defence of Collingwood’s Expression Theory of Art”,
+British Journal for the History of Philosophy
+, 26(4):
+759–781. doi:10.1080/09608788.2017.1379001
+–––, forthcoming, “Imagination: A Lens,
+Not a Mirror”,
+Philosophers’ Imprint
+.
+Wing, Lorna and Judith Gould, 1979, “Severe Impairments of
+Social Interaction and Associated Abnormalities in Children:
+Epidemeology and Classification”,
+Journal of Autism and
+Developmental Disorders
+, 9(1): 11–29.
+doi:10.1007/BF01531288
+Wollheim, Richard, 1973, “Imagination and
+Identification”, in
+On Art and the Mind
+, London: Allen
+Land, pp. 54–83.
+Yablo, Stephen, 1993, “Is Conceivability a Guide to
+Possibility?”
+Philosophy and Phenomenological Research
+,
+53(1): 1–42. doi:10.2307/2108052
+Yablo, Stephen, 2002, “Coulda, Woulda,
+Shoulda”, in Gendler and Hawthorne (eds.) 2002: 441–492.
+Academic Tools
+How to cite this entry
+.
+Preview the PDF version of this entry
+at the
+Friends of the SEP Society
+.
+Look up topics and thinkers related to this entry
+at the Internet Philosophy Ontology Project (InPhO).
+Enhanced bibliography for this entry
+at
+PhilPapers
+, with links to its database.
+Other Internet Resources
+The Junkyard
+, a scholarly blog on imagination
+Internet Encyclopedia of Philosophy entry on
+Imagery and Imagination
+Routledge Encyclopedia of Philosophy entry on
+Imagination
+PhilPapers collection of papers on
+Imagination
+Related Entries
+Aristotle, General Topics: psychology
+|
+belief
+|
+causation: counterfactual theories of
+|
+Collingwood, Robin George: aesthetics
+|
+conditionals
+|
+dance, philosophy of
+|
+desire
+|
+dualism
+|
+emotion
+|
+empathy
+|
+film, philosophy of
+|
+folk psychology: as a theory
+|
+folk psychology: as mental simulation
+|
+functionalism
+|
+Hobbes, Thomas
+|
+Hume, David
+|
+Hume, David: aesthetics
+|
+Kant, Immanuel
+|
+Kant, Immanuel: aesthetics and teleology
+|
+memory
+|
+mental imagery
+|
+metaphor
+|
+modality: epistemology of
+|
+music, philosophy of
+|
+perception: epistemological problems of
+|
+perception: the contents of
+|
+propositional attitude reports
+|
+Ryle, Gilbert
+|
+thought experiments
+|
+zombies
+Acknowledgments
+No one can have an encyclopedic knowledge on a topic as vast as
+imagination. The previous iteration of the entry could not have
+existed without the help of Paul Bloom, David Chalmers, Gregory
+Currie, Tyler Doggett, Jonathan Jenkins Ichikawa, Shaun Nichols,
+Zoltán Gendler Szabó, Jonathan Weinberg, Ed Zalta, an
+anonymous referee, and—most of all—Aaron Norby. This
+iteration of the entry could not exist without the help of Tyler
+Doggett, Elisabeth Camp, Felipe De Brigard, Anna Ichino, Andrew Kania,
+Amy Kind, Peter Langland-Hassan, Aaron Meskin, Kengo Miyazono, Eric
+Peterson, Mark Phelan, Dustin Stokes, Margot Strohminger, Mike Stuart,
+Neil Van Leeuwen, Jonathan Weinberg, Nick Wiltsher, and two anonymous
+referees.

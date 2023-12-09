@@ -1,0 +1,3645 @@
+The Normativity of Meaning and Content
+First published Wed Jun 17, 2009; substantive revision Mon Dec 19, 2022
+Normativism in the theory of meaning and content is the view that
+linguistic meaning and/or intentional content are essentially
+normative. As both normativity and its essentiality to meaning/content
+can be interpreted in a number of different ways, there is now a whole
+family of views laying claim to the slogan “meaning/content is
+normative”.
+In this essay, we discuss a number of central normativist theses, and
+we begin by identifying different versions of meaning normativism,
+presenting the arguments that have been put forth for and against
+them. We then continue by discussing content normativism, providing an
+overview of the contemporary debate. Both debates are very much
+on-going and at this point there is little consensus as to whether
+normativism holds for either meaning or content. Since the first
+publication of this essay much of the debate has focused on two of its
+central issues: First, it has been debated whether meaning normativism
+can be derived from the fact that meaningful expressions necessarily
+have correctness conditions. This is the argument we labeled the
+“the simple argument” and in section 2.1.1 we discuss
+contributions to the debate. Second, the nature of rule-guidance has
+been much discussed, in particular relating to content normativism,
+and new proposals have been made as to how it is to be understood. We
+discuss this in sections 2.2 and 3.2. Finally, the debate surrounding
+normativity has also evolved into a discussion about the normativity
+of rationality and around the question of whether or not logic sets
+the standards for how we ought to reason. Though in this entry we will
+primarily devote our attention to the meaning and content, we will
+also make reference to related issues concerning the normativity of
+rationality.
+1. Interpretations of the Normativity Thesis
+1.1 Metaphysical Questions
+1.2 Varieties of Normativity
+2. Meaning
+2.1 Meaning Engendered Normativity
+2.1.1 The Simple Argument
+2.1.2 Using an Expression in Accordance with its Meaning
+2.1.3 Alternative Arguments
+2.2 Meaning Determining Normativity
+2.2.1 Meaning Determining Rules or Norms
+2.2.3 Guidance by Meaning Determining Rules
+2.2.4 Primitive Normativity
+3. Content
+3.1 Content Engendered Normativity
+3.1.1 The Argument from Belief
+3.1.2 Use in Keeping with Content
+3.2 Content Determining Normativity
+4. Concluding Remarks: Normativism and Naturalism
+Bibliography
+Academic Tools
+Other Internet Resources
+Related Entries
+1. Interpretations of the Normativity Thesis
+1.1 Metaphysical Questions
+Normativism is a claim about the
+nature
+of meaning/content.
+According to normativism, there cannot be meaning/content without
+norms, where the impossibility is metaphysical, conceptual, or both. A
+first question thus is: which is prior—norms or
+meanings/contents?
+Read metaphysically, the question is: Are certain norms valid, or in
+force,
+because
+certain things such as linguistic expressions
+and intentional states have certain meanings/contents? Or do such
+things have meaning/content
+because
+some norms are in force?
+We shall distinguish between meaning/content
+“
+engendered
+” (ME/CE) normativity and
+meaning/content
+determining
+(MD/CD) normativity (cf.
+Glüer & Wikforss 2009). MD/CD norms are such that they
+metaphysically determine, ground, or constitute meaning/content; here,
+the norms are prior. ME/CE normativity is normativity engendered by,
+or consequent upon, meaning/content, regardless of how the latter is
+ determined.
+[
+1
+]
+MD/CD normativism aims at answering “foundational”
+questions and providing metaphysical explanation: In virtue of what do
+linguistic expressions/intentional states have meaning/content?
+Metaphysical explanation of \(X\) by means of \(Y\) requires that
+\(X\) at least
+supervenes
+upon
+ \(Y\).
+[
+2
+]
+Supervenience relations involve three elements: a set of supervenient
+entities \(S_E\), a set of entities forming the supervenience base
+\(S_B\), and a principle according to which what is in \(S_B\)
+determines what is in \(S_E\) (a function from \(S_B\) to \(S_E)\).
+Whether supervenience suffices for metaphysical explanation or not, an
+explanation will therefore not be complete unless the principle of
+determination is
+ specified.
+[
+3
+]
+When it comes to meaning, this is arguably one of the most important
+lessons of Wittgenstein’s so-called rule-following
+considerations; as long as only the supervenience base is specified,
+its elements can be mapped onto meanings in any old way, thus leaving
+meaning completely indeterminate (cf. Pagin 2002, Glüer
+ 2018).
+[
+4
+]
+1.2 Varieties of Normativity
+Normativism claims that nothing can have meaning/content unless norms
+of a certain kind are valid, or in
+ force.
+[
+5
+]
+A second basic question thus is: what kind of norm would that be?
+The most basic distinction relevant here is that between
+norms for
+action
+and
+norms of
+ being
+.
+[
+6
+]
+Norms of being are often associated with evaluations; they tell us
+that a certain state of affairs
+ought to obtain
+, i.e., is
+valuable or good in a certain sense. Norms for action, on the other
+hand, tell us
+what to do.
+Both can either be
+prima
+facie
+(or
+pro tanto
+) or categorical (cf. Ross 1930
+[1987]).
+Prima facie
+norms or evaluations can be overridden
+or outweighed (by other norms, obligations or evaluations),
+categorical ones cannot. Both norms of action and values can also be
+categorized by provenance: There are the norms of morals, etiquette,
+and prudence, the laws of the state, and the rules of games.
+Analogously, values of different kinds can be distinguished. The
+normativity of meaning/content typically is construed in terms of
+norms for action.
+Concerning norms for action, we can distinguish between instrumental
+and non-instrumental norms. An instrumental norm tells us what to do
+in order to reach a certain goal, where the relation between means and
+end is contingent. Its normative force for an agent is contingent upon
+the agent’s goals. An example would be:
+(D)
+If you want to make the hut habitable, you ought to heat it (von
+Wright 1963: 10).
+Among non-instrumental norms we can further distinguish between
+prescriptions and other norms for action, and thirdly between
+constitutive and non-constitutive rules or
+ norms.
+[
+7
+]
+Prescriptions can typically be formulated in deontic vocabulary, i.e.,
+in terms of what is prescribed, forbidden, or
+ allowed/proscribed.
+[
+8
+]
+They can be conditional (CP) or unconditional (P). For conditional
+prescriptions, we can distinguish between those where the deontic
+operator (“ought”, “should”) takes wide scope
+over the conditional \((\CP_w )\), and those where it takes narrow
+scope \((\CP_n )\):
+(P)
+You ought to do \(X\).
+\((\CP_w )\)
+You ought to (if \(C\) then do \(X)\).
+\((\CP_n )\)
+If \(C\), you ought to (do \(X)\).
+The main difference between \((\CP_w )\) and \((\CP_n )\) is that on
+\((\CP_w )\), there are two ways of discharging your obligation: by
+doing \(X\) or by making it the case that \(C\) is not fulfilled. Not
+so on \((\CP_n )\): once \(C\) is fulfilled, you must do \(X\). Only
+on \((\CP_n )\), that is, can the consequent be detached.
+For prescriptions, two principles are usually taken to hold
+intuitively. These are the principle that
+ought
+implies
+can
+, and the principle that
+ought
+implies the
+possibility of violation. Both principles are somewhat controversial,
+but have initial plausibility as there would not seem to be much point
+to prescribing, forbidding, or allowing impossible things (cf.
+Williamson 2000: 241).
+Many norms or rules concern types of action or activities that exist
+independently of them. Constitutive rules or norms, by contrast, in
+some sense “create” the very actions or activities they
+regulate. Rules of games are prime examples. According to Midgley
+(1959) and Searle (1969; 33ff), constitutive rules typically, and
+naturally, can be put into the following form:
+(CR)
+In \(C\), doing \(X\) counts as doing \(Y\).
+According to this suggestion, constitutive rules tell us that, in a
+certain context \(C\) (for instance, a game of soccer), an action of
+type \(Y\) (for instance, scoring a goal) can be performed by means of
+performing an action of a different type \(X\) (for instance, kicking
+the ball into a netted box). According to Searle, constitutive rules
+play an important role in social ontology: “institutional
+facts” (facts concerning social statuses such as being money,
+having meaning, or being an assertion) can be explained in terms of
+collective acceptance of rules of this kind (cf. Searle 1995, 2010).
+Other accounts of social institutions in terms of rules constitutive
+of social statuses have stressed the normative consequences of having
+a such a status (cf., e.g., Ransdell 1971, Hindriks 2009).
+Despite its predominance in the literature, the characterization of
+constitutive rules by means of forms like
+(CR)
+is too narrow, however. There are prescriptions that are constitutive
+of certain games—for instance, that spearing is forbidden is
+constitutive of ice-hockey—and these do not naturally fit the
+(CR) form. It is better to characterize a set of rules or norms as
+constitutive of a certain type of action/activity \(A\) iff \(A\)
+cannot be performed, or engaged in, unless these norms are in force
+(cf. Pagin 1987; Glüer & Pagin 1998; Kaluziński 2018;
+Reiland 2020; García-Carpintero
+ 2022).
+[
+9
+]
+With these distinctions in place, we can proceed to mapping the
+debates concerning the normativity of meaning/content. Given that the
+norms in question are supposed to be essential to meaning/content, we
+can already now see that what we are looking for are non-instrumental
+norms of purely semantic provenance. MD/CD norms will moreover have to
+be of the constitutive kind.
+2. Meaning
+We have distinguished two ways in which normativism about meaning can
+be understood: ME normativism and MD normativism. The difference
+between the two, again, is that the MD normativist is committed to the
+metaphysical priority of norms, since the norms are said to determine
+meaning, while the ME normativist remains neutral on the issue of
+meaning determination. Both versions of meaning normativism, however,
+claim that the following is both necessary, and essential to, an
+expression \(e\)’s having meaning (for a speaker, or group of
+speakers, \(S\) at a time \(t)\):
+(M)
+\(e\) means \(M\) for \(S\) at \(t\) only if a norm for \(e\) is
+in force for \(S\) at \(t\).
+Historically, MD normativism is associated with Wittgenstein (in
+particular the “Middle Period” writings) and the tradition
+of appealing to linguistic conventions, prominent in the 1950s and
+1960s (in the writings of Grice, Lewis, Searle, and Strawson for
+instance). ME normativism appeared on the philosophical scene more
+recently, and is associated with Saul Kripke’s book on
+Wittgenstein’s rule-following considerations (Kripke 1982). In
+the book Kripke presents us with a meaning skeptic who challenges the
+very idea that there are facts in virtue of which our terms have a
+meaning. Kripke’s skeptic puts down certain constraints on the
+range of facts that could serve to determine meaning, among these that
+the essentially normative character of meaning has to be respected.
+The meaning determining fact, Kripke argues, must be such that it
+follows from it how the term
+ought
+to be applied (1982: 11).
+Equipped with this normativity constraint the skeptic goes on to argue
+against all theories that fail to accommodate the required normative
+dimension of meaning, in particular dispositionalist theories
+according to which meaning is determined by the speaker’s
+dispositions to apply her terms (1982: 22–37).
+Kripke’s discussion reignited interest in the question of the
+relation between meaning and rules, and resulted in an enormous
+literature both on the skeptical argument and the very idea that
+meaning is essentially normative. Much of that discussion has been
+carried out without reference to the earlier debate on meaning and
+conventions, but attempts have also been made to relate the two
+debates. In what follows we shall first discuss ME normativism, where
+the discussion following Kripke’s book plays a central role, and
+then MD normativism.
+2.1 Meaning Engendered Normativity
+It is clear that the type of normativity Kripke has in mind is ME
+normativity; i.e., the claim is that meaning statements such as
+“expression \(e\) means \(M\) for \(S\)” have normative
+consequences. Moreover, it is clear that the relevant normativity is
+that of prescriptivity, concerning what \(S\) ought to
+ do.
+[
+10
+]
+As noted above, arguments in support of the thesis that meaning is
+essentially normative need to be based on
+semantic
+premises—the normativity in question cannot derive from external
+sources. In the case of ME normativity, the arguments may be more or
+less direct, depending on more or less substantial assumptions about
+meaning. On one end of the spectrum are arguments that turn on the
+idea that there are direct conceptual entailments from meaning
+statements to normative consequences; on the other end are arguments
+that depend on substantial theoretical assumptions about meaning. In
+the debate, direct arguments have played a prominent role since these
+fit the idea, implicit in Kripke, that the claim that meaning is
+normative provides a pre-theoretical constraint on any acceptable
+theory of meaning; one that has to be accepted independently of
+one’s specific semantic theory. Let us begin with the most well
+known direct argument in support of ME normativity, what we call
+“the simple argument”.
+2.1.1 The Simple Argument
+The classic defense of ME normativity can be found in Paul Boghossian
+(1989a). According to Boghossian the normativity of meaning derives
+from the fact that meaningful expressions have correctness conditions.
+If “green” means
+green
+, Boghossian argues, it
+follows immediately that “green” applies correctly only to
+green objects, and this, in turn, has immediate normative consequences
+for how a speaker \(S\) should apply “green”:
+The fact that the expression means something implies, that is, a whole
+set of
+normative
+truths about my behavior with that
+expression: namely, that my use is correct in application to certain
+objects and not in application to others. (1989a: 513; see also
+Blackburn 1984: 281; Miller 1998: 198; Whiting 2007 and 2009.)
+The strategy, therefore, is to move from (CM), to a normative
+conclusion, \((\ME_1)\):
+(CM)
+For any speaker \(S\), and any time \(t\): if “green”
+means
+green
+for \(S\) at \(t\), then it is correct for \(S\)
+to apply “green” to an object \(x\) iff \(x\) is green at
+\(t\).
+\((\ME_1)\)
+For any speaker \(S\), and any time \(t\): if “green”
+means
+green
+for \(S\) at \(t\), then \(S\) ought to apply
+“green” to an object \(x\) iff \(x\) is green at
+\(t\).
+(CM)
+can hardly be challenged: Meaningful expressions have semantic
+correctness conditions. Of course, there is some controversy as to how
+these correctness conditions are to be construed, whether the basic
+notion of semantic correctness is that of truth or warranted
+assertability, for instance. However, it cannot be questioned that
+some notion of semantic correctness is required. This, indeed, seems
+to be part of the very concept of meaning. If, therefore, the notion
+of semantic correctness is an essentially normative notion, we would
+have a very direct argument in support of ME normativity, based simply
+on conceptual entailments. Before discussing the argument, let us make
+some preliminary remarks concerning
+\((\ME_1)\)
+.
+First, what is it to apply an expression? It should be clear that the
+relevant notion of application is that of
+predication
+. For
+instance, we apply a predicate such as “green” when we use
+it in an assertion, to predicate a property of an object \(x\). In the
+case of singular terms, similarly, what is of relevance is referential
+ use.
+[
+11
+]
+The notion of application, hence, is more narrow than that of
+use
+, since we use our terms in a wide variety of ways that do
+not include the expression of judgments, as when we ask a question or
+make a hypothetical statement (see Millar 2004: 162; Reiland
+forthcominga).
+Second, how should the deontic operator in
+\((\ME_1)\)
+be construed? Since \((\ME_1)\) involves an embedded conditional, we
+may in fact distinguish between three readings, a narrow scope
+reading, an intermediate and a wide scope reading:
+\((\ME_{1}')\)
+If “green” means
+green
+for \(S\) at \(t\),
+then (\(S\) ought to (apply “green” to \(x)\) iff \(x\) is
+green).
+\((\ME_{1}'')\)
+If “green” means
+green
+for \(S\) at \(t\),
+then (\(S\) ought to (apply “green” to \(x\) iff \(x\) is
+green)).
+\((\ME_{1}''')\)
+\(S\) ought to (if “green” means
+green
+for
+\(S\) at \(t\), apply “green” to \(x\) iff \(x\) is
+green).
+In the debate, all three construals can be found. Thus, it has been
+suggested that the intermediate scope interpretation best captures the
+intuition that if \(S\) means
+green
+by “green”
+she is thereby obligated to use the term in certain ways (under
+certain conditions), without (as on the narrow scope reading) implying
+that the obligation is conditional on \(x\) being green (Hattiangadi
+2006: 225, fn 4). Another issue concerns the possibility of detaching.
+Some favor the narrow scope reading, since it allows one to detach the
+“ought”, and supports the intuition that the semantic
+obligation can only be discharged one way: in this case, by applying
+“green” to green objects (Bykvist & Hattiangadi 2007:
+283). Others prefer the wide scope reading, precisely because it does
+not allow one to detach “ought” and hence implies a more
+disjunctive obligation: \(S\) ought either to apply
+“green” to green objects, or not mean
+green
+by
+“green” (Gampel 1997: 228; Millar 2004:
+168–169).
+A related question is whether
+\((\ME_1)\)
+clashes with the widely endorsed principle that
+ought
+implies
+can
+. As it stands, \((\ME_1)\) can be read as
+implying that \(S\) has an obligation to apply “green” to
+all green objects, an obligation that cannot possibly be fulfilled
+(Hattiangadi 2007: 180). One response to this is to endorse the wide
+scope reading,
+\((\ME_1 ''')\)
+,
+ since it allows the subject to discharge her obligation by not
+meaning
+green
+by “green”—something that
+does seem to be in her power. Another response consists in removing
+the biconditional in \((\ME_1)\), replacing it with a weaker principle
+(Whiting 2007: 137):
+\((\ME_2)\)
+For any speaker \(S\), and any time \(t\): if “green”
+means
+green
+for \(S\) at \(t\), then \(S\) ought to apply
+“green” to an object \(x\) only if \(x\) is green at
+\(t\).
+The question has been raised, however, whether \((\ME_2)\) is
+sufficiently strong to support ME normativity. The trouble is that
+\((\ME_2)\) does not seem to place any normative constraints on the
+subject’s behavior. If \(x\) is green, it no longer follows that
+\(S\) ought to apply “green” to \(x\), whereas if \(x\) is
+not green it just follows that it is not the case that \(S\) ought to
+apply “green” to \(x\). The latter, it has been stressed,
+is distinct from the claim that \(S\) ought not to apply
+“green” to \(x\)—for instance, it is compatible with
+it being permissible to apply “green” to \(x\) (Bykvist
+& Hattiangadi 2007: 280). This means that \((\ME_2)\) fails to
+support the claim that when \(S\) applies a term in a way that is
+semantically incorrect, then she has done what she ought not do:
+“semantically incorrect” and “ought not” thus
+come apart.
+In response it has been suggested that “ought” in (ME1) is
+replaced by a “may”. This allows the normativist to retain
+the biconditional and yet avoid the troubles caused by the principle
+that
+ought
+implies
+can
+: That an action is correct
+implies only that one
+may
+do it, not that one is
+obligated
+to do it, and there is no principle that
+ought
+implies
+can
+. If “green” is true of
+green objects only then \(S\) may apply “green” to an
+object if and only if it is green, and this is not in conflict with
+the fact that the subject is not able to apply “green” to
+every green object there is (Whiting 2009: 544 and 2010: 216; Peregrin
+2012: 88).
+There is therefore some initial unclarity as to precisely which
+prescription is supposed to follow directly from
+(CM)
+.
+ A more fundamental question is whether the strategy of the simple
+argument can succeed in the first place. Opponents of ME normativity
+do not challenge (CM) which, again, seems trivially true. Rather, they
+deny that (CM) has normative consequences just by itself. The crucial
+claim here is that “correct” can be used both normatively
+and non-normatively (cf. Glüer 2001; Glüer & Wikforss
+2009: 36; 2015a). If that is true, the simple argument won’t go
+through: Rather, an additional premise will be required to the effect
+that “correct” in (CM) is used normatively. And whether or
+not that premise can be supplied, the argument won’t be direct
+ anymore.
+[
+12
+]
+Anti-normativists usually go further and claim that the way
+“correct” is used in
+(CM)
+in fact is non-normative. What the appeal to correctness conditions
+gives us, it is claimed, is only a way of categorizing applications of
+“green” into two basic kinds (the true and the false, for
+instance), and this does not in itself entail that one ought to apply
+the term in any particular way. The notion of semantic correctness is
+non-normative in just this sense: That an application of \(e\) is
+correct, does not entail that it ought to be made, and, conversely,
+incorrect applications do not immediately imply that \(S\) has
+violated any semantic prescription. If “green” means
+green
+then \(S\) applying it to a red object implies that her
+statement is false, but it does not thereby follow that she has failed
+to do what she ought, semantically, to do (Fodor 1990; Horwich 1995;
+Glüer 1999b; 2001; Wikforss 2001; Dretske 2000; Hattiangadi 2006;
+ 2009a).
+[
+13
+]
+[
+14
+]
+Proponents of the direct argument respond by insisting that the notion
+of semantic correctness is a normative notion. To many, this seems a
+simple conceptual truth holding for the notion of correctness in
+general, and therefore also for that of semantic correctness (Gibbard
+2005: 358; Whiting 2007: 135 and 2009:
+ 538).
+[
+15
+]
+Normativists also appeal to ordinary usage here, suggesting that
+“correct” is normally used normatively and should
+therefore be interpreted that way in semantics as well (Whiting 2009:
+538; Peregrin 2012: 84). That hasn’t convinced anti-normativists
+who point out that dictionaries such as Merriam-Webster’s
+commonly list normative and non-normative usages for the adjective
+“correct” (Glüer & Wikforss
+ 2015a).
+[
+16
+]
+Normativists have also argued that even if the basic semantic concept
+itself wasn’t normative, the notion of semantic correctness
+still would or could be. Semantic correctness, it is argued, is not
+simply the same as, for instance, truth. Normativists here appeal to a
+distinction stressed by Rosen (2001: 620) between correctness and the
+“correctness making feature”, the (non-normative) property
+something must have in order to count as correct. According to Rosen,
+correctness is a higher-order property. To say that something is
+correct is not just to say that the correctness making features are in
+place (as when someone plays the notes of the Moonlight Sonata) but to
+make the higher-order claim that the action (the piano performance)
+possesses the feature that makes for correctness in acts of that kind
+(the act of playing the Moonlight Sonata). Similarly, it is argued, to
+say that applying “green” to a green object is correct, is
+to say that the application has a certain non-normative property (the
+expression applies truly) but it is also to make the higher-order
+statement that the application possesses the feature that makes it
+correct in a normative sense. Even if the basic word-world relation is
+non-normative, therefore, it does not follow that the property of
+correctness does not have a normative dimension (Speaks 2009: 408;
+Whiting 2009: 540; Fennell 2013: 58–59). It is difficult to see,
+however, how something like “the correctness making
+feature” could strictly speaking be a second-order property
+(i.e., a property of a property). It is one and the same object that
+both has the correctness making feature and is correct, after all.
+Rather, Rosen-style correctness is a first-order, second-level
+property (to use the terminology of Russell’s ramified theory of
+types). More importantly, even if that is the best way to construe the
+intuitive general notion of correctness, all this means is that it
+might be possible to provide arguments for the claim that the notion
+of semantic correctness is normative even if we agree that the basic
+semantic concept itself is not normative. But the basic
+anti-normativist challenge applies to Rosen-style correctness just as
+to any other construal of the intuitive, general notion of
+correctness: Since “correct” can be used normatively and
+non-normatively, there is no simple, direct implication from
+correctness to normativity (cf. Glüer & Wikforss 2009: 37,
+fn. 10; 2015a).
+This strand in the debate might seem to suggest that behind the
+discussion of the simple argument lies nothing but a basic clash of
+intuitions. The anti-normativist denies what the normativist
+asserts—that the concept of semantic correctness is an
+essentially normative concept. A possible conclusion, therefore, is
+that the normativist and the anti-normativist operate with different
+concepts of semantic correctness. This raises the question, however,
+whether there is nevertheless co-extensionality between the two
+concepts. As long as
+(CM)
+is the common starting point this would seem to be the case; any
+sorting effected by the normative distinction between correctness and
+incorrectness will coincide with the sorting effected by the
+non-normative distinction. If so, it would seem that further arguments
+are required to resolve the dispute, beyond the appeal to intuitions:
+The normativist would have to provide some reasons why the
+non-normativist notion of correctness is not a notion of semantic
+correctness. This poses a special challenge to normativists who appeal
+to Rosen’s distinction and grant that the basic semantic
+relation is non-normative: If this relation is non-normative then the
+question is not whether the concept of semantic correctness
+could
+be given a normative construal but whether semantics
+needs
+such a construal (Glüer & Wikforss 2015a).
+Another strand in the discussion of the simple argument concerns the
+status of the relevant semantic obligations. Here it is often
+emphasized that semantic obligations are merely
+prima facie
+and may be overridden by other obligations, such as the obligation (in
+a certain context) to tell a lie. It is therefore not an objection to
+ME normativity that there are situations in which “green”
+means
+green
+for \(S\), without it being the case that \(S\)
+ought to apply “green” to green objects only (Whiting
+2007: 139 and 2009: 546).
+This appeal to
+prima facie
+obligations has been challenged.
+What is distinctive of a
+prima facie
+obligation, as opposed
+to a mere instrumental means-end imperative, is that it cannot be
+overridden by mere desires. However, it is argued, if \(S\) has no
+desire to speak the truth, then \(S\) has no obligation to apply
+“green” to green objects. For instance, if neither \(S\),
+nor her audience, care whether \(S\) tells the truth, then there is no
+obligation to apply “green” correctly. Hence,
+(CM)
+does not even yield
+prima facie
+obligations (Hattiangadi
+2006: 232 and 2007:189). In response, the normativists suggest that in
+such a situation the speaker’s use would nevertheless be
+semantically incorrect and involve a violation of her semantic
+obligations. The violation would not be very serious, but it would
+still be a violation (Whiting 2007: 139). This has been challenged,
+too. Verheggen, for instance, argues that Whiting’s attempt to
+back this up by the possibility of criticising a speaker who
+misapplies an expression out of mere desire is not convincing. After
+all, the speaker acts as she does precisely because of what she means
+by the expression—therefore, there is no semantic reason to
+criticize her (Verheggen 2011: 562).
+Nevertheless, it would be hasty to conclude that nothing but
+instrumental norms can be derived from meaning facts in conjunction
+with desires. As noted above, it is clear that an appeal to merely
+instrumental norms, or means-ends norms, fails to support the idea
+that meaning is essentially normative. Although facts about
+correctness conditions may play a role in the generation of
+instrumental norms such as “If you wish to communicate with ease
+you ought to apply ‘green’ to \(x\) if and only if \(x\)
+is green”, the ought in question derives from the agent’s
+desires and intentions (given certain empirical facts, regularities,
+or laws), not from the correctness conditions themselves. Indeed, very
+many facts can play a role in the generation of instrumental norms
+without thereby being intrinsically normative—for instance,
+given the laws of nature, facts about the weather, taken together with
+facts about my desires, have implications for how I should dress
+(Coates 1986; Bilgrami 1993; Glüer 2001; Wikforss 2001;
+Hattiangadi 2006, 2009b). Not all
+hypothetical
+norms are
+instrumental, or based on contingent means-ends relations, however. An
+example would be the following: If you want to castle in chess, you
+should (or indeed: must) move your king and one of your rooks in a
+certain way. Similarly, it has been suggested that there is an
+important difference between hypothetical norms involving ordinary
+non-normative facts (such as facts about the weather) and norms
+involving meaning facts: Since meaning facts are
+constituted
+by correctness conditions, meaning facts
+always
+dictate how I
+should behave when I intend to produce a meaningful utterance. Even
+though
+what
+they dictate depends on my particular desires in
+the situation, the fact
+that
+they dictate something does not
+depend on any desire—in contrast to the dictates derivable from
+weather facts (Verheggen 2011: 563). One might wonder, though, whether
+the cases ultimately really are disanalogous: Just as one might not
+care whether one gets wet or stays dry, it might seem, one might just
+not care whether what one says is semantically correct or not—do
+correctness conditions really dictate anything if all I want to do is
+say something
+ meaningful?
+[
+17
+]
+It is worth, in this context, to comment on the relation between
+Kripke’s normativity constraint and the so called “problem
+of error”. As noted above, Kripke takes his normativity
+constraint to rule out dispositionalist accounts of meaning. Although
+he formulates his objection to dispositionalism in various ways (1982:
+29–37), in the debate the main focus has been on the question
+whether the dispositionalist can account for the possibility of
+mistake or error. For an expression meaning
+green
+, for
+instance, it is just as much a platitude that mistaken or erroneous
+application is (in principle) possible as that the expression has
+correctness conditions. The question, then, is the following: If
+meaning is determined by how \(S\) is disposed to use her term, then
+how could she use the term incorrectly? It has been argued that she
+couldn’t—rather, every apparent error would just indicate
+a difference in meaning (Boghossian 1989a:
+ 537–540).
+[
+18
+]
+It is much disputed whether the dispositionalist can solve this
+problem. It should be noted, however, that the problem of error does
+not seem to have much to do with semantic normativity (Fodor 1990:
+135–136; Bilgrami 1992; Wikforss 2001: 208; Hattiangadi 2006:
+229; 2007: 186). The error objection does not turn on the fact that
+the dispositionalist cannot allow for semantic oughts but, rather, on
+the fact that we must not construe the relation between the meaning
+determining facts and meaning in such a way that mistake is ruled
+out.
+Of course, even provided with a solution to the problem of error
+dispositionalism might come to grief with Kripke’s skeptic.
+Solving the problem of error requires showing that there is a
+plausible principle \(P\) assigning meanings to expressions on the
+basis of the speaker’s dispositions to use them, a principle
+underwriting plausible ascriptions of error. On a quite plausible
+interpretation of the skeptic’s main strategy—i.e., that
+of “quussing” candidate facts—this strategy is as
+applicable here as elsewhere. If, for instance, \(P\) assigns
+addition
+to “plus” on the basis of disposition
+\(D\), the skeptic will want to know why this is the right
+principle—as opposed to some other principle \(P'\) assigning
+quaddition
+to “plus” on the basis of \(D\). As
+the mere fact of the speaker’s having \(D\) does nothing to
+determine which of these principles is the right one, dispositional
+facts are as quussable as any of the other candidates—and this
+remains the case even if your dispositionalism comes with a plausible
+principle of meaning determination (cf. Pagin 2002:
+ 160f).
+[
+19
+]
+2.1.2 Using an Expression in Accordance with its Meaning
+An alternative to the simple argument is to suggest that there is a
+further notion of semantic correctness, one that is not co-extensional
+with that of
+(CM)
+but that is both essential to meaning and normative. Thus, it has
+been claimed that there is a crucial ambiguity in the notion of
+correct use (Millar 2004: 160). On the one hand, there is the notion
+of semantic correctness as in (CM); on the other hand there is the
+notion of correct use as in “using an expression in accordance
+with its meaning”. That the two do not coincide is clear from
+the fact that one may use an expression in accordance with its
+meaning, and yet make a false statement, as when one has a false
+belief about the world (McGinn 1984; Millar 2002; 2004: 160–175;
+Moore 1954/1955: 308; Sellars 1956: 166; Buleandra 2008: 180; Fennell
+2013: 69, Reiland forthcominga). We must distinguish empirical
+mistakes from
+linguistic
+mistakes, it is argued, and it is
+essential that we are able to allow for both. Moreover, it is said,
+this further notion of semantic correctness is an essentially
+normative notion, one that has implications for what \(S\) ought to do
+or is obligated to do: if “green” means
+green
+for
+\(S\), then \(S\) ought to use “green” in accordance with
+its meaning. (This idea, too, goes back to Kripke who, at points,
+speaks of what I should do, if my use of the term is to be “in
+accordance with how it was meant” (1982: 30, 37).)
+How is the notion of “using an expression in accordance with its
+meaning” to be construed? According to one proposal, it concerns
+which expressions are “appropriate” or
+“suitable” for expressing a certain belief. The notion of
+“suitability”, in turn, is derived from the ordinary
+semantic correctness conditions taken together with what I intend to
+express by my expressions: If “green” applies correctly
+only to green objects, and I mean to express my belief that \(x\) is
+green, then I ought to use the term “green” and not, say,
+“red”. This allows for the possibility that my use is
+correct in the sense of
+(CM)
+,
+ and yet linguistically incorrect (if \(x\) is red and I use the term
+“red” to express my belief that \(x\) is green); and, vice
+versa, that my use is incorrect in the sense of (CM), but
+linguistically correct (if \(x\) is red and I use the term
+“green” to express my belief that \(x\) is green) (McGinn
+1984: 60; Millar 2004: 162–163). Hence, in the place of (CM) we
+have:
+(CM*)
+For any speaker \(S\), and any time \(t\): if “green”
+means
+green
+for \(S\) at \(t\), then it is correct for \(S\)
+at \(t\) to apply “green” to an object \(x\) iff \(S\)
+intends to express the belief that \(x\) is green at
+ \(t\).
+[
+20
+]
+Possible misuses are said to include both performance errors (such as
+slips of the tongue) and so-called meaning errors (as when the speaker
+thinks “arcane” means
+ancient
+) (Millar 2004:
+163).
+This raises the question of what motivates this further notion of
+correctness. While it is a platitude that meaningful expressions have
+semantic correctness conditions, it is not a platitude that an
+expression is meaningful only if there are these further correctness
+conditions. If “green” means
+green
+for \(S\), and
+\(S\) uses “red” to express her belief that \(x\) is
+green, she may fail in her communicative intentions (although not
+necessarily, consider the use of irony and metaphor), but does it
+follow that she has used her expressions incorrectly in a semantically
+relevant sense? The added notion of correctness, it may therefore be
+argued, simply does no semantic work. This concern has been raised by
+some normativists as well. For instance, Whiting (2016) argues that it
+is a mistake to try to defend normativism on these grounds, and that
+the normativist should stick to the orthodox interpretation that takes
+as its starting point
+(CM)
+.
+In the literature, the most common route to the conclusion that we
+need some such further notion of semantic correctness goes via
+assumptions about the nature of
+understanding
+(Wright 1980:
+20; McDowell 1984; McGinn 1984:109; Kot̓átko 1998; Millar
+2004; Buleandra 2008; Fennell 2012). Understanding the meaning of a
+term, it is argued, involves using it in accordance with its meaning
+and, moreover, feeling obligated to thus using it. To learn the
+meaning of an expression, McDowell writes for instance,
+is to acquire an understanding that obliges us subsequently …
+to judge and speak in certain determinate ways, on pain of failure to
+obey the dictates of the meaning we have grasped. (1984: 45)
+This motivates the appeal to further correctness conditions, it is
+held, since a speaker may fully understand a term while using it in a
+false judgment and, conversely, use the term in a true judgment while
+failing to understand the term properly.
+The route via understanding depends on assumptions about the nature of
+linguistic understanding that may be challenged. Thus, Timothy
+Williamson has argued that there are no understanding-assent links of
+the relevant sort, thereby rejecting the assumption that understanding
+the meaning of an expression \(e\) involves using \(e\) in certain
+ways (Williamson 2007). However, even if this assumption is accepted,
+it is a further supposition that this brings with it any semantic
+obligations. First, it might be held that the link between
+understanding and use is constitutive, and that all that follows if
+\(S\) fails to use e in accordance with a certain meaning \(M\), is
+that e does not mean \(M\). For instance, if a speaker (regularly)
+uses “arcane” in accordance with the standard meaning of
+“ancient”, then “arcane” means
+ancient
+and not
+arcane
+.
+[
+21
+]
+Second, as in the case of the simple argument, it could be argued
+that the appearance of an ought here derives from added normative
+principles, such as instrumental norms concerning the ease of
+communication, or pragmatic norms regulating speech
+ acts.
+[
+22
+]
+In response it has been suggested that the relevant normative
+consequences should not be understood in terms of obligations but,
+rather, in terms of commitments. This is the line taken by Alan Millar
+(2002 and 2004). Meaning statements, such as
+“‘Green’ means
+green
+”, Millar argues,
+are true in virtue of there being a rule-governed practice. If \(S\)
+uses “green” to mean green, therefore, she becomes a
+participant in this practice and incurs a commitment to use the term
+accordingly. To be properly committed, Millar suggests, \(S\) has to
+be disposed to adjust her use if she discovers that it is not in
+keeping with the meaning of the expression (as when \(S\) uses
+“arcane” to mean
+ancient
+). The commitment is not
+dependent on one’s desire to communicate, or on the intention to
+speak the truth, but merely on \(S\) participating in the practice of
+using “green” with a certain meaning. However, Millar
+stresses, it does not follow that she ought to use her expressions a
+certain way, since it does not follow that she ought to participate in
+the practice—there may be reasons to withdraw from the practice
+instead. Hence, one may participate in a practice without it following
+that one ought to “carry out the performances associated with
+one’s role” (Millar 2004:
+ 173).
+[
+23
+]
+This proposal illustrates how ME normativity might be derived from MD
+normativity: Meaning statements have normative consequences, according
+to Millar, because meaning is determined by the speaker following
+certain rules. Metaphysically the rules come first and make meaning
+possible. Before turning to a discussion of MD normativity, let us
+briefly consider some other arguments put forth in support of ME
+normativity.
+2.1.3 Alternative Arguments
+The arguments above are all attempts to show that meaning statements
+have normative implications. An alternative strategy is to suggest
+that meaning statements simply
+are
+prescriptions. When we
+state “‘Green’ means
+green
+” we may
+appear to be making a descriptive statement whereas, in fact, we are
+prescribing
+how “green” ought to be used (Gauker
+2007, 2011; Lance & O’Leary Hawthorne 1997; Peregrin 2012:
+96; Gibbard 2012). This proposal can either be construed as a claim
+about the semantic
+content
+of meaning statements, or as a
+claim about the typical
+use
+of meaning statements. Thus, a
+statement may be used prescriptively, while having a descriptive,
+factual content (“In this classroom we raise our hands before
+speaking”).
+If the suggestion is that meaning statements have a prescriptive
+content it would provide another very direct argument in support of ME
+normativity, one that does not have to proceed via the controversial
+claim that the notion of semantic correctness is an essentially
+normative notion. This is an advantage over the simple argument.
+However, there are also disadvantages. For instance, the question
+arises whether the claim that meaning statements lack descriptive
+content can accommodate the role of such statements in inferential
+contexts (see Gauker 2007: 194–195 for a discussion). Another
+question concerns the implications from “ought”-statements
+to meaning statements. According to the simple argument,
+“‘Green’ ought to be applied to \(x\) if and only if
+\(x\) is green” follows immediately from
+“‘Green’ means
+green
+”. According to
+this argument the converse also holds: “‘Green’
+means
+green
+” follows directly from
+“‘Green’ ought to be applied to \(x\) if and only if
+\(x\) is green” (cf. Gibbard 2012: 12 and 113–115). The
+latter has been questioned on the grounds that even if it is true that
+“green” ought to be applied this way, the
+“ought” in question may not have anything to do with
+semantics but, say, with religious practices (Byrne 2002: 207).
+These difficulties are avoided if, instead, meaning statements are
+simply construed as having a prescriptive use (while having a
+descriptive content). On either construal, however, the question
+arises why we should believe that meaning statements are prescriptive.
+One suggestion is that the prescriptive function of meaning statements
+follows from their role in coordinating our linguistic use (Gauker
+2007 and 2012: 279). Meaning statements are proposals about how terms
+ought
+to be used, and as such they serve to determine meaning
+and remove an otherwise irresolvable indeterminacy (see also Gibbard
+2012: 109–112). As a result, “we all think of meanings as
+standards that we are obliged to conform to” (Gauker 2007: 185).
+This defense of the normativity thesis therefore turns on
+controversial issues concerning indeterminacy. Another proposal shuns
+the metaphysical questions concerning the nature of meaning and
+appeals to the
+function
+of meaning statements in our
+practices (Lance & O’Leary Hawthorne 1997). Instead of
+asking for the facts that constitute meaning, it is argued, we should
+consider the role of meaning statements in our socio-linguistic
+practices. It then emerges that such statements serve the regulative
+function of licensing and censoring certain uses. It should be noted
+that unless this proposal about the function of meaning statements is
+said to have
+some
+metaphysical implications concerning the
+nature of meaning, it will fall short of supporting the claim that
+meaning is essentially
+ normative.
+[
+24
+]
+[
+25
+]
+In addition, there are a variety of other arguments in support of ME
+normativity. One such argument grants that correctness conditions are
+not themselves normative, but suggests that we derive the normativity
+of meaning from the idea that we ought to speak the truth (Ebbs 1997;
+Haugeland 1998: Soames 1997: 221, 224). As noted above, this only
+succeeds if the obligation in question can be said to derive purely
+from semantic sources. The question, then, is whether there is any
+reason to suppose that we have a semantic obligation to speak the
+truth. The impression that there is, it has been suggested, is a
+result of a conflation of semantics and pragmatics. Thus, it is
+commonly held that there are rules of assertion, and some of these are
+such that they are violated when the speaker makes a false judgment.
+For instance, it has been proposed that there is a “knowledge
+rule”: “One must: assert \(p\) only if one knows
+\(p\)” (Williamson 2000: 242). However, opponents of ME
+normativity stress, these are pragmatic rules, regulating the
+performance of speech acts, not semantic ones. If such rules are
+essential for the possibility of assertion, then assertion is
+essentially normative, but it does not follow that meaning is
+(Glüer & Wikforss 2009: 37–38; Speaks 2009). For
+discussion of the claim that assertion is normative, see the entry on
+assertion
+,
+ for a suggestion as to how to connect norms of assertion to the
+meanings of sentences by means of the Alstonian idea of meanings as
+speech-act-potentials (Alston 2000), see García-Carpintero
+2012, 2021.
+Another set of arguments reject the focus on correctness conditions
+and appeal to other aspects of Kripke’s normativity objection to
+dispositionalist theories. For instance, it has been suggested that
+the claim that meaning is essentially normative is primarily a claim
+about the justificatory role of meaning. Facts about meaning are,
+essentially, such that they are able to justify \(S\)‘s use of
+her terms, able to guide \(S\)‘s usage. In this sense, meaning
+facts are like prescriptive rules, such as the rules of
+etiquette—it is of their essence that they guide action or give
+directions. The reason dispositionalism fails, then, is not that the
+dispositionalist cannot account for error, but that facts about what I
+am disposed to do are not essentially capable of justifying (Gampel
+1997: 225–231; Zalabardo 1997: 480–483; Kusch 2006:
+50–94).
+Whether this argument succeeds depends on whether it can be shown that
+the role of meaning in motivating action is equivalent to that of
+prescriptions. Thus, the fact that “green” means
+green
+may of course guide the speaker’s actions in the
+sense that any facts do so—i.e., if \(S\) believes that
+“green” means
+green
+. To show that meaning facts
+play a normatively guiding role, therefore, it does not suffice to
+appeal to the idea that meaning facts play a role in motivating
+action; it also has to be shown that the motivating role is that of a
+prescription rather than a belief (see
+section 2.2
+below).
+[
+26
+]
+In the discussion of ME normativity so far it is assumed that the
+relevant norms are norms for action, prescriptions for the
+speaker’s use of her expressions. This, again, is how Kripke
+discusses the topic and how those writing on Kripke tend to construe
+the relevant normativity. However, as far as ME normativity goes,
+normative consequences might also be construed axiologically. Thus, it
+might be argued that semantically correct applications, by themselves,
+are
+valuable
+. This, too, would show that meaning is an
+essentially normative notion, although in a different sense than the
+standard one. And in this case too, the crucial question would be
+whether the step from
+(CM)
+to normative consequences can be motivated. Does sorting
+\(S\)’s applications into the semantically correct and the
+semantically incorrect ones, by itself imply that actions of one or
+the other of these kinds are valuable (Glüer 2001:
+ 60–61)?
+[
+27
+]
+Another option would be to construe the rules or norms of meaning as
+constitutive ones (cf.
+section 1.2
+above). Rules of meaning, the idea would be, are rules for the use of
+expressions that determine the meaning of these expressions. Appealing
+to constitutive rules thus would mean accepting what we call MD
+normativism: It would mean accepting that expressions have meaning
+because there are rules or norms in force for their use.
+2.2 Meaning Determining Normativity
+Meaning determining normativism (MD normativism) is the claim that
+meaning is essentially such that it is (at least partially) determined
+by norms. This is a claim in the metaphysics of meaning, more
+precisely, in “foundational semantics” (Stalnaker 1997:
+535). It is an answer to the question
+in virtue of what
+linguistic expressions have their meanings: Linguistic expressions
+cannot have meanings without norms, and the norms come first in the
+order of metaphysical determination or explanation. Normative facts,
+if you will, (at least partially) “ground” meaning
+ facts.
+[
+28
+]
+[
+29
+]
+Strong versions of MD normativism hold that
+MD norms also determine
+which
+meanings the expressions
+governed by them have.
+Initial motivation for MD normativism is furnished by the arbitrary,
+contingent, and “man-made” nature of the connection
+between linguistic expressions and their meanings. Observed by
+philosophers since ancient times, the nature of this connection
+suggests that it might be established by
+convention
+. But
+plausible as such conventionalism might seem, earlier discussions have
+shown it to be quite controversial (cf. Davidson 1984a; Dummett 1986).
+If conventions are to play a role in an informative account of
+meaning, we cannot simply claim that it, for instance, is a convention
+of English that “green” means green. Rather, the relevant
+conventions would need to be specified in non-semantic terms (cf.
+Davidson 1984a; Glüer 2013).
+Moreover, the relation between conventionalism and MD normativism is
+complicated. On David Lewis’s influential account, for instance,
+a convention is a regularity in the behavior of a community which is
+arbitrary but perpetuates itself because it serves
+some sort of common purpose. Past conformity breeds future conformity
+because it gives one a reason to go on conforming. (Lewis 1975: 4)
+Arguably, a Lewisian convention is not normative; it does, for
+instance, not seem to require any prescription to conform being in
+force in the community. Yet another question concerns the requirement
+of regularity. Even if regularity of use were required for meaning
+(Davidson famously disputed this; cf. Davidson 1984a; 1986b), such
+regularity might not need to be due to either norm or convention. A
+relevant observation here is that people, upon reflection, usually can
+provide at least rough formulations of the rules or conventions they
+are following and cite them as reasons for their actions. But when it
+comes to the semantic rules of natural language, this is far from
+being the case; the question would be why.
+The connection between meaning and
+use
+provides another
+starting point for MD normativism, the thought being that it is not
+how we are
+disposed
+to use an expression that determines its
+meaning, but how we are
+supposed
+to use it (cf. Glock 2000;
+Brandom 1994: 159). The most common form of MD normativism thus holds
+that the meanings of linguistic expressions are (at least partially)
+determined by
+rules for their use
+. At a minimum, such MD
+normativism claims that the following is an essential truth about
+meaning, or more precisely about a linguistic expression \(e\)’s
+having a meaning \(M\) (for a speaker, or group of speakers, \(S\) at
+a time \(t)\):
+\((\MD_R)\)
+\(e\) means \(M\) for \(S\) at \(t\) only if there is a rule \(R\)
+for the use of \(e\) in force for \(S\) at
+ \(t\).
+[
+30
+]
+This idea was famously formulated by Ludwig Wittgenstein, who wrote in
+his so-called “Middle Period”:
+[W]ithout these rules the word has as yet no meaning; and if we change
+the rules, it now has another meaning (or none), and in that case we
+may just as well change the word, too. (PG 133)
+It is quite plausible to read Wittgenstein as here espousing a strong
+version of MD normativism.
+\((\MD_R)\) is compatible with claiming that meaning is
+solely
+a matter of the norms or rules governing the use of
+linguistic expressions, no matter how they are
+actually used
+(e.g., Hlobil 2015), but MD normativism can take less radical forms,
+too. One might for instance think that speakers’ dispositions to
+use expressions do play a role in meaning determination, but argue
+that only a certain kind of disposition is relevant, a kind that can
+only be specified by means of its normative properties. In this vein,
+Wedgwood argues more generally that it is only “rational”
+dispositions that determine intentional content (where rationality is
+taken to be a normative property; cf. Wedgwood 2007: 167ff; 2009).
+Normative teleosemantics can be construed as making a similar move:
+Here, it is those dispositions realizing the biological function of
+the mechanism of using an expression that determine meaning (where
+biological functions are taken to be something normative; cf. Millikan
+1990, Neander 1995).
+One might also think that meaning is determined on a non-normative
+basis, but by a normative principle. Davidson (1970) famously used the
+claim that meaning and intentional content are determined by the
+“principle of charity” to argue for a kind of
+non-reductive naturalism. According to Davidson, speakers essentially
+are by and large rational and beliefs by their nature
+“veridical”, i.e., by and large true (Davidson 1986a).
+According to the principle of charity, the best interpretation of a
+speaker \(S\) therefore optimises overall coherence, or rationality,
+and truth across \(S\)’s utterances, propositional attitudes,
+and intentional actions (e.g., Davidson 1973, 1974, 1991; see also
+Glüer 2011: ch. 3). Because of its appeal to rationality, the
+principle of charity has been interpreted as a normative principle,
+and Davidson as a normativist (see for instance, McDowell 1984;
+Hornsby 1997: 87; Gampel 1997; Hurley 1998: 5; Glock 2000; Jackman
+2004
+ [
+Other Internet Resources
+];
+ Wedgwood 2007: 161ff; Kriegel 2010; Liebesman 2018). This is
+controversial, however; it has been argued that its constitutive role
+in fact prevents the principle of charity from being normative: It
+determines what meaningful utterances (contentful mental states)
+are
+, not how anything
+should be
+or what anyone
+should do
+(cf. Glüer 2001; Wikforss 2001; Schroeder
+2003; Engel 2007: 187ff; for a different argument, see Bilgrami 1992:
+102ff.). Quite independently, the claim that rationality is
+essentially normative is of course itself controversial (cf.
+Schnädelbach 1990; Kolodny 2005; Broome 2007; Glüer &
+Wikforss 2013a, 2018).
+Other influential ideas behind MD normativism include
+Wittgenstein-inspired skepticism towards meanings as “Platonic
+entities”; in this tradition, meanings and concepts themselves
+are construed as products of our norms or conventions (cf. for
+instance, Baker & Hacker 1985: 269ff). Another idea derives from
+meaning’s psychological role: It has been argued that, since
+competent speakers are guided in their use of expressions by the
+knowledge of their meanings, a knowledge that is general in form, such
+guidance must be construed as guidance by rules (cf., for instance,
+Boghossian 2008: 489).
+In the next two sections we shall look a little closer at
+\((\MD_R)\).
+2.2.1 Meaning Determining Rules or Norms
+Assume that meaning is determined by rules. How exactly does this
+work? What kind of rule could do this job? What does it mean for such
+rules to be “in force” for a speaker or group of speakers,
+and in what relation do such rules stand to the actual use of the
+expressions they govern?
+Quite clearly, meaning determining rules would be
+constitutive
+rules
+(see
+section 1.2
+above). Typically, they are taken to determine not only
+that
+expressions have meaning, but also
+which
+meanings they have.
+A rule \(R\) governing the use of an expression \(e\), the thought is,
+divides possible uses of \(e\) into those that
+accord with R
+and those that do
+not
+. On the assumption that the former are
+the
+semantically correct
+uses of \(e, \ R\) thus endows \(e\)
+with semantic correctness conditions, i.e., meaning. Ideas like this
+are drawn on by a great number of philosophers, including Wittgenstein
+scholars such as Baker and Hacker or Glock, as well as philosophers
+such as von Wright, Sellars, and Searle.
+Still, the question is how this exactly works. Constitutive rules
+“create” new kinds of action. Actions of these kinds are
+such that they cannot be performed if the rules are not in force.
+Searle suggested that such rules typically can be brought into the
+following form:
+(CR)
+In \(C\), doing \(X\) counts as doing \(Y\).
+He also suggested that meaning is determined by such rules (1969:
+42ff). But it is not easy to see how rules of form
+(CR)
+would endow expressions with semantic correctness conditions (cf.
+Glüer & Pagin
+ 1998).
+[
+31
+]
+It might be more promising to allow meaning determining rules to be
+prescriptions (or proscriptions), endowing expressions with meanings
+by distinguishing between semantically correct (pre- or proscribed)
+and incorrect (forbidden) uses. They would be constitutive in the
+sense of its being impossible to meaningfully use the expressions they
+govern without their being in force for the speaker (cf. Glüer
+& Pagin 1998; Kiesselbach 2014; Hlobil 2015; Reiland
+forthcominga).
+What, then, does it mean for a meaning determining rule \(R\) to be in
+force for a speaker \(S\)’s use of an expression \(e\) (at a
+time \(t)\)? Broadly, there are three main options for the MD
+normativist. According to the first, using \(e\) (at \(t)\) has to be
+motivated by
+or to
+follow
+\(R\) in the sense of
+attempting to do what is in accordance with \(R\). On the second
+construal, \(S\) has to
+accept R
+in some sense not requiring
+(all) particular uses of \(e\) to be motivated by \(R\). Both of these
+would plausibly seem to require \(S\) to have certain intentional
+states. But, third, \(R\)’s being in force for \(S\) could also
+be construed as independent of any of \(S\)’s intentional states
+(with respect to \(R)\).
+The laws of the state, for instance, would seem to fall into the third
+category; they are in force even for those individual citizens who do
+not accept them. Analogously, one might claim meaning determining
+rules to be in force in a speech community quite independently of any
+(or even all) of its member’s acceptance of, or attitudes
+towards, them. Construing MD (or CD) normativism along these lines has
+recently gained some proponents (e.g., Tracy 2020; Hlobil 2015). Many
+games are in the second category; they are such that even though
+participation requires players to accept their rules, participants
+nevertheless can intentionally violate these very rules within the
+game. For instance, intentional spearing does occur in ice hockey
+games, and will be punished precisely because the rule against
+spearing is in force even for players who spear intentionally. Again,
+in semantics the situation might seem analogous: Speakers can
+intentionally say semantically incorrect things without their
+expressions losing or changing their meanings (cf. Railton 2000;
+Glüer & Pagin 1998; Glüer 1999b; 2001; Wikforss 2001,
+Kiesselbach 2014, Reiland 2020;
+ forthcomingb).
+[
+32
+]
+The most common and traditional idea, however, is that expressions
+“get” their meanings by speakers’ following the
+rules for their use (see, for instance, Baker & Hacker 1985:
+154ff; Glock 1996a: 323ff); speaking meaningfully is conceived of as a
+form of
+rule-guided action
+. Let’s call this form of MD
+normativism “guidance
+ normativism”.
+[
+33
+]
+A crucial question for guidance normativism concerns the distinction
+between
+rule guided
+and
+merely regular behavior
+. As
+Quine classically noted, on pain of vicious regress, meaning
+determining rules or conventions cannot be explicitly and deliberately
+adopted; they must somehow be “implicit” in the behavior
+of speakers. But then, Quine argued, we risk depriving the notion of a
+linguistic rule “of any explanatory force and reducing it to an
+idle label” (Quine 1935 [1976: 106]). We shall look at this
+issue in the next section.
+2.2.3 Guidance by Meaning Determining Rules
+It is quite natural to think that behavior guided by an (implicit or
+explicit) rule \(R\) is behavior that can be
+explained
+by
+means of \(R\). More precisely, many philosophers think, the
+explanation needs to be a
+reasons-explanation
+. Therefore, the
+thought is, there is an “intentional condition” on
+rule-guidance, requiring, for instance, intentions to follow \(R\)
+(e.g., Baker & Hacker 1985: 155; Glock 1996a: 325), or some other
+state of accepting or internalizing \(R\) (Boghossian
+ 2008).
+[
+34
+]
+If there is an intentional condition, even guidance by implicit rules
+would seem to require prior mental states with intentional content. A
+much-discussed question is whether this leads back into vicious
+regress. This question would seem to arise not only for those who
+think that thought depends on language, or that thought and language
+are interdependent, but also for any kind of guidance normativism
+about mental content (cf. Boghossian 1989a; 2008). For instance, if
+having a contentful intentional state is itself a matter of being
+guided by a content determining rule, then another intentional state
+is required for having the first one, and so on
+ad
+ infinitum
+.
+[
+35
+]
+It has therefore been argued that according to Wittgenstein there
+must be a basic form of rule following that is not subject to any
+intentional condition, but “blind” (Wright 2007; see also
+García-Carpintero 2012). Alternatively, it has been argued that
+therefore the late Wittgenstein did not conceive of meaningful use of
+language as rule guided anymore (Glüer & Wikforss 2010a).
+Boghossian (2008: 493f) provides an independent, general argument
+against an intentional condition on rule guidance. He argues that the
+relevant intentional state would be a state with general
+(prescriptive) content, and that acting under particular circumstances
+on an intentional state with general content always involves some sort
+of inference. Inference itself, however, essentially involves
+following a rule, and thus a regress—reminiscent of that
+familiar from Lewis Carroll (1895)—ensues. In response, the
+assumption that inference is essentially rule guided has been
+questioned (cf. Glüer & Wikforss 2010a). Miller (2015) offers
+a different response; he contends that Wittgensteinian
+“blindness” does not amount to giving up on the
+intentional condition, but to denying that application of a general
+rule to a particular case involves inference. Blind rule-following,
+Miller suggests, is to be construed in terms of a causal connection
+between rule-acceptance and application, where the former causes the
+latter “in the right kind of way” (2015:
+ 411ff).
+[
+36
+]
+Together with the observation recorded earlier—that speakers do
+not usually seem to be able to formulate semantic rules or to cite
+them as reasons—some philosophers have looked for alternative
+ways of understanding the explanatory power of meaning determining
+rules, for instance in terms of evolution. Ideas here range from using
+evolutionary explanation as a mere analogy (as in Sellars 1954 or
+Searle
+ 1995)
+[
+37
+]
+to normative construals of the idea of a biological function in
+normative teleosemantics (cf., e.g., Jarvis 2012), possibly in
+combination with computational ideas about sub-personal rule following
+at the level of mental representation (cf. Jacob 2005: 200f;
+García-Carpintero 2012; for some critical discussion Boghossian
+2008). There is a worry, though, that the basic question recurs: What
+distinguishes a sub-personal regularity from a performance governed by
+a sub-personal
+ rule?
+[
+38
+]
+2.2.4 Primitive Normativity
+Ginsborg (2011a,b; 2012; 2018a,b; 2020; forthcoming) suggests that the
+normativity of meaning can be defended by interpreting the relevant
+“ought” and distinguishing normativity and regularity in a
+way that is quite radically different from the dominant view in most
+of the normativity debates, i.e., by referring to a “primitive
+ought”. This speaks to the primitively normative attitudes
+speakers must have towards their own uses of linguistic expressions.
+For starters, having primitively normative attitudes does not require
+prior grasp of rules, concepts, or meanings. Moreover, the norms
+speakers need to be primitively conscious of do not guide or justify
+them in their use of expressions (Ginsborg 2011b:
+ 170).
+[
+39
+]
+And finally, the primitive “ought” relevant to meaning
+cannot be explicated in terms of, or equated with, truth—to be
+primitively correct is more fundamental than being semantically
+correct: Primitive normativity is not required to determine what is
+semantically correct (and incorrect), but rather to “distinguish
+the production of a term from mere noise” (Ginsborg 2012: 132,
+quoting Blackburn 1984: 281), or, more generally, to determine which
+behaviour is “subject to normative evaluation at all”
+(2011a: 243, fn.
+ 21).
+[
+40
+]
+Primitive normativity thus is what distinguishes the behaviour of the
+speaker who uses her terms with
+understanding
+from that of
+the parrot, or automaton. Using a term with understanding requires
+more than just being disposed to use it a certain way, Ginsborg
+argues; it requires understanding
+that it has a certain
+meaning
+. If a speaker for instance uses “slab” to
+mean
+slab
+, she needs to grasp or recognize that it means
+slab
+(2012: 135). Ginsborg’s ambition is precisely to
+provide necessary and sufficient conditions for what it is to have
+this understanding.
+The account of meaning determination she arrives at has two
+components. Since one of them is a requirement of primitive
+normativity, primitive normativity qualifies as a (new) kind of
+meaning determining normativity. In rough outline, the account looks
+like this:
+(G)
+As used by a speaker \(S\), an expression \(e\) has a particular
+meaning \(M\) iff
+i.
+\(S\) is disposed to use \(e\) in a certain way, and
+ii.
+\(S\) is disposed to adopt the attitude of
+taking-to-be-appropriate to the set of uses to which she is disposed
+(cf. 2011a: 244f; 2012: 138).
+If \(e\) has meaning, the first disposition suffices to determine
+which meaning it has. But \(e\) has meaning only if the second
+disposition is in place. Moreover, if both conditions are fulfilled,
+having the primitively normative attitude of taking the use one is
+disposed to make of \(e\) amounts to understanding that \(e\) means
+\(M\).
+These conditions are not only necessary, but sufficient for meaning,
+Ginsborg argues, because they allow us “to make sense of a given
+response being correct or incorrect” (2011a: 245), where
+correctness now is
+semantic correctness
+. Once these
+conditions are fulfilled, a particular use of \(e\) might not only be
+such that you “did not do what you were disposed to do, but also
+did not do what you were disposed to regard as appropriate”
+(2011a: 245). This, Ginsborg submits, is enough to make such a use of
+\(e\) into a mistake. Once these conditions are fulfilled, that is,
+the uses you are disposed to make of \(e\) “can retrospectively
+be identified as the extension of [\(e\)]” (2012: 138). And
+then, your primitively normative attitude amounts to understanding
+that \(e\) means what it does.
+Though Ginsborg’s proposal is very interesting, and indeed
+rather different from more established interpretations of the
+normativity of meaning, it has not gone unchallenged. Miller (2019)
+and Sultanescu (2021) both raise worries about Ginsborg’s reply
+to the skeptic. Miller (2019) argues against Ginsborg’s defence
+of reductive dispositionalism against Kripke’s
+Wittgenstein’s “finitude” objection. Sultanescu
+(2021) points out that Ginsborg’s dispositionalism fails because
+it faces an unsolvable dilemma when it comes to the two constraints
+imposed by Kripke’s skeptic, i.e., that
+the correctness of a particular use [of \(e\)] be constituted
+independently of the individual’s perspective on it,
+and that
+the individual have a perspective on the use [of \(e\)], on pain of
+rendering the use an instance of arbitrary behaviour.
+Sultanescu points out that Ginsborg’s dispositionalism is able
+to meet the second constraint, but not the first. After proposing
+amends to Ginsborg’s proposal in order to make room for the
+first constraint, Sultanescu points out that now, under this new
+interpretation, Ginsborg fails to meet the skeptic’s second
+constraint.
+Miller (2019) and Sorgiovanni (2018) also raise concerns about the
+viability of Ginsborg’s “primitive” rule-following.
+In particular, Miller (2019) points out that her argument for why
+rules do not guide agents, is based on the (mistaken, and disproven by
+Wittgenstein himself) assumption that being guided by a rule
+necessarily requires interpreting that rule (2019:
+ 746).
+[
+41
+]
+What’s more, Miller takes issue with her primitive normativity
+by claiming that the attitude of
+“taking-to-be-appropriate” cannot really be made sense of
+unless we expect the speaker to already take e “to have a
+meaning or to be governed by a standard of correctness”.
+Finally, Miller (2019: 755–757) and Verheggen (2015) argue that
+we have little reason to prefer Ginsborg’s partial reductionism
+over both non-reductionism and reductionism as Ginsborg’s
+proposal seems to face the same challenges raised against those two
+opposing views.
+3. Content
+In the normativity debate the main focus has been on meaning: This is
+true of the Kripke discussion as well as of earlier discussions
+concerning the rulishness of language. However, parallel claims have
+also been made about mental content and recently the thesis that
+content is essentially normative has come into focus (McDowell &
+Pettit 1986, Brandom 1994, Engel 2000, Boghossian 2003, Gibbard 2003,
+Millar 2004, Jarvis 2012, Hlobil 2015, Miller 2015, Tracy 2020, Green
+ 2021).
+[
+42
+]
+Content normativism claims that the following is both necessary, and
+essential to, a mental state \(M\)‘s having a content \(p\):
+(C)
+\(M\) has content \(p\) only if there is a rule, or system of
+rules, \(R\) in force for
+ \(M.\)
+[
+43
+]
+The relevant notion of content is that of propositional content,
+something that can be judged, and the norms in question govern the
+“use” of concepts. We intend the talk of propositions and
+concepts in this context to be uncontentious, and not depend on any
+specific construals of these notions. A proposition, simply, is
+anything that has truth conditions essentially; it is whatever the
+propositional attitudes are attitudes towards. And talking of
+“concepts” should not be understood as implying a
+commitment to either structured contents or to a language-like,
+syntactically structured medium of representation. In this sense, a
+concept is “used” whenever a subject has an intentional
+mental
+ state.
+[
+44
+]
+As in the case of meaning, we distinguish between CE normativity,
+which is neutral on the question how content is determined, and CD
+normativity which takes the norms to be metaphysically primary. We
+shall begin by discussing CE normativity.
+3.1 Content Engendered Normativity
+According to CE normativity statements of the form “mental state
+\(M\) has content \(p\)” have normative consequences. The norms
+are typically construed as norms of action, most commonly as
+prescriptions, but could also be construed axiologically. That is, the
+claim need not be that the relevant norms guide our use of concepts,
+but could just be that it is a property essential to their having
+content that certain mental states (true beliefs, for instance) are
+valuable.
+As in the case of meaning, we may distinguish between more or less
+direct arguments. One way to provide a direct argument for CE
+normativity would be to proceed from the notion of correctness
+conditions, in analogy with the simple argument (Boghossian 2003: 85).
+Just as meaningful expressions have correctness conditions
+essentially, along the lines of
+(CM)
+,
+ so do concepts: The concept
+green
+, for instance, applies to
+an object \(x\) if and only if \(x\) is green. However, unlike in the
+case of (CM), the application relation here is just that between a
+concept and the objects that “fall under” it. For
+normativity to enter some connection has to be made with the subject
+who employs the concepts, with her mental states.
+The standard normativist strategy consists in appealing to the use of
+concepts in propositional attitudes, and to derive the normativity of
+content from that of the propositional attitudes. We shall consider
+two such common arguments: one that goes via the nature of belief, and
+one that goes via ideas about concept grasp.
+3.1.1 The Argument from Belief
+The argument from belief proceeds in two steps: It is argued, first,
+that belief is essentially normative, and second, that there is an
+essential connection between belief and content such that if belief is
+essentially normative it follows that content is, too. Our main
+concern here is not with the normativity of belief, but some comments
+concerning the first step are required.
+According to the most common proposal, the normativity of belief
+derives from the connection between belief and truth. The proposal is
+not merely that beliefs, essentially, have contents that are true or
+false, but that beliefs, by their very nature, generate a normative
+requirement that establishes that they are correct or incorrect as a
+result of their content being true or false. Such a requirement is
+distinctive of belief and provides a “decisive reason” for
+having or not having a particular belief (Wedgwood, 2002: 268. See
+also Velleman 2000; Engel 2001, 2013; Noordhof 2021; Wedgwood 2007,
+2013; Boghossian 2003; Gibbard 2003, 2005, 2012; Shah 2003; Speaks
+2009; Nolfi 2015; Fassio 2016).
+In response, it has been argued that what is essential to belief is
+merely that beliefs have contents that are true or false, not that one
+ought to believe a content if and only if it is true. The appearance
+of normativity, it is suggested, derives from other sources. For
+instance, as epistemic agents, we seek truth. And having true beliefs
+is essential to fulfilling our goals. This just shows that true
+beliefs have an instrumental value, and fails to support the
+normativity of belief thesis. Moreover, it is argued, even if it is
+claimed that truth has a non-instrumental value, the value in question
+is derived from moral or other values, not from the nature of belief
+as such (Papineau & Tanney 1999, 2013; Dretske 2000; Davidson
+2001a; Horwich 2013; Bergamaschi Ganapini 2021).
+Questions have also been raised concerning how the norm of belief is
+to be understood. With respect to meaning the question arose whether
+\((\ME_1)\)
+violates the principle that
+ought
+implies
+can
+. In
+the case of belief, a similar worry arises if the norm of belief is
+formulated in a parallel fashion, by proceeding from the correctness
+conditions of beliefs to normative consequences:
+(CB)
+The belief that \(p\) is correct if and only if \(p\).
+\((\NB_1)\)
+\( S\) ought to believe that \(p\) if and only if \(p\).
+The trouble is that
+\((\NB_1)\)
+implies that \(S\) ought to believe everything that is true, an
+impossible task. This difficulty, it has been argued, is not solved by
+appealing to a wide-scope reading of “ought” since there
+are values of \(p\) that are such that \(S\) could neither bring it
+about that \(p\) is false, nor bring it about that she believes \(p\)
+(Bykvist & Hattiangadi 2007:
+ 284).
+[
+45
+]
+The most common reaction, instead, is to weaken the norm (Boghossian
+2003: 37):
+\((\NB_2)\)
+\( S\) ought to believe that \(p\) only if \(p\).
+This norm does not imply that \(S\) ought to believe everything that
+is true, and hence does not put impossible demands on \(S\). However,
+as noted in the discussion of
+\((\ME_1)\)
+above, the question arises whether \((\NB_2)\) suffices to provide
+any real constraints on \(S\)‘s belief formation. If \(p\) is
+true it does not follow that \(S\) ought to believe \(p\), and if
+\(p\) is false it merely follows that it is not the case that \(S\)
+ought to believe \(p\)—not that \(S\) ought not to believe \(p\)
+(Bykvist & Hattiangadi 2007:
+ 280).
+[
+46
+]
+In response, normativists have made the same move as in the case of
+meaning, and suggested that the “ought” in
+\((\NB_1)\)
+is replaced with a “may” (Whiting 2010: 216–217;
+2013: 125). It has been objected that this is too weak since it
+undermines the fundamental role of the norm of truth when it comes to
+explaining other evidential and inferential norms (Bykvist &
+Hattiangadi 2013: 113–114) and to accounting for some key
+feature of doxastic deliberation (Sullivan-Bissett & Noordhof
+ 2020).
+[
+47
+]
+Adopting a different tack the normativist could say that the relevant
+norms should be understood in terms of the “telos” of
+belief: Just as a map is a map (giving a correct or incorrect picture
+of the world) only insofar as it is designed to represent the world,
+and in this sense ought to represent the world correctly, so a belief
+can be said to be correct or incorrect only insofar as representing
+the world belongs to its telos, to what it ought to do. Since this
+type of “ought” applies to the representing objects (such
+as maps or beliefs) and not to agents, it is argued, they are not
+action-guiding and the principle that
+ought
+implies
+can
+does not apply (Jarvis
+ 2012).
+[
+48
+]
+Another set of questions concerns the fact that
+\((\NB_1)\)
+is an objective
+ norm.
+[
+49
+]
+Unlike a subjective norm, such as “\(S\) ought to believe that
+\(p\) only if \(S\) has evidence for \(p\)”, \((\NB_1)\) does
+not engage with \(S\)‘s reasons, her beliefs and desires, and
+this raises the question of how \((\NB_1)\) can serve to guide our
+belief formation. Objective norms can guide only via our beliefs, and
+it has been argued that this raises two worries for \((\NB_1\)). In
+order to be guided by \((\NB_1\)), \(S\) would have to have a belief
+about whether \(p\) is true. This means, first, that in order to be
+guided by \((\NB_1\)) the subject would already have had to form a
+belief as to whether \(p\) and hence the guidance comes too late; and,
+second, that whatever conclusion the subject comes to as to whether
+\(p\), the norm tells her to hold that very belief (if she forms the
+belief that \(p\) the norm gives her a reason to believe \(p\) and if
+she forms the belief that not-\(p\) the norm gives her a reason to
+believe not-\(p\)) (Glüer & Wikforss 2009:
+ 44).
+[
+50
+]
+It is therefore disputed whether \((\NB_1)\) can be said to be a norm
+of belief, regulating our belief
+ formation.
+[
+51
+]
+Another key challenge to the idea that belief is essentially normative
+is that belief seems to be subject to multiple normative standards. In
+addition to the idea that one should only believe what is true or
+follow the evidence, there are now also several arguments for the
+claim that at times pragmatic and moral norms govern belief as well
+and these may be normatively heavier than any epistemic norm at play
+(Marušić 2011; Reisner 2018; Basu 201; Leary 2017; Rinard
+2019) . If so, then there are no essential or constitutive normative
+requirements for belief: though there might be distinctive correctness
+conditions for belief (as in CB) these do not appear to be genuinely
+normative or do not seem to explain what “one just plain
+ought” to believe such and such (Maguire & Woods 2020;
+Bergamaschi Ganapini 2021).
+Finally, assuming that belief
+is
+intrinsically normative,
+however, the decisive question is whether this has any implications
+for content. Why should the fact that belief is normative imply that
+content is? Indeed, it has been suggested that the opposite is true
+since if belief is normative the appearance of normativity of content
+can simply be explained by appealing to the normativity of belief
+(Speaks 2009: 409). According to Boghossian, the normativity of
+content derives from the fact that there is a constitutive connection
+between the notion of content and the notion of belief (Boghossian
+2003). This is so, he argues, since we could not grasp the notion of
+content without first grasping the role contents play in belief.
+Moreover, Boghossian argues, although contents play a role in other
+attitudes as well, there are reasons to think that the concept of
+belief is conceptually primary: For instance, \(S\) could not have the
+concept of desire without first having the concept of belief (2003:
+42–43). If so, the normativity of belief supports CE
+normativity.
+The claim that the concept of belief is primary to that of desire can
+be questioned. Thus, there is empirical evidence from developmental
+psychology that children acquire the concept of desire prior to
+acquiring that of belief (Wellman 1993). It has also been argued that
+belief and desire are conceptually interdependent (Miller 2008). More
+importantly, even if it can be shown that the concept of belief is
+primary to that of desire, and of the other propositional attitudes,
+the question arises whether indeed one could not grasp the concept of
+content without grasping that of belief.
+Prima facie
+,
+grasping the concept of a propositional attitude such as belief is
+rather distinct from grasping the concept of content, since it
+involves the idea of taking up an attitude towards
+ content.
+[
+52
+]
+Moreover, Boghossian is committed to the strong claim that opponents
+of content normativity fail to grasp the concept of content (or,
+alternatively, that they operate with a different concept).
+An alternative strategy would be to avoid the appeal to conceptual
+entailments and argue that there is a metaphysical connection between
+mental content and belief such that if belief is essentially
+normative, content is. Such an argument may be more or less direct,
+going via more or less contentious assumptions about mental
+ content.
+[
+53
+]
+For instance, versions of conceptual role semantics imply that there
+is an essential link between mental content and belief as do versions
+of informational theories of content (Dretske 1981; Fodor 1990),
+although the latter are typically coupled with a non-normativist
+account of belief. Another line of reasoning appeals to the idea that
+there is a constitutive connection between grasping a concept,
+understanding a content, and using it in the propositional
+attitudes.
+3.1.2 Use in Keeping with Content
+To possess a concept, it is sometimes suggested, is to have the
+capacity to use the concept in various propositional attitudes. Since
+it is essential to the propositional attitudes that they stand in
+certain rational interconnections with one another, it is argued, this
+essential normativity transfers to concepts and contents. Possessing a
+concept, grasping it, incurs a commitment to use the concept “in
+keeping with its content”, in the various propositional
+attitudes. If the speaker fails to do so, she has
+misused
+the
+concept in question (Millar 2004; McDowell & Pettit 1986; Gibbard
+2012: chapter 6).
+This argument runs parallel to the argument from understanding in
+support of ME normativity
+ (
+section 2.1.2
+).
+ Even if that argument is accepted, however, the question arises
+whether it can be applied to concepts and content, since the notion of
+failing to use a concept in “keeping with its content”
+appears more problematic than the notion of failing to use a word in
+accordance with its meaning (McGinn 1984: 146–147; Millar 2004:
+180–181). It is relatively unproblematic to speak of
+understanding the meaning of an expression (or misunderstanding it),
+but in the case of concepts there is nothing corresponding to the
+expression. To “understand” a concept is simply to possess
+it, to use it in thoughts. Hence there seems to be little or no room
+for the idea that \(S\) misunderstands a concept either. If \(S\)
+reasons as if she possesses the concept
+ancient
+rather than
+the concept
+arcane
+, it would seem to follow not that there is
+any misuse of concepts but that she has another concept.
+One strategy is to distinguish between possession conditions and
+attribution conditions (Peacocke 1992: 27–33). This separates
+the conditions that determine \(S\)’s concepts from conditions
+for the attribution of the concept to \(S\). As a consequence, there
+is a potential gap between how \(S\) uses the concept, her grasp of
+it, and how it should be used if she were to use it in keeping with
+its content. To illustrate the distinction, it is common to appeal to
+Tyler Burge’s discussion of how social factors, under certain
+conditions, serve to determine content (Burge 1979; Peacocke 1992: 29;
+Millar 2004: 181–188). Burge gives an account of concept
+attribution that goes via word meaning. To be attributed the concept
+arcane
+, on this view, it suffices that \(S\) uses the
+expression “arcane” by and large correctly, “in
+keeping with its content”—if she is committed to her
+community practice of using the corresponding expression
+“arcane”. What determines her concept, thus, is not merely
+facts about her use and dispositions to stand corrected, but facts
+about the use of the term in the wider practice. It follows that
+speakers typically have an incomplete grasp of the concepts they think
+with and, as a result, tend to misuse these concepts.
+Leaving aside the controversial question of whether we can separate
+possession conditions of concepts from attribution conditions, it
+might be asked whether Burge’s social externalism can be
+employed to support CE normativity. Burge’s argument depends on
+the (empirical) assumption that the individual is committed to the
+community practice (Burge 1979: 94–95, 101–102; Millar
+2004: 182). But if the normativity in question is made conditional on
+the individual’s commitment to the community, it does not follow
+that content is essentially normative. After all, an individual who is
+not thus committed would still have concepts. (Equally, in the case of
+the experts, the suggested normative dimension would seem to drop
+out.) What would be required, rather, is an argument to the effect
+that the concept expressed is necessarily determined by the community
+practice, independently of \(S\)‘s commitments.
+Arguments from concept grasp, again, typically appeal to the idea that
+there are rationality constraints on concept attributions. As noted in
+the discussion of ME normativity, the question has been raised whether
+the idea that there are such constraints coheres with normativism. It
+has been suggested that this question is particularly pressing in the
+case of content. When it comes to meaning, there is the option of
+attributing meaning errors and explaining the error by appealing to
+the subject’s mistaken
+conception
+of the meaning of an
+expression, thereby rationalizing her reasoning and actions. In the
+case of concepts, this option is not available, since the error is
+said to occur at the level of content. It would either have to be
+argued that the error can be rationalized some other way, or the claim
+that there are rationality constraints on content attributions would
+have to be rejected (see Brown 2004, Wikforss 2015 and 2017).
+3.2 Content Determining Normativity
+Like MD normativism, CD normativism is a foundational claim:
+Intentional content is (at least partially) metaphysically determined
+by rules or norms, content facts are, if you will, (at least
+partially) “grounded” by normative facts. Since the
+relevant norms or rules govern intentional mental states, the CD
+normativist typically tries to find a particular kind of state
+plausibly subject to rules or norms that by the same token (at least
+partially) determine contents for states of this kind. As truth and
+inference are intimately connected with both content and belief, the
+debate focuses on norms for
+belief
+.
+Besides
+truth
+norms like
+(\(\NB_1)\)
+and \((\NB_2)\) above, two further kinds of candidate norms of belief
+have been discussed:
+knowledge
+norms, and norms of
+rationality, justification, or
+ inference
+.
+[
+54
+]
+CD normativism then is the claim that beliefs cannot have content
+unless rules or norms of at least one of these kinds are in force for
+them. Strong versions of CD normativism hold that CD norms also
+determine which contents beliefs have. And again, being in force can
+roughly be interpreted in three ways: As requiring the subject to
+follow
+the relevant rule or norm \(R\), to
+accept
+\(R\)
+in a sense not requiring (general) following, or as
+independent of the subject’s attitudes and intentional states
+towards \(R\) (see above,
+section 2.2.1
+).
+As in the case of meaning, CD normativism most often is a form of
+guidance normativism
+construing belief formation as an
+essentially rule-guided activity. Those inspired by pragmatism and/or
+Wittgensteinian anti-platonism might also think of the relevant rules
+as “of our own making” (Baker & Hacker 1985; Brandom
+1994). A fairly common idea is that believers follow basic, objective
+norms such as truth or knowledge norms
+by means of
+being
+guided by subjective ones such as the rules of rationality (Boghossian
+2003), but others take subjective rules as
+ basic,
+[
+55
+]
+or argue that the nature of belief is given by subjective and
+objective norms in combination (Wedgwood 2007: 162).
+Unsurprisingly, norms or rules for (rational)
+reasoning
+receive a lot of attention. Prime examples are inference rules such as
+modus ponens
+or the law of non-contradiction. Purely formal
+rules would arguably be too weak for the purposes of strong CD
+normativism; normative inferentialists such as Brandom (1994; 2000) or
+Peregrin (2008) therefore include norms governing material implication
+among the content determining rules. In general, principles governing
+epistemic rationality (as, for instance, formalized in Bayesian
+epistemology) are further examples, and for those who hold that there
+can be good practical reasons for belief, principles of practical
+reasoning are also
+ relevant.
+[
+56
+]
+As we have already seen in
+section 2.2
+above, regress worries arise if CD normativism takes the form of
+guidance normativism. Here, a pragmatic conception of rule guidance
+such as Brandom’s normative version of inferentialism (Brandom
+1994) might help. To avoid regresses, Brandom takes norms implicitly
+“instituted” by our practices to be basic and proposes a
+pragmatic phenomenalism
+about such norms. Objective
+“deontic statuses” are to be explained in terms of our
+normative attitudes. Something’s
+being correct
+, that
+is, is to be explained in terms of the attitude of
+taking it to be
+correct
+, making the norms in question “in some sense
+creatures of ours” (1994: 626); yet, the goal is to secure and
+explain the “objectivity of concepts” (1994:
+ xvii).
+[
+57
+]
+As attitudes of taking something to be correct can themselves be
+correct or incorrect,
+being correct
+ultimately has to be
+explained in terms of
+being correctly taken to be correct
+. In
+this sense, the normativity is irreducible—it is “norms
+all the way down” (1994: 44; 625).
+Questions that have been raised for pragmatic phenomenalism include
+whether it in fact can account for contents the truth of which is
+independent of our attitudes. Because it explains normative statuses
+by means of further normative statuses, pragmatic phenomenalism might
+not be able to tell us anything informative about how we make or
+“institute” the basic norms implicit in our practices (cf.
+Rosen 2001, Hattiangadi 2003) or to account for the difference between
+instituting and merely being in accordance with a norm. Yet another
+regress worry has also been raised: if for any normative status to be
+instituted by an implicit norm a further normative status already
+needs to be so instituted, an infinite regress of (implicit) norms
+might ensue despite the pragmatist nature of the proposal (cf.
+Hattiangadi 2007: 197; Glüer & Wikforss 2009: 60ff). This
+regress might not be vicious if the project is interpreted as an
+expressivist one, however.
+Even if guidance normativism would inescapably lead to some form of
+regress, one might still hold on to the claim that there are
+contentful intentional states only if for instance the rules of
+rationality are in force for them. As we noted already in the previous
+version of this entry, such force might require acceptance, but not
+(general) guidance, or it might be completely independent of the
+attitudes of thinkers. Highlighting both these options, it has
+recently been argued that guidance normativism is unnecessarily
+demanding.
+For one thing, even if the relevant rules require some sort of
+acceptance to be in force, not every performance governed by them
+needs to actually be guided by them (cf. Hlobil 2015; Tracy 2020).
+Plausible as this might initially seem, especially when thinking along
+the lines of the game analogy, a general observation of this kind does
+not yet substantiate the claim that an account of constitutive
+rules’ being in force that implements this possibility would be
+applicable to CD rules or
+ norms.
+[
+58
+]
+Moreover, it should be noted that for CD rules or norms, making this
+move might not just amount to acknowledging that not every instance of
+belief formation has to be rule-guided. If the move is to stop an
+intentional condition on rule-following from giving rise to a regress,
+we might end up having to say that every instance of rule-guided
+belief formation
+requires
+the unguided formation of at least
+one other belief or intentional state. For every rule that is followed
+(on a particular occasion), that is, there is another that governs,
+but
+cannot guide
+, the formation of a further intentional
+state of the rule-follower (on that
+ occasion).
+[
+59
+]
+This is at least a surprising situation to end up in for a defender
+of the view that belief is essentially governed by rules that can
+guide belief
+ formation.
+[
+60
+]
+CD normativism might thus prove viable only if the force of the
+relevant rules or norms can plausibly be construed in complete
+independence of the attitudes of the thinkers.
+4. Concluding Remarks: Normativism and Naturalism
+The idea that the normative in some sense is not part of nature goes
+back at least to Kant (see, for instance,
+Critique of Pure
+Reason
+[1781 [A 547]]). Already Hume (in the
+Treatise
+[1739–1740]) argued against the metaethical naturalist that
+ought
+cannot be derived from
+is
+—to try to do
+so would be to commit a so-called “naturalistic fallacy”.
+With the “open question argument”, Moore (in
+Principia
+Ethica
+[1903]) added a weapon to the anti-naturalist’s
+arsenal also against giving naturalistic accounts of moral
+evaluations: According to the open question argument, there is no
+naturalistic (set of) concept(s) analytically equivalent to the moral
+concept of goodness, since no matter what naturalistic definition is
+given, the question whether all and only things satisfying it are good
+still makes sense. Much of recent normativism about meaning/content
+continues in this anti-naturalist tradition; many normativists about
+meaning/content hold that the essential normativity of meaning/content
+makes at least (fully) reductive naturalism untenable.
+Many have construed Kripke’s Wittgenstein as saying exactly
+that: it is part of his skeptical campaign against semantic facts in
+general that such facts cannot be reduced to whatever precisely is
+allowed in a naturalistic supervenience base for meaning/content. An
+argument for this could take a weaker, intensionalist, and a stronger,
+extensionalist, form (cf. Boghossian 1989a: 532ff). The stronger
+argument concludes that no reductive naturalist account of
+meaning/content will be extensionally correct: For any
+meaning/concept, such an account will either include objects in its
+extension that, intuitively, do not belong there, or exclude objects
+from its extension that, intuitively, do belong there, or both. As we
+saw above
+ (
+section 2.2.1
+),
+ this “problem of error” is a problem for many
+naturalistic accounts of meaning/content, but as such it does not yet
+have anything to do with normativity. To that, the normativist could
+respond that it is precisely because of their essential normativity
+that no naturalistic account of meaning/content can be extensionally
+correct. The weaker argument grants extensional correctness, but
+argues that no naturalistic reduction will get the intension of the
+notion of meaning/content right; it will inevitably miss the normative
+character of what is semantically correct, its deontic or axiologic
+characteristics.
+Despite the normativists’ argument, it seems fair to say that at
+this point in time, the case from normativism against reductive
+naturalism about meaning/content has not yet been fully made. To make
+their case, the semantic normativist could resort to adopting a
+metaethical approach: arguments in the tradition of Hume and Moore
+might well be adaptable to their case (cf. Miller 1998, 188ff;
+Hattiangadi 2007, 38ff; Gibbard 2012; Zalabardo 2012). As Hattiangadi
+argues, though, the semantic normativist’s case ends up being
+hostage to whatever controversial assumptions these arguments rely on
+(motivational internalism, for instance, might be such an issue), thus
+removing normativism further from being the pre-theoretical constraint
+on acceptable accounts of meaning/content that Kripke’s skeptic
+meant it to be. What’s more, one might worry that the topic of
+“reduction” is itself more nuanced than the normativist
+makes it to be. As we have seen in
+section 2.2
+,
+ it is still possible to argue that some (set of) dispositions might
+play a role in meaning-determination. Alternatively, it is possible to
+endorse partially reductive accounts construing meaning/content as
+determined by a dispositional and a non-semantic, but normative,
+component.
+Furthermore, even if normativism about meaning/content might exclude
+(fully) reductive naturalism about meaning/content, it should be noted
+that adopting normativism would not seem to be the only option for the
+anti-reductivist (cf. Mulligan 1999: 136f; Glüer & Wikforss
+2009: 63ff). What the normativist construes as norms or rules of
+meaning/content, principles such as
+(CM)
+or inferential rules such as modus ponens, might also be construed in
+a very different way: As, or in analogy with what Frege called
+“laws of truth” (Frege 1918 [1986: 30]). In the same vein,
+Husserl called the “laws of logic” “ideal”
+(Husserl 1913: 56)). These “laws” are neither
+prescriptions for thinking, nor nomological generalities of our
+psychology. Their “validity” or necessity is
+sui
+generis
+; if anything, it is what we might today call
+ metaphysical.
+[
+61
+]
+Bibliography
+Alston, William P., 1988, “The Deontological Conception of
+Epistemic Justification”,
+Philosophical Perspectives
+,
+2: 257–294. doi:10.2307/2214077
+–––, 2000,
+Illocutionary Acts and Sentence
+Meaning
+, Ithaca, NY: Cornell University Press.
+Baker, Gordon P. and P. M. S. Hacker, 1985,
+Wittgenstein:
+Rules, Grammar, and Necessity
+(Analytical Commentary on the
+Philosophical Investigations 2), Oxford/New York: B. Blackwell.
+Basu, Rima, 2018, “Can Beliefs Wrong?”
+Philosophical Topics
+, 46(1): 1–17.
+doi:10.5840/philtopics20184611
+Bergamaschi Ganapini, Marianna, 2021, “Against Normativism
+about Mental Attitudes”,
+Analytic Philosophy
+, 62(3):
+295–311. doi:10.1111/phib.12243
+–––, forthcoming, “No Epistemic Norm or
+Aim Needed”,
+Episteme
+, first online: 10 September 2020.
+doi:10.1017/epi.2020.30
+Bilgrami, Akeel, 1992,
+Belief and Meaning: The Unity and
+Locality of Mental Content
+, Oxford/Cambridge, MA: Blackwell.
+–––, 1993, “Norms and Meanings”, in
+Reflecting Davidson: Donald Davidson Responding to an
+International Forum of Philosophers
+, Ralf Stoecker (ed.),
+Berlin/New York: W. de Gruyter, 121–144.
+Blackburn, Simon, 1984, “The Individual Strikes Back”,
+Synthese
+, 58(3): 281–301. doi:10.1007/BF00485244
+Boghossian, Paul A., 1989a, “The Rule-Following
+Considerations”,
+Mind
+, 98(392): 507–549.
+doi:10.1093/mind/XCVIII.392.507
+–––, 1989b, “Review of
+Wittgenstein on
+Meaning
+, by Colin McGinn”,
+The Philosophical
+Review
+, 98(1): 83–92. doi:10.2307/2185372
+–––, 2003, “The Normativity of
+Content”,
+Philosophical Issues
+, 13(1): 31–45.
+doi:10.1111/1533-6077.00003
+–––, 2005, “Rules, Meaning, and Intention:
+Discussion”,
+Philosophical Studies
+, 124:
+185–197.
+–––, 2008, “Epistemic Rules”,
+Journal of Philosophy
+, 105(9): 472–500.
+doi:10.5840/jphil2008105929
+Booth, Anthony Robert, 2017, “Belief Is Contingently
+Involuntary”,
+Ratio
+, 30(2): 107–121.
+doi:10.1111/rati.12126
+Brandom, Robert, 1994,
+Making It Explicit: Reasoning,
+Representing, and Discursive Commitment
+, Cambridge, MA: Harvard
+University Press.
+–––, 2000,
+Articulating Reasons: An
+Introduction to Inferentialism
+, Cambridge, MA: Harvard University
+Press.
+Brennan, Geoffrey, Lina Eriksson, Robert E. Goodin, and Nicholas
+Southwood, 2013,
+Explaining Norms
+, Oxford: Oxford University
+Press. doi:10.1093/acprof:oso/9780199654680.001.0001
+Broome, John, 2007, “Is Rationality Normative?”,
+Disputatio
+, 2(23): 161–178.
+doi:10.2478/disp-2007-0008
+Brown, Jessica, 2004,
+Anti-Individualism and Knowledge
+,
+(Contemporary Philosophical Monographs 4), Cambridge, MA: MIT
+Press.
+Buleandra, Andrei, 2008, “Normativity and Correctness: A
+Reply to Hattiangadi”,
+Acta Analytica
+, 23(2):
+177–186. doi:10.1007/s12136-008-0028-y
+Burge, Tyler, 1979, “Individualism and the Mental”,
+Midwest Studies in Philosophy
+, 4: 73–121.
+doi:10.1111/j.1475-4975.1979.tb00374.x
+–––, 1986, “Intellectual Norms and
+Foundations of Mind”,
+The Journal of Philosophy
+,
+83(12): 697–720. doi:10.2307/2026694
+Bykvist, Krister and Anandi Hattiangadi, 2007, “Does Thought
+Imply Ought?”,
+Analysis
+, 67(4): 277–285.
+doi:10.1093/analys/67.4.277
+–––, 2013, “Belief, Truth, and
+Blindspots”, in Chan 2013: 100–122.
+doi:10.1093/acprof:oso/9780199672134.003.0006
+Byrne, Alex, 2002, “Semantic Values?”,
+Philosophy
+and Phenomenological Research
+, 65(1): 201–207.
+doi:10.1111/j.1933-1592.2002.tb00196.x
+–––, 2005, “Perception and Conceptual
+Content”, in
+Contemporary Debates in Epistemology
+,
+first edition, Matthias Steup and Ernest Sosa (eds.), Oxford:
+Blackwell, 231–250.
+Carroll, Lewis, 1895, “What the Tortoise Said to
+Achilles”,
+Mind
+, 4(14): 278–280. Reprinted, 1995,
+Mind
+, 104(416): 691–693. doi:10.1093/mind/IV.14.278
+doi:10.1093/mind/104.416.691
+Chan, Timothy (ed.), 2013,
+The Aim of Belief
+, Oxford:
+Oxford University Press.
+doi:10.1093/acprof:oso/9780199672134.001.0001
+Chrisman, Matthew, 2008, “Ought to Believe”:,
+Journal of Philosophy
+, 105(7): 346–370.
+doi:10.5840/jphil2008105736
+Coates, Paul, 1986, “Kripke’s Sceptical Paradox:
+Normativeness and Meaning”,
+Mind
+, 95(377): 77–80.
+doi:10.1093/mind/XCV.377.77
+Côté-Bouchard, Charles, 2019,
+“‘Ought’ Implies ‘Can’ against Epistemic
+Deontologism: Beyond Doxastic Involuntarism”,
+Synthese
+,
+196(4): 1641–1656. doi:10.1007/s11229-017-1531-8
+Dancy, Jonathan (ed.), 2000,
+Normativity
+, Oxford/Malden,
+MA: Blackwell Publishers.
+Davidson, Donald, 1970, “Mental Events”, in
+Experience and Theory
+, Lawrence Foster and Joe William
+Swanson (eds.), London, England: Humanities Press, 79–101.
+Reprinted in Davidson’s
+Essays on Actions and Events
+,
+Oxford: Clarendon Press, 207–224.
+–––, 1973 [1984], “Radical
+Interpretation”,
+Dialectica
+, 27(3–4):
+313–328. Reprinted in Davidson 1984b: 125–139.
+doi:10.1111/j.1746-8361.1973.tb00623.x
+–––, 1974 [1984], “Belief and the Basis of
+Meaning”,
+Synthese
+, 27(3–4): 309–323.
+Reprinted in Davidson 1984b: 141–154.
+doi:10.1007/BF00484597
+–––, 1984a, “Communication and
+Convention”,
+Synthese
+, 59(1): 3–17. Reprinted in
+Davidson 1984b: 265–280. doi:10.1007/BF00873278
+–––, 1984b,
+Inquiries into Truth and
+Interpretation
+, Oxford: Clarendon Press.
+–––, 1986a [2001], “A Coherence Theory of
+Truth and Knowledge”, in LePore 1986: 306–319. Reprinted
+in Davidson 2001b: 137–153.
+–––, 1986b [2005], “A Nice Derangement of
+Epitaphs”, in Lepore 1986: 433–446. Reprinted in Davidson
+2005: 89–107.
+–––, 1991, “Three Varieties of
+Knowledge”,
+Royal Institute of Philosophy Supplement
+,
+30: 153–166. Reprinted in Davidson 2001b: 205–220.
+doi:10.1017/S1358246100007748
+–––, 1994 [2005], “The Social Aspect of
+Language”, in
+The Philosophy of Michael Dummett
+, Brian
+McGuinness and Gianluigi Oliveri (eds.), Dordrecht: Springer
+Netherlands, 1–16. Reprinted in Davidson 2005: 109–125.
+doi:10.1007/978-94-015-8336-7_1
+–––, 2001a, “Comments on Karlovy Vary
+Papers”, in Kot̓átko, Pagin, and Segal 2001: chap.
+15.
+–––, 2001b,
+Subjective, Intersubjective,
+Objective
+, (Philosophical Essays 3), Oxford: Clarendon Press.
+doi:10.1093/0198237537.001.0001
+–––, 2005,
+Truth, Language and History
+,
+(Philosophical Essays 5), Oxford: Clarendon Press.
+doi:10.1093/019823757X.001.0001
+Dretske, Fred I., 1981,
+Knowledge and the Flow of
+Information
+, Cambridge, MA: MIT Press.
+–––, 1986 [1993],
+“Misrepresentation”, in
+Belief: Form, Content, and
+Function
+, Radu J. Bogdan (ed.), Oxford: Oxford University Press,
+17–36. Reprinted in
+Readings in Philosophy and Cognitive
+Science
+, Alvin I. Goldman (ed.), Cambridge, MA: MIT Press, 1993,
+297–314.
+–––, 2000, “Norms, History, and the
+Constitution of the Mental”, in his
+Perception, Knowledge,
+and Belief: Selected Essays
+, (Cambridge Studies in Philosophy),
+Cambridge/New York: Cambridge University Press, 242–258.
+doi:10.1017/CBO9780511625312
+Dummett, Michael A. E., 1959 [1978], “Wittgenstein’s
+Philosophy of Mathematics”,
+The Philosophical Review
+,
+68(3): 324–348. Reprinted in his
+Truth and Other
+Enigmas
+, Cambridge, MA: Harvard University Press, 166–185.
+doi:10.2307/2182566
+–––, 1986, “‘A Nice Derangement of
+Epitaphs’: Some Comments on Davidson and Hacking”, in
+LePore 1986: 459–476.
+–––, 1991,
+The Logical Basis of
+Metaphysics
+, (William James Lectures 1976), Cambridge, MA:
+Harvard University Press.
+Ebbs, Gary, 1997,
+Rule-Following and Realism
+, Cambridge,
+MA: Harvard University Press.
+Engel, Pascal, 2000, “Wherein Lies the Normative Dimension
+in Meaning and Mental Content?”,
+Philosophical Studies
+,
+100(3): 305–321. doi:10.1023/A:1018680726427
+–––, 2001, “Is Truth a Norm?”, in
+Kot̓átko, Pagin, and Segal 2001: chap. 3.
+–––, 2007, “Belief and Normativity”,
+Disputatio
+, 2(23): 179–203.
+doi:10.2478/disp-2007-0009
+–––, 2013, “In Defence of Normativism
+about the Aim of Belief”, in Chan 2013: 32–63.
+doi:10.1093/acprof:oso/9780199672134.003.0003
+Fassio, Davide, 2016, “A Problem for Deontic Doxastic
+Constitutivism”,
+Philosophical Papers
+, 45(3):
+343–364. doi:10.1080/05568641.2016.1245826
+Feldman, Richard, 2001, “Voluntary Belief and Epistemic
+Evaluation”, in
+Knowledge, Truth, and Duty: Essays on
+Epistemic Justification, Responsibility, and Virtue
+, Matthias
+Steup (ed.), New York: Oxford University Press, chap. 5.
+Fennell, John, 2013, “The Meaning of ‘Meaning Is
+Normative’”,
+Philosophical Investigations
+, 36(1):
+56–78. doi:10.1111/j.1467-9205.2011.01461.x
+Fodor, Jerry A., 1990, “A Theory of Content”, in his
+A Theory of Content and Other Essays
+, Cambridge, MA: MIT
+Press, 51–136.
+Frege, Gottlob, 1918 [1986], “Der Gedanke. Eine Logische
+Untersuchung”,
+Beiträge zur Philosophie des deutschen
+Idealismus
+, 1: 58–77. Collected in his
+Logische
+Untersuchungen
+. Page numbers are to the latter’s 1986
+edition, G. Patzig, Göttingen: Vandenhoeck & Ruprecht,
+30–53.
+Gampel, E. H., 1997, “The Normativity of Meaning”,
+Philosophical Studies
+, 86(3): 221–242.
+doi:10.1023/A:1017967412131
+García-Carpintero, Manuel, 2012, “Foundational
+Semantics II: Normative Accounts”,
+Philosophy Compass
+,
+7(6): 410–421. doi:10.1111/j.1747-9991.2012.00485.x
+–––, 2021, “Metasemantics: A Normative
+Perspective (and the Case of Mood)”, in Stalmaszczyk 2021:
+401–418. doi:10.1017/9781108698283.023
+–––, 2022, “How to Understand
+Rule-Constituted Kinds”,
+Review of Philosophy and
+Psychology
+, 13(1): 7–27.
+doi:10.1007/s13164-021-00576-z
+Gauker, Christopher, 2007, “The Circle of Deference Proves
+the Normativity of Semantics”,
+Rivista Di Estetica
+,
+34(Essays in honor of Diego Marconi): 181–198.
+doi:10.4000/estetica.3943
+–––, 2011,
+Words and Images: An Essay on the
+Origin of Ideas
+, Oxford/New York: Oxford University Press.
+doi:10.1093/acprof:oso/9780199599462.001.0001
+Gibbard, Allan, 1994, “Meaning and Normativity”,
+Philosophical Issues
+, 5: 95–115.
+doi:10.2307/1522875
+–––, 1996, “Review Essays: Thought, Norms,
+and Discursive Practice: Commentary on Robert Brandom,
+Making It
+Explicit
+”,
+Philosophy and Phenomenological
+Research
+, 56(3): 699–717. doi:10.2307/2108397
+–––, 2003, “Thoughts and Norms”,
+Philosophical Issues
+, 13: 83–98.
+doi:10.1111/1533-6077.00006
+–––, 2005, “Truth and Correct
+Belief”,
+Philosophical Issues
+, 15: 338–350.
+doi:10.1111/j.1533-6077.2005.00070.x
+–––, 2012,
+Meaning and Normativity
+,
+Oxford: Oxford University Press.
+Ginsborg, Hannah, 2011a, “Primitive Normativity and
+Skepticism about Rules”,
+Journal of Philosophy
+, 108(5):
+227–254. doi:10.5840/jphil2011108518
+–––, 2011b, “Inside and Outside Language:
+Stroud’s Nonreductionism about Meaning”, in
+The
+Possibility of Philosophical Understanding
+, Oxford/New York:
+Oxford University Press, 147–181.
+doi:10.1093/acprof:oso/9780195381658.003.0008
+–––, 2012, “Meaning, Understanding and
+Normativity”,
+Aristotelian Society Supplementary
+Volume
+, 86: 127–146.
+doi:10.1111/j.1467-8349.2012.00211.x
+–––, 2018a, “Leaps in the Dark:
+Epistemological Skepticism in Kripke’s Wittgenstein”, in
+Skepticism: Historical and Contemporary Inquiries
+, G. Anthony
+Bruno and A. C. Rutherford (eds.), London/New York: Routledge, chap.
+7.
+–––, 2018b, “Normativity and
+Concepts”, in Star 2018: 989–1014.
+–––, 2020, “Wittgenstein on Going
+On”,
+Canadian Journal of Philosophy
+, 50(1): 1–17.
+doi:10.1017/can.2019.48
+–––, forthcoming, “Going on as One Ought:
+Kripke and Wittgenstein on the Normativity of Meaning”,
+Mind
+& Language
+, first online: 8 March 2021.
+doi:10.1111/mila.12342
+Glock, Hans-Johann, 1996a,
+A Wittgenstein Dictionary
+,
+(Blackwell Philosopher Dictionaries), Cambridge, MA: Blackwell.
+–––, 1996b, “Necessity and
+Normativity”, in
+The Cambridge Companion to
+Wittgenstein
+, Hans D. Sluga and David G. Stern (eds.), Cambridge:
+Cambridge University Press, 198–225.
+doi:10.1017/CCOL0521460255.007
+–––, 2000, “Wie kam die Bedeutung zur
+Regel?”,
+Deutsche Zeitschrift für Philosophie
+,
+48(3): 429–447.
+–––, 2015, “Meaning and Rule
+Following”, in
+International Encyclopedia of the Social
+& Behavioral Sciences
+, James D. Wright (ed.), second edition,
+Amsterdam: Elsevier, 841–849.
+doi:10.1016/B978-0-08-097086-8.63049-0
+–––, 2019, “The Normativity of Meaning
+Revisited”, in
+The Normative Animal? On the Anthropological
+Significance of Social, Moral, and Linguistic Norms
+, Neil
+Roughley and Kurt Bayertz (eds.), Oxford: Oxford University Press,
+295–318. doi:10.1093/oso/9780190846466.003.0015
+Glüer, Kathrin, 1999a,
+Sprache und Regeln: Zur
+Normativität von Bedeutung
+, Berlin: Akademie Verlag.
+–––, 1999b, “Sense and
+Prescriptivity”,
+Acta Analytica
+, 14(23):
+111–128.
+–––, 2000, “Bedeutung zwischen Norm und
+Naturgesetz”,
+Deutsche Zeitschrift für
+Philosophie
+, 48(3): 449–468.
+doi:10.1524/dzph.2000.48.3.449
+–––, 2001, “Dreams and Nightmares:
+Conventions, Norms, and Meaning in Davidson’s Philosophy of
+Language”, in Kot̓átko, Pagin, and Segal 2001:
+53–74.
+–––, 2002, “Explizites und implizites
+Regelfolgen”, in
+Institutionen und Regelfolgen
+, Ulrich
+Baltzer and Gerhard Schönrich (eds), Paderborn: mentis,
+157–175.
+–––, 2011,
+Donald Davidson: A Short
+Introduction
+, New York: Oxford University Press. Based on her
+shorter and earlier
+Donald Davidson zur Einführung
+,
+Hamburg: Junius Verlag, 1993.
+doi:10.1093/acprof:osobl/9780195382976.001.0001
+–––, 2013, “Convention and Meaning”,
+in
+A Companion to Donald Davidson
+, Ernie Lepore and Kirk
+Ludwig (eds.), Oxford, UK: John Wiley & Sons, 339–360.
+doi:10.1002/9781118328408.ch20
+–––, 2018, “Interpretation and the
+Interpreter: On the Role of the Interpreter in Davidsonian
+Foundational Semantics”, in
+The Science of Meaning: Essays
+on the Metatheory of Natural Language Semantics
+, Derek Ball and
+Brian Rabern (eds.), Oxford: Oxford University Press,
+226–252.
+Glüer, Kathrin and Peter Pagin, 1998, “Rules of Meaning
+and Practical Reasoning”,
+Synthese
+, 117(2):
+207–227. doi:10.1023/A:1005162503125
+Glüer, Kathrin and Åsa Wikforss, 2009, “Against
+Content Normativity”,
+Mind
+, 118(469): 31–70.
+doi:10.1093/mind/fzn154
+–––, 2010a, “Es Braucht die Regel nicht:
+Wittgenstein on Rules and Meaning”, in
+The Later
+Wittgenstein on Language
+, Daniel Whiting (ed.), Basingstoke:
+Palgrave-Macmillan, 148–166.
+–––, 2010b, “The Truth Norm and Guidance:
+A Reply to Steglich-Petersen”,
+Mind
+, 119(475):
+757–761. doi:10.1093/mind/fzq061
+–––, 2013a, “Against Belief
+Normativity”, in Chan 2013: 80–99.
+doi:10.1093/acprof:oso/9780199672134.003.0005
+–––, 2013b, “Aiming at Truth: On The Role
+of Belief”,
+teorema: Revista Internacional de
+Filosofía
+, 32(3): 137–162.
+–––, 2015a, “Meaning Normativism: Against
+the Simple Argument”,
+Organon F
+, 22(supplement):
+63–73.
+ [
+Glüer and Wikforss 2015a available online
+]
+–––, 2015b, “Still No Guidance: Reply to
+Steglich-Petersen: Still No Guidance”,
+Theoria
+, 81(3):
+272–279. doi:10.1111/theo.12057
+–––, 2018, “Reasons for Belief and
+Normativity”, in Star 2018: 575–599.
+Green, Derek, 2021, “Rules of Belief and the Normativity of
+Intentional Content”,
+Acta Analytica
+, 36(2):
+159–169. doi:10.1007/s12136-020-00436-y
+Greenberg, Alexander, 2020, “Should I Believe All the
+Truths?”,
+Synthese
+, 197(8): 3279–3303.
+doi:10.1007/s11229-018-1882-9
+Greenberg, Mark, 2005, “A New Map of Theories of Mental
+Content: Constitutive Accounts and Normative Theories 1”,
+Philosophical Issues
+, 15: 299–320.
+doi:10.1111/j.1533-6077.2005.00068.x
+–––, 2007, “Incomplete Understanding,
+Deference and The Content of Thought”,
+UCLA School of Law
+Working Paper Series. Public Law & Legal Theory Working
+Paper
+, No. 7-30: 1–75.
+Guardo, Andrea, 2014, “Semantic Dispositionalism and
+Non-Inferential Knowledge”,
+Philosophia
+, 42(3):
+749–759. doi:10.1007/s11406-014-9518-x
+Haddock, Adrian, 2012, “Meaning, Justification, and
+‘Primitive Normativity’”,
+Aristotelian Society
+Supplementary Volume
+, 86: 147–174.
+doi:10.1111/j.1467-8349.2012.00212.x
+Hale, Bob, 1997, “Rule-Following, Objectivity and
+Meaning”, in
+A Companion to the Philosophy of Language
+,
+Bob Hale and Crispin Wright (eds), Cambridge, MA: Blackwell,
+369–396.
+Hartmann, Nicolai, 1925,
+Ethik
+, Berlin-Leipzig: de
+Gruyter.
+Hattiangadi, Anandi, 2003, “Making It Implicit: Brandom on
+Rule Following”,
+Philosophy and Phenomenological
+Research
+, 66(2): 419–431.
+doi:10.1111/j.1933-1592.2003.tb00269.x
+–––, 2006, “Is Meaning Normative?”,
+Mind & Language
+, 21(2): 220–240.
+doi:10.1111/j.0268-1064.2006.00312.x
+–––, 2007,
+Oughts and Thoughts:
+Rule-Following and the Normativity of Content
+, Oxford: Clarendon
+Press. doi:10.1093/acprof:oso/9780199219025.001.0001
+–––, 2009a, “Some More Thoughts on
+Semantic Oughts: A Reply to Daniel Whiting”,
+Analysis
+,
+69(1): 54–63. doi:10.1093/analys/ann009
+–––, 2009b, “Semantic Normativity in
+Context”, in
+New Waves in Philosophy of Language
+, Sarah
+Sawyer (ed.), London: Palgrave Macmillan UK, 87–107.
+doi:10.1057/9780230248588_6
+–––, 2015, “The Limits of
+Expressivism”, in
+Meaning Without Representation: Essays on
+Truth, Expression, Normativity, and Naturalism
+, Steven Gross,
+Nicholas Tebben, and Michael Williams (eds.), Oxford: Oxford
+University Press, 224–242.
+doi:10.1093/acprof:oso/9780198722199.003.0011
+–––, 2018, “The Normativity of
+meaning
+and the Hard Problem of
+Intentionality”,
+Inquiry
+, 61(7): 742–754.
+doi:10.1080/0020174X.2018.1424524
+–––, 2019, “No, One Should Not Believe All
+Truths”,
+Inquiry
+, 62(9–10): 1091–1103.
+doi:10.1080/0020174X.2019.1610054
+Haugeland, John, 1998, “Truth and Rule-Following”, in
+his
+Having Thought: Essays in the Metaphysics of Mind
+,
+Cambridge, MA: Harvard University Press, 305–361.
+Hindriks, Frank, 2009, “Constitutive Rules, Language, and
+Ontology”,
+Erkenntnis
+, 71(2): 253–275.
+doi:10.1007/s10670-009-9178-6
+Hlobil, Ulf, 2015, “Anti-Normativism Evaluated”,
+International Journal of Philosophical Studies
+, 23(3):
+376–395. doi:10.1080/09672559.2015.1042398
+Hornsby, Jennifer, 1997,
+Simple Mindedness: In Defense of
+Naive Naturalism in the Philosophy of Mind
+, Cambridge, MA:
+Harvard University Press.
+Horwich, Paul, 1995, “Meaning, Use and Truth”,
+Mind
+, 104(414): 355–368.
+doi:10.1093/mind/104.414.355
+–––, 2013, “Belief-Truth Norms”, in
+Chan 2013: 17–31.
+doi:10.1093/acprof:oso/9780199672134.003.0002
+Hume, David, 1739–1740,
+A Treatise of Human Nature
+,
+London: John Noon.
+Hurley, S. L., 1998,
+Consciousness in Action
+, Cambridge,
+MA: Harvard University Press.
+Husserl, Edmund, 1913,
+Prolegomena zur reinen Logik, Logische
+Untersuchungen I
+, second edition, Tübingen: Max
+Niemeyer.
+Jackson, Frank, 2000, “Non-Cognitivism, Normativity,
+Belief”, in Dancy 2000: 100–115.
+Jacob, Pierre, 2005, “Is Meaning Intrinsically
+Normative?” in
+Philosophy—Science—Scientific
+Philosophy. Main Lectures and Colloquia of GAP.5, Fifth International
+Congress of the Society for Analytical Philosophy
+, Bielefeld,
+2003, C. Nimtz and A. Beckermann (eds), Paderborn: mentis,
+187–202.
+Jarvis, Benjamin W., 2012, “Norms of Intentionality: Norms
+That Don’t Guide”,
+Philosophical Studies
+, 157(1):
+1–25. doi:10.1007/s11098-010-9610-4
+Jones, Matthew, 2015, “The Normativity of Meaning: Guidance
+and Justification”,
+International Journal of Philosophical
+Studies
+, 23(3): 425–443.
+doi:10.1080/09672559.2015.1057194
+Kaluziński, Bartosz, 2016, “Assessment, Scorekeeping
+and the Normativity of Meaning: A Reply to Kiesselbach”,
+Acta Analytica
+, 31(1): 107–115.
+doi:10.1007/s12136-015-0264-x
+–––, 2018, “What Does It Mean That
+Constitutive Rules Are in Force?”,
+Argumenta
+, 4(1):
+111–123. doi:10.14275/2465-2334/20187.KAL
+–––, 2019, “Rules and Games”,
+Philosophia
+, 47(4): 1165–1176.
+doi:10.1007/s11406-018-0050-2
+Kant, Immanuel, 1781/1787,
+Critik Der Reinen Vernunft
+,
+Riga: Hartknoch. Second edition 1787. Citations are by page numbers of
+the original editions preceded by A for first edition and B for second
+edition. Translated as
+Critique of Pure Reason
+, Paul Guyer
+and Allen W. Wood (eds.), Cambridge: Cambridge University Press, 1988.
+doi:10.1017/CBO9780511804649
+Kaplan, Jeffrey, 2020, “The Problem with Descriptive
+Correctness”,
+Ratio
+, 33(2): 79–86.
+doi:10.1111/rati.12257
+Karlander, Karl, 2008, “The Normativity of Thought and
+Meaning”, Ph.D. thesis, Stockholm, Sweden: Stockholm University.
+ [
+Karlander 2008 available online
+]
+Kiesselbach, Matthias, 2014, “The Normativity of Meaning:
+From Constitutive Norms to Prescriptions”,
+Acta
+Analytica
+, 29(4): 427–440.
+doi:10.1007/s12136-014-0221-0
+–––, 2020, “On Being Bound to Linguistic
+Norms. Reply to Reinikainen and Kaluziński”,
+International Journal of Philosophical Studies
+, 28(4):
+527–540. doi:10.1080/09672559.2020.1782561
+Kolodny, Niko, 2005, “Why Be Rational?”,
+Mind
+, 114(455): 509–563. doi:10.1093/mind/fzi509
+Korsgaard, Christine M., 1996,
+The Sources of
+Normativity
+, Cambridge/New York: Cambridge University Press.
+doi:10.1017/CBO9780511554476
+Kot’átko, Petr, 1998, “Two Notions of Utterance
+Meaning”,
+Proceedings of the Aristotelian Society
+,
+98(3): 225–239. doi:10.1111/1467-9264.00035
+Kot̓átko, Petr, Peter Pagin, and Gabriel Segal (eds),
+2001,
+Interpreting Davidson
+, (CSLI Lecture Notes 129),
+Stanford, CA: CSLI Publications.
+Kriegel, Uriah, 2010, “Intentionality and
+Normativity”,
+Philosophical Issues
+, 20: 185–208.
+doi:10.1111/j.1533-6077.2010.00182.x
+Kripke, Saul A., 1982,
+Wittgenstein on Rules and Private
+Language
+, Cambridge MA: Harvard University Press.
+Kusch, Martin, 2006,
+A Sceptical Guide to Meaning and Rules:
+Defending Kripke’s Wittgenstein
+, Chesham: Acumen.
+Lance, Mark Norris and John O’Leary Hawthorne, 1997,
+The
+Grammar of Meaning: Normativity and Semantic Discourse
+,
+(Cambridge Studies in Philosophy), Cambridge/New York: Cambridge
+University Press. doi:10.1017/CBO9780511895838
+Leary, Stephanie, 2017, “In Defense of Practical Reasons for
+Belief”,
+Australasian Journal of Philosophy
+, 95(3):
+529–542. doi:10.1080/00048402.2016.1237532
+LePore, Ernest (ed.), 1986,
+Truth and Interpretation:
+Perspectives on the Philosophy of Donald Davidson
+, Oxford:
+Blackwell.
+Lewis, David K., 1969,
+Convention: A Philosophical Study
+,
+Cambridge: Harvard University Press.
+–––, 1975, “Languages and Language”,
+in
+Language, Mind, and Knowledge
+, Keith Gunderson (ed.),
+(Minnesota Studies in the Philosophy of Science 7), Minneapolis, MN:
+University of Minnesota Press, 3–35.
+Liebesman, David, 2018, “The Normativity of Meaning”,
+in Star 2018: 1015–1039.
+Maguire, Barry and Jack Woods, 2020, “The Game of
+Belief”,
+The Philosophical Review
+, 129(2):
+211–249. doi:10.1215/00318108-8012843
+Maitra, Ishani, 2011, “Assertion, Norms, and Games,”
+in
+Assertion: New Philosophical Essays
+, Jessica Brown and
+Herman Cappelen (eds), Oxford: Oxford Universiyt Press,
+277–296.
+Marušić, Berislav, 2011, “The Ethics of
+Belief”,
+Philosophy Compass
+, 6(1): 33–43.
+doi:10.1111/j.1747-9991.2010.00368.x
+McDowell, John, 1984, “Wittgenstein on Following a
+Rule”,
+Synthese
+, 58(3): 325–363.
+doi:10.1007/BF00485246
+–––, 1991, “Intentionality and Inferiority
+in Wittgenstein”, in
+Meaning Scepticism
+, Klaus Puhl
+(ed.), Berlin/Boston: De Gruyter, 148–169.
+doi:10.1515/9783110847123.148
+–––, 1992, “Meaning and Intentionality in
+Wittgenstein’s Later Philosophy”,
+Midwest Studies in
+Philosophy
+, 17: 40–52.
+doi:10.1111/j.1475-4975.1992.tb00141.x
+McDowell, John and Philip Pettit, 1986,
+“Introduction”, in
+Subject, Thought, and Context
+,
+Philip Pettit and John McDowell, Oxford: Clarendon Press,
+1–15.
+McGinn, Colin, 1984,
+Wittgenstein on Meaning: An
+Interpretation and Evaluation
+, Oxford/New York: B.
+Blackwell.
+McHugh, Conor, 2012, “The Truth Norm of Belief”,
+Pacific Philosophical Quarterly
+, 93(1), 8–30.
+–––, 2013, “Normativism and Doxastic
+Deliberation”,
+Analytic Philosophy
+, 54(4):
+447–465. doi:10.1111/phib.12030
+–––, 2014, “Exercising Doxastic
+Freedom”,
+Philosophy and Phenomenological Research
+,
+88(1): 1–37. doi:10.1111/j.1933-1592.2011.00531.x
+McHugh, Conor and Daniel Whiting, 2014, “The Normativity of
+Belief”,
+Analysis
+, 74(4): 698–713.
+doi:10.1093/analys/anu079
+Midgley, G. C. J., 1959, “Linguistic Rules”,
+Proceedings of the Aristotelian Society
+, 59(1):
+271–290. doi:10.1093/aristotelian/59.1.271
+Millar, Alan, 2002, “The Normativity of Meaning”, in
+Logic, Thought and Language
+, Anthony O’Hear (ed.),
+Cambridge/New York: Cambridge University Press, 57–74.
+doi:10.1017/CBO9780511550287.005
+–––, 2004,
+Understanding People: Normativity
+and Rationalizing Explanation
+, Oxford: Clarendon.
+doi:10.1093/acprof:oso/9780199254408.001.0001
+Miller, Alexander, 1998,
+Philosophy of Language
+,
+(Fundamentals of Philosophy), Montreal/Buffalo: McGill-Queen’s
+University Press.
+–––, 2008, “Thoughts, Oughts and the
+Conceptual Primacy of Belief”,
+Analysis
+, 68(3):
+234–238. doi:10.1093/analys/68.3.234
+–––, 2015, “Blind Rule-Following and the
+‘antinomy of Pure Reason”,
+The Philosophical
+Quarterly
+, 65(260): 396–416. doi:10.1093/pq/pqv023
+–––, 2019, “Rule-Following, Meaning, and
+Primitive Normativity”,
+Mind
+, 128(511): 735–760.
+doi:10.1093/mind/fzx033
+–––, 2021, “The Normativity of Meaning and
+Content”, in Stalmaszczyk 2021: 419–433.
+doi:10.1017/9781108698283.024
+Millikan, Ruth Garrett, 1990, “Truth Rules, Hoverflies, and
+the Kripke-Wittgenstein Paradox”,
+The Philosophical
+Review
+, 99(3): 323–353. doi:10.2307/2185347
+Moore, G. E., 1903,
+Principia Ethica
+, Cambridge:
+Cambridge University Press.
+–––, 1922,
+Philosophical Studies
+,
+London: Routledge and Kegan Paul.
+–––, 1954/1955, “Wittgenstein’s
+Lectures in 1930–33”,
+Mind
+, 63(249): 1–15,
+63(251): 289–316, 64(253): 1–27,.
+doi:10.1093/mind/LXIII.249.1 doi:10.1093/mind/LXIII.251.289.
+doi:10.1093/mind/LXIV.253.1.
+Mulligan, Kevin, 1999, “Justification, Rule-Breaking and the
+Mind”,
+Proceedings of the Aristotelian Society
+, 99(2):
+123–139. doi:10.1111/1467-9264.00051
+Neander, Karen, 1995, “Misrepresenting &
+Malfunctioning”,
+Philosophical Studies
+, 79(2):
+109–141. doi:10.1007/BF00989706
+Nolfi, Kate, 2015, “How to Be a Normativist about the Nature
+of Belief”,
+Pacific Philosophical Quarterly
+, 96(2):
+181–204. doi:10.1111/papq.12071
+Noordhof, Paul, 2001, “Believe What You Want”,
+Proceedings of the Aristotelian Society
+, 101(1):
+247–265. doi:10.1111/j.0066-7372.2003.00030.x
+Owens, David John, 2003, “Does Belief Have an Aim?”,
+Philosophical Studies
+, 115(3): 283–305.
+doi:10.1023/A:1025157101089
+Pagin, Peter, 1987, “Ideas for a Theory of Rules”,
+PhD, Stockholms universitet.
+ [
+Pagin 1987 available online
+]
+–––, 1997, “Is Compositionality Compatible
+with Holism?”,
+Mind & Language
+, 12(1): 11–33.
+doi:10.1111/j.1468-0017.1997.tb00060.x
+–––, 2002, “Rule-Following,
+Compositionality and the Normativity of Meaning”, in
+Meaning
+and Interpretation
+, Dag Prawitz (ed.), Stockholm: Almqvist &
+Wiksell, 153–181.
+Papineau, David, 2013, “There Are No Norms of Belief”,
+in Chan 2013: 64–79.
+doi:10.1093/acprof:oso/9780199672134.003.0004
+Papineau, David and Julia Tanney, 1999, “Normativity and
+Judgement”,
+Aristotelian Society Supplementary Volume
+,
+73: 17–43; 45–61.
+Peacocke, Christopher, 1981, “Rule-Following: The Nature of
+Wittgenstein’s Arguments”, in
+Wittgenstein: To Follow
+a Rule
+, Steven H. Holtzman and Christopher M. Leich (eds.),
+London: Routledge, 72–95.
+–––, 1992,
+A Study of Concepts
+,
+Cambridge, MA: MIT Press.
+Peregrin, Jaroslav, 2008, “An Inferentialist Approach to
+Semantics: Time for a New Kind of Structuralism?”,
+Philosophy Compass
+, 3(6): 1208–1223.
+doi:10.1111/j.1747-9991.2008.00179.x
+–––, 2012, “Inferentialism and the
+Normativity of Meaning”,
+Philosophia
+, 40(1):
+75–97. doi:10.1007/s11406-010-9271-8
+Quine, W. V.O., 1935 [1976], “Truth by Convention”, in
+Philosophical Essays for Alfred North Whitehead
+, London:
+Longmans, Green & Co., 90–124; reprinted in his
+The Ways
+of Paradox and Other Essays
+, revised and enlarged edition,
+Cambridge MA: Harvard University Press, 1976, 77–106 (page
+references to the reprint).
+Railton, Peter, 2000, “Normative Force and Normative
+Freedom: Hume and Kant”, in Dancy 2000: 1–33.
+Ransdell, Joseph, 1971, “Constitutive Rules and Speech-Act
+Analysis”,
+The Journal of Philosophy
+, 68(13):
+385–400. doi:10.2307/2025037
+Rawls, John, 1955, “Two Concepts of Rules”,
+The
+Philosophical Review
+, 64(1): 3–32. doi:10.2307/2182230
+Reiland, Indrek, 2020, “Constitutive Rules: Games, Language,
+and Assertion”,
+Philosophy and Phenomenological
+Research
+, 100(1): 136–159. doi:10.1111/phpr.12525
+–––, forthcominga, “Linguistic
+Mistakes”,
+Erkenntnis
+, first online: 16 September 2021.
+doi:10.1007/s10670-021-00449-y
+–––, forthcomingb, “Rules of Use”,
+Mind & Language
+, first online: 11 March 2022.
+doi:10.1111/mila.12404
+Rinard, Susanna, 2019, “Equal Treatment for Belief”,
+Philosophical Studies
+, 176(7): 1923–1950.
+doi:10.1007/s11098-018-1104-9
+Reinikainen, Jaakko, 2020, “Meaning Still Not Normative: On
+Assessment and Guidance”,
+International Journal of
+Philosophical Studies
+, 28(4): 510–526.
+doi:10.1080/09672559.2020.1716824
+Reisner, Andrew, 2018, “Pragmatic Reasons for Belief”,
+in Star 2018: 705–728.
+Rödl, Sebastian, 2003, “Norm und Natur”,
+Deutsche Zeitschrift für Philosophie
+, 51(1):
+99–114. doi:10.1524/dzph.2003.51.1.99
+Rosen, Gideon, 1997, “Who Makes the Rules Around
+Here?”,
+Philosophy and Phenomenological Research
+,
+57(1): 163–171. doi:10.2307/2953786
+–––, 2001, “Brandom on Modality,
+Normativity and Intentionality”,
+Philosophy and
+Phenomenological Research
+, 63(3): 611–623.
+doi:10.1111/j.1933-1592.2001.tb00128.x
+Ross, W. D., 1930 [1987],
+The Right and the Good
+, Oxford:
+Clarendon Press. Pages 16–34 and 41–42 excerpted as
+“Prima Facie
+Duties
+”, in
+Moral Dilemmas
+,
+Christopher Gowans, Oxford: Oxford University Press, 1987,
+83–100.
+Schmidt, Sebastian, 2020, “Responsibility for Attitudes,
+Object-Given Reasons, and Blame”, in
+The Ethics of Belief
+and Beyond: Understanding Mental Normativity
+, Sebastian Schmidt
+and Gerhard Ernst (eds.), Abingdon, UK: Routledge, 149–175.
+Schnädelbach, Herbert, 1990 [1992], “Rationalität
+und Normativität”, in
+Zur Rekonstruktion der
+praktischen Philosophie. Gedenkschrift für Karl-Heinz
+Ilting
+, Karl-Otto Apel and Riccardo Pozzo (eds.), Stuttgart:
+Frommann-Holzboog; reprinted in his
+Zur Rehabilitierung des animal
+rationale
+, Frankfurt a. M.: Suhrkamp, 1992, 79–103 (page
+references to the reprint).
+Schroeder, Timothy, 2003, “Donald Davidson’s Theory of
+Mind Is Non-Normative”,
+Philosopher’s Imprint
+,
+3(May): article 1.
+ [
+Schroeder 2003 available online
+]
+Searle, John R., 1969,
+Speech Acts: An Essay in the Philosophy
+of Language
+, Cambridge: Cambridge University Press.
+doi:10.1017/CBO9781139173438
+–––, 1995,
+The Construction of Social
+Reality
+, London: Allen Lane.
+–––, 2010,
+Making the Social World: The
+Structure of Human Civilization
+, Oxford: Oxford University Press.
+doi:10.1093/acprof:osobl/9780195396171.001.0001
+Sellars, Wilfrid, 1954 [1991], “Some Reflections on Language
+Games”,
+Philosophy of Science
+, 21(3): 204–228.
+Reprinted in Sellars 1963 [1991: 321–358].
+doi:10.1086/287344
+–––, 1956, “Empiricism and the Philosophy
+of Mind”, in
+The Foundations of Science and the Concepts of
+Psychology and Psychoanalysis
+(Minnesota Studies in the
+Philosophy of Science, 1), Herbert Feigl and Michael Scriven (eds),
+Minneapolis, MN: University of Minnesota Press, 1956: 253–329.
+Reprinted in Sellars 1963 [1991: 127–196].
+–––, 1963 [1991],
+Science, Perception, and
+Reality
+, (International Library of Philosophy and Scientific
+Method), New York: Humanities Press. Reprinted Atascadero, CA:
+Ridgeview, 1991.
+Shah, Nishi, 2003, “How Truth Governs Belief”,
+The
+Philosophical Review
+, 112(4): 447–482.
+doi:10.1215/00318108-112-4-447
+Shah, Nishi and J. David Velleman, 2005, “Doxastic
+Deliberation”,
+The Philosophical Review
+, 114(4):
+497–534. doi:10.1215/00318108-114-4-497
+Shwayder, D. S., 1965,
+The Stratification of Behaviour: A
+System of Definitions Propounded and Defended
+, (International
+Library of Philosophy and Scientific Method), New York, Humanities
+Press.
+Soames, Scott, 1997, “Skepticism about Meaning:
+Indeterminacy, Normativity, and the Rule-Following Paradox”,
+Canadian Journal of Philosophy Supplementary Volume
+, 23:
+211–249. doi:10.1080/00455091.1997.10715967
+Sorgiovanni, Ben, 2018, “Rule-Following and Primitive
+Normativity”,
+Dialectica
+, 72(1): 141–150.
+doi:10.1111/1746-8361.12218
+Speaks, Jeff, 2009, “The Normativity of Content and
+‘the Frege Point’”,
+European Journal of
+Philosophy
+, 17(3): 405–415.
+doi:10.1111/j.1468-0378.2009.00361.x
+Stalnaker, Robert, 1997, “Reference and necessity”, in
+A Companion to the Philosophy of Language
+, Bob Hale and
+Crispin Wright (eds.), Oxford: Basil Blackwell, 534–554.
+Stalmaszczyk, Piotr (ed.), 2021,
+The Cambridge Handbook of the
+Philosophy of Language
+, Cambridge/New York: Cambridge University
+Press. doi:10.1017/9781108698283
+Star, Daniel (ed.), 2018,
+The Oxford Handbook of Reasons and
+Normativity
+, (Oxford Handbooks), Oxford: Oxford University Press.
+doi:10.1093/oxfordhb/9780199657889.001.0001
+Steglich-Petersen, Asbjørn, 2008, “Against Essential
+Normativity of the Mental”,
+Philosophical Studies
+,
+140(2): 263–283. doi:10.1007/s11098-007-9141-9
+–––, 2010, “The Truth Norm and Guidance: A
+Reply to Glüer and Wikforss”,
+Mind
+, 119(475):
+749–755. doi:10.1093/mind/fzq063
+–––, 2011, “Against Essential Mental
+Normativity Again”,
+Dialogue
+, 50(2): 333–346.
+doi:10.1017/S0012217311000370
+–––, 2013a, “Transparency, Doxastic Norms,
+and the Aim of Belief”,
+teorema: Revista Internacional de
+Filosofía
+, 32(3): 59–74.
+–––, 2013b, “The No Guidance Argument: The
+No Guidance Argument”,
+Theoria
+, 79(3): 279–283.
+doi:10.1111/theo.12001
+Stroud, Barry, 2000,
+Meaning, Understanding, and Practice:
+Philosophical Essays
+, Oxford/New York: Oxford University Press.
+doi:10.1093/0199252149.001.0001
+–––, 2011, “Meaning and
+Understanding”, in
+The Oxford Handbook of Wittgenstein
+,
+Marie McGinn and Oskari Kuusela (eds.), Oxford: Oxford University
+Press, 294–310. doi:10.1093/oxfordhb/9780199287505.003.0014
+Sullivan-Bissett, Ema, 2018, “Explaining Doxastic
+Transparency: Aim, Norm, or Function?”,
+Synthese
+,
+195(8): 3453–3476. doi:10.1007/s11229-017-1377-0
+Sullivan-Bissett, Ema and Paul Noordhof, 2020, “The
+Transparent Failure of Norms to Keep up Standards of Belief”,
+Philosophical Studies
+, 177(5): 1213–1227.
+doi:10.1007/s11098-019-01242-y
+Sultanescu, Olivia, 2021, “Meaning Scepticism and Primitive
+Normativity”,
+Pacific Philosophical Quarterly
+, 102(2):
+357–376. doi:10.1111/papq.12339
+Swindlehurst, Zachary Mitchell, 2020, “The Knowledge Norm of
+Belief”,
+Thought: A Journal of Philosophy
+, 9(1):
+43–50. doi:10.1002/tht3.441
+–––, forthcoming, “Blind Rule-Following
+and the Regress of Motivations”,
+Inquiry
+, first online:
+5 August 2020. doi:10.1080/0020174X.2020.1799858
+Tracy, Eric V., 2020, “Unfollowed Rules and the Normativity
+of Content”,
+Analytic Philosophy
+, 61(4): 323–344.
+doi:10.1111/phib.12159
+Travis, Charles, 2006,
+Thought’s Footing: A Theme in
+Wittgenstein’s Philosophical Investigations
+, Oxford:
+Clarendon Press. doi:10.1093/acprof:oso/9780199291465.001.0001
+Velleman, James David, 2000,
+The Possibility of Practical
+Reason
+, Oxford: Clarendon Press.
+Verdejo, Víctor M. and Javier González de Prado,
+2021, “Interlocking Content and Attitude: A Reply to the
+Anti-Normativist”,
+Inquiry
+, 64(10): 1051–1072.
+doi:10.1080/0020174X.2021.1985603
+Verheggen, Claudine, 2011, “Semantic Normativity and
+Naturalism”,
+Logique et Analyse
+, 54(216):
+553–567.
+–––, 2015, “Towards a New Kind of Semantic
+Normativity”,
+International Journal of Philosophical
+Studies
+, 23(3): 410–424.
+doi:10.1080/09672559.2015.1042005
+Vermaire, Matthew, 2022, “In Search of Doxastic
+Involuntarism”,
+Philosophical Studies
+, 179(2):
+615–631. doi:10.1007/s11098-021-01673-6
+Wedgwood, Ralph, 2002, “The Aim Of Belief”,
+Philosophical Perspectives
+, 16: 267–297.
+doi:10.1111/1468-0068.36.s16.10
+–––, 2007,
+The Nature of Normativity
+,
+Oxford: Clarendon Press.
+doi:10.1093/acprof:oso/9780199251315.001.0001
+–––, 2009, “The Normativity of the
+Intentional”, in
+The Oxford Handbook of the Philosophy of
+Mind
+, Ansgar Beckermann and Brian P. McLaughlin (eds.), Oxford:
+Oxford University Press, 421–436.
+doi:10.1093/oxfordhb/9780199262618.003.0026
+–––, 2013, “The Right Thing to
+Believe”, in Chan 2013: 123–139.
+doi:10.1093/acprof:oso/9780199672134.003.0007
+–––, 2018, “The Unity of
+Normativity”, in Star 2018: 23–45.
+Wellman, Henry M., 1993, “Early Understanding of Mind: The
+Normal Case”, in
+Understanding Other Minds: Perspectives
+from Autism
+, Simon Baron-Cohen, Helen Tager-Flusberg, and Donald
+J. Cohen (eds.), Oxford: Oxford University Press, 10–39.
+Whiting, Daniel, 2007, “The Normativity of Meaning
+Defended”,
+Analysis
+, 67(2): 133–140.
+doi:10.1093/analys/67.2.133
+–––, 2008, “The Use of
+‘Use’”,
+Grazer Philosophische Studien
+,
+76(1): 135–147.
+–––, 2009, “Is Meaning Fraught with
+Ought?”,
+Pacific Philosophical Quarterly
+, 90(4):
+535–555. doi:10.1111/j.1468-0114.2009.01354.x
+–––, 2010, “Should I Believe the
+Truth?”,
+Dialectica
+, 64(2): 213–224.
+doi:10.1111/j.1746-8361.2009.01204.x
+–––, 2013, “Truth: The Aim and Norm of
+Belief”,
+Teorema: Revista Internacional de
+Filosofía
+, 32(3): 121–135.
+–––, 2016, “What Is the Normativity of
+Meaning?”,
+Inquiry
+, 59(3): 219–238.
+doi:10.1080/0020174X.2013.852132
+Wikforss, Åsa Maria, 2001, “Semantic
+Normativity”,
+Philosophical Studies
+, 102(2):
+203–226. doi:10.1023/A:1004746319850
+–––, 2003, “An a Posteriori Conception of
+Analyticity?”,
+Grazer Philosophische Studien
+, 66(1):
+119–139. doi:10.1163/18756735-90000814
+–––, 2015, “The Insignificance of
+Transparency”, in
+Externalism, Self-Knowledge, and
+Skepticism: New Essays
+, Sanford C. Goldberg (ed.), Cambridge/New
+York: Cambridge University Press, 142–164.
+doi:10.1017/CBO9781107478152.009
+–––, 2017, “Incomplete Understanding of
+Concepts”, in
+Oxford Handbooks Online
+, Oxford: Oxford
+University Press. doi:10.1093/oxfordhb/9780199935314.013.49
+–––, 2018, “Does Semantics Need
+Normativity? Comments on Allan Gibbard, Meaning and
+Normativity”,
+Inquiry
+, 61(7): 755–766.
+doi:10.1080/0020174X.2018.1424528
+Williams, Bernard, 1973, “Deciding to Believe”, in his
+Problems of the Self: Philosophical Papers 1956–1972
+,
+Cambridge: Cambridge University Press, 136–151.
+Williams, Meredith, 1999,
+Wittgenstein, Mind, and Meaning:
+Toward a Social Conception of Mind
+, London/New York:
+Routledge.
+Williamson, Timothy, 1996, “Knowing and Asserting”,
+The Philosophical Review
+, 105(4): 489–523.
+doi:10.2307/2998423
+–––, 2000,
+Knowledge and Its Limits
+,
+Oxford/New York: Oxford University Press.
+–––, 2007,
+The Philosophy of
+Philosophy
+, (The Blackwell/Brown Lectures in Philosophy 2),
+Malden, MA: Blackwell. doi:10.1002/9780470696675
+Wilson, George M., 2006, “Rule-Following, Meaning, and
+Normativity”, in
+The Oxford Handbook of Philosophy of
+Language
+, Ernest LePore and Barry C. Smith (eds.), Oxford: Oxford
+University Press, 151–174.
+Wittgenstein, Ludwig, [PI] 1953,
+Philosophical
+Investigations
+, G. E. M. Anscombe (trans.), Oxford:
+Blackwell.
+–––, [PG] 1974,
+Philosophical Grammar: Part
+I, The Proposition, and Its Sense, Part II, On Logic and
+Mathematics
+, Rush Rhees (ed.). Anthony Kenny (trans.), Berkeley,
+CA: University of California Press.
+Wright, Crispin, 1980,
+Wittgenstein on the Foundations of
+Mathematics
+, Cambridge, MA: Harvard University Press.
+–––, 1984, “Kripke’s Account of the
+Argument Against Private Language”,
+The Journal of
+Philosophy
+, 81(12): 759–778. doi:10.2307/2026031
+–––, 1987a, “On Making Up One’s
+Mind: Wittgenstein on Intention”, in
+Proceedings of the 11th
+International Wittgenstein Symposium
+, Paul Weingarter and Gerhard
+Schurz (eds), Vienna: Holder-Pichler-Tempsky, 391–404.
+–––, 1987b,
+Realism, Meaning, and
+Truth
+, Oxford/New York: Basil Blackwell.
+–––, 1989, “Wittgenstein’s
+Rule-following Considerations and the Central Project in Theoretical
+Linguistics”, in
+Reflections on Chomsky
+, Alexander
+George (ed.), Oxford/New York: Basil Blackwell, 233–264.
+–––, 2007, “Rule-Following without
+Reasons: Wittgenstein’s Quietism and the Constitutive
+Question”,
+Ratio
+, 20(4): 481–502.
+doi:10.1111/j.1467-9329.2007.00379.x
+von Wright, G. H., 1963,
+Norm and Action: A Logical
+Enquiry
+, London: Routledge and Kegan Paul.
+Zalabardo, José L., 1997, “Kripke’s Nonnativity
+Argument”,
+Canadian Journal of Philosophy
+, 27(4):
+467–488. doi:10.1080/00455091.1997.10717482
+–––, 2012, “Semantic Normativity and
+Naturalism”, in
+The Continuum Companion to the Philosophy of
+Language
+, Manuel García-Carpintero and Max Kölbel
+(eds.), London: Continuum International, 203–227.
+Zangwill, Nick, 1998, “Direction of Fit and Normative
+Functionalism”,
+Philosophical Studies
+, 91(2):
+173–203. doi:10.1023/A:1004252526870
+Academic Tools
+How to cite this entry
+.
+Preview the PDF version of this entry
+at the
+Friends of the SEP Society
+.
+Look up topics and thinkers related to this entry
+at the Internet Philosophy Ontology Project (InPhO).
+Enhanced bibliography for this entry
+at
+PhilPapers
+, with links to its database.
+Other Internet Resources
+Jackman, Henry, 2004, “Charity and the Normativity of
+Meaning”, Presented at the Pacific Division of the APA (March
+2004).
+ [
+Jackman 2004 available online
+]
+PhilPapers page on normativity of meaning and content
+,
+ edited by Indrek Reiland (University of Vienna).
+Related Entries
+assertion
+|
+belief
+|
+convention
+|
+grounding, metaphysical
+|
+meaning, theories of
+|
+naturalism
+|
+reasons for action: justification, motivation, explanation
+|
+value theory

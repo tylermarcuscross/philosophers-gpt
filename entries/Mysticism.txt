@@ -1,0 +1,2599 @@
+Mysticism
+First published Thu Nov 11, 2004; substantive revision Wed Jun 29, 2022
+Under the influence of William James’
+Varieties of Religious
+Experience
+, philosophical interest in mysticism has heavily
+focused on distinctive, allegedly knowledge-granting
+“mystical experiences.” Philosophers have dealt with such
+topics as the classification of mystical experiences, their nature, to
+what extent mystical experiences are conditioned by a mystic’s
+language and culture, and whether mystical experiences furnish
+evidence for the truth of mystical claims. Some philosophers have
+recently questioned the emphasis on experience in favor of examining
+broader mystical phenomena. Indeed, “mysticism” is best
+thought of as a constellation of distinctive practices, discourses,
+texts, institutions, traditions, and experiences aimed at human
+transformation, variously defined. But this entry will
+concentrate on the topics philosophers have discussed concerning
+mystical experiences.
+1. Mystical Experiences
+2. Classifying Mystical Experiences
+2.1 Extrovertive and Introvertive
+2.2 Dualistic and Monistic
+2.3 Theurgic and Non-Theurgic Mysticism
+2.4 Apophatic and Kataphatic Mysticism
+3. The Attributes of Mystical Experience
+3.1 Noetic Quality
+3.2 Ineffability
+3.3 Paradoxicality
+4. Pure Consciousness Events
+4.1 Defenders of Pure Consciousness Events
+4.2 Denial of Pure Consciousness Events
+5. Essentialism
+6. Perennialism
+7. Constructivism
+7.1 Soft Constructivist Arguments Against Pure Consciousness Events
+7.2 Criticism of Soft Constructivism
+7.3 Hard Constructivism Against Essentialism
+7.4 Criticism of Hard Constructivism
+8. Inherentists and Attributionists
+9. Epistemology
+9.1 The Doxastic Practice Approach
+9.2 The Argument from Experience
+9.3 Disanalogies to Sense-Experience
+9.4 Evaluation of the Disanalogy Arguments
+9.5 The Argument from Experience as Dependent on the Doxastic Practice Approach
+9.6 The Problem of Religious Diversity
+9.7 Scientific Studies: Meditation and Psychedelics
+9.8 A Critique of Naturalist Explanations
+10. Gender and the Study of Mysticism
+11. Mysticism and Morality
+12. Secular Mysticism
+Bibliography
+Academic Tools
+Other Internet Resources
+Related Entries
+1. Mystical Experiences
+Because of its variable meanings, a definition of “mystical
+experience” must be partly stipulative. It is common among
+philosophers to refer to “mystical experience” in a
+narrow sense: a purportedly nonsensory or
+extrovertive
+unitive
+experience by a subject of an
+object granting acquaintance of realities or states of affairs that
+are of a kind not accessible by way of sense-perception, somatosensory
+modalities, or standard introspection. A unitive experience
+involves the eradication of a sense of multiple discrete entities,
+and the cognitive significance of the experience is deemed to lie
+precisely in that phenomenological feature. Examples are experiences
+of “union with God,” the realization that one is identical to the
+being shared with God or that one is identical to the
+Brahman of Advaita Vedanta (i.e., that the self/soul is identical
+with the one eternal, absolute reality), experiencing a oneness
+to all of nature, and the Buddhist unconstructed extrovertive
+experience devoid of a sense of any multiplicity of
+realities (see Smart 1958, 1978; Wainwright 1981, chap. 1).
+However, as discussed in Section 2.2.1, few classical
+mystics refer to their experiences as the
+union
+of
+two realities: there is no literal “merging” or
+“absorption” of one reality into another resulting in only
+one entity. Excluded from the narrow definition are, for example,
+experiences of “contact” with God in which the subject and
+God remain ontologically distinct, even if there is a lessening of
+boundaries, or a Jewish Kabbalistic experience of a single
+supernal
+sefirah
+.
+A more inclusive definition of “mystical experience” is:
+A purportedly nonsensory awareness or a nonstructured
+sensory experience granting acquaintance of realities or states
+of affairs that are of a kind not accessible by way of ordinary
+sense-perception structured by mental conceptions, somatosensory
+modalities, or standard introspection.
+“Experience,” “consciousness,” and “awareness” are
+notoriously difficult to define and will be left unanalyzed here, but
+the other key terms in the definition can be understood as
+follows:
+“Purportedly” allows the definition to be accepted without
+necessarily accepting that mystics ever really do experience realities
+or states of affairs in the way they described.
+“Nonsenory awareness” includes content of a kind not appropriate
+to sense-perception, somatosensory modalities (including the means for
+sensing pain and body temperature, and internally sensing body, limb,
+organ, and visceral positions and states), or standard introspection.
+Some mystics have referred to a distinct “spiritual” means of
+knowing appropriate only to a non-physical realm (
+nous
+,
+intellectus
+,
+buddhi
+). A super sense-perceptual mode
+of experience may accompany sense-perception as in the cases of
+“nature mysticism” or “cosmic consciousness” (Bucke 1901),
+as when, for example, a person has an awareness of God while
+watching a setting sun.
+“Nonstructured sensory experience” consists of phenomenological
+sensory content but lacks the conceptualization normally
+structuring sense-perception.
+“Acquaintance” of realities in mystical experiences means the
+subject is putatively aware of one or
+more realities in a way that overcomes the normal subject/object
+duality: the “acquaintance” is “knowledge by
+participation” or “knowledge by identity” (Forman 1990,
+Introduction). Mystical experiences are allegedly
+“direct,” “unmediated” insights in that sense.
+“States of affairs” include the impermanence of all reality and
+that God is the ground of the self. “Acquaintance” of states of
+affairs comes in two forms. In one, a subject is aware of either
+(one or more) realities on which (one or more) states of affairs
+supervene. An example would be an awareness of God (a reality)
+affording an awareness of one’s utter dependence on God (a state
+of affairs). In its second form, acquaintance of states of affairs
+involves an insight directly, without supervening on acquaintance, of
+any reality. An example is coming to “see” the
+impermanence of all that exists in the phenomenal world.
+Hereafter “mystical experience” will be used in the broader
+sense, unless otherwise noted, not merely for unitive
+experiences. Correspondingly, the term “mysticism” will refer to
+practices, discourse, texts, institutions, and traditions associated
+with these experiences. The definition excludes paranormal
+experiences such as visions, voices, out-of-body experiences,
+and powers such as telepathy. All of these are
+“dualistic” acquaintance of subjects with objects or qualities of
+a kind accessible to the senses or to ordinary introspection.
+The subject may not have the mental separation
+at the time of the
+experience
+by which she could tell herself, as it were, what
+realities or state of affairs were then being disclosed to her. The
+realization may arise following the experience.
+Mystical experiences occur within all world religions and
+probably all primal religions. In some traditions, the experiences are
+allegedly of a supersensory reality, such as God or Brahman. Many
+Buddhist traditions, however, make no claim for an experience of a
+supersensory reality but instead cultivate an experience of
+“unconstructed awareness” involving an awareness of the world on
+a completely or partially non-conceptual level (see
+Griffiths 1993). The non-conceptual experience is thought to
+grant knowledge of the true nature of phenomenal reality, such
+as the impermanent nature of all things. Prajnaparamita and
+Madhyamaka Buddhists refer to this as the experience of the
+“thusness” (
+tathata
+) or
+“thatness” (
+tattva
+) of reality that
+is accessible only in the absence of ordinary
+sense-perceptual cognition that is structured by cultural
+conceptions.
+It should be emphasized that mystics value achieving
+enduring
+states
+of consciousness over
+transient
+experiences
+— in particular, they value
+the personal transformation leading to the enlightened state free of a
+sense of a phenomenal “self” in which they are aligned with the way
+things really are (as defined by their tradition). Mysticism is a
+matter of practices and ways of life, not episodic experiences.
+Care should also be taken not to confuse “mystical experience” with
+“religious experience.” The latter refers to any experience
+having significance appropriate to a religious context. This includes
+many instances of mystical experiences but also religious visions
+and voices, and various religious feelings, such as religious awe
+and sublimity. Also included is what Friedrich Schleiermacher
+identified as the fundamental religious experience: the feeling of
+“absolute dependence” (Schleiermacher 1963). Rudolf
+Otto reserved the term “numinous” (from Latin “
+numen
+”
+meaning “divine” or “spirit”) for experiences allegedly of a reality
+perceived of as “wholly other” than the subject, producing a
+reaction of dread and fascination before an incomprehensible mystery
+(Otto 1957). In the sense of “mystical” used here,
+Otto’s numinous experience is a dualistic experience
+and not thus mystical. Your garden-variety sense of God’s
+“presence” would count as a numinous experience. A
+“secular” mysticism is also possible (see Section 12).
+2. Classifying Mystical Experiences
+Mystical experiences can be classified through various
+dichotomies. (See Wainwright 1981, 33–40 and Jones 2016, 31–34
+for detailed typologies.) The most common are these:
+2.1 Extrovertive and Introvertive
+Walter Stace (1960) fixed the distinction between
+“extrovertive” and “introvertive” mystical experiences in
+philosophy of mysticism (also see Otto 1932, 57–72). When
+an experience includes sense-perception, it is an “extrovertive”
+experience. Mystical extrovertive experiences include consciousness of
+the unity of nature overlaid onto one’s sense-perception of the
+world, as well as non-unitive extrovertive experiences such as
+“cosmic consciousness.” When not extrovertive, an experience is
+“introvertive.” Examples include the experience of
+“nothingness” — an awareness lacking all
+differentiated content — and an awareness of God
+lacking sense-experiences.
+Extrovertive mystical experiences are not merely stunted
+introvertive ones but complete experiences in their own right
+(see Jones 2016; contra Stace 1960). Paul Marshall (2005) has
+developed a detailed phenomenology of these experiences.
+2.2 Dualistic and Monistic
+A favorite distinction of Western philosophers is between dualistic
+and monistic experiences. A dualistic experience maintains
+some distinction, however tenuous, between the subject and what
+is disclosed. Thus, theistic mystical experiences typically are
+dualistic, retaining, at some level, a distinction between God and the
+mystic. Monistic experiences are the extreme of unitive
+experiences in that they dissolve all duality (Merkur 1999). They
+are either experiences of the absolute ontological oneness of
+everything, free of our conceptual distinctions, or are pure
+consciousness experiences.
+2.2.1 Union with God
+Classical mystics did not usually speak of a true “union with
+God.” The term “
+unio mystica
+” was devised in the
+thirteenth century, but few Christian mystics used that term before
+the modern era (McGinn 2001, 132; Jantzen 1995) — only
+in the modern study of mysticism has
+unio mystica
+received a
+central place (McGinn 2006, 427). When Abrahamic mystics
+do use the language of union, it involves a falling away of the
+separation between a person and God short of identity: the
+idea is more of “communion” with God than union.
+“Deification” means becoming God-like. All mystical
+experiences involve overcoming a sense of “self,” but usually not
+a sense of becoming another reality. In theisms, this is an
+alignment of spirits, not an ontological union of different substances
+that were once distinct. Christian mystics used various metaphors.
+Henry Suso (1295–1366) likened union with God to a drop of
+water falling into wine, taking on the taste and color of the wine
+(Suso 1953, 185); Jan van Ruysbroeck (1293–1381)
+described union as “iron within the fire and the fire within the
+iron;” Teresa of Avila (1515–1882) likened the soul
+that absorbs and is saturated with God to a sponge and
+water. (See Pike 1992,
+chap. 2; Mommaers 2009.) A “spiritual marriage” of
+the soul (the bride) and Christ (the bridegroom) is common. Bernard of
+Clairvaux (1090–1153) described unification as “mutuality
+of love.” Overall, classical Christian mystics usually
+treated “becoming one with God” as a loving union of wills
+with God’s or even a fusion of the mind with God’s (McGinn
+2006, 427–429). Medieval Christian mystics generally interpreted the
+biblical claim that “it is no longer I who lives but Christ who
+lives in me” (Galatians 2:20) to mean the Holy
+Spirit was filling their mind or spirit resulting in a
+complete alignment of one’s will with God’s. In Sufism, when
+one’s sense of self passes away (
+fana
+), one is filled with
+the presence of Allah (
+baqa
+), although the orthodox Sufis
+insist that the soul does not cease to exist but only that one is
+unaware of it in the blinding light of the presence of Allah
+(Schimmel 1975).
+2.2.2 Identity with God
+Theistic mystics sometimes speak as though they have the awareness of
+being fully absorbed into God or even becoming identical
+to God. Examples are the Islamic Sufi mystic al-Husayn al-Hallaj
+(858–922) proclaiming “I am the Real” (see
+Schimmel 1975, chap. 2) and the Jewish Kabbalist Isaac of
+Acre (b. 1291?) who wrote of the soul being completely absorbed
+into God “as a jug of water into a running
+well” (Idel 1988, 67). The Hasidic master
+Rabbi Shneur Zalman of Liadi (1745–1812) wrote of a
+person as a drop of water in the ocean of the Infinite with an
+illusory sense of individual “dropness.” The Christian
+mystic Meister Eckhart (c. 1260–1327/8) claimed that we and
+God share the same being (
+esse
+) supplied by a
+transcendent Godhead (Eckhart 2009, 109). It is still controversial,
+however, as to when such declarations are to be taken as assertions of
+true identity and when they are hyperbolic variations on descriptions
+of union-type experiences. Shankara’s Advaita gives a nontheistic
+example: our “essence” (
+atman
+) is identical to the only
+reality there is (Brahman) — there is a nonduality
+(
+a-dvaita
+) of all essences.
+2.3 Theurgic and Non-Theurgic Mysticism
+In theurgic (from the Greek “
+theourgia
+”) mysticism a mystic
+intends to activate the divine (e.g., God’s grace) in a mystical
+experience (Shaw 1995, 4). Nonetheless, theistic
+mystics typically claim that experiences of God’s activity do
+not result from their own endeavors. So too, most mystics are not
+involved in theurgic activity. The Jewish Kabbalah is the most
+prominent form of theurgic mysticism. In it, the mystic aims to bring
+about a modification in the inner life of the Godhead (see
+Idel 1988).
+2.4 Apophatic and Kataphatic Mysticism
+Apophatic mysticism (from the
+Greek “
+apophasis
+,” meaning negation or
+“saying away”) is contrasted with kataphatic mysticism (from the
+Greek “
+kataphasis
+,” meaning affirmation or
+“saying with”). Apophatic mystics claim that nothing positive can
+be said about objects or states of affairs that they experience. These
+are absolutely indescribable, or “ineffable.” Thus,
+apophatic theology typically will be negative theology — that we
+can say only what God is not. Kataphatic mysticism does make claims
+about what a mystic experiences. Pertaining to God, this means
+that God can be described by positive terms. Analytic philosophers of
+mysticism have mainly dealt with kataphatic conceptions. (For an
+exception see Alston 2005 in the Other Internet Resources.)
+Shankara’s Advaita Vedanta is apophatic: nothing describing phenomenal
+features can be applied to Brahman. Even discussing Brahman without
+qualities (
+nirguna-brahman
+) is still a form of the formless
+Brahman (
+Brahma-sutra-bhasya
+III.2.14). So too, Plotinus
+stated that no name applies to the One (
+Enneads
+IV.9.5).
+In a remark echoed by Augustine and Thomas Aquinas about God, he
+wrote that we can only state what the One is not, not what it is
+(
+Enneads
+V.3.14).
+The two approaches can represent two stages in mystical contemplation
+with the apophatic approach usually treated as higher. Theologians
+also may utilize the apophatic approach (and ineffability) in contexts
+unrelated to mystical experiences. Even the theologian who introduced
+the
+via negativa
+to Christianity, Pseudo-Dionysius the
+Areopagite (c. 500), also wrote works in the affirmative
+kataphatic approach on religious symbolism and the names of God,
+while still stressing that God cannot be fully captured by any
+name.
+3. The Attributes of Mystical Experience
+Three purported features of mystical experiences are of special
+interest to philosophers:
+3.1 Noetic Quality
+Mystical experiences, both introvertive and extrovertive, are
+alleged to be “noetic,” i.e., giving knowledge of what a subject
+apprehends (see James 1958). As Chris Letheby puts it: “Noetic
+quality refers to a strong sense of gaining a genuine and unmediated
+insight, or of encountering ultimate reality; the mystical experience,
+by definition, is felt to be ‘more real than real’” (Letheby 2021,
+25). To what extent this knowledge could come from the experiences
+alone will be discussed in Section 9.
+3.2 Ineffability
+When classical mystics invoke “ineffability,” it is typically to
+affirm that there is more to what was experienced that can be
+expressed in any language, not to deny anything can be said about that
+reality. But William James (1958, 292–93) deemed absolute
+ineffability or indescribability to be an essential mark of
+mysticism. Even indirect depictions of what is experienced through
+analogies, metaphors, and art turn it into something like a
+phenomenal object and thus must ultimately be denied. Moreover, it is
+not always clear whether it is the experience or its alleged
+object or both that is considered ineffable by a given
+mystic.
+A logical problem with ineffability was noted long ago by Augustine:
+God should not be said to be ineffable, for to say that
+X
+is
+ineffable is to say
+something
+about
+X
+, which
+contravenes ineffability (Augustine 1958, 10–11). This
+problem has been raised by Alvin Plantinga (1980, 23–25) and
+Keith Yandell (1975).
+Several responses to this problem are possible. One is to avoid speech
+altogether and remain silent about what is revealed in experience.
+Mystics, however, have not been very good at this. A second is to
+distinguish first-order from second-order attributions, where
+“ineffability” is a second-order term solely about all
+first-order phenomenal descriptive terms (Jones 2016, 204–208).
+That is, to say that something is ineffable would be to assert
+that it could not be described by any first-order terms, including
+“ineffable.” A third possibility is to say that “
+X
+is
+ineffable” is really a statement about the
+term
+“
+X
+,” saying about it that it fails to
+refer to any describable entity.
+A fourth possibility lies in the ongoing negation of whatever is
+said about
+X
+ad infinitum
+in an infinite
+“unsaying” or taking back of what has been said (Sells 1994,
+chap. 1). An example of unsaying can be found in the endless negations
+in some Zen Buddhist meditative exercises. Since the truth about
+reality “as it is” lies outside of our conceptualizations of it,
+we cannot
+say
+that truth, only
+experience
+it. Hence,
+when we say, “Reality is not reality” (i.e., that reality as
+it is differs from what we take it to be conceptually), we must also
+say that “Reality is not not-reality” to counter an affirmation
+of its nature as not-reality. We must then negate the latter by saying
+“Reality is neither not-reality nor not-not-reality.” And so on. (See
+Nhat Hanh, 1994, chap. 5.) But classical mystics typically affirmed,
+as Shankara did with Brahman, that a reality lay behind all
+negations. So too, Eckhart prayed to God to make him free of God
+(Eckhart 2009, 424, 531) — it is not a denial of God but an
+attempt to get to the Godhead behind God and creation.
+William Alston (1991) offers a fifth possibility: when mystics
+talk about “indescribability,” they refer only to the difficulty
+of describing in literal terms rather than by metaphor, analogy,
+and symbols.
+A sixth solution comes from Richard Gale and Ninian Smart each of
+whom have argued that “ineffability” is merely an honorific
+title marking the value and intensity of an experience a mystic
+considers profound (Gale 1960; Smart 1958, 69).
+As another possibility, Wayne Proudfoot (1985, 125–27)
+argues that invoking ineffability is not to
+describe but to prescribe that no language shall be
+applicable, and so serves to create and maintain a protective sense of
+mystery. However, experiences of ineffability occur in art
+and music (Gallope 2017) and in everyday experience. Think of the
+impossibility of describing the taste of coffee to someone who has
+never tasted it (King 1988). This diminishes the “protective
+strategies” argument.
+Some philosophers think that a stress on ineffability signifies an
+attempt to consign mysticism to the irrational, thus excluding it
+from more sensible human pursuits, or consign them to the realm of the
+emotions (Jantzen 1995, 344). Others have staunchly defended the
+rationality of mysticism against charges of irrationalism
+(Staal 1975; Jones 2016, chap. 7).
+3.3 Paradoxicality
+Scholars of mysticism sometimes stress the alleged
+“paradoxical” nature of mystical experiences. Four senses of
+“paradoxical” are relevant. (1) According to its etymology,
+“paradoxical” refers to what is surprising or “contrary to
+expectation.” (2) Language can be intentionally
+“paradoxical” in using a logically improper form of words to
+convey what is not intended to be logically absurd. This may be for
+rhetorical effect or because of difficulty in conveying a thought
+without resort to linguistic tricks. (3) A “paradox” can involve
+an unexpected logical contradiction, as in the “Liar
+Paradox.” (4) “Paradoxicality” may be an
+intended
+logical contradiction. Walter Stace sees this as a
+universal feature of mystical experiences (Stace 1960,
+212).
+Insofar as mystical experiences are out of the ordinary, and the
+unitive quality strange to most of us, reports of them may very well
+be surprising or contrary to expectation. Hence, they may be
+paradoxical in sense (1). Reports of mystical experiences may be
+paradoxical also in sense (2) because at times mystical language
+does assume logically offensive forms when actual absurdity may
+not be intended. Frits Staal argued that paradoxical mystical language
+has been used systematically to make logically respectable claims
+(Staal 1975). However, paradox in this sense occurs less
+frequently in first-hand reports of mystical experiences and more in
+second-order mystical systems of thought (Moore 1973).
+There is no good reason for thinking that reports of mystical
+experience must imply logical absurdity, as in (3) or (4). As noted
+above, while there do occur forms of expression that are
+contradictory, the contradiction is often removed by the device of
+“unsaying” or canceling out that propels the discourse into
+a non-discursive realm.
+The attempt to designate mystical experiences as paradoxical in senses
+(3) and (4) may result from being too eager to take logically deviant
+language literally. For example, Zen Buddhists speak of
+reaching a state of mind beyond both thought and “no-thought” and
+perception and “no-perception” — i.e., having thoughts but
+not projecting our conceptual distinctions onto reality, thereby
+avoiding the fabrication of a false world of discrete
+objects. Labeling mental activity ceases. No logical
+absurdity infects this description. While mystics use much literal
+language in describing their experiences (see Alston 1992,
+80–102), the literality need not extend to paradox in senses (3)
+or (4).
+But paradox is only natural in mystical discourse: mystics want to
+affirm something of the nature of what they experienced, but they must
+utilize language originally designed for phenomenal realities and
+so must then deny the ascriptions as not actually applicable. Thus,
+the paradox of affirming something and then denying it is not
+irrational or nonsense. But we would need to have a mystical
+experience to see why the features were affirmed and why they are
+denied as not truly applicable.
+4. Pure Consciousness Events
+Is the content of mystical experiences “given” to
+a mystic, or is it constructed by the mystic in accordance
+with the mystical, religious, and cultural tradition in which he or
+she is embedded? First consider the possibility of “pure
+consciousness events” (PCEs) — mental events
+that allegedly involve an “emptying out” by a subject of
+all phenomenological qualities and content (including concepts,
+thoughts, sense-perception, and sensuous images) and yet remaining
+awake, thereby leaving only unconditioned consciousness. Do such
+events occur? And if they do, how significant are they in
+mysticism?
+4.1 Defenders of Pure Consciousness Events
+Defenders of PCEs depend on alleged references to pure consciousness
+in the mystical literature. One example is the Buddhist
+philosopher Paramaartha (499–569) who stated
+explicitly that all of our cognitions were “conditioned”
+by our concepts save for the
+“unconditioned” experience of the emptiness of
+phenomena (Forman 1989). Another example is Meister Eckhart
+who described a “forgetting” that abandons concepts and
+sense-experience to sink into a mystical
+“oblivion” (Forman 1990, 121–159). In addition, Robert
+Forman has testified to a PCE he himself underwent (Forman 1990,
+Introduction).
+4.2 Denial of Pure Consciousness Events
+Criticisms of the possibility of PCEs include: (1) Reports
+of PCEs found in the literature may not be decisive in establishing
+the occurrence of PCEs. We should suspect an
+“idealization” in these reports in which an ideal goal is
+presented as achieved when in fact it wasn’t. Mystics
+thereby remember an experience with content
+as
+pure
+consciousness only because of a “confirmation bias” of what
+was expected. (2) Reports of “emptying out” and
+“forgetting” may refer only to an emptying of ordinary
+experiential content, thereby making room for an extraordinary
+content. This accords well with the conception of
+ayin
+(nothingness) in Jewish mysticism, which is positively saturated with
+divine reality (Matt 1997). For a theist such as Eckhart,
+emptying the mind by “unknowing” is to empty the mind of all
+content other than the being that we share with God (Eckhart
+2009, 34–36, 42–43), not an absolute emptiness of content.
+(3) Even if a subject honestly reports on a pure consciousness
+episode, there may have been conceptual events the subject either
+repressed or experienced in a nebulous way (Wainwright 1981,
+117–119). The latter simply do not remain for memory. (4)
+Some argue that because of the way our brain has evolved for our
+survival, all experience or awareness is necessarily
+intentional
+. Consciousness is always consciousness
+of
+something to a subject and hence necessarily contains some
+dualistic content. Thus, because of our nature, there can be no
+experiences free of any content (Katz 1978). Defenders of the
+possibility of PCEs reply that it is the
+interpretation
+of
+the experience’s content a mystic gives after the experience
+that reflects cultural ideas, but the
+experience
+itself is only a pure consciousness.
+But even if PCEs occur, PCE defenders may be exaggerating the
+centrality in mysticism of complete emptying out. The goal of
+classical mysticisms is to align oneself with reality (as defined by
+one’s tradition) — e.g., attaining the selflessness of nirvana
+or aligning one’s will with God’s. It is questionable if a PCE is
+central in mainstream theistic mysticisms where a mystic forgets
+all else usually only to better contemplate God. Typical is the
+Christian mystic Jan Ruysbroeck who wrote that emptying oneself is but
+a prelude to the mystical life of contemplating God through an act of
+divine grace (Zaehner 1957, 170–171). Likewise, the
+“shedding of corporeality” in early Hasidism was meant to
+enable the mystic to contemplate the unified supernal structure of the
+divine
+sefirot
+. And the Zen master Dogen
+(1200–1253) wrote about “wrongly thinking that the nature
+of things will appear when the whole world we perceive is
+obliterated” (Dogen 1986, 39).
+5. Essentialism
+“Essentialists” claim that there is a “common core” to all
+mystical experiences independent of culture. That is, the common
+low-ramified accounts of mystical experiences in different cultures
+and eras reveal that a universal mystical consciousness
+— the PCE — grounds all the different cultural
+expressions. Alternatively, at least there is a shared
+commonality of certain phenomenological features in all mystical
+experiences that is invariant from culture to culture and era to era
+even if all mystical experiences are constructed and so each mystical
+experience is flavored differently by a particular
+culture. This universal state of consciousness is
+independent of any religion or culture and produces some
+common phenomenological features in all types of mystical experiences.
+The common core is always culturally mediated in the
+expressions of each mystic’s culture, but this does not erase
+the experiential uniformity since experience and interpretation can be
+distinguished.
+Thus, essentialists argue there is only one type of
+mystical experience or that all types of mystical experiences
+share common phenomenological features. For many essentialists
+today, the common physiology or neurology of all people regardless of
+culture is responsible for this commonality, not any alleged
+objects of mystical experiences.
+Stace’s essentialism has generated much discussion
+(Stace 1960). He proposes two mystical experiences found “in all
+cultures, religions, periods, and social conditions.” First,
+he identifies a universal extrovertive experience that apprehends
+the One or the Oneness of all in or through the multiplicity of the
+phenomenal world that is the inner life or consciousness of the
+world. The Oneness is experienced as a sacred objective
+reality in a feeling of “bliss” or “joy.” This universal
+extrovertive experience (or the experienced reality, it is not always
+clear which) is paradoxical, and possibly ineffable (Stace 1960,
+79). Second, Stace identifies a
+universal monistic introvertive experience that “looks
+inward into the mind” to achieve “pure consciousness” —
+i.e., an experience phenomenologically not of anything but
+consciousness (Stace 1960, 86) — i.e, a PCE. Stace calls
+this the “unitary consciousness” or the “void and empty unity”
+that is left when all empirical content is excluded (Stace 1960,
+110). Like his extrovertive experience, Stace’s universal
+introvertive experience involves a blissful sense of sacred
+objectivity and is paradoxical and possibly ineffable. Stace
+considers the universal introvertive experience to be a ripening of
+mystical awareness beyond the halfway house of the universal
+extrovertive consciousness.
+Stace assimilates theistic mystical experiences to the PCE by
+distinguishing between experience and interpretation: theistic mystics
+are conditioned (perhaps subconsciously) by their surroundings to
+put a theistic interpretation on their empty introvertive experiences.
+Ninian Smart (1965) concurs: descriptions of theistic mystical
+experiences reflect an interpretive overlay upon an experiential base
+common to both theistic and non-theistic experiences.
+The psychologist Ralph Hood (2006 and 2017)
+argues that psychometric studies provide “strong empirical
+support” for the common core thesis. Does the fact that
+neuroscientists have found different patterns in the brain for
+different types of mystical experiences and meditative practices (see
+Section 9.7) mean that the experiences must be different? Even if
+there is a common neural basis to all mystical experiences, does it
+mean that the phenomenology of the experiences must be identical?
+Stace has been strongly criticized for simplifying or distorting
+mystical reports (see Moore 1973 for a summary) and for failing
+to properly articulate the differences between extrovertive and
+introvertive experiences (e.g., Almond 1982, chap. 4). Nelson
+Pike (1992, chap. 5) criticized the Stace-Smart position
+because in Christian mysticism union with God is divided into
+discernible phases, which finds no basis in Christian theology. Thus,
+these phases plausibly reflect experience, not a culturally-controlled
+interpretation.
+In contrast to Stace and essentialism in general, R. C. Zaehner
+identified three distinct types of mystical consciousness: (1) a
+“panenhenic” extrovertive experience in which
+one experiences the oneness of nature, one’s self
+included; (2) a “monistic” experience of an undifferentiated unity
+transcending space and time; and (3) the “theistic” experience
+where there is a duality between the subject and the object of the
+experience (Zaehner 1957). Zaehner thought that theistic
+experiences are an advance over the monistic since the latter, he
+thought, express a self-centered interest of the mystic to be
+included in the ultimate. But in his typology he had to tell
+Buddhists what their experiences really were (type 2) despite their
+explicit rejection of that position. He later admitted that Zen
+mystical experiences did not fit his typology.
+6. Perennialism
+Essentialists make a claim about mystical
+experiences
+, not
+doctrines
+. The term “perennial philosophy” has been a
+matter of doctrines since Leibniz. In the twentieth century,
+philosophers dubbed “perennial philosophers” or “perennialists”
+claimed that there are universal mystical doctrines about what is
+allegedly experienced that transcend all cultures and religions
+— a common core of esoteric doctrines that are expressed
+differently in different religions and cultures (Huxley
+1945; Schuon 1975; Smith 1976 and 1987). That is,
+perennialists argued for a universalism of
+“esoteric” mystical doctrines lying beneath the “exoteric”
+expressions of each salvific religion, not of mystical experiences.
+Scholars today who are labelled the “new perennialists” such as
+Kenneth Rose (2016) and Steve Taylor (2017) are more properly labelled
+“essentialists.” (Constructivists unnecessarily confuse
+philosophical issues by mislabeling essentialism as perennialism [see
+Jones 2020].)
+7. Constructivism
+The approach that opposes both essentialism and perennialism is
+“contextualism.” Under this approach, all mystical phenomena,
+including the mystics’ own understanding of their experiences
+and of what they experienced, must be understood in term of each
+particular mystic’s culture and era.
+“Constructivists” assert the conceptual
+“construction” of mystical experiences by cultural influences
+— i.e., beliefs, memories, expectations shaped by a mystic’s
+cultural structure the experiences. There are cultural, social,
+psychological, and linguistic influences. Thus, context
+penetrates mystical experiences themselves and not merely the
+post-experiential understanding given by mystics. There is no way to
+separate mystical experiences completely from their
+interpretations since our conceptual apparatus shapes our very
+experience. (See Jones 1909, introduction; Katz 1978
+and 1983; for criticism, see Evans 1989; Forman 1990
+and 1999; Stoeber 1992).
+“Soft constructivism” is the view that there are no mystical
+experiences without at least some structuring from the
+conceptualizations provided by the mystic’s culture. “Hard
+constructivism” is the view that a mystic’s specific
+cultural background completely determines the alleged cognitive content
+of all mystical experiences, not merely shapes or influences an
+independent experiential element. On the assumption that mystical
+traditions are widely divergent, hard constructivism entails the
+denial of both essentialism and perennialism. Soft constructivism
+is consistent with essentialism, however, since it is consistent with
+there being some transcultural mystical experiences involving
+conceptualizations common across mystical traditions.
+“Nonconstructivism” is the view that some or all mystical experiences
+are in fact free of any cultural influence, and the divergence in
+understanding their content comes from post-experiential
+interpretations.
+Constructivism is based on prevailing philosophical theories of the
+nature of consciousness. Nonconstructivists, as noted below, can
+invoke some suggestive work in neuroscience. But the principal
+difficulty in resolving the issue of constructivism is that we only
+have mystics’ post-experiential accounts, which all parties agree are
+shaped by a mystic’s culture — we can never get to the
+experiences themselves to see if they are constructed or not.
+7.1 Soft Constructivist Arguments Against Pure Consciousness Events
+Both soft and hard constructivist arguments have been mobilized
+against the possibility of PCEs. Here is a sampling of soft
+constructivist arguments:
+PCEs are impossible because of the “kind of beings” that we are
+(Katz 1978, 59). It is a fact about being human that we can
+experience only with the aid of memory, language, expectations, and
+conceptualizations. Thus, we cannot have a
+“pure” awareness empty of all content. (Also see
+Section 4.2).
+We should distinguish an “experience” from an “event”
+(Proudfoot 1985, chap. 4; Bagger 1999, chap. 4). That
+X
+has an experience
+E
+entails that
+X
+conceptualizes
+E during the event
+. Hence, even if pure
+consciousness events happen to occur, they do not count as
+“experiences” until the subject conceptualizes them, and
+at that moment they cease to be “pure
+consciousness.”
+A survey of mystical literature shows that mystical experiences always
+have conceptual content and thus are not empty of
+conceptualizations.
+Subjects could not know they had undergone a PCE if the
+experience were truly empty of all conceptual content
+(Bagger 1999, 102–103) since there would be nothing to
+observe while it is going on, and hence nothing to retain later. Nor
+could a subject surmise that a PCE had transpired by remembering a
+“before” and an “after” with an unaccounted for middle. This
+would fail to distinguish a PCE from plain unconsciousness.
+Suppose a PCE has occurred and that a subject somehow knows that.
+Still, there is a problem of the relationship of a PCE to the
+subsequent claims to knowledge: if a PCE were empty of all
+experiential content, the experiencers could not claim to have
+had acquaintance of anything (Bagger 1999,
+102–103). Nothing could be retained from the experience to
+shape a mystic’s beliefs or values.
+So too, if PCEs were empty of everything but a featureless
+consciousness, they could not have an impact on the life of a
+mystic, and yet the experiences do have an impact.
+Thus, the state must have some differentiated content.
+7.2 Criticism of Soft Constructivism
+Several objections can be raised against soft constructivism:
+While our cultural sets shape our ordinary experience, there is no
+good reason to believe that we could not enjoy experiences on a
+pre-conceptual level of awareness, especially through a regimen of
+training. The constructivist Steven Katz notes our “most
+brutish, infantile, and sensate levels” of experience when we
+were infants (Katz 1988, 755). It is hard to see why in principle
+we could not retrieve such an unconceptualized level of
+experience.
+It makes little difference whether a PCE is called an
+“experience” or an “event.” A PCE occurs within a wider
+experience of the subject, including the subject’s coming out of
+the PCE and assigning it meaning. Let this wider experience be the
+“experience” under discussion, rather than the PCE alone.
+Neuropsychological studies of mystical experience point to the
+possibility of a state of pure consciousness. For example,
+a theory by Eugene d’Aquili and Andrew Newberg (1999)
+accounts for PCEs by reference to occurrences in the brain that cut
+off ordinary brain activity from consciousness. (Also see Hood 2006
+and Section 9.7 below.)
+There may be no problem about mystics knowing they had PCEs. If
+we accept a reliabilist account of knowledge, a belief is knowledge if
+produced by a reliable cognitive mechanism (perhaps with some further
+conditions). In order to have knowledge, a person does not have to be
+aware of and judge evidence, nor be cognizant of the reliability of
+the mechanism that produces the knowledge. Hence, “awakening” from
+what is in fact a PCE, if it produces the belief that one has
+“awakened” from a PCE, could be a reliable cognitive mechanism
+sufficient for knowing one had had a PCE. If we stick to an
+evidentialist conception of knowledge, mystics might be able to have
+evidence they had undergone a PCE, though not at the time of its
+occurrence, since a conscious event can have elements that one
+does not note at the time but recalls afterward. This is
+especially possible when the recall immediately follows the event.
+That is, some content was retained and the experience was not truly
+empty, even if the content is only a nondual consciousness.
+Therefore, it should be possible for a mystic who undergoes a PCE to
+recall immediately afterward the awareness that was present in the
+PCE, even though that awareness was not an object of consciousness at
+the time of the PCE.
+Defenders of PCEs can champion their epistemological significance,
+although PCEs are not experiences
+of
+anything. The
+noetic quality of a mystical experience can come from an acquaintance
+of states of affairs involving an insight directly, without
+supervening on acquaintance of any reality. Nor need the insight be
+simultaneous with the occurrence of the experience but may arise
+later. Hence, a person could undergo a PCE that granted acquaintance
+of states of affairs by a direct insight. The PCE plus the insight
+would constitute a complex mystical experience that afforded awareness
+of a state of affairs not otherwise accessible.
+7.3 Hard Constructivism Against Essentialism
+Hard constructivism’s main argument against essentialism and
+PCEs is as follows (Katz 1978):
+Premise A: The conceptual scheme a mystic possesses completely
+determines the nature and content of the mystical experience.
+Premise B: Mystics from different mystical traditions possess
+pervasively different conceptual schemes.
+Conclusion: Therefore, there cannot be a common experience across
+cultural traditions. That is, essentialism is false.
+Regarding Premise B, Katz (2013) has edited a massive volume on
+mysticism with the aim of displaying the stark differences between
+mystical experiences of different traditions, due to linguistic,
+cultural, religious, and sociological factors.
+So too, theistic experiences are theory-laden and even their
+interpretation as theistic is the result of being embedded in a
+propensity to think theistically. That is why, allegedly, such
+experiences are rarely reported by those not already theists or in
+theistic communities. Such experiences, then, are “polluted” by
+theory (Oppy 2006, 350).
+7.4 Criticism of Hard Constructivism
+Some objections to hard constructivism are not objections to soft
+constructivism:
+It seems quite possible for subjects in the first instance to apply
+“thin” descriptions to experiences, involving only a small
+part of their conceptual schemes. Perhaps only on second thought will
+they elaborate on their experience in terms of the richness of their
+home culture. This would be like a physician with a headache, who
+experiences pain in the first instance just like ordinary folk and
+only subsequently applies medical terminology to the headache (compare
+King 1988). If so, there is a possibility of common
+first-instance mystical experiences across cultures, contrary to
+Premise A.
+Premise A is thrown into further doubt by expressions of surprise by
+mystics-in-training about what they experience (Gellman
+1997, 145–146 and Barnard 1997, 127–130).
+So too, constructivists have trouble accounting for why some mystics
+become heretics (Stoeber 1992, 112–113) — under
+constructivism, their mystical experiences should
+reinforce
+their orthodoxy. These illustrate the possibility of getting out from
+under one’s cultural background to have new experiences.
+Likewise, hard constructivism’s inherently conservative take on
+mysticism will struggle to explain transformations within mystical
+traditions, and cannot easily account for innovative geniuses within
+mystical traditions.
+Two people walk together down the street and see an approaching dog.
+One experiences the dog as “Jones’s pet black
+terrier” while the other experiences it as “a stray mutt that the
+dog-catchers should take away.” Because of the excessive
+conceptual differences in their experiencing, constructivist must
+insist that there was no worthwhile sense in which both observers had
+the same experience. However, there is a valuable sense in which
+they are having the same experience: seeing that black dog at that
+place and time. Similarly, there might exist a
+valuable commonality of experiences across mystical traditions
+despite conceptual disparity. The conceptual differences might not be
+sufficient to deny this important commonality (Wainwright 1981,
+25).
+Cultural conditioning does not influence everyone to the same degree
+and in the same way. Individuals have rich and varied personal
+histories that influence their experiences in their lives in
+widely differing ways. Some accept cultural restraints
+gladly, others rebel against them, others are blessed with a
+creative spirit, and so on.
+Mystical traditions characteristically involve disciplines aimed at
+loosening the hold of one’s conceptual scheme on subsequent
+experience. Meditative techniques promote a pronounced inhibition
+of ordinary cognitive processes — what Arthur Deikman (1980)
+labelled “deautomization.” This plausibly restricts the influence
+of one’s cultural background on one’s mystical
+experiences, in turn making possible identical experiences across
+mystical traditions to the extent that our neurology is the same in
+relevant respects.
+Hard constructivists also fail to account well for widely
+differing mystical understandings of the same religious text. For
+example, the metaphysics of the Upanishads and
+Brahma
+Sutra
+is an absolute nondualism for Shankara (c.
+eighth century CE), a “qualified dualism” for Ramanuja (c.
+1055–1137), and a strict dualism for Madhva
+(1199–1278). (See Radhakrishnan 1968,
+introduction.) Likewise, the teaching of emptiness in the
+Buddhist
+Heart Sutra
+receives disparate unpacking in
+different streams of Buddhism. It is plausible to conclude that
+distinct mystical experiences were responsible, at least in part, for
+these differences. If so, the experience control the mystics’
+understanding of their basic scriptures rather than
+vice
+versa
+.
+More generally, hard constructivists overemphasize the influence
+of pre-mystical religious teaching on the mystic’s experience.
+Mystical experiences can cause a mystic to reinvent the meaning of
+doctrines. An example is the Jewish Kabbalistic transformation of the
+notion of
+mitzvah
+(“commandment”) to that of
+“joining” or “connection” with God. Starting
+with “commandment,” the mystic ends up with
+“clinging” (
+devekut
+) to God.
+8. Inherentists and Attributionists
+“Inherentists” believe that there are experiences that are
+inherently religious or mystical. “Attributionists” believe that there
+are no inherently religious or mystical experiences (see Proudfoot
+1985) — experiences are only
+deemed
+religious by
+the subject or a group. Ann Taves contends that people or
+groups have experiences of what afterward strikes them
+as “special.” Only then, depending on various factors, will
+they attribute a religious or mystical meaning to
+them (Taves 2009). Some neuropsychological
+research seems to support this position (Azari et
+al. 2001). Taves also rejects constructivism: constructivists
+see religious or mystical experiences to be constituted from the
+very start by cultural conditioning, but attributionists
+deny this in favor of a tiered or
+“block-building” approach from experiencing something
+“special” to a religious or mystical conclusion.
+William Forgie (1984 and 1994) argues, as would an
+attributionist, that there could not be an “experience of God” if
+we understand “experience of God
+”
+to mean that it is
+phenomenologically given in the experience itself that
+an experience is in fact of God. He argues that phenomenological
+content can consist only of general features and not features
+specifically identifying God as the object of experience. He compares
+this to seeing one of two identical twins. Which one of the two you
+perceive cannot be a phenomenological given. Likewise, that
+someone experiences precisely God and not something else cannot
+be a
+phenomenological
+datum. Pike (1992, chap. 7) argues,
+against Forgie, that the individuation of an object can be a component
+of the phenomenological content of an experience, drawing on examples
+from sense-perception.
+We can distinguish “inherently religious” from “inherently
+mystical.” Today it is increasingly becoming apparent that
+mystical experiences are real: there is evidence of distinctive
+configurations of brain activity uniquely associated with mystical
+experiences (e.g., Newberg, d’Aquili, and Rause
+2001, 143; Yaden et al. 2017, 60). However, by
+“real,” neuroscientists mean only that mystical experiences
+involve distinct neurological events and are not merely ordinary
+experiences interpreted as mystical or products of the imagination,
+not that they are necessarily cognitive. If unique patterns of
+brain activity do underlie different mystical experiences,
+then it may be that there are some experiences that are inherently
+mystical
+even though their significance varies
+between different religious and nonreligious experiencers and
+thus these experiences are not inherently
+religious
+.
+9. Epistemology
+William James asked: “Do mystical states establish the truth
+of those theological affections in which the saintly life has its
+roots?” (1958, 415). This question can be divided into two: (Q1)
+Is a mystic warranted in thinking that his or her experiences are
+veridical or have evidential value? A mystical experience may be
+psychologically compelling for the person who had it, but is it also
+cognitively authoritative? And (Q2), are those who have not
+undergone any mystical experience, upon examining the evidence
+presented by mystics, warranted in thinking them veridical or endowed
+with evidential value? The major philosophical reply in the
+affirmative to Q1 is called the “Doxastic Practice Approach.” The
+major defense of an affirmative reply to Q2 is called the
+“Argument from Experience.”
+9.1 The Doxastic Practice Approach
+William Alston has defended the beliefs that
+people form from their mystical and numinous experiences,
+specifically of a theistic kind, based on their “doxastic
+practice.” He defines a “doxastic practice” as consisting of
+socially established ways of forming and epistemically evaluating
+beliefs (the “output”) from a certain kind of content from various
+inputs, such as cognitive and perceptual ones (Alston 1991, 100;
+also see Alston 2005, chap. 9–11). The practice is beholden to
+an “over-rider system” which is a background system of beliefs
+against which beliefs supported by the practice are checked for
+possible over-riders. The practice of forming physical-object beliefs
+based on sense-perception is an example of a doxastic practice;
+drawing deductive conclusions from premises is another. Alston (1993)
+argues that the justification of every doxastic practice is
+“epistemically circular” — i.e., its reliability cannot be
+established in any way independent of the practice itself. This
+includes sense-perception practice. However, we cannot avoid
+engaging in doxastic practices. Therefore, Alston contends, it is
+a matter of
+practical rationality
+to engage in the doxastic
+practices we do engage in providing there is no good reason to think
+they are
+unreliable
+.
+There are also doxastic practices consisting of forming beliefs about
+God, God’s purposes for us, and the like, grounded on religious
+and mystical experiences such as “God is now appearing to
+me.” The Christian doxastic practice has an over-rider
+system consisting of scriptures, Christian dogma, and guidelines
+resulting from the past history of the mystical Christian doxastic
+practice. It follows from Alston’s argument that it is rational
+for a person engaged in such a practice to take its belief
+outputs as true unless the practice is shown to be unreliable. Thus we
+have an affirmative answer to question Q1.
+Most objections to Alston are equally objections to the Argument from
+Experience or come from general epistemological complaints.
+Objections that apply specifically to Alston include Jonathan
+Kvanvig’s (1994) faulting of Alston for a loose employment of
+“rationality.” He argues that no one meaning of that term can do
+the work Alston does with it. Another objection is that Alston moves
+from “It is practically rational to engage in a Christian doxastic
+practice” to “It is rational for me to believe the Christian
+doxastic practice is
+reliable
+.” Others argue that there is a
+problem with the construction of the over-rider system of the
+Christian mystical practice since the guidelines gleaned from the
+history of the practice, so it is argued, were compromised by
+androcentric bias and outdated scientific beliefs. (See Section 10.)
+These detract from the practice’s epistemic legitimacy
+(Gellman 2011).
+It is also a question whether the Christian doxastic practice approach
+is able to justify conversion experiences since in such experiences
+the subject is not yet Christian and cannot employ the Christian
+over-rider system when becoming convinced to accept the Christian
+practice and its over-rider system.
+9.2 The Argument from Experience
+Various philosophers have defended the evidential value, to one degree
+or another, of some religious and mystical experiences, principally
+with regard to experiences of God (see Baillie 1939,
+Broad 1953, Davis 1989, Gellman 1997 and 2001a,
+Gutting 1982, Swinburne 1991 and 1996, Wainwright 1981,
+Yandell 1993). These philosophers have stressed the
+“perceptual” nature of experiences of God. This approach can be
+summarized as follows:
+Experiences of God have a subject/object structure with a
+phenomenological content allegedly representing the object of the
+experience. Subjects are also moved to make truth claims based on such
+experiences. Furthermore, there are mystical procedures for getting
+into position for a mystical experience of God (see Underhill 1911 [1945,
+90–94]), and others can take up a suitable mystical path to try
+to check on the subject’s claims (see Bergson 1977, 210). In all
+these ways, experiences of God are perceptual in nature.
+Such experiences count as at least some evidence in favor of
+their own validity. That a person seems to experience some object is
+some reason to think he or she really does have experiential contact
+with it. Thus, experiences of God count as at least some evidence
+in favor of their own validity.
+Agreement between experiences of people in different places, times,
+and traditions enhances the evidence in favor of their validity
+(see Broad 1953). Hence, agreement about experiences of God in
+diverse circumstances enhances the evidence in their favor. (But see
+Section 9.6.)
+Further enhancement of the validity of a mystical experience can come
+from appropriate consequences in the life of the person who had the
+experience, such as increased saintliness (see Wainwright 1981,
+83–88). William James proposed a pragmatic
+“fruit” test for determining true mystical doctrines (James
+1958, 368): if a mystical experience produces positive results in
+how one leads one’s life, then the experience is authentic and
+the way of life one follows is vindicated, and so the teachings
+leading to the positive life are correct. In short, the
+“truth” of one’s beliefs are shown by one’s
+life as a whole. (But what is considered positive fruit in one
+mystical tradition may not be considered so in another.)
+(1)–(4) yield initial evidence in favor of the validity of
+(some) experiences of God.
+Kai-Man Kwan has developed this type of argument further by specifying
+theistic experience, in particular, as a “well-established type
+of experience.” The tokens of such a type of experience occur to
+many people and on repeated occasions, have a common ontology, and are
+communicable in a coherent conceptual framework. This strengthens an
+argument from experience for theistic experience (Kwan 2011,
+511).
+Kwan (2011 and 2013) has also significantly expanded the Argument from
+Experience in a way that avoids focusing only on experiential
+episodes. He argues for what he calls a “holistic
+empiricism” that considers an array of dimensions of human
+experience: the noetic (consisting of epistemic seemings), the
+qualitative (the feel of what it is like to have the
+experience), and the volitional (action, choice, deliberation,
+and the like). Kwan argues that when judging the credentials of
+religious experience we should take into account the following
+experiences, in addition to narrowly selected religious experiences:
+experiences of the natural world and of the self, existential
+experience, interpersonal experience, moral experience, aesthetic
+experience, and intellectual experience. Kwan argues that the
+integration, in the appropriate way, of these types of experience
+coherently and fruitfully constitutes a defeasible justification for
+relying on the product of religious belief. Kwan argues in this way
+for theistic belief in particular. A similar argument can be presented
+for judging narrowly construed mystical experience. The unit of
+justification of believing a proposition when having had a mystical
+experience would be the entire holistic complex of all of the
+mystic’s experiences. Going beyond, but including, discrete
+mystical episodes, the mystic is able to fashion a cumulative case for
+mystical conclusions.
+Kwan’s argument avoids the objection based on dissimilarities
+between mystical experiences and sense-experience. The unit of
+justification then encompasses far more than the mystical experience
+itself. Kwan’s argument also neutralizes objections based on
+neuroscience against the validity of mystical experiences: belief in
+the import of mystical experience will seek justification far beyond
+what can be possibly identified as a brain state
+accompanying a mystical experience.
+Whether any experiences of God are veridical in the end will depend on
+the strength of the initial evidential case, on other favorable
+evidence, and on the power of counter-considerations against validity.
+Defenders of the Argument from Experience differ over the strength of
+the initial evidential case and have defended the Argument
+against counter-evidence to varying degrees.
+9.3 Disanalogies to Sense-Experience
+Several philosophers have argued against either the Doxastic Practice
+Approach or the Argument from Experience, or both (see Bagger
+1999; Fales 1996a, 1996b, and 2001; Gale 1991,
+1994, and 1995; C.B. Martin
+1955; M. Martin 1990; Proudfoot 1985; Rowe 1982). Philosophers
+have disputed the Argument from Experience on the grounds of alleged
+disanalogies between experiences of God and sense-perception. Two
+issues must be examined: whether the disanalogies exist, and if
+they do exist, whether they are epistemologically significant.
+9.3.1 Lack of Checkability
+The analogy allegedly breaks down over the lack of appropriate
+cross-checking procedures for experiences of God. With
+sense-perception, we can cross-check by employing inductive methods to
+determine causally relevant antecedent conditions; we can
+“triangulate” an event by correlating it with other
+effects of the same purported cause; and we can discover causal
+mechanisms connecting a cause to its effects. These are not available
+for checking on experiences of God. Evan Fales (2001 and 2010)
+argues that cross-checkability is an integral part of any
+successful perceptual epistemic practice. Therefore, the perceptual
+epistemic practice in which mystical experiences of God are embedded
+is severely defective. Moreover, Richard Gale (1991) argues that
+in experiences of God there is missing agreement between perceivers as
+well as missing the possibility of checking whether the perceiver was
+in the “right” position and psychological and
+physiological state for a veridical experience. For similar reasons,
+C.B. Martin (1955) concludes that claims to have experienced God are
+“very close” to subjective claims like “I seem to
+see a piece of paper” rather than to objective claims like “I
+see a piece of paper.”
+William Rowe (1982) observes that God may choose to reveal himself to
+one person and not to another. Thus, unlike with sense-perception, the
+failure of others to have an experience of God under conditions
+similar to those in which one person did, does not impugn the validity
+of the experience. Therefore, we have no way of determining when an
+experience of God is delusory. If so, neither can we credit an
+experience as authentic.
+9.3.2 God’s Lack of Space-Time Coordinates
+Some philosophers have argued that there could never be evidence for
+thinking a person had perceived God (Gale 1994 and
+1995; Byrne 2001). For there to be evidence that a person
+experienced an object O, and did not merely have an
+“O-ish-impression,” it would have to be possible for there
+to be evidence that O was the common object of different perceptions.
+In turn, this would be possible only if it were possible to
+distinguish perceptions of O specifically from possible
+perceptions of other objects that might be perceptually similar to O.
+This latter requirement is possible only if O exists in both space and
+time. Only space-time coordinates make it possible to distinguish O
+from objects of similar appearance existing in other space-time
+coordinates. God, however, does not exist in space and time.
+Therefore, there could never be evidence that a person had experienced
+God.
+9.4 Evaluation of the Disanalogy Arguments
+Although Alston defends the perceptual character of mystical
+experiences of God for his Doxastic Practice Approach, there is no
+restriction that the experiential input of a doxastic
+practice must be perceptual in nature. Any cognitive input will do.
+Hence, disanalogies between experiences of God and sense-perception,
+even if great, would not be directly harmful to this approach
+(Alston 1994).
+Regarding the bearing of the alleged disanalogies on the Argument from
+Experience, the disanalogists take the evidential credentials of
+sense-perception as paradigmatic for epistemology. They equate
+confirming and disconfirming evidence only when evidence strongly
+analogous to the kind for sensory perception is available. However,
+the evidential requirement should be only “confirming
+experiential evidence,” be what it may. If God-sightings have
+confirming evidence, even if different from the kind available for
+dualistic sense-perception, they will then be evidentially
+strengthened. If God-sightings do not have much confirming empirical
+evidence, be it what it may, they will remain unjustified for that
+reason, and not because they lack cross-checks appropriate to
+sense-perception.
+Perhaps the justification of physical-object claims should not be
+our evidential standard since our ordinary physical-object
+beliefs are far over-supported by confirming evidence. We have
+extremely large constellations of confirming networks there.
+Hence, it does not follow that were mystical claims justified to a
+lesser degree than that, or not by similar procedures, that they would
+be unjustified at all.
+A problem with the argument from God’s lack of dimensionality is
+that the practice of identifying physical objects proceeds by way of
+an interplay between qualitative features and relative positions to
+determine both location and identity. The judgments we make reflect a
+holistic practice of making identifications of place and identity
+together. There is no obvious reason why the identification of God
+cannot take place within its own holistic practice, with its own
+criteria of identification, not beholden to the holistic practice
+involved in identifying physical objects. (See Gellman 2001a,
+chap. 3.)
+9.5 The Argument from Experience as Dependent on the Doxastic Practice Approach
+In the end, the Argument from Experience might have to yield to the
+Doxastic Practice Approach (Gellman 2010). One reason is that it is
+doubtful if many experiencers of God make truth claims solely on the
+basis of their mystical experiences, rather than within a doxastic
+practice. For example, Teresa of Avila said that one can tell if an
+experience comes from God or from the Devil by its fruits in actions
+and personality, the vividness of the memory of the experience,
+conformity to Christian scripture, and confirmation by church
+superiors. Mystical experiences as such were given no special
+authority. Classical mystics in general did not take their mystical
+experiences as verifying the doctrines of their basic scriptures but
+vice versa
+— the fundamental scriptures vouched
+for the validity of genuine mystical experiences.
+In addition, if identification of God takes place in
+a holistic practice (see Sections 9.2, 9.4), then quite plausibly
+this is a social practice in which one judges one’s mystical
+experiences to be
+of
+God.
+Finally, it is an open question to what extent alleged God-experiences
+are sufficiently detailed to provide grounds to the subject that they
+are
+of
+God. Hence, a subject’s judgment that a
+particular encounter is with God might well be a matter of
+assimilating the event into a larger social practice.
+9.6 The Problem of Religious Diversity
+Essentialists and others often rely on the alleged uniformity of
+claims of mystics around the world. In William James’s words,
+there is an alleged “eternal unanimity” among mystics
+(James 1958, 321). But as he also realized, “if we take the
+larger mass as seriously as religious mysticism has historically taken
+itself, we find that the supposed unanimity largely
+disappears” (James 1958, 325). Constructivists in particular
+emphasize the diversity of mystical experiences, indeed for
+them each mystical experience is utterly unique.
+Diversity of claims, and especially any genuinely conflicting claims,
+would impact the Argument from Experience for the epistemic value of
+mystical experiences. In the history of religions, we find innumerable
+gods, with different characteristics. Shall we say they all exist? Can
+belief in all of them be rational? In addition, there are experiences
+of non-personal ultimate realities, such as the Brahman of Advaita
+Vedanta. Brahman cannot be an ultimate reality if God is
+(Hick 1984, 234–235) since it is devoid of all personal
+features. Furthermore, different theistic faiths claim experience of
+the one and only God, ostensibly justifying beliefs that are in
+contradiction with one another (see Flew 1966, 126). If theistic
+mystical experiences lead to such contradictory results,
+they cannot provide evidence in favor of their validity
+as experiences of God.
+Conflicting mystical claims thus lead to the issue of the
+reliability
+of mystical experiences as a source of
+knowledge: whatever the correct understanding of each type of mystical
+experience is, many (perhaps most) mystics have
+misunderstood their own experiences. Mystical experiences may put
+mystics in contact with a previously unrealized reality, but
+mystics’ diverse and conflicting understandings of that reality
+damaged their claim to have gained actual knowledge. Once mystics are
+aware of competing claims, whether the experiences can be
+authoritative even for the experiencers themselves, as James believed
+(James 1958, 324, 414), becomes an issue.
+In reply, many discount experiences of polytheistic gods straight away
+because of their being embedded in settings we today take to be
+bizarre, and because of the relative paucity of reports of actual
+experiences of such beings. Regarding clashing experiences within
+theistic settings, Richard Swinburne (1991, 266) has proposed an
+ascent to generality as a harmonizing mechanism. He believes that
+conflicting descriptions of the objects of religious experience pose a
+challenge only to detailed doctrinal claims, not to general claims of
+having experienced a supernal being.
+Philosophers and theologians may rank different types of mystical
+experiences according to their cognitive importance. For example,
+Michael Stoeber ranks theistic experiences occurring after a mystical
+experience empty of all differentiated content to be higher in
+importance, calling them “theo-monistic” experiences (Stoeber
+1994). But Advaitins would discount all theistic
+experiences as instances in which the mind is not yet clear of
+illusory content.
+John Hick (1984, chap. 14) has proposed a pluralistic
+hypothesis to deal with the problem. According to this
+hypothesis, the great world faiths embody different perceptions and
+conceptions of one reality that Hick christens “the Real.” The
+Real itself is indescribable and is never experienced
+directly but has “masks” or “faces” that depend on
+how a particular culture or religion thinks of the Real that are
+experienced. The Real itself is, therefore, neither personal nor
+nonpersonal, these categories being imposed upon the Real by different
+cultural contexts. Hence, the typical experiences of the major faiths
+are to be taken as validly of the Real through mediation by the
+local face of the Real.
+Hick has been criticized for infidelity to the world’s religious
+traditions (d’Costa 1987). However, Hick is providing
+a second-order philosophical
+theory
+about the nature of
+religions rather than an exposition of religions themselves that
+members necessarily would endorse.
+Some propose harmonizing some conflicting experiences by reference to
+God’s “inexhaustible fullness” (Gellman 1997, chap.
+4). In at least some mystical experiences of God, a subject
+experiences what is presented as proceeding from an intimation of
+infinite plenitude. Given this feature, a claim to experience a
+personal ultimate (God) can be squared with an experience of a
+nonpersonal ultimate (e.g., the “unspeakable” Dao): the same one
+reality can be experienced in its personal attributes or in its
+nonpersonal attributes from out of its inexhaustible plenitude
+— e.g., nontheists experience the sheer being of the reality
+while theists experience its personal nature.
+Whether any of these solutions succeed, the body of experiential data
+is too large to simply scrap on the grounds of contradictory
+claims. We should endeavor to retain as much of the conflicting data
+as possible by seeking some means of conciliation.
+But it must be noted that religious theorists are just as willing
+as naturalists to tell mystics that they are mistaken about the
+content of their experiences. For example, Caroline Franks Davis has
+to twist the Advaitins’ and Buddhists’ accounts to show
+that mystical experiences really support a “broad theism” —
+i.e., Shankara was really experiencing God although he explicitly
+argued that the nonpersonal and non-loving Brahman alone is real, and
+the Buddha was totally unaware that he was experiencing a god. She
+claims that all mystics, despite what they say, really experience “a
+loving presence . . . with whom individuals can have a personal
+relationship” (Franks Davis 1989, 191). That is just what
+one would expect someone raised a Christian to see as the true
+“common core” of all mystical experiences. But the same
+process, mutatis mutandis, would be available for nontheists
+raised in other traditions for their claims.
+As things stand, the diversity problem raises the issue of how much is
+given in mystical experiences and how much is a matter of
+interpretation based on a tradition’s beliefs. This limits how much
+actual knowledge mystics can claim.
+9.7 Scientific Studies: Meditation and Psychedelics
+Various psychological explanations of mystical experiences, both their
+nature and their causes, have been offered. These include
+pathological conditions such as hyper-suggestibility, severe
+deprivation, severe sexual frustration, intense fear of death,
+infantile regression, pronounced maladjustment, and mental illness, as
+well as non-pathological conditions, including the inordinate
+influence of a religious mental “set” (see
+Wulff 2000). In addition, some have advanced a sociological
+explanation for some mysticism in terms of the socio-political
+power available to an accomplished mystic (Fales 1996a
+and 1996b).
+In the 1990’s, interest revived in studying meditation and psychedelic
+drugs to see what they may reveal about how the brain works. Different
+meditative techniques (especially mindfulness meditations) are now
+being studied through neuroimaging to gain data on the brain activity
+occurring during these experiences and practices. (For an overview,
+see Schjoedt 2009.) Losing a sense of a phenomenal “self”
+necessarily alters our ordinary ego-driven state of consciousness.
+(See Millière et al. 2018 for an overview on different senses
+of “loss of self” and their phenomenological
+differences.) Thus, the phenomenology of mystical
+experiences also has become an important subject for the
+study of consciousness. As noted in Section 8, neuroscientists are
+finding unique patterns of brain activity during mystical
+experiences. Different neurophysiological effects and unique
+patterns of brain activity have also been detected in mindfulness
+practices and in introvertive concentration practices (Hood 1997
+and 2001; Dunn, Hartigan, and Mikulas 1999). The
+neurological effects of concentration differ from those
+of mindfulness meditation (Valentine and Sweet 1999). This
+suggests as strongly as neuroscience can that the
+mystical experiences enabled by meditation differ from more
+ordinary experiences and our normal waking state of consciousness and
+that the effects of different types of meditations are
+distinguishable. Possible neural correlates of different mystical
+features — a loss of a sense of self, a sense of connectedness
+to others, a feeling of certainty, feeling the experience has great
+significance, loss of a sense of time — have been identified.
+For example, a loss of a sense of self is correlated to the decrease
+of activity in the brain connected to a sense of self and a sense of
+separation from the world.
+The study of the mystical experiences enabled by psychedelics (in
+particular, psilocybin and LSD) is now also a major topic (Barlett and
+Griffiths 2018). Psychedelics are reported to occasion some of the
+most spiritually significant experiences in the life of the
+participants (Doblin 1991). There is also the clinical study of
+psychedelics in therapy for such conditions as depression
+and addiction that are resistant to more conventional forms of
+therapy. An important issue is whether the positive effects of a
+psychedelic drug on a patient’s well-being are the result solely of
+the chemical effect of the drug on the brain or whether the
+mystical experiences enabled by the drugs are also a necessary part of
+the treatment.
+This research leads to philosophical issues. Does brain activity
+alone cause these experiences, or does meditation or a
+psychedelic drug merely disrupt our normal state of
+consciousness thereby enabling new experiences to arise that
+are not caused by brain activity itself? If the former, can the
+alleged cognitive content of mystical experiences be discounted
+because mystical experiences are reduced to “merely brain events”? If
+the latter, does the same brain state underlie different
+meditation and psychedelic-enabled experiences? If so, the
+situation is the opposite of the “multiple realization” problem in
+philosophy of mind: multiple experiences are connected to the same
+brain state. So too, the question remains of whether
+neuroscientists are actually studying mystical experiences at all by
+studying neural activity correlated with them. (See Jones 2018, 2016,
+chap. 9.) Concerning psychedelics, the most
+important question is whether the mystical experiences
+enabled by psychedelics are mere hallucinations that are no more
+cognitive than the LSD-induced distortions of perception.
+Another important question is whether the experiences enabled by
+the drugs are the same as “natural” mystical experiences
+or only pale copies. And does the fact that such experiences can
+be touched off fairly consistently by drugs with the proper dosage and
+a conducive “set and setting” for the participant
+mean that the experiences are only products of the brain? Or
+do the drugs only set up new conditions in the brain
+enabling new experiences to occur that are not caused by brain
+activity? (See Smith 1964 and 2005; Letheby 2021;
+Jones 2019.)
+9.8 A Critique of Naturalist Explanations
+Bertrand Russell (1935, 188) once quipped that “We can make no
+distinction between the man who eats little and sees heaven and the
+man who drinks much and sees snakes. Each is in an abnormal physical
+condition, and therefore has abnormal perceptions.” C.D. Broad (1935,
+164) wrote, to the contrary, “One might need to be slightly
+‘cracked’ in order to have some peep-holes into the
+super-sensible world.” Thus, the issue is engaged whether we can
+explain away religious and mystical experiences by reference to
+natural causes. Can science “explain away” mystical
+experiences by showing that “It’s all in the head”?
+If all mystics had a demonstrable pathology or brain-defect, a
+naturalist explanation would carry great weight. However, that is
+not the case. Naturalist proposals often exaggerate the scope and
+influence of the cited factors, sometimes choosing to highlight what
+is eye-catching at the expense of the more common
+occurrences.
+For an example of the overreach and problem of simple reductive
+explanations, consider a popular pathological explanation: temporal
+lobe epileptic seizures (e.g., Persinger 1987, 111).
+However, ecstatic experiences of well-being, self-transcendence, and
+certainty from temporal lobe epileptic seizures are very rare (1% to
+2% of patients) (Devinsky and Lai 2008). That may be
+significantly less common than in the general population. Nor are all
+mystical experiences “ecstatic” in the emotional sense —
+serenity and calm characterize many mystical experiences. The
+epileptic experiences usually last only a few seconds out of a larger
+episode and usually are not a matter of joy but fear and anxiety
+(Kelly and Grosso 2007, 531–534). If seizures were the cause,
+why the vast majority of patients do not have mystical experiences
+would have to be explained. Moreover, visions and voices are more
+common than mystical experiences for these patients. Mystical
+experiences have a different phenomenological content, but studies
+aligned with the temporolimbic model truncate and misrepresent the
+“felt” phenomenological features of mystical experiences (Bradford
+2013, 113).
+Nor can we simply assume that mystics in the past must have had some
+pathology despite their lack of observable symptoms —
+a study of medieval Christian mystics and ascetics did not turn
+up evidence of any major forms of mental illness such as schizophrenia
+or manic-depressive disorder (Kroll and Bachrach 2005).
+Today mystical experiences have been correlated with healthy
+indices of personality and adjustment (Hood and Byrom 2010, Griffiths
+et al. 2011). Mystical experiences also more often correlate with
+positive changes in family life, reduced fear of death, better health,
+and a greater sense of purpose, although some patients do require
+therapeutic care, than do pathological experiences (Yaden et al.
+2017, 59). The loss of a sense of self outside of mystical experiences
+is associated with maladaptive outcomes such as a sense of
+disconnection to other people and a loss of empathy (Yaden et al.
+2017, 59). The pathology model does not explain any of this. It also
+makes emotion, rather than cognition, the central feature of mystical
+experiences, and this does not jibe with the historical record
+(Bradford 2013).
+In sum, these pathologies may be one possible trigger, but they are
+not a total explanation. Secondly, at least some of the proposals are
+perfectly compatible with the validity of claims that mystics
+experience a transcendent reality. For example, a person’s
+religious mental set can just as well be a condition for enjoying and
+being capable of recognizing an experience of God as it can
+be a cause of delusion. However, there might be
+naturalist explanations that would make it implausible that God
+would appear in just certain ways.
+9.8.1 Evaluation of Neuropsychological Explanations
+In principle, neuroscience can give as complete an account of brain
+activity during a mystical experience as it can for any conscious
+event or state. But a neuropsychological theory can do no more
+than relate what happens in the brain when a mystical experience
+occurs, and merely identifying the activity does not discredit
+mystical claims any more than a neurological account of perception
+discredits sense-experience as cognitive — all human
+experiences have some grounding in neural activity.
+Neurology cannot tell us that the ultimate cause of brain events
+is altogether internal to the organism. True, there may not
+be “God-receptors” in the body, analogous to those
+for sensory perception, and this might reinforce a suspicion that
+it’s all in the head. However, such receptors are neither to be
+expected nor required with non-physical stimuli, as in mystical
+experiences. For example, God, Brahman, or the Dao would not
+exist at a physical distance from the brain. Thus, God could act
+directly upon the brain to bring about the relevant processes for a
+subject to perceive God or otherwise use a natural medium
+(see Wainwright 1981, chap. 2). In sum, simply identifying and
+explaining what is occurring in the brain while a mystical experience
+is occurring is neutral to whether that is all there is to producing
+the experience.
+Plausible natural explanations would tend to discredit religious
+explanations of mystical experiences only if people with pathologies
+or negative psychological conditions had mystical experiences.
+But as noted in the last section, that is not the
+case. Nevertheless, plausible natural explanations do
+weaken the religious case by offering a
+reasonable
+alternative
+— there is competition for the best explanation
+where before there was none.
+9.8.2 The Claimed Superiority of Naturalist Explanation
+Some philosophers have argued that because the “modern
+inquirer” assumes everything is ultimately explicable in
+naturalist terms, we should in principle reject any supernatural
+explanation of mystical experience (see Bagger 1999). Invoking
+God to explain mystical experiences is like invoking miracles to
+explain natural phenomena. We should match our elimination of miracles
+from our explanatory vocabulary with an elimination of a supernatural
+explanation of mystical experiences of God. Hence, we do not have to
+wait until we discover a live alternative explanation to the theistic
+explanation of mystical experiences of God. We should resist any
+theistic explanation in the name of our epistemic standards.
+This argument raises the important question of the relationship
+between theistic explanation and a naturalist program of
+explanation. Arguments have been presented for the compatibility of
+religion and natural science (e.g., Swinburne 1989 and Plantinga
+2011). Of course, a person for whom supernatural explanations
+are not a live option would have reason to reject the Argument
+from Experience and refuse to engage in a doxastic practice of
+identifying valid God-experiences. However, most defenders of the
+Argument from Experience advance it as at best a defensible line of
+reasoning rather than as a proof of valid experiences of God that
+should convince anyone, and the Doxastic Practice Approach is not
+meant to convince everybody to participate in a theistic doxastic
+practice (see Gellman 2001b). The bar is lowered from advancing
+assent-compelling
+proofs
+to establishing merely the
+rationality
+of participation in a doxastic practice that
+would justify belief.
+10. Gender and the Study of Mysticism
+Some feminist philosophers have criticized what they perceive as the
+androcentric bias of male philosophers of mysticism. There are three
+main objections:
+Contemporary male philosophers treat mysticism as centered
+on private psychological episodes of a solitary person. They
+believe these private experiences reveal the meaning and value of
+mysticism (Jantzen 1994 and 1995; also see Turner 1996). Instead,
+philosophers should be studying the socio-cultural dimensions of
+mysticism, including its patriarchal failings. Sarah Coakley (2009)
+maintains that the focus of mysticism should be on the ongoing
+contemplative practice and all that entails.
+At times. scholars of mysticism have systematically ignored or
+marginalized much of women’s mysticism. Closer attention to
+women would reveal the androcentric bias in mystical
+studies (Jantzen 1995). Nancy Caciola (2000 and 2003)
+argues that the criteria the Christian church developed for authentic
+mystical experiences curtailed the power of women in the church. For
+example, on the basis of theories about female physiology, women were
+deemed more vulnerable to devil possession than men and so their
+experiences were more suspect. Coakley (2009) also notes that while
+some analytic philosophers attend to the mysticism of Teresa of Avila,
+they do not do justice to the full content of her mystical writings,
+picking out experiences only.
+The traditional male construction of God has determined the way male
+philosophers think of theistic experiences. Thus, theistic experiences
+are conditioned from the outset by patriarchal conceptualizations
+and values, and by sex-role differentiation in the practice of
+religion (Raphael 1994).
+Under this view, men typically understand theistic
+experience as a human subject encountering a being wholly distinct,
+distant, and overpowering. A paradigm of this approach is the numinous
+experience of a “wholly other” reality that is unfathomable
+and overpowering, engendering a sense of dread and fascination in
+which the mystic is “submerged and overwhelmed” by his own
+nothingness (Otto 1957). Otto claims that this is the
+foundational experience of religion. This approach, it is claimed, is
+mediated by the androcentrism of Otto’s worldview, entrapped in
+issues of domination, atomicity, and submission. Some feminist
+thinkers deny the dichotomy between the holy and the creaturely that
+makes Otto’s analysis possible
+(Daly 1973, Goldenberg 1979). Feminist theologians
+stress the immanent nature of the object of theistic experiences, and
+bring to prominence women’s experience of the holy in their
+fleshly embodiment, denigrated by androcentric attitudes.
+Feminists have also supported the constructivist position in the
+name of anti-essentialism and diversity of experience
+(Lanzetta 2005, chap. 1). Thinking that there is a
+common unconstructed essence to mystical experience has worked
+against the recognition of women’s experiences as properly
+mystical.
+The feminist critique poses a valuable corrective to unperceived
+androcentric biases in mysticism and mystical studies. This critique
+should help neutralize the conception of mysticism and mystical
+experience as completely private, introduced to philosophy largely by
+William James. Objection (2) has begun to produce scholarship
+dedicated to women’s mysticism and its significance (e.g.,
+Hurcombe 1987, Brunn and Epiney-Burgard 1989,
+Beer 1993, Borchert 1994, Hollywood 2002). Several
+collections on women mystics have helped change the over-emphasis on
+male mystics (in particular, Furlong 2013). Regarding (3):
+the rich variegation of religious and mystical experience
+among men throughout history must also be considered. This
+includes men’s experiences of God’s immanent closeness as
+well as mystical “union” with God, unlike Otto’s dualistic
+numinous experiences.
+The principal impact of the feminist critique on philosophy of
+mysticism would be to give more reasons to expand the consideration of
+mysticism to more than episodic experiences.
+11. Mysticism and Morality
+Some scholars maintain that there is an intrinsic connection between
+mysticism and moral behavior, or even that mystical experiences are
+the source and only justification of a moral concern for others. This
+is because mystical experiences blur or erase the
+distinction between the subject and others (Stace 1960) and so
+remove the barrier to moral motivation, or because one’s sense of
+a “self” disappears entirely. Several scholars have argued, to the
+contrary, that at least some mystical doctrines are
+incompatible with morality (Danto 1987, Kripal 2002). Monistic
+mystical metaphysics eliminates all distinctions between one person
+and others — all is one — and so there is no recognition
+of real persons distinct from oneself toward whom one can exercise a
+moral concern. Hence, monistic mysticism precludes morality. Morality
+must be between “independently real persons” (Wainwright
+1983, 211–212). David Loy (2002) argues that even if monistic
+morality is not incompatible with morality, it fails to reveal the
+best way to help people with compassion. Others argue that morality
+can get off the ground with the ability to conceptualize “the
+welfare of others” without the need to recognize others as
+ontologically distinct beings (Zelinski 2007).
+Others maintain that there is no intrinsic connection between mystical
+experience and moral behavior: one can empty oneself of all
+self-centeredness and self-interest without necessarily adopting a
+concern for others. Enlightened mystics may no longer be
+self-centered, but they can be either moral or indifferent to others
+(Jones 2016, chap. 9). We need look no further than to Christian
+complaints about mystical antinomian excesses of the “Free
+Spirits,” the Mahayana Buddhist rejection of the alleged
+selfishness of the Arhat ideal in Theravada Buddhism, or the moral
+scandals of some Eastern mysticism in the West today (Kripal 2002). If
+moral behavior is part of a mystical way of life, it does not issue
+from mystical experiences but from a mystic’s cultural
+background and training. The normative behavioral standards of the
+group are not derivable from mystical experiences. Mystical
+experiences, so the claim goes, in themselves are nonmoral. Thus,
+much will depend on the moral or nonmoral orientation of the mystical
+practices meant to lead to mystical experiences. The resulting
+behavior will be a consequence of both the practices undertaken to
+reach mystical experience and the resulting detachment of the selfless
+mystical state (Jones 2004).
+12. Secular Mysticism
+The new scientific interest in meditation (especially mindfulness),
+the new cultural interest in meditating for limited psychological or
+physiological benefits rather than transforming one’s entire
+character, and the utilization of psychedelics in psychotherapy have
+given rise today to a new phenomenon — “secular mysticism.” Awe
+and wonder at nature is prominent, but this mysticism is not a matter
+of “nature mysticism” or of aesthetic experiences as possible
+triggers of mystical experiences. Rather, the interest is in the
+psycho-physiological effects of meditation and psychedelics, with
+mystical experiences understood within a naturalist framework.
+Neuroscience appears to validate the positive effects of meditation
+and psychedelics on our well-being. Secular forms of meditation for
+limited benefits, such as Jon Kabat-Zinn’s
+mindfulness-based stress reduction program. Secularists can disconnect
+traditional practices from a mystical tradition (e.g.,
+Batchelor’s “secular Buddhism” [2015]) or focus only on
+limited practices (e.g., Harris 2014, Letheby 2017).
+Mysticism becomes “naturalized.” It is reduced from a full way of life
+to eliciting mystical experiences for limited benefits or as mere
+recreation. Mystical experiences break the sense of a narrow
+“self’” and makes one feel connected to others and the rest of
+the world, and secularists see this in terms of the natural world
+alone. This naturalist spirituality appears more tied to mystical
+experiences than other psychedelic experiences (Letheby 2021, 200).
+Patients often attach great spiritual importance to mystical
+experiences even if their metaphysics remains naturalist (see
+Griffiths 2011). Mystical experiences often touch off awe and wonder
+at the universe and being alive and also an interest in the “big
+questions” of philosophy and science even if the experiences
+themselves are not taken to be cognitive. That mystical
+experiences may involve transcendent realities or may give knowledge
+of reality is either denied in favor of a naturalist metaphysics,
+or the issue is simply ignored. In fact, while mystical experiences
+are normally seen in terms of transcendent realities, these
+experiences may lead those inclined toward naturalism to becoming
+convinced that there is no god or life after death and to abandoning
+religion entirely (Newberg and Waldman 2016, 60, 67–81).
+Secular mysticism raises three central philosophical questions. First,
+it impacts the epistemological question of whether mystical
+experiences give any insight into reality or other knowledge. If the
+experiences do not necessarily lead to cognitive claims, we have to
+ask whether mystics’ knowledge-claims come only from their
+tradition and ask what role mystical experiences actually play. The
+issue of whether mystical experiences have any epistemic or
+ontological implications becomes clearer. Second, it highlights
+the issue of the role of cultural interpretation in understanding
+mystical experiences and the constructivist claim that cultural
+influences penetrate some or all mystical experiences. Third, can the
+effect of mystical experiences lead to a meaningful or purposeful life
+without reference to transcendent realities?
+Bibliography
+Almond, Philip C. 1982.
+Mystical Experience and
+Religious Doctrine
+, Berlin: Mouton Press.
+Alston, William. 1991.
+Perceiving God: The
+Epistemology of Religious Experience
+, Ithaca: Cornell University
+Press.
+–––. 1992. “Literal and
+Nonliteral in Reports of Mystical Experience,” in
+Mysticism
+and Language
+, Steven T. Katz (ed.), New York and Oxford: Oxford
+University Press, 80–102.
+–––. 1993.
+The Reliability of
+Sense Perception
+, Ithaca: Cornell University Press.
+–––. 1994. “Reply to
+Commentators,”
+Philosophy and Phenomenological
+Research
+, 54: 891–899.
+–––. 2005.
+Beyond
+“Justification”: Dimensions of Epistemic Evaluation
+,
+Ithaca: Cornell University Press.
+Augustine. 1958.
+On Christian Doctrine
+, D. W. Robertson,
+Jr. (trans.), Indianapolis: Bobbs-Merrill.
+Azari, Nina P. et al. 2001. “Neural
+Correlates of Religious Experience,”
+European Journal
+of Neural Science
+, 13: 1649–52.
+Bagger, Matthew C. 1999.
+Religious Experience,
+Justification, and History
+, Cambridge: Cambridge University
+Press.
+Baillie, John. 1939.
+Our Knowledge of God
+,
+London: Oxford University Press.
+Barnard, G. William. 1997.
+Exploring Unseen
+Worlds: William James and the Philosophy of Mysticism
+,
+Albany: SUNY Press.
+Barrett, Frederick S. and Roland R. Griffiths. 2018.
+“Classic Hallucinogens and Mystical Experiences: Phenomenology
+and Neural Correlates,” in Adam L. Halberstadt, Franz X. Vollenweider,
+and David E. Nichols (eds.),
+Behavioral Neurobiology of
+Psychedelic Drugs
+, New York: Springer, 393–430.
+Batchelor, Stephen. 2015.
+After Buddhism: Rethinking the
+Dharma for a Secular Age
+, New Haven: Yale University Press.
+Beer, Frances. 1993.
+Women and Mystical Experience
+in the Middle Ages
+, Woodbridge: Boydell Press.
+Bergson, Henri, 1977 [1935].
+The Two Sources of Morality
+and Religion
+, R. A. Audra and C. Berenton (trans.), Notre
+Dame: University of Notre Dame, 1977.
+Borchert, Bruno.1994.
+Mysticism, Its History and
+Challenge
+, York Beach, Maine: Samuel Weiser.
+Bradford, David T. 2013. “Emotion in Mystical
+Experience,”
+Religion, Brain & Behavior
+, 3(2):
+103–118.
+Broad, C.D. 1939. “Arguments for the Existence of
+God, II,”
+The Journal of Theological Studies
+, 40:
+156–67.
+–––. 1953.
+Religion, Philosophy,
+and Psychical Research
+, London: Routledge, and Kegan Paul.
+1939. “Arguments for the Existence of God, II,”
+The Journal of Theological Studies
+, 40:
+156–67.
+Brunn, Emilie Zum and Epiney-Burgard,
+Georgette. 1989.
+Women Mystics in Medieval
+Europe
+, Sheila Hughes (trans.), New York: Paragon
+House.
+Bucke, Richard M. 1901.
+Cosmic Consciousness: A Study in the
+Evolution of the Human Mind
+, New York: Dutton.
+Byrne, Peter. 2001. “Perceiving God and
+Realism,”
+Philo
+, 3: 74–88.
+Caciola, Nancy. 2000. “Mystics, Demoniacs, and the
+Physiology of Spirit Possession in Medieval Europe,”
+Comparative Studies in Society and History
+, 42:
+268–306.
+–––. 2003.
+Discerning
+Spirits: Divine and Demonic Possession in the Middle Ages
+,
+Ithaca: Cornell University Press.
+Coakley, Sarah. 2009. “Dark Contemplation and Epistemic
+Transformation: The Analytic Theologian Re-meets Teresa of
+Avila,” in
+Analytic Theology, New Essays in the Philosophy
+of Theology
+, Oliver D. Crisp and Michael C. Rea (eds.), Oxford:
+Oxford University Press.
+Daly, Mary. 1973.
+Beyond God the Father: Toward
+a Philosophy of Women’s Liberation
+, Boston: Beacon
+Press.
+Danto, Arthur. 1987.
+Mysticism and Morality:
+Oriental Thought and Moral Philosophy
+, New York: Columbia
+University Press.
+d’Aquili, Eugene and Andrew Newberg. 1999.
+The
+Mystical Mind: Probing the Biology of Religious Experience
+,
+Minneapolis: Fortress Press.
+D’Costa, Gavin. 1987.
+John Hick’s
+Theology of Religions: A Critical Evaluation
+, Lanham: University
+Press of America.
+Deikman, Arthur. 1980. “Deautomatization and the
+Mystic Experience,” in
+Understanding Mysticism
+,
+Richard Woods (ed.), Garden City: Doubleday, 240–69.
+Devinsky, Orrin and George C. Lai. 2008. “Spirituality and
+Religion in Epilepsy,”
+Epilepsy & Behavior
+, 12(4):
+636–643.
+Doblin, Rick. 1991. “Pahnke’s ‘Good Friday
+Experiment’: A Long-Term Follow-Up and Methodological
+Critique,”
+Journal of Transpersonal Psychology
+, 23(1):
+1–28.
+Dogen. 1986.
+Shobogenzo: Zen Essays by
+Dogen
+, Thomas Cleary (trans.), Honolulu: University of
+Hawai‘i Press.
+Dunn, Bruce R., Judith A. Hartigan, and William L. Mikulas. 1999.
+“Concentration and Mindfulness: Unique Forms of
+Consciousness,”
+Applied Psychophysiology and
+Biofeedback
+, 24(3): 147–165.
+Eckhart, Meister. 2009.
+The Complete Mystical Works of Meister
+Eckhart
+, Maurice O’C. Walshe (ed. and trans); rev. by
+Bernard McGinn, New York: Crossroad.
+Evans, Donald. 1989. “Can Philosophers Limit What Mystics
+Can Do? A Critique of Steven Katz,”
+Religious Studies
+25(1): 53–60.
+Fales, Evan. 1996a. “Scientific Explanations of
+Mystical Experiences, Part I: The Case of St
+Teresa,”
+Religious Studies
+, 32:
+143–163.
+–––. 1996b. “Scientific
+Explanations of Mystical Experiences, Part II,”
+Religious
+Studies
+, 32: 297–313.
+–––. 2001. “Do Mystics See
+God?” in
+Contemporary Debates in the Philosophy of
+Religion
+, Michael L. Peterson (ed.), Oxford: Blackwell.
+–––. 2010.
+Divine Intervention:
+Metaphysical and Epistemological Puzzles
+, New York:
+Routledge.
+Flew, Antony. 1966.
+God and Philosophy
+, London:
+Hutchinson.
+Forgie, William.1984. “Theistic Experience and the
+Doctrine of Unanimity,”
+International Journal of the
+Philosophy of Religion
+, 15: 13–30.
+–––. 1994. “Pike’s Mystic Union
+and the Possibility of Theistic Experience,”
+Religious
+Studies
+, 30: 231–242.
+Forman, Robert K. C. 1989. “Paramartha and Modern
+Constructivists on Mysticism: Epistemological Monomorphism versus
+Duomorphism,”
+Philosophy East and West
+, 39:
+393–418.
+––– (ed.). 1990.
+The Problem of Pure
+Consciousness, Mysticism and Philosophy
+, New York: Oxford
+University Press.
+–––. 1999.
+Mysticism, Mind,
+Consciousness
+, Albany, NY: State University of New
+York Press.
+Franke, William. 2007.
+On What Cannot be
+Said: Apophatic Discourses in Philosophy, Religion, Literature,
+and the Arts
+, 2 vols., Notre Dame: Notre Dame University
+Press.
+Franks, Carolyn Davis. 1989.
+The Evidential
+Force of Religious Experience
+, Oxford: Clarendon Press.
+Furlong, Monica. 2013.
+Visions &
+Longings: Medieval Women Mystics
+, Boston: Shambhala
+Publications.
+Gale, Richard M. 1960. “Mysticism and
+Philosophy,”
+Journal of Philosophy
+, 57:
+471–481.
+–––. 1991.
+On the Nature and
+Existence of God
+, Cambridge: Cambridge Press.
+–––, 1994. “Why Alston’s
+Mystical Doxastic Practice is Subjective,”
+Philosophy and
+Phenomenological Research
+, 54: 869–875.
+Gallope, Michael. 2017.
+Deep Refrains: Music,
+Philosophy, and the Ineffable
+, Chicago: University of Chicago
+Press.
+Gellman, Jerome. 1997.
+Experience of God and the
+Rationality of Theistic Belief
+, Ithaca: Cornell University
+Press.
+–––. 2001a.
+Mystical Experience of
+God: A Philosophical Enquiry
+, London: Ashgate Publishers.
+–––. 2001b. “Review of Matthew
+Bagger,
+Religious Experience, Justification, and
+History
+,”
+Faith and Philosophy
+, 18(4): 345–364.
+–––. 2010. “A Problem for the Christian
+Mystical Doxastic Practice,”
+Philo
+, 13(1):
+23–28.
+–––. 2011. “Credulity and
+Experience of God,”
+Philo
+, 10(2):
+114–124.
+Goldenberg, Naomi. 1979.
+The Changing of the
+Gods
+, Boston: Beacon Press.
+Griffiths, Paul J. 1993. “Pure Consciousness and
+Indian Buddhism,” in
+The Problem of Pure Consciousness,
+Mysticism and Philosophy
+, Robert Forman (ed.), New York: Oxford
+University Press, 121–159.
+Griffiths, Roland R. et al. 2011. “Psilocybin
+Occasioned Mystical-Type Experiences: Immediate and Persisting
+Dose-related Effects,”
+Psychopharmacology
+, 218(4):
+649–665.
+Gutting, Gary. 1982,
+Religious Belief and Religious
+Skepticism
+, Notre Dame, IN.: University of Notre Dame.
+Harris, Sam. 2014.
+Waking Up: A Guide to Spirituality Without
+Religion
+, New York: Simon & Schuster.
+Hick, John. 1989.
+An Interpretation of Religion:
+Human Responses to the Transcendent
+, London: Macmillan.
+Hollywood, Amy. 2002.
+Sensible Ecstasy: Mysticism, Sexual
+Difference and the Demands of History
+, Chicago: Univ. of
+Chicago.
+Hood, Ralph W., Jr. 1997. “The Empirical Study of
+Mysticism,” in
+The Psychology of Religion: Theoretical
+Approaches
+, Bernard Spilka and Daniel N. McIntosh (eds.),
+222–232. Boulder, CO: Westview Press.
+–––. 2001.
+Dimensions of Mystical
+Experiences: Empirical Studies and Psychological
+Links
+, Amsterdam: Rodopi.
+–––. 2006. “The Common Core Thesis in
+the Study of Mysticism,” in
+Where God and Science Meet
+(Volume 3: The Psychology of Religious Experience), Patrick McNamara
+(ed.), 119–38, Westport CT: Praeger.
+–––. 2017. “Self-Loss in Indigenous
+and Cross-Cultural Psychologies: Beyond Dichotomies?”
+Research in the Social Scientific Study of Religion
+28: 112–132.
+Hood, Ralph W., Jr. and G. N. Byrom. 2010. “Mysticism,
+Madness, and Mental Health,” in
+The Healing Power of
+Spirituality: How Faith Helps Humans Thrive
+, vol. 3, J. Harold
+Ellens (ed.), Santa Barbara, CA: Praeger, 171–191.
+Hurcombe, Linda (ed.). 1987.
+Sex and
+God: Varieties of Women’s Religious Experience
+, New
+York: Routledge & Kegan Paul.
+Huxley, Aldous. 1945.
+The Perennial Philosophy
+,
+New York: Harper & Bros.
+Idel, Moshe. 1988.
+Kabbalah: New Perspectives
+,
+New Haven: Yale University Press.
+Idel, Moshe and Bernard McGinn (eds.). 1996.
+Mystical
+Union in Judaism, Christianity, and Islam: An Ecumenical
+Dialogue
+. New York: Continuum.
+James. William. 1958 [1902].
+The Varieties of
+Religious Experience
+, New York: Mentor Books.
+Jantzen, Grace M. 1994. “Feminists, Philosophers,
+and Mystics,”
+Hypatia
+, 9: 186–206.
+–––. 1995.
+Power, Gender, and
+Christian Mysticism
+, Cambridge: Cambridge University Press.
+Jones, Richard H. 2004.
+Mysticism and Morality: A
+New Look at Old Questions
+, Lanham, MD: Lexington Books.
+–––. 2016.
+Philosophy of
+Mysticism: Raids on the Ineffable
+, Albany: State University
+of New York Press.
+–––. 2018. “Limitations on the Neuroscientific
+Study of Mystical Experiences,”
+Zygon: Journal of Science
+and Religion
+, 53(4): 992–1017.
+–––. 2019. “Limitations on the
+Scientific Study of Drug-Enabled Mystical Experiences,”
+Zygon: Journal of Science and Religion
+, 54(3):
+756–792.
+–––. 2020. “On Constructivism in the
+Philosophy of Mysticism,”
+Journal of Religion
+, 100 (no.
+1): 1–41.
+Jones, Rufus M. 1909.
+Studies in Mystical
+Religion
+, London: Macmillan.
+Katz, Steven T. 1978. “Language, Epistemology, and
+Mysticism,” in
+Mysticism and Philosophical Analysis
+,
+Steven T. Katz (ed.), New York: Oxford University Press,
+22–74.
+––– (ed.). 1983.
+Mysticism and
+Religious Traditions
+, Oxford: Oxford University Press.
+–––. 1988. “Responses and
+Rejoinders,”
+Journal of the American Academy of
+Religion
+, 56: 751–757.
+––– (ed.). 2013.
+Comparative
+Mysticism: An Anthology of Original Sources
+, Oxford: Oxford
+University Press.
+Kelly, Edward F. and Michael Grosso. 2007. “Mystical
+Experience,” in Edward F. Kelly et al.,
+Irreducible
+Mind: Toward a Psychology for the 21st Century
+, Lanham, MD:
+Rowman & Littlefield, 495–575.
+King, Sallie B. 1988. “Two Epistemological Models
+for the Interpretation of Mysticism,”
+Journal of the
+American Academy of Religion
+, 56: 257–279.
+Kripal, Jeffery. 2002. “Debating the Mystical as
+the Ethical: An Ideological Map,” in
+Crossing Boundaries:
+Essays on the Ethical Status of Mysticism
+, W. Barnard and J.
+Kripal (eds.), New York: Seven Bridges Press.
+Kroll, Jerome and Bernard Bachrach. 2005.
+The Mystic Mind: The
+Psychology of Medieval Mystics and Ascetics
+, New York:
+Routledge.
+Kvanvig, Jonathan. 1994. “A Critical Notice of
+Alston’s Perceiving God,”
+Faith and Philosophy
+, 11(April): 311–321.
+Kwan, Kwai-Man. 2011,
+The Rainbow of Experiences, Critical
+Trust, and God
+, New York: Continuum International Publishing
+Group.
+–––. 2013. “The Argument from
+Religious Experience,” in
+The Blackwell Companion to Natural
+Theology
+, W. L. Craig and J. P. Moreland (eds.), Oxford:
+Wiley-Blackwell Publishers.
+Lanzetta, Beverly. 2005.
+Radical Wisdom: A
+Feminist Mystical Theology
+, Minneapolis: Augsburg Fortress.
+Letheby, Chris. 2017. “Naturalizing Psychedelic Spirituality,”
+Zygon: Journal of Science and Religion
+, 52(3):
+623–642.
+–––. 2021.
+Philosophy of Psychedelics
+,
+New York: Oxford University Press.
+Louth, Andrew. 2012. “Apophatic and Cataphatic
+Theology,” in
+The Cambridge Companion to Christian
+Mysticism
+, Amy Hollywood and Patricia Z. Beckman (eds.),
+Cambridge: Cambridge University Press.
+Loy, David. 2002. “The Lack of Ethics and the
+Ethics of Lack in Buddhism,” in W. Barnard and J. Kripal (eds.),
+Crossing Boundaries: Essays on the Ethical Status of
+Mysticism
+, New York: Seven Bridges Press.
+Marshall, Paul. 2005.
+Mystical Encounters with the
+Natural World
+, Oxford: Oxford University Press.
+Martin, C.B. 1955. “A Religious Way of
+Knowing,” in
+New Essays in Philosophical Theology
+,
+Antony Flew and Alasdair MacIntyre (eds.), London: SCM Press,
+76–95.
+Martin, Michael. 1990.
+Atheism: A Philosophical
+Justification
+, Philadelphia: Temple University Press.
+Matt, Daniel C. 1997. “Varieties of Mystical
+Nothingness: Jewish, Christian, and Buddhist Perspectives,” in
+Wisdom and Logos: Studies in Jewish Thought in Honor of David
+Winston
+, David T. Runia and Gregory E. Sterling (eds.),
+The
+Studia Philonica Annual
+(Studies in Hellenistic Judaism), 9:
+316–331, Atlanta: Scholars Press.
+McGinn, Bernard. 1994.
+The Foundations of Mysticism:
+Origins to the Fifth Century
+, New York: Crossroad.
+––– (ed.). 2006.
+The Essential
+Writings of Christian Mysticism
+, New York: Random House.
+Merkur, Dan. 1999.
+Mystical Moments and Unitive
+Thinking
+, Albany: State University of New York Press.
+Millière, Raphaël et al. 2018. “Psychedelics,
+Meditation, and Self-Consciousness,”
+Frontiers in
+Psychology
+, 9 (September): 1–29 (Article 1475).
+Mommaers, Paul. 2009.
+Jan Van Ruusbroec: Mystical
+Union with God
+, Leuven: Peters Publishers.
+Moore, Peter. 1973. “Recent Studies of Mysticism: A
+Critical Survey,”
+Religion
+, 3: 146–156.
+Newberg, Andrew B. and Mark R. Waldman. 2016.
+How
+Enlightenment Changes Your Brain: The New Science of
+Transformation
+, New York, NY: Penguin Random House.
+Nhat Hanh, Thich. 1994.
+Zen Keys: A Guide to
+Zen Practice
+, New York: Doubleday.
+Oppy, Graham. 2006.
+Arguing Against Gods
+,
+Cambridge: Cambridge University Press.
+Otto, Rudolf. 1932.
+Mysticism East and West: A Comparative
+Analysis of the Nature of Mysticism
+, Bertha L. Bracy and Richenda
+C. Payne (trans.), New York: Macmillan.
+–––. 1957 [1917].
+The Idea of the
+Holy
+, Second Edition, Oxford: Oxford University Press.
+Persinger, Michael A. 1987.
+Neuropsychological Bases of God
+Beliefs
+, New York: Praeger.
+Pike, Nelson. 1992.
+Mystic Union: An Essay in the
+Phenomenology of Mysticism
+, Ithaca: Cornell University
+Press.
+Plantinga, Alvin. 1980.
+Does God have a
+Nature?
+Milwaukee: Marquette University Press.
+–––. 2011.
+Where the Conflict
+Really Lies: Science, Religion, and Naturalism
+, Oxford:
+Oxford University Press.
+Proudfoot, Wayne. 1985.
+Religious Experience
+,
+Berkeley/Los Angeles: University of California Press.
+Radhakrishnan, Sarvepalli (trans.). 1968.
+The
+Brahma Sutra: The Philosophy of Spiritual Life
+, New York:
+Greenwood Press.
+Raphael, Melissa. 1994. “Feminism, Constructivism,
+and Numinous Experience,”
+Religious Studies
+, 30:
+511–526.
+Rose, Kenneth. 2016.
+Yoga, Meditation, and Mysticism:
+Contemplative Universals and Meditative Landmarks
+, New York:
+Bloomsbury Academic.
+Rowe, William. 1982. “Religious Experience and the
+Principle of Credulity,”
+International Journal for
+Philosophy of Religion
+, 13: 85–92.
+Russell, Bertrand. 1935.
+Religion and Science
+,
+London: Oxford University Press.
+Schimmel, Annemarie. 1975.
+Mystical Dimensions of
+Islam
+, Chapel Hill: University of North Carolina Press.
+Schjoedt, Uffe. 2009. “The Religious Brain: A General
+Introduction to the Experimental Neuroscience of
+Religion,”
+Method & Theory in the Study of
+Religion
+, 21(3): 310–339.
+Schleiermacher, Friedrich. 1963.
+The Christian
+Faith
+, H. R. Mackintosh and J. S. Stewart (trans.), New York:
+Harper & Row.
+Schuon, Frithjof. 1975.
+The Transcendent Unity of
+Religions
+, New York: Harper.
+Sells, Michael A. 1994.
+Mystical Languages of
+Unsaying
+, Chicago: Chicago University Press.
+Shaw, Gregory. 1995.
+Theurgy and the Soul: The
+Neoplatonism of Iamblichus
+, University Park: Penn State
+Press.
+Smart, Ninian. 1958.
+Reasons and Faiths
+,
+London: Routledge and Kegan Paul.
+–––. 1965. “Interpretation and
+Mystical Experience,”
+Religious Studies
+, 1(1):
+75–87.
+–––. 1978. “Understanding
+Religious Experience,” in
+Mysticism and Philosophical
+Analysis
+, Steven T. Katz (ed.), London: Sheldon Press.
+Smith, Huston. 1964. “Do Drugs Have Religious Import?”
+Journal of Philosophy
+, 61(18): 517–30.
+–––. 1976.
+Forgotten Truth: The Primordial
+Tradition
+, New York: Harper & Row.
+–––. 1987. “Is There a Perennial Philosophy?”
+Journal of the American Academy of Religion
+, 55 (Autumn):
+553–566.
+–––. 2000.
+Cleansing the Doors of Perception: The Religious
+Significance of Entheogenic Plants and Chemicals
+, New York:
+Penguin Putnam.
+–––. 2005. “Do Drugs Have Religious Import? A Forty Year
+Follow-Up,” in Roger Walsh and Charles S. Grob (eds.),
+Higher Wisdom: Eminent Elders Explore the Continuing Impact of
+Psychedelics
+, Albany: SUNY Press, 223–239.
+Staal, Frits. 1975.
+Exploring Mysticism
+,
+London: Penguin.
+Stace, Walter T. 1960,
+Mysticism and Philosophy
+,
+London: Macmillan.
+Stoeber, Michael. l992. “Constructivist
+Epistemologies of Mysticism: A Critique and a Revision,”
+Religious Studies
+28: 107–116.
+–––. 1994.
+Theo-Monistic Mysticism: A Hindu-Christian
+Comparision
+, New York: St. Martin’s Press.
+Suso, Henry. 1953.
+Little Book of Eternal Wisdom and
+Little Book of Truth
+, J. M. Clark (trans.), London: Faber
+& Faber.
+Swinburne, Richard. 1991.
+The Existence of God
+,
+Revised Edition, Oxford: Clarendon Press.
+–––. 1996.
+Is There a
+God?
+Oxford: Oxford University Press.
+Taves, Ann. 2009.
+Religious Experience
+Reconsidered: A Building-Block Approach to the Study of Religion
+and Other Special Things
+, Princeton: Princeton University
+Press.
+Taylor, Steve. 2017. “The Return of Perennial
+Perspectives? Why Transpersonal Psychology Should Remain Open to
+Essentialism,”
+International Journal of Transpersonal
+Studies
+36(2): 75–92.
+Teresa of Avila. 1957.
+The Life of Saint Teresa of
+Avila
+, J. M. Cohen (trans.), New York: Penguin Books.
+Turner, Denys. 1996.
+The Darkness of God: Negativity
+in Christian Mysticism
+, Cambridge: Cambridge University
+Press.
+Underhill, Evelyn. 1945 [1911].
+Mysticism: A
+Study in the Nature and Development of Man’s Spiritual
+Consciousness
+, London: Methuen.
+Valentine, Elizabeth R. and Philip G. Sweet. 1999.
+“Meditation and Attention: A Comparison of the Effects of
+Concentrative and Mindfulness Meditation on Sustained
+Attention,”
+Mental Health, Religion & Culture
+2
+(1): 59–70.
+Wainwright, William J. 1981.
+Mysticism: A Study
+of its Nature, Cognitive Value, and Moral Implications
+, Madison:
+University of Wisconsin Press.
+Wulff, David M. 2000. “Mystical Experience,”
+in
+Varieties of Anomalous Experience: Examining the Scientific
+Evidence
+, Etzel Cardena, Steven Jay Lynn, and Stanley Krippner
+(eds.), Washington, D.C.: American Psychological Association,
+397–440.
+Yaden, David B. et al. 2017. “The Noetic Quality: A
+Multimethod Exploratory Study.”
+Psychology of Consciousness:
+Theory, Research, and Practice
+4(1): 54–62.
+Yandell, Keith. 1975. “Some Varieties of
+Ineffability,”
+International Journal for Philosophy of
+Religion
+6: 167–179.
+–––. 1993.
+The Epistemology of
+Religious Experience
+, New York: Cambridge University Press.
+Zaehner, R. C. 1957.
+Mysticism, Sacred and
+Profane
+, New York: Oxford University Press.
+Zelinski, Daniel. 2007. “From Prudence to
+Morality,” in
+Religion, Mysticism, and Ethics: A
+Cross-Traditional Anthology
+, Jan Assman et al. (eds.),
+Berlin: Walter de Gruyter, 144–169.
+Academic Tools
+How to cite this entry
+.
+Preview the PDF version of this entry
+at the
+Friends of the SEP Society
+.
+Look up topics and thinkers related to this entry
+at the Internet Philosophy Ontology Project (InPhO).
+Enhanced bibliography for this entry
+at
+PhilPapers
+, with links to its database.
+Other Internet Resources
+Varieties of Religious Experience
+,
+ by William James (Electronic Text Center, University of
+Virginia).
+Alston, William, 2005
+Divine Mystery and Our Knowledge of God
+(The Taylor Lectures), Yale Divinity School. [YouTube]
+Tao Te Ching
+,
+ Taoism Information Page (University of Florida), web page listing
+various translations.
+Related Entries
+al-Ghazali
+|
+Arabic and Islamic Philosophy, special topics in: mysticism
+|
+Buddha
+|
+Chinese Philosophy: Chan Buddhism
+|
+consciousness
+|
+feminist philosophy
+|
+Gorampa [go rams pa]
+|
+Ibn ‘Arabî
+|
+James, William
+|
+Laozi
+|
+Madhyamaka
+|
+Meister Eckhart
+|
+Nāgārjuna
+|
+Neo-Daoism
+|
+perception: the problem of
+|
+Philo of Alexandria
+|
+Plotinus
+|
+Pseudo-Dionysius the Areopagite
+|
+religious experience
+|
+Śāntideva
+|
+Śaṅkara
+|
+Tsongkhapa
+|
+Vasubandhu
+|
+Zhuangzi

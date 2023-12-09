@@ -1,0 +1,2597 @@
+Edmund Husserl
+First published Fri Feb 28, 2003; substantive revision Mon Oct 17, 2022
+Edmund Husserl was the principal founder of phenomenology—and
+thus one of the most influential philosophers of the 20
+th
+century. He has made important contributions to almost all areas of
+philosophy and anticipated central ideas of its neighbouring
+disciplines such as linguistics, sociology and cognitive
+psychology.
+1. Life and work
+2. Pure logic, meaning, intuitive fulfillment and intentionality
+3. Indexicality and propositional content
+4. Singularity, consciousness and horizon-intentionality
+5. The phenomenological
+epoché
+6.
+Epoché
+, perceptual noema,
+hýle
+, time-consciousness and phenomenological reduction
+7. Passivity vs. activity
+8. Communication, sociality, personhood and personal values
+9. Empathy, intersubjectivity and lifeworld; ethics and value theory
+10. The intersubjective constitution of objectivity and the case for “transcendental idealism”
+Bibliography
+Primary Literature
+Secondary Literature
+Academic Tools
+Other Internet Resources
+Related Entries
+1. Life and work
+Husserl was born in Prossnitz (Moravia) on April 8
+th
+, 1859.
+His parents were non-orthodox Jews; Husserl himself and his wife would
+later convert to Protestantism. They had three children, one of whom
+died in World War I. In the years 1876–78 Husserl studied
+astronomy in Leipzig, where he also attended courses of lectures in
+mathematics, physics and philosophy. Among other things, he heard
+Wilhelm Wundt’s lectures on philosophy. (Wundt was the
+originator of the first institute for experimental psychology.)
+Husserl’s mentor was Thomas Masaryk, a former student of
+Brentano’s, who was later to become the first president of
+Czechoslovakia. In 1878–81 Husserl continued his studies in
+mathematics, physics and philosophy in Berlin. His mathematics
+teachers there included Leopold Kronecker and Karl Weierstrass, whose
+scientific ethos Husserl was particularly impressed with. However, he
+took his PhD in mathematics in Vienna (January 1883), with a thesis on
+the theory of variations (
+Variationstheorie
+). After that he
+returned to Berlin, to become Weierstrass’ assistant. When
+Weierstrass got seriously ill, Masaryk suggested that Husserl go back
+to Vienna, to study philosophy with Franz Brentano, the author of
+Psychology from an Empirical Standpoint
+(1874). After a brief
+military service in Vienna, Husserl followed Masaryk’s advice
+and studied with Brentano from 1884–86. Brentano’s
+lectures on psychology and logic had a lasting impact on Husserl, as
+had his general vision of a strictly scientific philosophy. Brentano
+then recommended Husserl to his pupil Carl Stumpf in Halle, who is
+perhaps best known for his
+Psychology of Tone
+(two volumes,
+1883/90). This recommendation enabled Husserl to prepare and submit
+his habilitation dissertation
+On the Concept of Number
+(1887)
+with Stumpf.
+That thesis was later integrated into Husserl’s first published
+monograph,
+Philosophy of Arithmetic
+, which appeared in 1891.
+In this work, Husserl combined his mathematical, psychological and
+philosophical competencies to attempt a psychological foundation of
+arithmetic (see Willard 1984, pp. 38–118; Bell 1990, pp.
+31–84). The book was, however, criticized for its underlying
+psychologism in a review by Gottlob Frege. It seems that Husserl took
+that criticism very seriously (see Føllesdal 1958), although it
+is far from clear that the author of
+Philosophy of Arithmetic
+regards logic as a branch of psychology, as “strong
+psychologism” (Mohanty 1982, p. 20) has it. In any case, Husserl
+sharply attacked that kind of psychologism (raising about eighteen
+objections in total; see Soldati 1994, pp. 117 ff) and developed the
+philosophical method he is nowadays famous for: phenomenology.
+In 1900/01 his first phenomenological work was published in two
+volumes, titled
+Logical Investigations
+. The first volume
+contains a forceful attack against psychologism, whereas the (much
+larger) second volume consists of six
+“descriptive-psychological” and
+“epistemological” investigations into (I) expression and
+meaning, (II) universals, (III) the formal ontology of parts and
+wholes (mereology), (IV) the “syntactical” and
+mereological structure of meaning, (V) the nature and structure of
+intentionality as well as (VI) the interrelation of truth, intuition
+and cognition. Husserl now adheres to a version of platonism that he
+derived from ideas of Hermann Lotze and especially Bernard Bolzano,
+where he embeds platonism about meaning and mental content in a theory
+of intentional consciousness (see Beyer 1996).
+In the first decade of the 20
+th
+century, Husserl
+considerably refined and modified his method into what he called
+“transcendental phenomenology”. This method has us focus
+on the essential structures that allow the objects naively taken for
+granted in the “natural attitude” (which is characteristic
+of both our everyday life and ordinary science) to “constitute
+themselves” in consciousness. (Among those who influenced him in
+this regard are Descartes, Hume and Kant.) As Husserl explains in
+detail in his second major work,
+Ideas
+(1913), the resulting
+perspective on the realm of intentional consciousness is supposed to
+enable the phenomenologist to develop a radically unprejudiced
+justification of his (or her) basic views on the world and himself and
+explore their rational interconnections.
+Husserl developed these ideas in Göttingen, where—thanks to
+his
+Logical Investigations
+and the support by Wilhelm
+Dilthey, who admired that work and recommended Husserl to the Prussian
+ministry of culture—he received an associate professorship
+(“Extraordinariat”, later turned into a
+“Persönliches Ordinariat”) in 1901. From 1910/11 and
+1913, respectively, he served as founding (co-)editor of
+Logos
+(in the first issue of which his programmatic article
+“Philosophy as a Rigorous Science” appeared, containing a
+critique of naturalism) and of the
+Yearbook for Phenomenology and
+Phenomenological Research
+(opening with his
+Ideas Pertaining
+to a Pure Phenomenology and to a Phenomenological Philosophy
+).
+Husserl stayed in Göttingen until 1916. It is here that he made
+his most important philosophical discoveries (cf. Mohanty 1995), such
+as the transcendental-phenomenological method, the phenomenological
+structure of time-consciousness, the fundamental role of the notion of
+intersubjectivity in our conceptual system, the horizon-structure of
+our singular empirical thought, and more. In later works—most
+notably in
+On the Phenomenology of the Consciousness of Internal
+Time
+(1928),
+Formal and Transcendental Logic
+(1929),
+Cartesian Meditations
+(1931),
+The Crisis of European
+Sciences and Transcendental Phenomenology
+(1954) and
+Experience and Judgement
+(1939)—these results were
+developed further and put into new contexts, such as the path-breaking
+project of linking the basic notions of science back to their
+conceptual roots in the pre-scientific (regions of the)
+“lifeworld” (
+Crisis
+).
+In the year 1916 Husserl became Heinrich Rickert’s successor as
+full professor (“Ordinarius”) in Freiburg/Breisgau, where
+(among many other things) he worked on passive synthesis (cf.
+Husserliana
+, vol. XI, XXXI). He gave four lectures on
+Phenomenological Method and Phenomenological Philosophy
+at
+University College, London, in 1922 (cf.
+Husserliana
+, vol.
+XXXV). In 1923 he received a call to Berlin, which he rejected.
+Husserl retired in 1928, his successor being his (and Rickert’s)
+former assistant Martin Heidegger (whose major work
+Being and
+Time
+had been published in Husserl’s
+Yearbook
+in
+1927). In 1929 he accepted an invitation to Paris. His lectures there
+were published as
+Cartesian Meditations
+in 1931. In the same
+year, Husserl gave a number of talks on “Phenomenology and
+Anthropology”, in which he criticized his two
+“antipodes”, Heidegger and Max Scheler (cf. Husserl 1997).
+In 1933 Hitler took over in Germany. Husserl received a call to Los
+Angeles but rejected. Because of his Jewish ancestors, he became more
+and more humiliated and isolated. In 1935 he gave a series of invited
+lectures in Prague, resulting in his last major work,
+The Crisis
+of European Sciences and Transcendental Phenomenology
+.
+Edmund Husserl died on April 27, 1938 in Freiburg. His manuscripts
+(more than 40000 pages in total) were rescued by the Franciscan Herman
+Leo Van Breda, who brought them to Leuven (Belgium), where the first
+Husserl archive was founded in 1939. (Today, there are further
+archives in Freiburg, Cologne, Paris, New York and Pittsburgh.) Since
+1950 the Husserl archives are editing Husserl’s collected works,
+Husserliana.
+2. Pure logic, meaning, intuitive fulfillment and intentionality
+As a philosopher with a mathematical background, Husserl was
+interested in developing a general theory of inferential systems,
+which (following Bolzano) he conceived of as a theory of science, on
+the ground that every science (including mathematics) can be looked
+upon as a system of propositions that are interconnected by a set of
+inferential and grounding relations. Following John S. Mill, he argues
+in
+Logical Investigations
+that the best way to study the
+nature of such propositional systems is to start with their linguistic
+manifestations, i.e., (sets of) sentences and (assertive) utterances
+thereof.
+How are we to analyse these sentences and the propositions they
+express? Husserl’s approach is to study the units of
+consciousness that the respective speaker presents himself as
+having—that he “gives voice to”—in expressing
+the proposition in question (for instance, while writing a
+mathematical textbook or giving a lecture). These units of
+consciousness he labels
+intentional acts
+or
+intentional
+experiences
+, since they always represent something as
+something—thus exhibiting what Brentano called intentionality.
+According to Husserl, there are non-intentional units of consciousness
+as well. (He quotes pain as an example.) What distinguishes
+intentional from non-intentional experiences is the former’s
+having intentional content.
+Even objectless (i.e., empty) intentional experiences like your
+thought of the winged horse Pegasus have content. On Husserl’s
+view, that thought simply lacks a corresponding object; the
+intentional act is “merely as of”, but not really of, an
+object. Husserl rejects “representationalist” accounts of
+intentionality, such as the mental image theory, according to which
+intentional experiences represent intra-mental pictorial
+representations of objects, where like other pictures such images may
+exist without there being a depicted object in the actual world. For
+Husserl, this view leads to a “false duplication” of
+objects represented in the veridical case; and it already presupposes
+what an adequate conception of pictorial representation is yet to
+accomplish: an explanation of what it is that makes the underlying
+“phantasy content”, or phantasm, “the [r]epresenting
+image
+of
+something or other” (Husserl 1994, p. 347;
+Husserliana
+, vol. XXII, pp. 305f). It is precisely an
+intentional content that does the trick here (as in all cases of
+intentional consciousness), according to Husserl, in a way to be
+explained in more detail by his phenomenology of consciousness.
+In the case of propositional acts, i.e., units of consciousness that
+can be given voice to by a complete sentence (paradigmatically, a
+declarative sentence), Husserl identifies their content with the
+propositional meaning expressed by that sentence. In the case of their
+non-propositional but still intentional parts, he identifies the
+corresponding intentional content with a sub-propositional meaning.
+For example, the judgement “Napoleon is a Frenchman”
+contains an act of thinking of Napoleon whose intentional content is
+the sub-propositional meaning expressed by the name
+“Napoleon”. (Accordingly, the judgement can be looked upon
+as an act of ascribing the property of being French to the referent of
+that name.) Experiences like this, which can be given voice to by
+either a singular or a general term, are called “nominal
+acts” (as opposed to the propositional acts containing them).
+Their contents are called “nominal meanings”.
+Husserl regards both propositional and nominal meanings as the
+subject-matter of “pure logic” or “logic in the wide
+sense”—the study of (i) what distinguishes sense (alias
+meaning) from nonsense (this part of pure logic being called
+“pure grammar”) and (ii) which of the senses delivered by
+pure grammar are logically consistent and which of them are not (this
+part of pure logic being labelled “logic in the narrow
+sense”).
+An important and still largely unexplored claim of Husserl’s is
+that any logically consistent meaning can in principle be subjectively
+fulfilled, more or less adequately, by a unified intuition, such as an
+act of continuous perception or intuitive imagination, where the
+structure and other essential features of the meaning in question can
+be read off from the respective mode of intuitive fulfillment.
+Inconsistent meanings can be singled out and studied by means of
+(reflection upon) corresponding experiences of intuitive conflict,
+like for instance the discrete switching back and forth between a
+duck-head-imagination and a rabbit-head-imagination in the case of an
+attempted intuitive imagination of a duck-head that is at the same
+time a rabbit-head. Some meanings are inconsistent for formal-logical
+reasons. According to Husserl, all analytically false propositions
+belong to this category. Other meanings are inconsistent because they
+conflict with some general material a priori truth, also called
+“essential law”. The proposition expressed by the sentence
+“There are perceptual objects whose surface is both (visibly)
+completely green and completely red at the same time” is a case
+in point.
+Meanings generally and propositions in particular exist independently
+of their actually functioning as intentional content. Thus, true
+propositions such as the Pythagorean theorem can be
+discovered
+. Propositions and their components are abstract,
+i.e., atemporal, objects. However, what does it mean to
+grasp
+a proposition or, more generally, a sense? How can an abstract object
+become the content of an intentional act? Combining ideas of Bolzano
+and Lotze, Husserl answers this question by taking recourse to the
+notion of an ideal (i.e., abstract)
+species
+or
+type
+,
+as follows. Propositions and other meanings are ideal species that can
+be (but do not have to be) instantiated by certain particular
+features, i.e., dependent parts, of intentional acts. Those species
+are also called “ideal matters”. The particular features
+instantiating an ideal matter—Husserl refers to them as
+“moments of matter”—are laid bare by
+phenomenological description, a reflection-based (or introspective)
+analysis taking into account both the linguistic expression(s) (if
+any) and the modes of (possible) intuitive fulfillment or conflict
+associated with the respective experience.
+Since phenomenological description yields ideal species, it involves
+what Husserl was later (notably in
+Ideas
+) to call
+“eidetic reduction”, i.e., an unfolding of abstract
+features shared by appropriate sets of fictitious or real-life
+examples, by way, e.g., of free imaginative variation on an
+arbitrarily chosen initial example (for the method of “free
+variation”, see
+Experience and Judgement
+, sec. 87).
+Phenomenological description also yields the “moment of
+quality” of the intentional experience under investigation,
+i.e., the particular feature instantiating its psychological mode
+(judgement, conscious deliberation, conscious desire, conscious hope,
+etc.), which roughly corresponds to the speech act mode of an
+utterance giving voice to that experience. Furthermore, the
+description yields relations of “foundation”, i.e.,
+one-sided or mutual relative existential dependencies between (1) the
+experience in question and other experiences and (2) the particular
+descriptive features of the experience. Thus, an experience of
+pleasure about a given event is one-sidedly founded, relative to the
+stream of consciousness it belongs to, in a particular belief-state to
+the effect that this event has occurred. (The relativization to a
+particular stream of consciousness makes sure that both founded and
+founding experience occur in the same person’s mind.) Like all
+foundation relations, this one holds in virtue of an essential law, to
+the effect that conscious pleasure about some state of affairs
+requires a corresponding (and simultaneous) belief. Quite generally, a
+given object
+a
+of type
+F
+is founded in a particular
+object
+b
+of type
+G
+(where
+a
+is different
+from
+b
+and
+F
+is different from
+G
+) relative
+to a particular whole
+c
+of type
+H
+if and only if (i)
+there is an essential law in virtue of which it holds that for any
+object
+x
+of type
+F
+there is an object
+y
+of
+type
+G
+and a whole
+z
+of type
+H
+, such that
+both
+x
+and
+y
+are (proper) parts of
+z
+, and
+(ii) both
+a
+and
+b
+are (proper) parts of
+c
+.
+Of course, the notion of an essential law needs further clarification
+(see De Santis 2021, pt. III ff).
+3. Indexicality and propositional content
+However, as Husserl was well aware, the species-theory of content
+faces at least one serious objection. This objection concerns
+utterances that are “essentially occasional”, i.e.,
+systematically context-sensitive, expressions like “I am here
+now” and the ‘indexical’ experiences they give voice
+to. If the intentional content of an indexical experience is to serve
+as a (sub-)propositional content, it must uniquely determine the
+object (if any) that the respective experience refers to. That is to
+say: if two indexical experiences display the same intentional
+content, they must refer to the same object (if any). It seems,
+though, that the moments of matter of two such experiences can
+instantiate the same ideal matter—the same type of (particular)
+content—whilst representing different objects. If you and I both
+think “I am here”, our respective thoughts share the same
+type of content, or so it would seem, but they represent different
+states of affairs. In order to accommodate this observation, Husserl
+draws a distinction between, on the one hand, the “general
+meaning function” of an utterance (which corresponds to what
+David Kaplan calls “character”, roughly: the linguistic
+meaning of the expression used) and, on the other hand, the
+“respective meaning” (i.e., the propositional or
+sub-propositional content expressed in the relevant context of
+utterance). However, it is doubtful whether this distinction really
+helps Husserl overcome the difficulty the phenomenon of
+context-sensitivity poses for his species-theory of content. If
+intentional contents are ideal matters in the sense of
+types
+of particular matters, and if this kind of type may remain constant
+while the intentional object and hence the (sub-)propositional content
+differs, then surely intentional contents thus conceived cannot always
+function as (sub-)propositional contents, as Husserl’s theory
+would have it. Rather, there must be another intentional content
+involved, namely the “respective meaning”, which serves as
+the (sub-)propositional content of the indexical experience. And this
+content does not appear to be an ideal
+species
+. (It may be
+argued, however, that even (sub-)propositional contents of indexical
+utterances can be
+instantiated multiply
+in thought and
+speech, thus qualifying as ideal species after all. But the crucial
+question is whether this holds true in complete generality: consider
+the above example “I am here now”.)
+However that may be, Husserl construes (sub-)propositional contents
+(“respective meanings”) as two-factored, with the general
+meaning function plus the relevant context of utterance (if any)
+determining the content in question. And at least in the case of
+indexical experiences he seems to identify their intentional contents
+with these two-factored contents, for he holds that intentional
+content, which is referred to as “noematic sense” or
+“noematic nucleus” in
+Ideas
+, uniquely determines
+reference, i.e., intentional object. (For the claim that noematic
+sense is contextually determined respective meaning rather than
+general meaning function—which rules out any internalist
+reading; see Section 4 below—cf.
+Husserliana
+, vol.
+XX/1, pp. 74–78; see also
+Husserliana
+, vol. XXVI, p.
+212, fn.) Some scholars even go as far as to claim that Husserl
+defines the noematic sense as “a certain person, object, event,
+state of affairs which presents itself, taken exactly as it present
+itself or as it is intended” (Gurwitsch 1982, pp. 61 f.; cp.
+Sokolowski 1987 and Drummond 1992; for a much-discussed critique of
+Gurwitsch’s interpretation see Føllesdal 1969). The
+notion of an intentional object “as it is intended” is
+already introduced in LI. It is argued (in LI V, sec. 20) that the
+object (e.g. the situation of affairs) as it is intended is to be
+distinguished from the (sub-)propositional content, on the grounds
+that, for instance, the state of affairs judged (the situation of
+affairs as it is categorically formed in the judgment) exists iff it
+obtains (so that the judgment is true), whilst the propositional
+content judged exists even if it is false (cf.
+Husserliana
+,
+vol. XIX/1, 427).
+4. Singularity, consciousness and horizon-intentionality
+Husserl sees quite clearly that indexical experiences (just as
+experiences given voice to by means of genuine proper names) are
+characterized, among other things, by their
+singularity
+: they
+represent a particular object, or set of objects,
+x
+, such
+that
+x
+is to be regarded as the intentional object of the
+respective experience in all relevant possible worlds (i.e., in all
+actual or counterfactual circumstances relative to which we are
+determining the object represented by that experience). Thus, for
+instance, in sec. 47 of
+Ideas
+, he describes what an
+experiencing subject, at a given time, in the light of his (or her)
+current indexical experiences, considers to be “the actual
+world” as a “special case” of a whole manifold of
+“possible worlds” each of which corresponds to a possible
+future course of experience (possible, that is, relative to the
+indexical experience in question). These (actual or potential) future
+experiences can be said to be (more or less) anticipated by the
+experiencing subject at the respective time, and they constitute what
+Husserl calls the “intentional horizon” of the indexical
+experience in the light of whose intentional content they are
+anticipated (cf. Smith and McIntyre 1982). For example, if you see
+something as a table, you will expect it to appear to you in certain
+ways if you go around and observe it.
+What binds together the intentional horizon of a given indexical
+experience? According to Husserl, all of the (actual or potential)
+experiences constituting that horizon share a
+sense of identity
+through time
+, which sense he labels as the
+determinable
+X
+they belong to. As a first approximation, two experiences of a
+given subject belong to the same determinable
+X
+if and only
+if the subject believes them to represent the same object. (For a
+related criterion of
+inter
+subjective identity of determinable
+X
+, see Beyer 2000, sec. 7.) Hence, experiences belonging to a
+determinable
+X
+must be accompanied by at least one
+higher-order belief. This view fits in well with the thesis (shared,
+at least in part, by so-called dispositional higher-order belief
+theories of consciousness) that intentional experiences automatically
+give rise to (i.e., motivate) momentary dispositions to make
+corresponding reflective higher-order judgements, based on something
+like inner perception, thus constituting a form of implicit or
+“pre-reflective self-consciousness” (to use Sartre’s
+term).
+It is controversial whether such a dispositional higher-order view may
+be ascribed to Husserl (see Zahavi 2015, sec. 1; for a reply see Beyer
+2018, sec. 1). It should be uncontroversial that on his view the
+motivational basis of the relevant higher-order dispositional beliefs
+must already display the essential feature of consciousness
+independently of occurrent higher-order thought in order to be
+available for such thought in the first place (see Beyer 2011, p. 44).
+This becomes clear on a close study of Husserl’s work on
+“inner time-consciousness” (see the entry on
+phenomenological approaches to self-consciousness
+;
+ also see Section 6 below). However, there is ample textual evidence
+showing that he regards the availability to inner perception (in the
+sense of a “real possibility” or “practical
+ability”; see Section 8 below) and to accordingly motivated
+reflective higher-order judgements (in which a hitherto “latent
+Ego” becomes “patent”) as an essential feature of
+consciousness, constituting its “mode of being” (cf.
+Husserliana
+, vol. III/1, p. 77, l. 27–35; p. 95, l.
+36–38;
+Husserliana
+, vol. VIII, p. 90).
+The determinable
+X
+a given indexical experience belongs to,
+with respect to certain other experiences, helps us answer the
+question of what determines the reference of that experience, if not
+its ideal meaning species alone. In order to take the role played by
+the determinable
+X
+into account properly, we have to employ a
+Husserlian research strategy that could be called the
+dynamic
+method.
+That is to say, we have to look upon intentional acts as
+momentary components of certain transtemporal cognitive
+structures—
+dynamic intentional structures
+—in
+which one and the same object or state of affairs is represented
+throughout a period of time during which the subject’s cognitive
+perspective upon that object or state of affairs is constantly
+changing (see, e.g.,
+Ideas
+, sec. 86). (Typical examples of
+dynamic intentional structures include continuous
+observations—which represent Husserl’s standard
+example—as well as those totalities of successive judgements, or
+momentary belief-states, that actualize one and the same continuous
+belief. For instance, my judgement that yesterday was Thursday
+actualizes the same belief as the judgement I could have given voice
+to yesterday by “Today is Thursday”.) Consequently, the
+determinable
+X
+is apt to lead us back through time towards
+the original situation where the reference of the relevant unified
+series of successive intentional horizons was fixed, like for instance
+the occasion of the subject’s first perceptual encounter with a
+particular object: the corresponding perceptual experience will belong
+to the same determinable
+X
+as all of the (remaining)
+experiences belonging to the relevant series. In a more recent
+terminology, one may say that in this perceptual situation the subject
+has opened a mental file about a particular object (cf. Perry
+1980).
+In a research manuscript from 1913 Husserl refers to mental files
+associated with proper names as “individual notions
+(
+Eigenbegriffe
+)” (cf.
+Husserliana
+, vol. XX/2,
+p. 358), characterizing them as being infinitely “open”
+and “in flux” (cf. ibid., p. 359). Now it is the
+“referent” of the relevant mental file, or individual
+notion, that will normally count as the common intentional object of
+the experiences bound together in a unified series of successive
+intentional horizons in which the object “constitutes
+itself” empirically. (In cases where the “referent”
+of a mental file changes across time—i.e., is unnoticedly
+replaced by another object—the situation becomes more
+complicated. The same goes for cases of perceptual judgements leading
+to, or taken by the respective subject to be confirming, entries into
+an already existing file. See Beyer 2000, sec. 7.) Note that
+“constitution” so conceived does not mean
+creation
+.
+On this reading of Husserl’s notion of the determinable
+X
+, there is a link, at least in the case of proper names and
+in the ubiqituous indexical case, between intentional content
+(including determinable
+X
+) on the one hand, and extra-mental
+reality on the other, such that intentional content thus understood
+determines reference in much the same way more recent externalist
+theories of content would have it, i.e. in such a way that the
+referent can in turn be said to help determine the intentional content
+(see Beyer 2000, 2001; cf. also Husserl’s discussion of Twin
+Earth in
+Husserliana
+, vol. XXVI, p. 212). Notice, however,
+that Husserl does not naively take the existence of an extra-mental
+referent for granted. Instead, he asks which structures of
+consciousness entitle us to represent the world as containing
+particular objects transcending what is currently given to us in
+experience (see Sections 7 and 8 below).
+Husserl can thus be read (or at least be rationally reconstructed) as
+both an early direct reference theorist (headword: singularity) and a
+non-naive externalist about intentional content and (respective)
+meaning.
+The dynamic method has us look upon noematic Sinn under the
+“functional aspect” of how it enables us to keep the
+intentional object “in mind (im Sinn)”
+(
+Husserliana
+, vol. II/1, pp. 196 ff), instead of viewing it
+merely statically as a psychological type or species to be
+instantiated by isolated moments of consciousness. It makes us regard
+any content of the latter sort, particularly “static perceptual
+content”, as a mere “abstraction from dynamic
+content” (Mulligan 1995, pp. 195, 197). This may help to explain
+why the species-theory of content had become less important to Husserl
+by the time he wrote
+Ideas
+.
+5. The phenomenological
+epoché
+An externalist reading (or rational reconstruction) of Husserl’s
+theory of content might, however, be taken to conflict with the
+methodological constraints posed by the phenomenological
+epoché
+, which—together with the dynamic method
+and eidetic reduction—builds the essential core of the
+transcendental-phenomenological method introduced in
+Ideas
+.
+Husserl developed the method of
+epoché
+or
+“bracketing” around 1906. It may be regarded as a
+radicalization of the methodological constraint, already to be found
+in
+Logical Investigations
+, that any phenomenological
+description proper is to be performed from a
+first person
+point of view, so as to ensure that the respective item is described
+exactly as is experienced, or intended
+, by the subject. Now
+from a first-person point of view, one cannot, of course, decide
+whether in a case of what one takes to be, say, an act of perception
+one is currently performing, there actually is an object that one is
+perceptually confronted with. For instance, it is well possible that
+one is hallucinating. From a first-person point of view, there is no
+difference to be made out between the veridical and the non-veridical
+case—for the simple reason that one cannot at the same time
+fall victim to
+and
+detect
+a perceptual error or
+misrepresentation. In the non-veridical case, too, a transcendent
+object appears to “constitute itself” in consciousness. It
+is for such reasons that Husserl demanded (in
+Ideas
+) that in
+a phenomenological description proper the existence of the object(s)
+(if any) satisfying the content of the intentional act described must
+be “bracketed”. That is to say, the phenomenological
+description of a given act and, in particular, the phenomenological
+specification of its intentional content, must not rely upon the
+correctness of any
+existence assumption
+concerning the
+object(s) (if any) the respective act is about. Thus, the
+epoché
+has us focus on those aspects of our
+intentional acts and their contents that do not depend on the
+existence of a represented object out there in the extra-mental
+world.
+On closer inspection, however, Husserl actually draws upon two
+different versions of the
+epoché
+when introducing this
+method in
+Ideas
+, which versions he does not separate as
+clearly as one might have hoped: the “universal
+epoché
+” on the one hand, and a weaker
+“local
+epoché
+” (as one could label it) on
+the other. The former version (as described in
+Ideas
+) seems
+to require the phenomenologist to put
+all
+his existence
+assumptions regarding the external world into brackets at once, at any
+point, whereas the weaker version merely requires him to bracket
+particular
+existence assumptions. The weaker version
+underlies the introducing of the notion of
+noema
+in
+Ideas
+in connection with examples like the perceptual hallucination (a
+concept not applicable within the universal epoché; see
+Overgaard 2004, p. 23) of a blooming apple tree (
+Husserliana
+,
+vol. III/1, pp. 204 ff): Husserl here in fact only brackets the
+existence of particular real objects (Beyer 2000, pp. 140–148).
+By contrast, the sole function of the universal epoché in
+Ideas
+seems to be to establish the “residuum”
+thesis, according to which the realm of “pure
+consciousness” exists independently of the external world. His
+argument for this thesis in
+Ideas
+, referring to the
+possibility of “world annihilation”, is flawed, however
+(see Beyer 2000, pp. 138 ff; 2007, pp. 76ff) and, as Erhard (2014, fn.
+718) has observed, Husserl later discovered the relevant fallacy
+himself (cf.
+Husserliana
+, vol. XXXIX, 256f).
+This leaves it an open question what other function the epoché
+may serve in the context of Husserl’s methodology. The most plausible
+interpretation seems to be that “the only thing that is excluded
+as a result of the epoché is a certain naivety, the naivety of
+simply taking the world for granted, thereby ignoring the contribution
+of consciousness (
+Husserliana
+, vol. 27/173)”
+(Zahavi 2017, p. 67; also cf. Landgrebe 1982a, pp. 26 ff), where
+“the suspension [of existential positings] in question is
+merely propaedeutic and provisional” (Zahavi 2017, p. 58).
+Only the method of universal
+epoché
+as introduced in
+Ideas
+seems to conflict with our externalist reading: if no
+extra-mental existence assumptions whatsoever are admitted at any
+point, then phenomenologically there cannot be object-dependent
+intentional contents, as externalism would have it. By contrast, there
+may be some such contents, even many of them, without intentional
+content generally having to be dependent on a particular extra-mental
+object. Which leaves enough room for the method of
+epoché
+to apply to any given particular case, as will
+become clear in Section 6.
+6.
+Epoché
+, perceptual noema,
+hýle
+, time-consciousness and phenomenological reduction
+The point of the local
+epoché
+can perhaps best be
+brought out if we follow Husserl in applying it to the case of
+perceptual experience. The phenomenologist is supposed to perform his
+or her descriptions from a
+first-person point of view
+, so as
+to ensure that the respective item is described exactly as it is
+experienced. Now in the case of perceptual experience one cannot, of
+course, both fall victim to and at the same time discover a particular
+perceptual error; it is always possible that one is subject to an
+illusion or even a hallucination, so that one’s perceptual
+experience is not veridical. If one is hallucinating, there is really
+no object of perception. However, phenomenologically the experience
+one undergoes is exactly the same as if one were successfully
+perceiving an external object.
+Therefore, the (adequacy of a) phenomenological description of a
+perceptual experience should be independent of whether for the
+experience under investigation there is an object it represents or
+not. Either way, there will at least be a perceptual
+content
+(if not the same content on both sides, though). It is this content
+that Husserl calls the perceptual
+noema
+. Thanks to its noema,
+even a hallucination is an intentional act, an experience “as
+of” an object. Phenomenological description is concerned with
+those aspects of the noema that remain the same irrespective of
+whether the experience in question is veridical or not. Thus, our
+phenomenologist must not employ—he (or she) must
+“bracket”—his belief in the existence of the
+perceptual object.
+However, this lands him in a methodological dilemma. If, on the one
+hand, the phenomenologist leaves the “natural attitude”
+and brackets his corresponding existence-belief, he cannot at the same
+time perform the perceptual experience he wishes to investigate. (This
+is the first horn of the dilemma.) For, as Husserl himself stresses
+(cf.
+Ideas
+, sec. 90, 109), the existence-belief is an
+indispensable part of the perceptual phenomenon: such experiences are
+essentially
+thetic
+, i.e., there can be no such thing as a
+perceptual experience without “belief-character” (cf.
+5
+th
+Logical Investigation
+, sec. 23). If, on the
+other hand, our phenomenologist makes use of that belief, then he is
+bound to violate the constraints put upon him by the local
+epoché
+: he cannot but fail to assume the
+phenomenological attitude. (This is the second horn.)
+There are at least three possible ways out of this dilemma.
+First
+, the phenomenologist could choose the first horn of the
+dilemma, but analyse an
+earlier
+perceptual experience of his,
+one that he now remembers. He just has to make sure here not to employ
+his earlier (and perhaps still persisting) belief in the existence of
+a perceptual object.
+Secondly
+, he could again decide in
+favour of the first horn and analyse a perceptual experience that he
+merely intuitively
+imagines
+himself to have. (For
+Husserl’s view on imagination see esp.
+Husserliana
+,
+vol. XXIII.)
+Thirdly
+, he could instead choose the second
+horn, keep employing his existence-belief, but make a kind of
+“pragmatic ascent” and
+describe
+the perceptual
+experience in such a way that the description, i.e., the
+speech
+act
+thus performed, does not presuppose the existence of a
+perceptual object. (The following sort of description may serve that
+function: “I am demonstratively identifying a so-and-so”;
+“I am performing an act of this-meaning under the aspect
+so-and-so
+”.) In any case, Husserl regards
+“bracketing” as what he calls the “neutrality
+modification” of a positing act, to be distinguished both from a
+corresponding supposition (hypothesis) and from what is commonly
+referred to as suspension of judgment, as in a case of serious doubt
+(cf. Hua III/1, 247 ff). While in the latter case the subjective
+probability may be 0.5, no degree of belief whatsoever can be assigned
+to an act of neutrality-modification (cf. Hua III/1, 252).
+It is not entirely clear if Husserl considers all of these strategies
+to be admissible. The second one is certainly in line with the
+important methodological role he ascribes to “phantasy”,
+i.e., mere intuitive imagination, when it comes to eidetic reduction,
+which in turn constitutes an important part of the phenomenological
+method. The third strategy—pragmatic ascent—fits in well
+with the way he uses to specify the common element of the noema of
+both veridical perceptions and corresponding hallucinations (see,
+e.g., the first-person description of someone’s experience of
+“this blooming tree there in space” presented in sec. 90
+of
+Ideas
+; also see ibid., sec. 89f).
+Now we can apply the local
+epoché
+to specify the noema
+of both veridical perceptions and hallucinations so as to bring out
+their
+singularity
+. Already in his 1894 essay
+“Intentional Objects” (cf.
+Husserliana
+, vol.
+XXII; English translation of a somewhat different version of the essay
+in: Rollinger 1999) Husserl stressed that objectless representations
+such as hallucinations can in a sense be characterized as
+“representing an intentional object”, provided that this
+characterization is understood to be made “under an existential
+assumption”, as follows: “
+If
+the act of
+hallucination
+were
+veridical, it
+would
+successfully
+represent such-and-such an object (under such-and-such
+aspects)”. Something similar goes with regard to the singularity
+of a hallucinatory experience’s noema: if such an experience
+were veridical, it would, in virtue of its noema, represent a
+particular perceptual object in all relevant possible worlds (see
+Section 3 above). Thus, we can provide an
+existentially
+neutral
+specification of the noema of a (veridical, illusory or
+hallucinatory) perceptual experience, just as local
+epoché
+demands, and still bring out the singular
+character of their content that Husserl has done so much to uncover,
+especially in his investigations into indexicality and the role of the
+determinable
+X
+in our constitution of spatio-temporal
+reality. The specification might run as follows: The noema of a
+perceptual experience
+i
+is such that either (1) there is an
+object
+x
+that
+i
+represents in virtue of its noema,
+where
+x
+is to be regarded as the referent of
+i
+in
+all relevant possible worlds, or (2) there would be an object meeting
+condition (1) if
+i
+were veridical. Condition (2) enables us
+to make sense of the behaviour of a speaker/thinker making
+counterfactual assumptions about an object which he, unknowingly,
+merely hallucinates, or of quantifying into modal statements about
+that alleged object (cf. Beyer 2000, pp. 26–31). Notice that on
+the above-proposed externalist reading of Husserl’s notion of
+intentional content, the noema will differ depending on whether
+condition (1) or (2) is satisfied. Nevertheless, our noematic
+specification meets the requirements of local
+epoché
+,
+as it does not rely on the existence of a particular perceptual
+object. If there is no such object, condition (2) will be
+satisfied—provided that we are dealing with a perceptual
+experience. The rationale behind condition (2) is that even in the
+non-veridical case an individual notion (a mental file) and
+consequently a unified series of intentional horizons gets activated,
+on the basis of the same sensory material, or
+hýle
+(see the following paragraph), as in the veridical case.
+It should be noted that according to Husserl the complete noema of a
+perceptual experience contains an additional element, to be
+distinguished from the intentional content, notably its
+“thetic” or “positing” character, i.e., its
+quality. Moreover, the manner in which the perceptual object (if any)
+presents (or would present) itself includes the sensual matter or
+“
+hýle
+” underlying the respective
+perceptual experience. Typical examples of
+hýle
+include sense impressions (i.e., sensory experiences), as opposed to
+the perceptual experiences based upon them. Thus, to take
+Jastrow’s/Wittgenstein’s duck-rabbit head as an example,
+the perception of a duck-head may be founded in the same sense
+impressions or
+hýle
+as the perception of a rabbit-head
+(cf. Føllesdal 1988, pp. 108f). (For Husserl all remaining
+intuitive acts involve something analogous (in a sense needing further
+explanation) to
+hýle
+, which he labels as their
+“intuitive representational content”. In the case of acts
+of phantasy, he refers to the intuitive representational content as
+“
+phantasma
+”.) Husserl regards sense impressions
+as non-intentional (and thus non-conceptual) in nature. It is only the
+intentional content of a perceptual experience that
+“forms” its underlying
+hýle
+so as to yield
+the perception of an object (for critical discussion see Hopp 2011,
+esp. sec. 7.3). Husserl compares this process of intentional
+“forming” of sensual matter to the interpretation of a
+linguistic expression, but this comparison should not mislead us to
+conclude that he subscribes to a sense-datum theory of perception (see
+Section 2 above, headword: mental image theory). Rather, his view on
+perception is best characterized as a sophisticated version of direct
+(i.e., non-representationalist) realism.
+Finally, we should note that on Husserl’s view there is a
+further important dimension to perceptual experience, in that it
+displays a phenomenological deep- or micro-structure constituted by
+time-consciousness
+(
+Husserliana
+, vol. X, XXXIII;
+also see Miller 1984). This merely seemingly unconscious structure is
+essentially indexical in character and consists, at a given time, of
+both
+retentions
+, i.e., acts of immediate memory of what has
+been perceived “just a moment ago”,
+original
+impressions
+, i.e., acts of awareness of what is perceived
+“right now”, and
+protentions
+, i.e., immediate
+anticipations of what will be perceived “in a moment”. It
+is by such momentary structures of retentions, original impressions
+and protentions that moments of time are continuously constituted (and
+reconstituted) as past, present and future, respectively, so that it
+looks to the experiencing subject as if time were permanently flowing
+off.
+This deep-structure of intentional consciousness comes to light in the
+course of what Husserl calls the “phenomenological
+reduction” (
+Husserliana
+, vol. XIII, pp. 432 ff), which
+uses the method of
+epoché
+in order to make coherent
+sense, in terms of the essential horizon-structure of consciousness,
+of the transcendence of objective reality. The most global form of
+epoché
+is employed when this reality in total is
+bracketed. There is still something left at this point, though, which
+must not, and cannot, be bracketed: the temporal flow of one’s
+“present” experience, constituted by current retentions
+and original impressions. These recurrent temporal features of the
+horizon-structure of consciousness cannot be meaningfully doubted.
+They provide a kind of
+hýle
+for “inner
+perception” and corresponding reflective judgements, but it is a
+very special kind of
+hýle
+: one that is a proper part
+of the “perceived” item and does not get conceptually
+“formed” in the course of perception (reflecting the fact
+that unlike spatio-temporal objects, lived experiences “do not
+adumbrate themselves”; cf.
+Husserliana
+, vol. III/1, p.
+88). Hence, there is no epistemically problematic gap between
+experience and object in this case, which therefore provides an
+adequate starting point for the phenomenological reduction, that may
+now proceed further by using holistic justification strategies. After
+all, intentional consciousness has now been shown to be coherently
+structured at its phenomenologically deepest level.
+7. Passivity vs. activity
+Hyletic data are arguably experiences, in the sense of
+“non-intentional”, “pre-reflective lived experiences
+that can be grasped only abstractly in reflection” (Gallagher
+2011, p. 3). At the same time, at least some of them (the
+“kinaesthetic” sensations; cf. Zahavi 2003, p. 107) belong
+to the sphere of bodily passivity: they “serve in the
+constitution of the experiencing body (the body-as-subject)”
+(Gallagher 2011, p. 4; for the distinction between
+“body-as-subject” and “body-as-object”, cf.
+Zahavi 2003, pp. 101–106). The notion of passivity is given
+particular emphasis both in the context of Husserl’s
+genetic-phenomenological analyses, focussing on the dynamic aspects of
+self- and object-constitution, and in his reply to the
+“objection of solipsism” against transcendental
+phenomenology developed in the 5
+th
+of his
+Cartesian
+Meditations
+(see Section 10 below). In
+Experience and
+Judgement
+Husserl stresses “that the
+distinction between activity and passivity is not a rigid one, that it
+cannot be a matter of terms that can be defined once and for all, but
+only of means of description and contrast, the meaning of which must
+originally be recreated in each individual case with regard to the
+concrete situation of the analysis” (Husserl 1939, p. 119). On a
+plausible (i.e., epistemological) interpretation, a unit of
+consciousness in which something constitutes itself is to be described
+as “passive” just in case this constitution occurs
+independently of any simultaneous execution of the subject’s
+will, e.g., its will to acquire knowledge; otherwise, it is to be
+described as “active”. Passive constitution is sometimes
+referred to as “pre-constitution”, as it is an
+indispensible precondition for active constitution (cf. Landgrebe
+1982b, p. 72.) According to the above interpretation, active
+constitution in the form of judgements in turn initiates beliefs as
+personal “acquisitions (
+Erwerbe
+)” or
+“habitualities” that help pre-constitute the further
+course of experience, thus forming a “secondary” level of
+passivity (cf. ibid.; for an overview of Husserl’s
+“phenomenology of habituality” cf. Moran 2011; Caminada
+2019 investigates into Husserl’s view of habit against the
+background of the re-edition of
+Ideas II
+on the basis of his
+original texts; see esp. ch. 10f).
+In the context of the analysis of the constitution of individual
+perceptual objects, the spatio-temporally structured “field of
+pre-givenness” (Husserl 1939, p. 74) against whose background
+the object stands out contrastively (ready to catch the
+perceiver’s attention) counts as primarily passive (cf. Wu 2021,
+sec. 58). This field is structured by “syntheses of
+association” between (hyletic adumbrations of) similar and
+dissimilar elements (cf. Wu 2020, p. 189). These associative syntheses
+are such that (in the case at issue) one of those elements, e.g. a
+colored three-dimensional (and thus non-hyletic; cf. Lee 1993, p. 99)
+dot, serves as sensual “stimulus” by “instinctively
+driving” (
+Husserliana Mat.
+, vol. VIII, p. 326) the
+perceiver to attend to it unwillingly, thus passively
+“affecting” the perceiver (
+Husserliana
+, vol.
+XXXIII, pp. 275f; cf. Yamaguchi 1982; Lee 1993; also cf. Mensch 1997;
+and Brudzinska 2020, containing a detailed comparison with Freud). If
+the stimulus then catches the subject’s attention, it can
+subsequently be “explicated” perceptually according to its
+objectual determinations, in which case the subject enters “the
+first main stage of the striving for knowledge, i.e.
+the
+pre-predicative
+or
+receptive stage
+” (Wu 2021, p.
+190). Thus, passivity precedes receptivity, which in turn precedes the
+second main stage, i.e. the “predicative” stage –
+the level of the “spontaneity” of judgement (cf. Wu 2021,
+p. 191). Both of these stages (the receptive and the spontaneous one)
+constitute the level of cognitive “activity”. At the
+second stage, the processing of mental files such as “individual
+notions” (see Section 4 above), guided by the subject’s
+“will to knowledge” (Husserl 1939, p. 92), is located. In
+Experience and Judgement
+Husserl calls the
+perceptual acts motivating predicative file entries (i.e., habitual
+yet variable empirical beliefs) “explications” of
+perceptual objects (cf. Husserl 1939, ch. 2). Such explications are
+founded in “attention as a tendency of the ego”
+“toward the intentional object” (Husserl 1939, p. 85).
+(For the multifarious use of the term “attention” in
+Husserl cf. the introduction to
+Husserliana
+, vol. XXXVIII, p.
+XXXII; see also the entry on “Aufmerksamkeit” in Gander
+2010, pp. 36ff, and the secondary literature cited there, as well as
+Breyer 2011, ch. V, and Wehrle 2013, ch. I.)
+Note that while Husserl sometimes describes the field of pre-givenness
+in which pre-predicative and predicative acts are founded as
+“originarily passive” (cf. Husserl 1939, p. 300), he holds
+that this field is itself pre-constituted at an even more basic level
+of constitution, also sometimes (in another context) described as
+originarily or primarily passive. This more basic level is the
+“absolutely” originary one of (1) bodily and (2) temporal
+pre-reflective self-consciousness, at which (1) the spatial and (2)
+the temporal aspects of the field, respectively, constitute themselves
+(cf. Wu 2021, pp. 187f). This pre-constitution occurs automatically or
+“instinctively”, by “association” of
+“acquired” affective “drives” and
+teleologically directed “courses of drives
+(
+Triebverläufe
+)” rather than mere “(courses
+of) ideas”, such that “the ego as the subject of the drive
+[…] is awakened” (transcr. A VII 13, p. 20, cited after
+Yamaguchi 1982, p. 57). If the subject then acquires an according
+affective “habituality”, then a new level of
+“secondary passivity” has been constituted (cf. Yamaguchi
+1982, p. 56). For example, the above-mentioned colored dot is then
+ready to be perceived as located, at ‘this current moment’
+of (internal) time, at ‘that position’ in ‘my
+own’ (egocentric) perceptual field; it “affects” the
+subject accordingly, thus serving as a visual stimulus. This
+perceptual field is regarded as ‘my own’ and ‘my
+current’ one in virtue of its pre-constitution in pre-reflective
+self-awareness, in which both the subject’s stream of
+consciousness and its living body (as it would appear in the
+“sphere of ownness”, i.e. independently of intersubjective
+experience) constitute themselves, notably by both internal
+time-consciousness (see Sections 4 and 6 above; cf. Held 1966) and the
+instinctive “originary kinestheses” (
+Husserliana
+,
+vol. XV, p. 385) or “kinesthetic syntheses” associated
+with the bodily movements involved in perception (cf. Landgrebe 1982b,
+pp. 81 ff; also cf. Dodd 1997 for a further analysis of
+Husserl’s phenomenology of the body, taking into account the
+rich material to be found in
+Ideas II
+, but also in
+Thing
+and Space
+and the 5
+th
+of the
+Cartesian
+Meditations
+; and Taipale 2014, stressing the importance of the
+living body for the different levels of constitution in Husserl; more
+recent literature on embodiment in Husserl, covering topics like the
+constitution of the ego’s own living body and the living bodies of
+others, also includes Behnke 1996; Heinämaa 2011, 2018; Moran and
+Janssen, eds., 2018; Carr 2019; and Jardine 2022, ch. 5f).
+On (one reading of) Husserl’s view, these very basic levels or
+strata underlying self- and world-constitution are still
+“anonymous”, i.e. not available through
+(self-)“reflection” (cf. Landgrebe 1982b, p. 76), but only
+through the “genetic-phenomenological” method of
+“deconstruction” or “dismantling
+(
+Abbau
+)”. Dismantling starts from a given noematic
+sense, like ‘this coloured dot’, and tells a story about
+how (the intentionality correlated with) this sense could have come
+about, to which kinds of “subjective sources” or origins
+it implicitly refers back (as their “sedimentation”),
+given the transcendental conditions for the possibility of the
+corresponding forms of intentionality (cf. Husserl 1939, p. 47). This
+dismantling leads back to the associative “originary
+pairing” of ‘my own’, originarily-kinesthetic
+pre-constituted living body, on the one hand, and a foreign one
+affecting ‘my own’, on the other, due to similarities
+which passively drive the “first ‘ego’ of the
+reduction” (
+Husserliana
+, vol. XV, p. 586) to
+co-constitute ‘my own’ and the ‘other’ bodily
+ego by accordingly motivated “apperceptive transfer”
+(
+Husserliana
+, vol. I, 140) of the pre-constituted sense
+‘this living body of mine’ to the similarly behaving body
+‘over there’ (cf. A. D. Smith 2003, pp. 224–251).
+This co-constitution forms the basis of, first, the co-constitution of
+the alter ego as a personal human being and (on this basis; cf.
+Husserliana
+, vol. XIV, p. 418) myself as the same kind of
+being and, secondly, the constitution objective reality. The (analysis
+of the) constitution of the latter is sketched in Section 10 below.
+Husserl supposes that its passive pre-constitution
+“‘instinctively’ predeliniates the constitution of
+the whole world for me”, a teleological “facticity”
+perhaps deriving from “God” (
+Husserliana
+, vol.
+XV, p. 385; see Held 2010). (In other words, the spade bends back
+here.)
+8. Communication, sociality, personhood and personal values
+As for the constitution of oneself as a person, Husserl
+(
+Husserliana
+, vol. XIV, pp. 170 ff) holds that it occurs,
+among other things, in connection with communicative or social acts
+(“
+Mitteilungen
+”, “
+soziale
+Akte
+”), which are pre-constituted by the mutual drives and
+instincts involved in the education of small children who confidently
+“imitate” the linguistic behavior of educators
+“loving” them like parents (
+Husserliana
+, vol.
+XIV, 165f). (For additional aspects of the constitution of personhood,
+see the last two paragraphs of this section and the literature cited
+there. Further elements of Husserl’s view of personal love, esp.
+concerning his ethics, are discussed in Melle 2002; Römer 2011;
+Kern 2019, sec. 22f; Crespo 2019; Heinämaa 2020.) The relevant
+communicative acts are “I-thou acts”, in which the utterer
+empathetically ascribes to the addressee the empathetic ascription of
+the “intention (
+Absicht
+)” to motivate the
+addressee, by means of his or her recognition of that very intention
+(cf.
+Husserliana
+, vol. IV, p. 192), to behave a certain way
+(
+Husserliana
+, vol. XIV, 166f in the light of
+Husserliana
+, vol. IV, p. 192); where utterer and addressee
+simultaneously perceive each other (
+Husserliana
+, vol. XIV, p.
+167). Thus, these acts are based on “reciprocal empathy”
+(Zahavi 2018, p. 746), notably on “iterated, reflexive empathy:
+I
+empathetically
+ascribe to the Other(s) an
+empathetic
+ascription of an intention to
+me
+”
+(Beyer 2018, p. 100). In I-thou acts, the “originarily social
+I-thou relationship” is constituted, in which ego and alter ego
+deliberately and reflexively motivate each other to display certain
+practical forms of behavior (
+Husserliana
+, vol. XIV, pp.
+171f). It is at this stage that the subject constitutes itself as a
+person (belonging to the “world of persons”) by gaining
+“personal ‘self-consciousness’” of the sort
+just described in the course of I-thou acts (
+Husserliana
+,
+vol. XIV, pp. 171, 175f). This enables the subject to see him- or
+herself as subject to acts of
+self-determination
+: “If I
+agree [
+Vereinbare ich mich
+] with an other [...], the other
+determines me to determine myself to take on this or that [commitment;
+CB]” (
+Husserliana
+, vol. XIV, p. 180). (For some other
+aspects of the role of communicative acts in Husserl’s analyses of
+constitution see, e.g., Zahavi 2003, ch. 3, sec. C–D; Caminada
+2019, esp. ch. 6., sec. 2f.; also see Sections 9f below.)
+It is by self-determination through “position-taking”, in
+the form of “judgement” or “will”, that the
+subject constitutes itself as an
+individual
+person. (For the
+following cf. Beyer 2013, pp. 94, 110f. For a more recent analysis,
+also taking into account the new critical edition of
+Ideas
+II
+, see Jardine 2022. Also see Jacobs 2010, pp. 353–356.)
+What distinguishes an individual personal subject from other such
+subjects is a “total” personal “style and
+habitus”, including “a certain pervasive unitary style in
+the way [the subject] decides by judgement and will”
+(
+Husserliana
+, vol. IV, §61 p. 277; Husserl 1989, p. 290;
+also cf.
+Husserliana
+, vol. IV, §59, p. 256). This latter
+style depends on the subject’s habits to let itself be determined by
+value-motives, that is, by emotional valuings
+(“
+Wertnehmungen
+”; cf.
+Husserliana
+, vol.
+XXXVII, p. 72) and, sometimes, also by accordingly motivated explicit
+value judgements, which concern the subject’s volitional motives,
+regarding which the free subject says ‘yes’ or
+‘no’. (These valuings, which motivate the subject’s
+will, stand to passive emotional affections as full-fledged perceptual
+acts stand to their underlying sensual hyle; they can be looked upon
+as nonveridical or veridical, and, in the latter case, more or less
+adequate perceptions of (instances of) values; cf.
+Husserliana
+, vol. IV, sec. 44, p. 215, sec. 45, pp. 227f;
+Husserliana
+, vol. XXXVII, p. 326.)
+In the former case (the subject says ‘yes’) the respective
+motive becomes “a position-taking that issues from [the
+subject’s] own ego”, as opposed to a mere stimulus coming from
+outside; the subject “annexes” it on his or her “own
+accord” (
+eignet es sich selbsttätig an
+), i.e. it
+internalizes the corresponding value (
+Husserliana
+, vol. IV,
+§60, p. 269; Husserl 1989, p. 281). This enables the subject to
+get to know itself as an individual person, i.e. with regard to its
+“personal character-traits” (
+Husserliana
+, vol.
+XIV, p. 18), notably by learning “how such and such motives
+[...]
+would
+affect me, how I, as the one that I am, would act
+and could act, how I could, and how I could not, judge, value and
+will” (
+Husserliana
+, vol. IV, §60, p. 265f; Husserl
+1989, p. 278). Husserl’s conception of individual personhood
+also underlies his ethics (see end of Section 9).
+9. Empathy, intersubjectivity and lifeworld; ethics and value theory
+One of the main themes of transcendental phenomenology is
+intersubjectivity. Among other things, it is discussed in considerable
+detail in the 5
+th
+of the
+Cartesian Meditations
+and
+in the manuscripts published in vol. XIII–XV of
+Husserliana
+(see Kern 2019 for an overview)
+.
+(A particularly
+important critique of Husserl’s view on intersubjectivity from a
+sociological viewpoint is found in Schütz 1966.)
+According to Husserl, intersubjective experience plays a fundamental
+role in our constitution of both ourselves as objectively existing
+subjects, other experiencing subjects, and the objective
+spatio-temporal world. Transcendental phenomenology attempts to
+reconstruct the rational structures underlying—and making
+possible—these constitutive achievements.
+From a first-person point of view, intersubjectivity comes in when we
+undergo acts of
+empathy
+. Intersubjective experience is
+empathic experience; it occurs in the course of our conscious
+attribution of intentional acts to other subjects, in the course of
+which we put ourselves into the other one’s shoes. In order to
+study this kind of experience from the phenomenological attitude, we
+must bracket our belief in the existence of the respective target of
+our act-ascription
+qua
+experiencing subject and ask ourselves
+which of our further beliefs justify that existence-belief as well as
+our act-ascription. It is these further beliefs that make up the
+rational structure underlying our intersubjective experience. Since it
+takes phenomenological investigation to lay bare these beliefs, they
+must be first and foremost unconscious when we experience the world in
+the natural attitude.
+Among the fundamental beliefs thus uncovered by Husserl is the belief
+(or expectation) that a being that looks and behaves more or less like
+myself, i.e., displays traits more or less familiar from my own case,
+will generally perceive things from an
+egocentric
+viewpoint
+similar to my own (“here”, “over there”,
+“to my left”, “in front of me”, etc.), in the
+sense that I would roughly look upon things the way he does if I were
+in his shoes and perceived them from his perspective. This belief
+allows me to ascribe intentional acts to others immediately or
+“appresentatively”, i.e., without having to draw an
+inference, say, by analogy with my own case. So the belief in question
+must lie quite at the bedrock of my belief-system. It forms a part of
+the already pregiven (and generally unreflected) intentional
+background, or “lifeworld” (cf.
+Crisis
+), against
+which my practice of act-ascription and all constitutive achievements
+based upon that practice make sense in the first place, and in terms
+of which they get their ultimate justification.
+Husserl’s notion of lifeworld is a difficult (and at the same
+time important) one. It can roughly be thought of in two different
+(but arguably compatible) ways: (1) in terms of belief and (2) in
+terms of something like socially, culturally or evolutionarily
+established (but nevertheless abstract) sense or meaning.
+(1) If we restrict ourselves to a single subject of experience, the
+lifeworld can be looked upon as the rational structure underlying his
+(or her) “natural attitude”. That is to say: a given
+subject’s lifeworld consists of the beliefs against which his
+everyday attitude towards himself, the objective world and others
+receive their ultimate justification. (However, in principle not even
+beliefs forming part of a subject’s lifeworld are immune to
+revision. Hence, Husserl must not be regarded as an epistemological
+foundationalist; see Føllesdal 1988.)
+(2a) If we consider a single community of subjects, their common
+lifeworld, or “homeworld”, can be looked upon, by first
+approximation, as the system of senses or meanings constituting their
+common language, or “form of life” (Wittgenstein), given
+that they conceive of the world and themselves in the categories
+provided by this language.
+(2b) If we consider subjects belonging to different communities, we
+can look upon their common lifeworld as the general framework, or
+“a priori structure”, of senses or meanings that allows
+for the mutual translation of their respective languages (with their
+different associated “homeworlds”) into one another.
+The term “lifeworld” thus denotes the way the members of
+one or more social groups (cultures, linguistic communities) use to
+structure the world into objects (
+Husserliana
+, vol. VI, pp.
+126–138, 140–145). The respective lifeworld is claimed to
+“predelineate” a “world-horizon” of potential
+future experiences that are to be (more or less) expected for a given
+group member at a given time, under various conditions, where the
+resulting sequences of anticipated experiences can be looked upon as
+corresponding to different “possible worlds and
+environments” (
+Husserliana
+, vol. III/1, p. 100). These
+expectations follow typical patterns, as the lifeworld is fixed by a
+system of (first and foremost implicit) intersubjective standards, or
+conventions, that determine what counts as “normal” or
+“standard” observation under “normal”
+conditions (
+Husserliana
+, vol. XV, pp. 135 ff, 142) and thus
+as a source of epistemic justification. Some of these standards are
+restricted to a particular culture or “homeworld”
+(
+Husserliana
+, vol. XV, pp. 141 f, 227–236), whereas
+others determine a “general structure” that is “a
+priori” in being “unconditionally valid for all
+subjects”, defining “that on which normal Europeans,
+normal Hindus, Chinese, etc., agree in spite of all relativity”
+(
+Husserliana
+, vol. VI, p. 142). Husserl quotes universally
+accepted facts about “spatial shape, motion,
+sense-quality” as well as our prescientific notions of
+“spatiotemporality”, “body” and
+“causality” as examples (ibid.). These conceptions
+determine the general structure of all particular thing-concepts that
+are such that any creature sharing the essential structures of
+intentional consciousness will be capable of forming and grasping
+them, respectively, under different lifeworldly conditions.
+The notion of lifeworld was already introduced in the posthumously
+published second volume of
+Ideas
+, under the heading of
+“Umwelt”, to be translated as “surrounding
+world” or “environment”. Husserl there characterizes
+the environment as a world of entities that are
+“meaningful” to us in that they exercise
+“motivating” force on us and present themselves to us
+under egocentric aspects. Any subject taking the “personalistic
+attitude” builds the center of an environment containing such
+objects. The personalistic attitude is “the attitude we are
+always in when we live with one another, talk to one another, shake
+hands with one another in greeting, or are related to one another in
+love and aversion, in disposition and action, in discourse and
+discussion” (
+Husserliana
+, vol. IV, p. 183; Husserl
+1989, p. 192). The central notion of Husserl’s
+“Umweltanalyse” is the concept of motivation, whose
+application he explains as follows: “how did I hit upon that,
+what brought me to it? That questions like these can be raised
+characterizes all motivation in general” (
+Husserliana
+,
+vol. IV, p. 222; Husserl 1989, p. 234, with translation change). The
+entities exercising motivating force on us owe their corresponding
+“meaning” or significance to certain forms of intentional
+consciousness and intersubjective processes. Thus, to quote one of
+Husserl’s examples, “I see coal as heating material; I
+recognize it and recognize it as useful and as used for heating, as
+appropriate for and as destined to produce warmth. [...] I can use [a
+combustible object] as fuel; it has value for me as a possible source
+of heat. That is, it has value for me with respect to the fact that
+with it I can produce the heating of a room and thereby pleasant
+sensations of warmth for myself and others. [...] Others also
+apprehend it in the same way, and it acquires an intersubjective
+use-value and in a social context is appreciated and is valuable as
+serving such and such a purpose, as useful to man, etc.”
+(
+Husserliana
+, vol. IV, pp. 186f; Husserl 1989, pp. 196f).
+On Husserl’s view, it is precisely this
+“subjective-relative lifeworld”, or environment, that
+provides the “grounding soil” of the more objective world
+of science (
+Husserliana
+, vol. VI, p. 134), in the twofold
+sense that (i) scientific conceptions owe their (sub-)propositional
+content and thus their reference to reality to the prescientific
+notions they are supposed to “naturalize” and that,
+consequently, (ii) when things get into flux in science, when a crisis
+occurs, all that is left to appeal to in order to defend new
+scientific approaches against their rivals is the prescientific
+lifeworld, as manifested in our according intuitive acceptances (for
+references cf. Føllesdal 1990a, pp. 139f). This view offers an
+alternative to the “naturalistic” stance taken by many
+analytic philosophers today.
+One of the constitutive achievements based upon my lifeworldly
+determined practice of act-ascription is my self-image as a
+full-fledged person existing as a psycho-physical element of the
+objective, spatio-temporal order. This self-image can be justified by
+what Edith Stein, in a PhD thesis on empathy supervised by Husserl
+(Stein 1917), has labelled as
+iterated empathy
+, where I put
+myself into the other subject’s shoes, i.e., (consciously)
+simulate him, under the aspect that he (or she) in turn puts himself
+into
+my
+shoes. In this way, I can figure out that in order
+for the other subject to be able to ascribe intentional acts to me, he
+has to identify me
+bodily
+, as a flesh-and-blood human being,
+with its egocentric viewpoint necessarily differing from his own. This
+brings home to me that my egocentric perspective is just one among
+many, and that from all foreign perspectives I appear as a physical
+object among others in a spatio-temporal world. So the following
+criterion of subject-identity at a given time applies both to myself
+and to others: one human living body, one experiencing subject.
+However, Husserl does not at all want to deny that we also ascribe
+experiences, even intentional ones, to non-human animals. This becomes
+the more difficult and problematic, though, the less bodily and
+behavioural similarity obtains between them and ourselves.
+Before finally turning to the question of what
+“objectivity” amounts to in this connection, let us notice
+that in Husserl’s eyes something like empathy also forms the
+basis of both our practical, aesthetical and moral evaluations and of
+what might be called intercultural understanding, i.e., the
+constitution of a “foreign world” against the background
+of one’s own “homeworld”, i.e., one’s own
+familiar (but, again, generally unreflected) cultural heritage (cf.
+Husserliana
+, vol. XV). Husserl studied many of these
+phenomena in detail, and he even outlined the beginnings of a
+phenomenological ethics and value theory (cf.
+Husserliana
+,
+vol. XXVIII, XXXVII). In this context, he formulates a
+“categorical imperative” that makes recourse to the notion
+of lifeworld, or environment, as follows: Always act in such a way
+that your action contributes as well as possible to the best (the most
+valuable) you recognize yourself to be able to achieve in your life,
+given your individual abilities and environment (cf.
+Husserliana
+, vol. XXXVII, pp. 251 ff). (This version of the
+“categorical imperative” stems from Husserl’s post-war
+lectures on ethics and value theory. Earlier versions differ
+significantly; for the development of Husserl’s thought on this and
+related issues, see, e.g., Melle 1991; Peucker 2008; Donohoe 2016, ch.
+4; Drummond 2018; and Crespo 2021.)
+Note that on Husserl’s view the will of a free agent, capable of
+following this imperative, is always already embedded in a
+“volitional context” predelineating the open “future
+horizon” of a “full individual life” that the agent
+is currently able to lead (
+Husserliana
+, vol. XXXVII, p. 252),
+thus qualifying as a dynamic intentional structure. This individual
+life corresponds to the agent‘s self-determination as an
+individual person (see Section 8 above). The valuings underlying this
+self-determination can be veridical, and thus suitable for motivating
+objectively valid evaluative judgments, because their correlates, i.e.
+values, are part of the ideal (but still intersubjectively
+constituted) spiritual world (
+Husserliana
+, vol XXXVI, pp. 217
+ff). These values stand in hierarchical relations to each other,
+governed by laws to be studied in what Husserl calls formal axiology
+(ibid., pp. 226–232). Value-perception in the form of emotional
+valuing thus allows for a priori insights. It is such insights that
+determine the good will, in that the latter orients itself by the
+highest values the subject, on reflection, including a priori
+reflection, based on emotion, recognizes him- or herself to be able to
+realize in life, given his or her abilities and environment (for the
+present paragraph cf. Beyer 2013, sec. 1; for more detailed analyses
+of Husserl’s ethics and value theory see, e.g., Luft 2010, the
+contributions to Luft, ed., 2011 and the literature cited there, as
+well as the secondary literature cited at the end of the foregoing
+paragraph.)
+10. The intersubjective constitution of objectivity and the case for “transcendental idealism”
+Even the objective spatio-temporal world, which represents a
+significant part of our everyday lifeworld, is constituted
+intersubjectively, says Husserl. (The same holds true for its
+spatio-temporal framework, consisting of objective time and space.)
+How so? Husserl starts (again, from a first-person viewpoint) from a
+“solipsistic” abstraction of the notion of a
+spatio-temporal object which differs from that notion in that it does
+not presuppose that any other subject can observe such an object from
+his (or her) own perspective. His question is what justifies us (i.e.,
+each of us for him- or herself) in the assumption of an objective
+reality consisting of such objects, given only this
+“solipsistic” conception of a spatio-temporal thing (or
+event) as our starting point. On Husserl’s view, “the
+crucial further step” in order to answer this question consists
+in disclosing the dimension that opens up when the epistemic
+justification, or “motivation”, of intersubjective
+experience, or empathy, is additionally taken into account and made
+explicit (
+Husserliana
+, vol. VII, p. 435).
+Roughly, his argument goes as follows. In order for me to be able to
+put myself into someone else’s shoes and simulate his (or her)
+perspective upon his surrounding spatio-temporal world, I cannot but
+assume that this world coincides with my own, at least to a large
+extent; although the aspects under which the other subject represents
+the world must be different, as they depend on his own egocentric
+viewpoint. Hence, I must presuppose that the spatio-temporal objects
+forming my own world exist independently of my subjective perspective
+and the particular experiences I perform; they must, in other words,
+be conceived of as part of an
+objective
+reality. This result
+fits in well with—in fact, it serves to
+explain—Husserl’s view, already stressed in
+Ideas
+, that perceptual objects are “transcendent”
+in that at any given moment they display an inexhaustive number of
+unperceived (and largely even unexpected) features, only some of which
+will become manifest—will be intuitively presented—in the
+further course of observation.
+However, according to Husserl this does not mean that the objective
+world thus constituted in intersubjective experience is to be regarded
+as completely independent of the aspects under which we represent the
+world. For on his view another condition for the possibility of
+intersubjective experience is precisely the assumption that by and
+large the other subject structures the world into objects in the same
+style I myself do. It is partly for this reason that Husserl can be
+said to adhere to a version of both “realism” and
+“idealism” at the same time.
+Another, related, reason is that Husserl’s argument for realism
+is developed in a context in which he defends what he refers to as
+“transcendental idealism” (a terminological choice he
+would later regret; see Føllesdal 1990a, p. 128). During the
+years in which his transcendental phenomenology took shape, he
+developed a number of “proofs” of this position, most of
+which are based upon his conception of a “real
+possibility” regarding cognition or the acquisition of
+knowledge. By a “real possibility”, Husserl understands a
+possibility that is such that “something—more or
+less— ‘speaks in favour of it’”
+(
+Husserliana
+, vol. XX/1, p. 178). Real possibilities are, in
+other words, conceived of as more or less (rationally)
+motivated
+possibilities; and Husserl understands motivation
+in such a way that it is always
+someone
+who is motivated a
+certain way (cf.
+Husserliana
+, vol. IV, p. 222). This is why
+Husserl subscribes to the following
+dependency thesis
+: The
+real possibility to acquire (empirical) knowledge regarding a
+contingent object A (possible world, individual thing, state of
+affairs involving such thing; cf.
+Husserliana
+, vol. XXXVI,
+pp. 139f) “requires” an “epistemic subject”,
+which “either experiences A, or acquires knowledge regarding A
+on the basis of experience, or else has the practical possibility (or
+the practical ability) to experience A and acquire knowledge regarding
+it” (
+Husserliana
+, vol. XXXVI, p. 139). Husserl also
+adheres to the following
+correlation thesis
+with regard to
+empirical reality and real epistemic possibility: If a contingent
+object A is real (really exists), then the real (as opposed to the
+merely logical) possibility obtains to acquire knowledge regarding A
+(cf.
+Husserliana
+, vol. XXXVI, p. 138, l. 35–36). From
+these two propositions—the dependency and the correlation
+thesis—he derives the conclusion that the existence of a
+contingent object A requires “the necessary co-existence of a
+subject either acquiring knowledge” regarding A “or having
+the ability to do so” (
+Husserliana
+, vol. XXXVI, pp.
+139f). This is nothing but “[t]he thesis of transcendental
+idealism [...]: A nature without co-existing subjects of possible
+experience regarding it is unthinkable; possible subjects of
+experience are not enough” (
+Husserliana
+, vol. XXXVI, p.
+156).
+Why are
+actual
+subjects of experience supposed to be
+necessary? Husserl’s answer refers to the notion of
+full
+epistemic justification, or
+full degree
+of real
+possibility (with regard to empirical knowledge): “In order for
+[a thing of nature] to really exist, and thus in order for the
+assumption that it exists to be reasonable or justified not merely in
+a restricted but rather in an unrestricted way, i.e. to the fullest
+extent, there must be an actual ego in whose experiences [...] the
+being of the thing manifests itself [...].”
+(
+Husserliana
+, vol. XXXVI, pp. 76f). Husserl takes this notion
+to be applicable (as far as empirical consciousness is concerned) in
+case of truth only. Thus, in sec. 16 of
+Formal and Transcendental
+Logic
+he first equates “truth” with “genuine
+knowledge” which is “repeatable by any [...] rational
+being” (
+Husserliana
+, vol. XVII, p. 46) and then makes
+the (somewhat weaker) claim that truth and such knowledge are
+“correlated” (
+Husserliana
+, vol. XVII, p. 47).
+This conception of (empirical) truth, which is already to be found in
+Logical Investigations
+, has been compared to ideal
+verificationism (cf. Soldati 1994, p. 119) and to Putnam’s
+internal realism (cf. Beyer 2020, p. 69).
+Husserl seems to regard real possibilities as epistemic dispositions
+(habitualities), or abilities, that require an actual
+“substrate” (cf.
+Husserliana
+, vol. XXXVI, p.
+139). At the same time, he stresses that “surely no human being
+and no animal” must exist in the actual world (adding that their
+non-existence would however already result in a “change of the
+world”) (cf.
+Husserliana
+, vol. XXXVI, p. 121). One way
+to make sense of this would be to weaken the dependency thesis, and
+the requirement of an actual substrate, and to merely require what
+might be called real higher-order possibilities—possibilities
+for acquiring epistemic dispositions in counterfactual (or actual)
+cases where epistemic subjects would be co-existing—that may
+remain unactualized but could be actualized by someone properly taking
+into account a multitude of individual epistemic perspectives, by
+means of intersubjective experience. But even under this
+reconstruction there remains a sense in which the criteria of real
+possibility and reality constitution, and the corresponding structure
+of the real world, are dependent on an “ego”, on
+Husserl’s view: What counts as a real possibility, or as
+epistemically justified, is dependent on the phenomenological subjects
+reflecting about such counterfactual cases in the methodological
+context of the transcendental reduction and the results they arrive at
+in this context.
+Bibliography
+Primary Literature
+The collected works of Husserl were published over the course of
+several years, starting in 1950, in
+Husserliana: Edmund
+Husserl—Gesammelte Werke
+, The Hague/Dordrecht:
+Nijhoff/Kluwer. The following works by Husserl have been translated
+into English, and they are listed in the chronological order of the
+publication dates of the German originals (if these were originally
+published).
+1900/1 [2nd, revised edition 1913],
+Logical
+Investigations
+, trans. J. N. Findlay, London: Routledge
+1973.
+1910, “Philosophy as Rigorous Science,” trans. in Q.
+Lauer (ed.),
+Phenomenology and the Crisis of Philosophy
+, New
+York: Harper 1965.
+1913,
+Ideas Pertaining to a Pure Phenomenology and to a
+Phenomenological Philosophy—First Book: General Introduction to
+a Pure Phenomenology
+, trans. F. Kersten. The Hague: Nijhoff 1982
+(
+=
+Ideas
+).
+1929,
+Formal and Transcendental Logic
+, trans. D. Cairns.
+The Hague: Nijhoff 1969.
+1931,
+Cartesian Meditations
+, trans. D. Cairns, Dordrecht:
+Kluwer 1988.
+1939,
+Experience and Judgement
+, trans. J. S. Churchill
+and K. Ameriks, London: Routledge 1973.
+1954,
+The Crisis of European Sciences and Transcendental
+Phenomenology
+, trans. D. Carr. Evanston: Northwestern University
+Press (
+=
+Crisis
+) 1970.
+1980,
+Ideas Pertaining to a Pure Phenomenology and to a
+Phenomenological Philosophy—Third Book: Phenomenology and the
+Foundations of the Sciences
+, trans. T. E. Klein and W. E. Pohl,
+Dordrecht: Kluwer.
+1989,
+Ideas Pertaining to a Pure Phenomenology and to a
+Phenomenological Philosophy—Second Book: Studies in the
+Phenomenology of Constitution
+, trans. R. Rojcewicz and A.
+Schuwer, Dordrecht: Kluwer.
+1990,
+On the Phenomenology of the Consciousness of Internal
+Time (1893–1917)
+, trans. J. B. Brough, Dordrecht:
+Kluwer.
+1994,
+Early Writings in the Philosophy of Logic and
+Mathematics
+, trans. D. Willard, Dordrecht: Kluwer.
+1997,
+Psychological and Transcendental Phenomenology and the
+Confrontation with Heidegger (1927–1931)
+, trans. T. Sheehan
+and R. Palmer, Dordrecht: Kluwer.
+1999,
+The Essential Husserl
+, ed. D. Welton, Bloomington:
+Indiana University Press.
+Secondary Literature
+Behnke, Elizabeth A., 1996, “Edmund Husserl’s
+Contribution to Phenomenology of the Body in Ideas II,” in Nenon
+and Embree (eds.), 135–160.
+Bell, David, 1990,
+Husserl
+, London: Routledge.
+Bernet, Rudolf, Iso Kern and Eduard Marbach, 1993,
+An
+Introduction to Husserlian Phenomenology
+, Evanston: Northwestern
+University Press.
+Beyer, Christian, 1996,
+Von Bolzano zu Husserl
+,
+Dordrecht: Kluwer.
+–––, 2000,
+Intentionalität und
+Referenz
+, Paderborn: mentis.
+–––, 2001, “A Neo-Husserlian Theory of
+Speaker’s Reference,”
+Erkenntnis
+, 54:
+277–297.
+–––, 2011, “Husserls Konzeption des
+Bewusstseins,” in Cramer and Beyer (eds.), 43–54.
+–––, 2018, “How to Analyse (Intentional)
+Consciousness in Terms of Meta-Belief and Temporal Awareness,”
+Frontiers in Psychology
+, 9: Art. 1628 (September 7).
+–––, 2020, “Toward a Husserlian
+(Meta)Metaphysics,” in
+Metametaphysics and the
+Sciences
+, F. Kjosavik and C. Serck-Hanssen (eds.), New
+York/Oxford: Routledge.
+Biceaga, Victor, 2010,
+The Concept of Passivity in Husserl’s
+Phenomenology
+, Dordrecht: Springer.
+Boehm, Rudolf, 1968,
+Vom Gesichtspunkt der
+Phänomenologie
+, The Hague: Nijhoff.
+Breyer, Thiemo, 2011,
+Attentionalität und
+Intentionalität
+, München: Wilhelm Fink Verlag.
+Brudzińska, Jagna, 2020,
+Bi-Valenz der Erfahrung
+,
+Dordrecht: Springer.
+Caminada, Emanuele, 2019,
+Vom Gemeingeist zum Habitus:
+Husserls Ideen II
+, Heidelberg: Springer.
+Carr, David, 1987,
+Interpreting Husserl
+, Dordrecht:
+Nijhoff.
+–––, 2019, “Intersubjectivity and
+Embodiment,” in Kjosavik, Beyer, and Fricke (eds.) 2019,
+249–262.
+Centrone, Stefania, 2010,
+Logic and Philosophy of Mathematics
+in the Early Husserl
+, Dordrecht: Springer.
+Claesges, Ulrich, 1964,
+Edmund Husserls Theorie der
+Raumkonstitution
+, The Hague: Nijhoff.
+Cramer, Konrad and Christian Beyer (eds.), 2011,
+Edmund
+Husserl 1859–2009
+, Berlin/New York: De Gruyter.
+Crespo, Mariano, 2019, “From Empathy to Sympathy: On the
+Importance of Love in the Experience of the Other,” in Kjosavik,
+Beyer, and Fricke (eds.) 2019, 235–248.
+–––, 2021, “The Ethics of Husserl and his
+Contemporaries (Lipps, Pfänder, and Geiger),” in Jacobs
+(ed.) 2021, 367–376.
+De Boer, Theodore, 1978,
+The Development of Husserl’s
+Thought
+, The Hague: Nijhoff.
+De Santis, Daniele, 2021,
+Husserl and the A Priori:
+Phenomenology and Rationality
+. Dordrecht: Springer.
+Dodd, James, 1997,
+Idealism and Corporeity
+, Dordrecht:
+Kluwer.
+Donohoe, Janet, 2006,
+Husserl on Ethics and
+Intersubjectivity
+, Toronto: University of Toronto Press.
+Dreyfus, Hubert (ed.), 1982,
+Husserl, Intentionality, and
+Cognitive Science
+, Cambridge, MA: MIT Press.
+Drummond, John and Lester Embree (eds.), 1992,
+The
+Phenomenology of the Noema
+, Dordrecht: Kluwer.
+–––, 2002,
+Phenomenological Approaches to
+Moral Philosophy
+, Dordrecht: Kluwer.
+Drummond, John, 1990,
+Husserlian Intentionality and
+Non-Foundational Realism
+, Dordrecht: Kluwer.
+–––, 1992, “An Abstract Consideration:
+Deontologizing the Noema,” in Drummond and Embree (eds.),
+189–209.
+–––, 2018, “Husserl’s Middle Period and
+the Development of his Ethics,” in Zahavi (ed.) 2018,
+135–154.
+–––, 2022,
+Historical Dictionary of
+Husserl‘s Philosophy
+, 2nd edition, London: Rowman &
+Littlefield.
+Føllesdal, Dagfinn, 1958,
+Husserl und Frege
+, Oslo:
+Aschehoug; trans. in Haaparanta (ed.) 1994.
+–––, 1969, “Husserl’s Notion of
+Noema,” reprinted in Dreyfus (ed.) 1982.
+–––, 1988, “Husserl on Evidence and
+Justification,” in Sokolowski (ed.) 1988.
+–––, 1990, “Noema and Meaning in
+Husserl,”
+Phenomenology and Philosophical Research
+, 50:
+263–271.
+–––, 1990a, “The
+Lebenswelt
+in
+Husserl,” in: Haaparanta et al. 1990.
+–––, 1998, “Husserl, Edmund
+(1859–1938),” in
+Routledge Encyclopedia of
+Philosophy
+(Volume 4), London: Routledge.
+Frank, Manfred and Niels Weidtmann (eds.), 2010,
+Husserl und
+die Philosophie des Geistes
+, Frankfurt/Main: Suhrkamp.
+Gallagher, Shaun, 2011, “Embodiment and Phenomenal
+Qualities: An Enactive Interpretation,”
+Philosophical
+Topics
+, 39/1: 1–14.
+Gander, Hans-Helmuth (ed.), 2010,
+Husserl-Lexikon
+,
+Darmstadt: Wissenschaftliche Buchgesellschaft.
+Gurwitsch, Aron, 1966,
+Studies in Phenomenology and
+Psychology
+. Evanston: Northwestern University Press.
+–––, 1982, “Husserl’s Theory of the
+Intentionality of Consciousness”, in: Dreyfus (ed.) 1982.
+Haaparanta, Leila, with Martin Kusch and Ilkka Niiniluoto (eds.),
+1990,
+Language, Knowledge and Intentionality
+, Helsinki
+(
+Acta Philosophica Fennica
+49).
+Haaparanta, Leila (ed.), 1994,
+Mind, Meaning and
+Mathematics
+, Dordrecht: Kluwer.
+Heinämaa, Sara, 2011, “The Body,” in Luft and
+Overgaard (eds.) 2011, 222–232.
+–––, 2020, “Values of Love: Two Forms of
+Infinity Characteristic of Human Persons,”
+Phenomenology and
+the Cognitive Sciences
+, 19/3: 237–257.
+Held, Klaus, 1966,
+Lebendige Gegenwart
+, The Hague:
+Nijhoff.
+–––, 1990, “Edmund Husserl,” in
+Philosophen des 20. Jahrhunderts
+, ed. M. Fleischer,
+Darmstadt: Wissenschaftliche Buchgemeinschaft.
+–––, 2010, “Gott in Edmund Husserls
+Phänomenologie,” in Ierna, Jacobs, and Mattens (eds.),
+723–738.
+Holenstein, Elmar, 1972,
+Phänomenologie der
+Assoziation
+, The Hague: Nijhoff.
+Hopp, Walter, 2011,
+Perception and Knowledge
+, Cambridge:
+Cambridge University Press.
+–––, 2020,
+Phenomenology: A Contemporary
+Introduction
+, New York: Routledge.
+Ierna, Carlo, with Hanne Jacobs and Filip Mattens (eds.), 2010,
+Philosophy, Phenomenology, Sciences
+, Dordrecht:
+Springer.
+Ijselling, Samuel (ed.), 1990,
+Husserl-Ausgabe und
+Husserl-Forschung
+, Dordrecht: Kluwer.
+Ingarden, Roman, 1975,
+On the Motives which led Husserl to
+Transcendental Idealism
+, trans. A. Hannibalson. The Hague:
+Nijhoff.
+Jacobs, Hanne, 2010, “Towards a Phenomenological Account of
+Personal Identity,” in Ierna, Jacobs, and Mattens (eds.),
+333–361.
+––– (ed.), 2021,
+The Husserlian Mind
+.
+London: Routledge.
+Jardine, James, 2022,
+Empathy, Embodiment, and the
+Person
+, Dordrecht: Springer.
+Kaplan, David, 1989, “Demonstratives,” in
+Themes
+from Kaplan
+, ed. J. Almog and J. Perry and H. Wettstein, New
+York: Oxford University Press.
+Kern, Iso, 1964,
+Husserl und Kant
+, The Hague:
+Nijhoff.
+–––, 2019, “Husserl’s Phenomenology
+of Intersubjectivity,” in Kjosavik, Beyer, and Fricke (eds.)
+2019, 11–89.
+Kjosavik, Frode, Christian Beyer and Christel Fricke (eds.), 2019,
+Husserl’s Phenomenology of Intersubjectivity
+, New York,
+Oxford: Routledge.
+Küng, Guido, 1972, “The World as Noema and as
+Referent,”
+Journal of the British Society for
+Phenomenology
+, 3: 15–26.
+Künne, Wolfgang, 1986, “Edmund Husserl:
+Intentionalität,” in
+Grundprobleme der großen
+Philosophen: Philosophie der Neuzeit IV
+, J. Speck (ed.),
+Göttingen: Vandenhoeck & Ruprecht.
+Landgrebe, Ludwig, 1982a, “Das Problem des Anfangs der
+Philosophie in der Phänomenologie Husserls,” in: Ludwig
+Landgrebe,
+Faktizität und Individuation
+, Hamburg:
+Meiner, 21–37.
+–––, 1982b, “Das Problem der passiven
+Konstitution,” in: Ludwig Landgrebe,
+Faktizität und
+Individuation
+, Hamburg: Meiner, 71–87.
+Lee, Nam-In, 1993,
+Edmund Husserls Phänomenologie der
+Instinkte
+, Dordrecht: Kluwer.
+Luft, Sebastian and Søren Overgaard (eds.), 2011,
+The
+Routledge Companion to Phenomenology
+, London/New York:
+Routledge.
+Luft, Sebastian (ed.), 2011,
+Husserls Ethik
+,
+Journal
+Phänomenologie
+36, Special issue.
+Luft, Sebastian and Maren Wehrle (eds.), 2018,
+Husserl
+Handbuch
+, Stuttgart: Metzler.
+Marbach, Eduard, 1974,
+Das Problem des Ich in der
+Phänomenologie Husserls
+, The Hague: Nijhoff.
+–––, 1993,
+Mental Representation and
+Consciousness
+, Dordrecht: Kluwer.
+Melle, Ulrich, 1991, “The Development of Husserl’s
+Ethics,”
+Études phénoménologiques
+, 13–14:
+115–135.
+–––, 2002, “Edmund Husserl: From Reason to
+Love,” in Drummond and Embree (eds.), 2002, 229–248.
+Mayer, Verena, with Christopher Erhard and Marisa Scherini (eds.),
+2011,
+Die Aktualität Husserls
+, Freiburg: Alber.
+Mensch, James, 1997, “Instincts: A
+Husserlian
+Account,”
+Husserl Studies
+14/3, 219–237.
+Miller, Izchak, 1984,
+Husserl, Perception and Temporal
+Awareness
+, Cambridge, MA: MIT Press.
+Mohanty, J. N., 1982,
+Husserl and Frege
+, Bloomington:
+Indiana University Press.
+–––, 1995, “The Development of
+Husserl’s Thought,” in Smith and Smith (eds.), 1995.
+–––, 2008,
+The Philosophy of Edmund Husserl:
+A Historical Development
+, New Haven: Yale University Press.
+–––, 2011,
+Edmund Husserl’s Freiburg
+Years: 1916–1938
+, New Haven: Yale University Press.
+Mohanty, J. N. and William McKenna (eds.), 1989,
+Husserl’s Phenomenology: A Textbook
+, Lanham: The Center
+for Advanced Research in Phenomenology and University Press of
+America.
+Moran, Dermot and Joseph Cohen, 2012,
+The Husserl
+Dictionary
+, London/New York: Continuum Press.
+Moran, Dermot and Rasmus T. Janssen (eds.), 2013,
+The
+Phenomenology of Embodied Subjectivity
+, Dordrecht, Springer.
+Moran, Dermot, 2005,
+Edmund Husserl
+, Cambridge and
+Malden, MA: Polity Press.
+Moran, Dermot, 2011, “Edmund Husserl’s Phenomenolology of
+Habituality and Habitus,”
+Journal of the British Society for
+Phenomenology
+, 42/1: 53–77.
+Mulligan, Kevin and Barry Smith, 1986, “Husserl’s
+Logical Investigations
+,”
+Grazer Philosophische
+Studien
+, 28: 199–207.
+Mulligan, Kevin, 1995, “Perception,” in Smith and
+Smith (eds.) 1995.
+Murphy, Richard, 1980,
+Hume and Husserl
+, The Hague:
+Nijhoff.
+Nenon, Thomas and Lester Embree (eds.), 1996,
+Issues in
+Husserl’s “Ideas II”
+, Dordrecht: Kluwer.
+Overgaard, Søren, 2004,
+Husserl and Heidegger on Being
+in the World
+, Dordrecht: Springer.
+Perry, John, 1980, “A Problem About Continued Belief,”
+reprinted in
+The Problem of the Essential Indexical
+, New
+York: Oxford University Press 1993.
+Petitot, Jean, with Francisco Varela, Bernard Pachoud, and
+Jean-Michel Roy (eds.), 1999,
+Naturalizing Phenomenology
+,
+Stanford: Stanford University Press.
+Peucker, Henning, 2008, “From Logic to the Person: An
+Introduction to Husserl’s Ethics,”
+Review of
+Metaphysics
+, 62: 307–325.
+Rang, Bernard, 1973,
+Kausalität und Motivation
+, The
+Hague: Nijhoff.
+Rinofner-Kreidl, Sonja, 2000,
+Edmund Husserl: Zeitlichkeit und
+Intentionalität
+, Freiburg/Br.: Alber.
+Rollinger, Robin, 1999,
+Husserl’s Position in the School
+of Brentano
+, Dordrecht: Kluwer.
+Römer, Inga 2011: “Von der wertmaximierenden
+Leistungsmaschine zur vernünftigen liebenden Person:
+Subjektivität in Husserls Ethik,”
+Phänomenologie
+, 36: 21–35.
+Römpp, Georg, 1991,
+Husserls Phänomenologie der
+Intersubjektivität
+, Dordrecht: Kluwer.
+Schuhmann, Karl, 1977,
+Husserl-Chronik
+, The Hague:
+Nijhoff.
+–––, 1988,
+Husserls Staatsphilosophie
+,
+Freiburg/Br.: Alber.
+Schütz, Alfred, 1966, “The Problem of Transcendental
+Intersubjectivity in Husserl,” in
+Collected Papers III
+,
+The Hague: Nijhoff.
+Schwabe-Hansen, Elling, 1991,
+Das Verhältnis von
+transzendentaler und konkreter Subjektivität in der
+Phänomenologie Edmund Husserls
+, Oslo, Munich:
+Solum/Fink.
+Smith, A. D., 2003,
+Husserl and the Cartesian
+Meditations
+, London: Routledge.
+Smith, Barry and David Woodruff Smith (eds.), 1995,
+The
+Cambridge Companion to Husserl
+, Cambridge: Cambridge University
+Press.
+Smith, Barry (ed.), 1992,
+Parts and Moments
+, Munich:
+Philosophia Verlag.
+Smith, David Woodruff and Ronald McIntyre, 1982,
+Husserl and
+Intentionality
+, Dordrecht: Reidel.
+Smith, David Woodruff, 1989,
+The Circle of Acquaintance
+,
+Dordrecht: Kluwer.
+–––, 2013,
+Husserl
+, 2nd revised
+edition, London: Routledge; 1st edition, 2007.
+Sokolowski, Robert, 1970,
+The Formation of Husserl’s
+Concept of Constitution
+, The Hague: Nijhoff.
+–––, 1971, “The Structure and Content of
+Husserl’s
+Logical Investigations
+,”
+Inquiry
+, 14: 318–347.
+–––, 1974,
+Husserlian Meditations: How Words
+Present Things
+, Evanston: Northwestern University Press.
+–––, 1987, “Husserl and Frege,”
+The Journal of Philosophy
+, 84: 521–528.
+Sokolowski, Robert (ed.), 1988,
+Edmund Husserl and the
+Phenomenological Tradition
+, Washington: Catholic University of
+America Press.
+Soldati, Gianfranco, 1994,
+Bedeutung und psychischer
+Gehalt
+, Paderborn: Schöningh.
+Spiegelberg, Herbert, 1982,
+The Phenomenological
+Movement
+, 3
+rd
+revised and enlarged edition, The Hague:
+Nijhoff.
+Staiti, Andrea (ed.), 2015,
+Commentary on Husserl’s
+“Ideas I”
+, Berlin/Boston: de Gruyter.
+Stein, Edith, 1917,
+On the Problem of Empathy
+, trans. W.
+Stein. The Hague: Nijhoff 1970.
+Stepanians, Markus, 1998,
+Frege und Husserl über Urteilen
+und Denken
+, Paderborn: mentis.
+Ströker, Elisabeth, 1993,
+Husserl’s Transcendental
+Phenomenology
+, Stanford: Stanford University Press.
+Ströker, Elisabeth (ed.), 1979,
+Lebenswelt und
+Wissenschaft in der Philosophie Edmund Husserls
+, Frankfurt/M.:
+Klostermann.
+Süßbauer, Alfons, 1995,
+Intentionalität,
+Sachverhalt, Noema
+, Freiburg/Br.: Alber.
+Taipale, Joona, 2014,
+Phenomenology and Embodiment
+,
+Evanston: Northwestern University Press.
+Tugendhat, Ernst, 1967,
+Der Wahrheitsbegriff bei Husserl und
+Heidegger
+, Berlin: de Gruyter.
+Volonte, Paolo, 1997,
+Husserls Phänomenologie der
+Imagination
+, Freiburg/Br.: Alber.
+Waldenfels, Bernard, 1971,
+Das Zwischenreich des Dialogs
+,
+The Hague: Nijhoff.
+Wehrle, Maren, 2013,
+Horizonte der Aufmerksamkeit
+,
+München: Wilhelm Fink Verlag.
+Welton, Don, 1983,
+The Origins of Meaning
+, The Hague:
+Nijhoff.
+Willard, Dallas, 1984,
+Logic and the Objectivity of
+Knowledge
+, Athens/Ohio: University of Ohio Press.
+Wu, Jiahao, 2021,
+Das Grammatikalitätsphänomen in
+Husserls Phänomenologie
+, Georg-August-Universität
+Göttingen. doi:10.53846/goediss-8616
+Yamaguchi, Ichiro, 1982,
+Passive Synthesis und
+Intersubjektivität bei Edmund Husserl
+, The Hague:
+Nijhoff.
+Zahavi, Dan, 2003,
+Husserl’s Phenomenology
+,
+Stanford: Stanford University Press.
+–––, 2014, “Edmund Husserl,” in
+Oxford Bibliographies in Philosophy
+, Oxford: Oxford
+University Press.
+–––, 2015, “Phenomenology of
+Reflection,” in Staiti (ed.) 2015, 177–194.
+–––, 2017,
+Husserl’s Legacy
+,
+Oxford: Oxford University Press.
+–––, (ed.) 2018,
+The Oxford Handbook of the
+History of Phenomenology
+, Oxford: Oxford University Press.
+–––, 2018, “Intersubjectivity, Sociality,
+Community: The Contributions of the Early Phenomenologists,” in
+Zahavi (ed.), 2018, 734–752.
+Academic Tools
+How to cite this entry
+.
+Preview the PDF version of this entry
+at the
+Friends of the SEP Society
+.
+Look up topics and thinkers related to this entry
+at the Internet Philosophy Ontology Project (InPhO).
+Enhanced bibliography for this entry
+at
+PhilPapers
+, with links to its database.
+Other Internet Resources
+The Husserl Page
+,
+ maintained by Bob Sandmeyer (University of Kentucky)
+Husserl.net
+,
+ maintained by Jeff Yoshimi (University of California at San
+Diego)
+The Open Commons of Phenomenology
+,
+ (non-profit scholarly association)
+Information and Links on Husserl
+,
+ in German (University of Freiburg)
+Related Entries
+abstract objects
+|
+Bolzano, Bernard
+|
+Brentano, Franz
+|
+cognitive science
+|
+consciousness
+|
+dependence, ontological
+|
+Heidegger, Martin
+|
+Ingarden, Roman
+|
+intentionality
+|
+Lotze, Hermann
+|
+other minds
+|
+perception: the problem of
+|
+phenomenology
+|
+propositions
+|
+reference
+|
+Sartre, Jean-Paul
+|
+Schutz, Alfred
+|
+self-consciousness: phenomenological approaches to
+|
+Stumpf, Carl
+Acknowledgments
+Research on an earlier version of this article was supported by the
+German Research Foundation (DFG) in the framework of the
+Lichtenberg-Kolleg of the Georg-August University of Göttingen. A
+later version was based on research pursued at the Centre for Advanced
+Study in Oslo, Norway, that funded and hosted the research project
+“Disclosing the Fabric of Reality—The Possibility of
+Metaphysics in the Age of Science” during the academic year of
+2015/16.

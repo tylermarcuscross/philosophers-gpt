@@ -1,0 +1,2024 @@
+Curry’s Paradox
+First published Wed Sep 6, 2017; substantive revision Fri Jan 19, 2018
+“Curry’s paradox”, as the term is used by
+ philosophers today, refers to a wide variety of paradoxes of
+self-reference
+or circularity
+ that trace their modern
+ ancestry to Curry (1942b) and Löb
+ (1955).
+[
+1
+]
+The common characteristic of these so-called Curry paradoxes is the
+way they exploit a notion of implication, entailment, or consequence,
+either in the form of a connective or in the form of a predicate.
+ Curry’s paradox arises in a number of different domains. Like
+Russell’s paradox
+,
+ it can take the form of a paradox of
+set theory or the theory of properties. But it can also take the form
+ of a semantic paradox, closely akin to the
+Liar paradox
+.
+ Curry’s paradox differs from both Russell’s paradox and
+the Liar paradox in that it doesn’t essentially involve the
+notion of negation. Common truth-theoretic versions involve a sentence
+that says of itself that if it is true then an arbitrarily chosen
+claim is true, or—to use a more sinister instance—says of
+itself that if it is true then every falsity is true. The paradox is
+that the existence of such a sentence appears to imply the truth of
+the arbitrarily chosen claim, or—in the more sinister
+instance—of every falsity. In this entry, we show how the
+various Curry paradoxes can be constructed, examine the space of
+available solutions, and explain some ways Curry’s paradox is
+significant and poses distinctive challenges.
+1. Introduction: Two Guises of the Paradox
+1.1 An Informal Argument
+1.2 A Constraint on Theories
+1.3 Overview
+2. Constructing Curry Sentences
+2.1 Curry’s First Method, and Set-Theoretic Curry Sentences
+2.2 Curry’s Second Method, and Truth-Theoretic Curry Sentences
+3. Deriving the Paradox
+3.1 The Curry-Paradox Lemma
+3.2 Alternative Premises
+4. Responses to Curry’s Paradox
+4.1 Curry-Incompleteness Responses
+4.2 Curry-Completeness Responses
+4.2.1 Contraction-Free Responses
+4.2.2 Detachment-Free Responses
+4.2.3 Application to the Informal Argument
+5. The Significance of Curry’s Paradox
+5.1 Dashing Hopes for Solutions to Negation Paradoxes
+5.1.1 Paraconsistent Solutions Frustrated
+5.1.2 Paracomplete Solutions Frustrated
+5.2 Pointing to a General Paradox Structure
+6. Validity Curry
+6.1 Connective Form
+6.2 Predicate Form
+6.3 Significance
+Bibliography
+Key Historical Sources
+Other References
+Academic Tools
+Other Internet Resources
+Related Entries
+1. Introduction: Two Guises of the Paradox
+1.1 An Informal Argument
+Suppose that your friend tells you: “If what I’m saying
+using this very sentence is true, then time is infinite”. It
+turns out that there is a short and seemingly compelling argument for
+the following conclusion:
+(P)
+The mere
+existence of your friend’s assertion entails (or has as a
+consequence) that time is infinite.
+Many hold that (P) is beyond belief (and, in that sense, paradoxical),
+even if time is indeed infinite. Or, if that isn’t bad enough,
+consider another version, this time involving a claim known to be
+false. Let your friend say instead: “If what I’m saying
+using this very sentence is true, then all numbers are prime”.
+Now,
+mutatis mutandis
+, the same short and seemingly
+compelling argument yields (Q):
+(Q)
+The mere
+existence of your friend’s assertion entails (or has as a
+consequence) that all numbers are prime.
+Here is the argument for
+(P)
+.
+ Let \(k\) be the self-referential sentence your friend uttered,
+simplified somewhat so that it reads “If \(k\) is true then time
+is infinite”. In view of what \(k\) says, we know this much:
+(1)
+Under the supposition that \(k\) is true, it is the case
+    that
+if
+\(k\)
+is true then time is
+    infinite
+.
+But, of course, we also have
+(2)
+Under the supposition that \(k\) is true, it is the case that
+    \(k\)
+is true
+.
+Under the supposition that \(k\) is true, we have thus derived a
+conditional together with its antecedent. Using
+modus ponens
+within the scope of the supposition, we now derive the
+conditional’s consequent under that same supposition:
+(3)
+Under the supposition that \(k\) is true, it is the case
+    that
+time is infinite
+.
+The rule of conditional proof now entitles us to affirm a conditional
+with our supposition as antecedent:
+(4)
+If \(k\) is true then time is infinite.
+But, since (4) just is \(k\) itself, we thus have
+(5)
+\(k\) is true.
+Finally, putting (4) and (5) together by
+modus ponens
+, we
+get
+(6)
+Time is infinite.
+We seem to have established that time is infinite using no assumptions
+beyond the existence of the self-referential sentence \(k\), along with
+the seemingly obvious principles about truth that took us to (1) and
+ also from (4) to (5). And the same goes for
+(Q)
+,
+ since we could have used the same form of argument to reach the false
+conclusion that all numbers are prime.
+1.2 A Constraint on Theories
+One challenge posed by Curry’s paradox is to pinpoint what goes
+wrong in the foregoing informal argument for
+(P)
+,
+(Q)
+or the like. But starting with Curry’s initial
+presentation in Curry 1942b (see the supplementary document on
+Curry on Curry’s Paradox
+), discussion
+of Curry’s paradox has usually had a different focus. It has
+concerned various formal systems —most often set theories or
+theories of truth. In this setting what poses the paradox is a proof
+that the system has a particular feature. Typically, the feature at
+issue is
+triviality
+. A theory is said to be trivial, or
+absolutely inconsistent
+, when it affirms every claim that is
+expressible in the language of the
+ theory.
+[
+2
+]
+An argument establishing that a particular formal theory is trivial
+will pose a problem if either of the following is the case: (i) we
+wish to use the formal theory in our inquiries, as we use set theory
+when doing mathematics, or (ii) we wish to use the formal theory in
+order to model features of language or thought, in particular the
+claims to which some speakers or thinkers are committed. Either way,
+the target theory’s triviality would show that it is inadequate
+for its intended purpose. So this is a second challenge posed by
+Curry’s paradox.
+To spell out the sense in which Curry’s paradox constrains
+theories we need to say what a
+Curry sentence
+is. Informally,
+a Curry sentence is a sentence that is equivalent, by the lights of
+some theory, to a conditional
+with itself as antecedent
+. For
+example, one might think of the argument of
+section 1.1
+as appealing to an informal theory of truth. Then the sentence
+“\(k\) is true” serves as a Curry sentence for that
+theory. That is because, given what our informal theory tells us about
+what \(k\)’s truth involves, “\(k\) is true” should
+be equivalent to “If \(k\) is true, then time is infinite”
+(since this conditional is \(k\) itself).
+In what follows, the notation \(\vdash_{\mathcal{T}} \alpha\) is used
+to say that theory \(\mathcal{T}\) contains sentence \(\alpha\), and
+\(\Gamma \vdash_{\mathcal{T}} \alpha\) is used to say that \(\alpha\)
+follows from the premises collected in \(\Gamma\) according to
+\(\mathcal{T}\) (i.e., according to \(\mathcal{T}\)’s
+consequence relation
+ \(\vdash_{\mathcal{T}}\)).
+[
+3
+]
+Except in
+section 4.2.1
+,
+ however, we will be concerned only with claims about what follows
+according to the theory from a single premise, i.e., claims expressed by 
+sentences of form
+\(\gamma \vdash_{\mathcal{T}} \alpha\). (We rely on context to make clear 
+where such a sentence is being used and where it is only being mentioned.)
+Two sentences (in the language
+of theory \(\mathcal{T}\)) will be called
+intersubstitutable
+according to \(\mathcal{T}\) provided the truth of any claim of the
+form \(\Gamma \vdash_{\mathcal{T}} \alpha\) is unaffected by
+substitutions of one for the other within \(\alpha\) or within any of
+the sentences in \(\Gamma\). Finally, we assume that the language
+contains a connective \({\rightarrow}\) that serves, in some suitable
+sense, as a conditional. For purposes of the following definition, we
+don’t place any specific requirements on the behavior of this
+conditional. We can now define the notion of a
+Curry sentence for
+a sentence-theory pair
+.
+Definition 1
+(Curry sentence) Let \(\pi\) be a
+sentence of the language of \(\mathcal{T}\). A Curry sentence for
+\(\pi\) and \(\mathcal{T}\) is any sentence \(\kappa\) such that
+\(\kappa\) and \(\kappa {\rightarrow}\pi\) are intersubstitutable
+according to
+ \(\mathcal{T}\).
+[
+4
+]
+The various versions of Curry’s paradox arise from the existence
+of arguments in favor of the following very general claim. (These
+arguments, which rest on assumptions about the conditional
+\({\rightarrow}\), will be discussed in detail in
+section 3
+.)
+Troubling Claim
+For every theory \(\mathcal{T}\), and
+any sentence \(\pi\) in the language of \(\mathcal{T}\), if there is a
+Curry sentence for \(\pi\) and \(\mathcal{T}\), then
+\(\vdash_{\mathcal{T}} \pi\).
+An argument that appears to establish the Troubling Claim will count
+as paradoxical provided there is also compelling reason to believe
+that this claim is false. A counterexample to the Troubling Claim
+would be any theory \(\mathcal{T}\) and sentence \(\pi\) such that
+there is a Curry sentence for \(\pi\) and \(\mathcal{T}\) but it is
+not the case that \(\vdash_{\mathcal{T}} \pi\).
+As noted above, Curry’s paradox is often understood as a
+challenge to the existence of nontrivial theories. Given the Troubling
+Claim, a theory will be trivial whenever a Curry sentence can be
+formulated for
+any
+sentence in the language of the theory.
+Indeed, triviality follows from a weaker condition, which the
+following definition makes explicit.
+Definition 2
+(Curry-complete theory) A theory
+\(\mathcal{T}\) is Curry-complete provided that for every sentence
+\(\pi\) in the language of \(\mathcal{T}\), there is some \(\pi'\)
+such that (i) there is a Curry sentence for \(\pi'\) and
+\(\mathcal{T}\) and (ii) if \(\vdash_{\mathcal{T}} \pi'\) then
+\(\vdash_{\mathcal{T}} \pi\).
+While one instance of \(\pi'\) satisfying the condition (ii) would be
+\(\pi\) itself, another instance would be an “explosive”
+sentence \(\bot\) that is contained in a theory only if
+every
+sentence is contained in the
+ theory.
+[
+5
+]
+The Troubling Claim now has an immediate consequence: a Curry-complete
+theory must contain every sentence in its language.
+Troubling Corollary
+Every Curry-complete theory is
+trivial.
+Again, any argument that appears to establish the Troubling Corollary
+will count as paradoxical provided that there is compelling reason to
+believe that there are nontrivial theories (indeed true theories) that are
+Curry-complete.
+1.3 Overview
+For the remainder of this entry, Curry’s paradox will be
+understood as imposing a paradoxical constraint on theories, namely
+the one stated by the above Troubling Corollary. Presenting a version
+of Curry’s paradox, understood this way, involves doing two
+things:
+arguing that \(\mathcal{T}\) is Curry-complete, for some apparently
+nontrivial target theory \(\mathcal{T}\), and
+giving an argument for the Troubling
+ Claim.
+[
+6
+]
+Sections
+2
+and
+3
+discuss these two tasks in that order. For now, the basic idea can be
+conveyed using the example of the self-referential sentence \(k\) that
+reads “If \(k\) is true then time is infinite”. First,
+given our understanding of truth, we recognize that the sentence
+“\(k\) is true” is intersubstitutable with “If \(k\)
+is true, then time is infinite”. Second, the informal argument
+of
+section 1.1
+derives a paradoxical conclusion from this equivalence. Readers
+chiefly interested in the logical principles involved in that argument
+and related ones, and the options for resisting such arguments, may
+wish to turn to
+section 3
+.
+2. Constructing Curry Sentences
+As it is standardly presented today, Curry’s paradox afflicts
+“naive” truth theories (those featuring a
+“transparent” truth predicate) and “naive” set
+theories (those featuring unrestricted set abstraction). This section
+will explain how each kind of theory can give rise to Curry sentences.
+We start, however, with a version that concerns theories of
+properties
+, a version that more closely resembles
+Curry’s formulation. (The supplementary document
+Curry on Curry’s Paradox
+briefly characterizes the targets of Curry’s own versions of
+the paradox.)
+A theory of properties features
+unrestricted property
+abstraction
+provided that for any condition statable in the
+language of the theory, there exists a property that (according to the
+theory) is exemplified by precisely the things that meet this
+condition. Consider a theory \(\mathcal{T_P}\) formulated in a
+language with a property abstraction device \([x: \phi x]\) and an
+exemplification relation \(\epsilon\). For example, if \(\phi(t)\)
+says that the object which the term \(t\) stands for is triangular,
+\(t \ \epsilon \ [x: \phi x]\) says that this object exemplifies the
+property of triangularity. Then, given unrestricted property
+abstraction, we should have the following principle.
+(Property)
+For every open sentence \(\phi\) with one
+free variable, and every term \(t\), the sentences \(t \ \epsilon \
+[x: \phi x]\) and \(\phi t\) are intersubstitutable according to
+\(\mathcal{T_P}\).
+In effect, Curry (1942b) sketches two
+“methods of constructing” Curry sentences using his
+counterpart of (Property). He says that the first is “based on
+the Russell paradox”, while the second is “based on the
+Epimenides paradox”. Although both methods are
+property-theoretic, the first method yields a precursor of
+set-theoretic versions of Curry’s paradox, while the second
+yields a precursor of truth-theoretic versions.
+2.1 Curry’s First Method, and Set-Theoretic Curry Sentences
+The version of Russell’s paradox which Curry’s
+first method resembles is the one that concerns property
+exemplification. Its topic is the property of being such that
+one
+fails to exemplify oneself
+. We obtain a property-theoretic Curry
+sentence by considering instead the property of being such that
+one exemplifies oneself only if time is infinite.
+Say that we
+introduce the name \(h\) for that property, by stipulating \(h =_{def}
+[x: x \ \epsilon \ x {\rightarrow}\pi]\), where the sentence \(\pi\)
+says that time is
+ infinite.
+[
+7
+]
+Applying the principle
+(Property)
+to the sentence \(h \ \epsilon \ h\), we find:
+\(h \ \epsilon \ h\) and \(h \ \epsilon \ h {\rightarrow}\pi\) are
+intersubstitutable according to \(\mathcal{T_P}\).
+In other words, \(h \ \epsilon \ h\) is a Curry sentence for \(\pi\)
+and \(\mathcal{T_P}\).
+Curry’s first method subsequently gave rise to set-theoretic
+Curry sentences. A theory of sets features
+unrestricted set
+abstraction
+provided that for any condition statable in the
+language of the theory, there exists a set that (according to the
+theory) contains all and only the things that meet this condition. Let
+\(\mathcal{T_S}\) be our theory of sets, formulated in a language that
+expresses set abstraction using \(\{ x: \phi x\}\) and set membership
+using \(\in\). Then the counterpart of
+(Property)
+is
+(Set)
+For every open sentence \(\phi\) with one free
+variable, and every term \(t\), the sentences \(t \in \{ x: \phi x\}\)
+and \(\phi t\) are intersubstitutable according to
+\(\mathcal{T_S}\).
+To obtain a set-theoretic Curry sentence, consider the set consisting
+of anything that is a member of itself only if time is infinite. Say
+that we introduce the name \(c\) for that set, by stipulating \(c
+=_{def} \{ x: x \in x {\rightarrow}\pi \}\). Applying the principle
+(Set)
+to the sentence \(c \in c\), we find:
+\(c \in c\) and \(c \in c {\rightarrow}\pi\) are intersubstitutable
+according to \(\mathcal{T_S}\).
+In other words, \(c \in c\) is a Curry sentence for \(\pi\) and
+\(\mathcal{T_S}\).
+The set-theoretic version of Curry’s paradox was introduced in
+Fitch
+ 1952
+[
+8
+]
+and is also presented in Moh 1954 and
+Prior 1955.
+2.2 Curry’s Second Method, and Truth-Theoretic Curry Sentences
+Despite his remark about the “Epimenides paradox”, a form
+of the Liar paradox, Curry’s second method is a variant
+of a related semantic paradox, Grelling’s
+ paradox.
+[
+9
+]
+In its original form, Grelling’s paradox considers a property
+possessed by many words, namely the property a word has when it
+fails to exemplify the property it stands for
+(Grelling
+& Nelson 1908). For example, the
+word “offensiveness” has that property: it fails to
+exemplify the property it stands for, since it isn’t offensive
+(see entry on
+paradoxes and contemporary logic
+).
+ In effect, Curry considers instead the property a word has provided
+it
+exemplifies the property it stands for only if time is
+infinite
+. Now suppose that our theory introduces a name \(u\) for
+this property. Curry then shows how to construct a sentence that
+(speaking informally) says that the name \(u\) exemplifies the
+property it stands for. He shows that this sentence will serve as a
+Curry sentence for a theory of properties and the denotation of
+ names.
+[
+10
+]
+Though this method of obtaining a Curry sentence is based on a
+semantic feature of expressions
+, it still relies on property
+abstraction. Nonetheless, it can be viewed as a precursor to a wholly
+semantic version. (Rather than consider the above-introduced
+property
+,
+one could consider the
+predicate
+“applies to itself only if time
+is infinite”.) Accordingly, as Geach
+(1955) and Löb (1955) were
+the first to show, Curry sentences can be obtained using semantic
+principles alone, without any reliance on property abstraction. Their
+route corresponds to the informal argument, in
+section 1.1
+,
+ involving the self-referential sentence \(k\) that reads “If
+\(k\) is true then time is infinite.”
+For this purpose, let \(\mathcal{T_T}\) be a theory of truth, where
+\(T\) is the truth predicate. Assume the “transparency”
+principle
+(Truth)
+For every sentence \(\alpha\), the sentences
+\(T\langle \alpha \rangle\) and \(\alpha\) are intersubstitutable
+according to \(\mathcal{T_T}\).
+To obtain a Curry sentence using this principle, assume there is a
+sentence \(\xi\) that is \(T\langle \xi \rangle
+ {\rightarrow}\pi\).
+[
+11
+]
+Then it follows immediately from (Truth) that
+\(T\langle \xi \rangle\) and \(T\langle \xi \rangle {\rightarrow}\pi\)
+are intersubstitutable according to \(\mathcal{T_T}\).
+In other words, \(T\langle \xi \rangle\) is a Curry sentence for
+\(\pi\) and \(\mathcal{T_T}\).
+Geach notes that the semantic paradox that results from a sentence
+like \(T\langle \xi \rangle\) resembles “the Curry paradox in
+set theory”. Löb, who doesn’t mention Curry’s
+work, credits the paradox to a referee’s observation about the
+proof of what is now known as Löb’s theorem concerning
+provability (see entry on
+Gödel’s incompleteness theorems
+).
+ The referee, now known to have been Leon Henkin (Halbach
+& Visser 2014: 257), suggested
+that the method Löb used in his proof “leads to a
+new derivation of paradoxes in natural language”, namely the
+informal argument of
+section 1.1
+above.
+[
+12
+]
+3. Deriving the Paradox
+Suppose that we have used one of the above methods to show, for some
+theory of truth, sets, or properties, that the theory is
+Curry-complete (in virtue, say, of containing a Curry sentence for
+each sentence of the language, or for an explosive sentence). To
+conclude that the theory in question is trivial, it now suffices to
+give an argument for the Troubling Claim. This is the claim that for
+every theory \(\mathcal{T}\), if there is a Curry sentence for \(\pi\)
+and \(\mathcal{T}\), then \(\vdash_{\mathcal{T}} \pi\). Such an
+argument will make use of assumptions about the logical behavior of
+the conditional \({\rightarrow}\) mentioned in
+Definition 1
+.
+ Assuming the Troubling Claim must be resisted, this accordingly
+places constraints on the behavior of this conditional.
+3.1 The Curry-Paradox Lemma
+To start, here is a very general limitative result, a close variant of
+the Lemma in Curry
+ 1942b.
+[
+13
+]
+Curry-Paradox Lemma
+Suppose that theory
+\(\mathcal{T}\) and sentence \(\pi\) are such that (i) there is a
+Curry sentence for \(\pi\) and \(\mathcal{T}\), (ii) all instances of
+the identity rule (Id) \(\alpha \vdash_{\mathcal{T}} \alpha\) hold,
+and (iii) the conditional \({\rightarrow}\) satisfies both of the
+following principles:
+\[\tag{MP} \textrm{If } \vdash_{\mathcal{T}} \alpha {\rightarrow}\beta
+\textrm{ and }\vdash_{\mathcal{T}} \alpha \textrm{ then }
+\vdash_{\mathcal{T}} \beta \]
+
+ 
+
+\[\tag{Cont} \textrm{If } \alpha \vdash_{\mathcal{T}} \alpha
+{\rightarrow}\beta \textrm{ then } \vdash_{\mathcal{T}} \alpha
+{\rightarrow}\beta \]
+Then \(\vdash_{\mathcal{T}} \pi\).
+Here MP is a version of
+modus ponens
+, and Cont is a principle
+of
+contraction
+: two occurrences of the sentence \(\alpha\)
+are “contracted” into one. (We will soon encounter related
+principles that are more commonly referred to as
+ contraction.
+[
+14
+]
+) The
+Curry-Paradox Lemma entails that any Curry-complete theory must
+violate one or more of Id, MP or Cont on pain of triviality.
+To prove the Lemma one shows that Id, MP and Cont, together with the
+“Curry-intersubstitutivity” of \(\kappa\) with \(\kappa
+{\rightarrow}\pi\), suffice to establish \(\vdash_{\mathcal{T}} \pi\).
+The following derivation resembles the informal argument of
+section 1.1
+.
+ That argument also included a subargument for the principle Cont,
+which will be examined below.
+\[
+\begin{array}{rll}
+1 & \kappa \vdash_{\mathcal{T}} \kappa & \textrm{Id}\\
+2 & \kappa \vdash_{\mathcal{T}} \kappa {\rightarrow}\pi & \textrm{1 Curry-intersubstitutivity}\\
+3 & \vdash_{\mathcal{T}} \kappa {\rightarrow}\pi & \textrm{2 Cont}\\
+4 & \vdash_{\mathcal{T}} \kappa & \textrm{3 Curry-intersubstitutivity}\\
+5 & \vdash_{\mathcal{T}} \pi & \textrm{3, 4 MP}
+\end{array}
+\]
+Section 4
+will discuss ways in which each of the two principles concerning
+\({\rightarrow}\) assumed in the Curry-Paradox Lemma might be
+justified or rejected.
+3.2 Alternative Premises
+There are counterparts of the Curry-Paradox Lemma that invoke
+alternative sets of logical principles (see, e.g., Rogerson
+& Restall 2004 and Bimbó
+2006). Probably the most common
+version replaces the
+rules
+Id and Cont with corresponding
+laws
+:
+\[\tag{IdL}
+\vdash_{\mathcal{T}} \alpha {\rightarrow}\alpha
+\]
+
+\[
+\tag{ContL} 
+\vdash_{\mathcal{T}} (\alpha {\rightarrow}(\alpha {\rightarrow}\beta)) {\rightarrow}(\alpha {\rightarrow}\beta) 
+\]
+The derivation now goes as follows:
+\[
+\begin{array}{rll}
+1  & \vdash_{\mathcal{T}} \kappa {\rightarrow}\kappa &
+\textrm{IdL }\\
+2  & \vdash_{\mathcal{T}} \kappa {\rightarrow}(\kappa {\rightarrow}\pi) &
+\textrm{1 Curry-intersubstitutivity }\\
+3  & \vdash_{\mathcal{T}} (\kappa {\rightarrow}(\kappa {\rightarrow}\pi)) {\rightarrow}(\kappa {\rightarrow}\pi) &
+\textrm{2 ContL }\\
+4  & \vdash_{\mathcal{T}} \kappa {\rightarrow}\pi &
+\textrm{2, 3 MP }\\
+5  & \vdash_{\mathcal{T}} \kappa &
+\textrm{4 Curry-intersubstitutivity }\\
+6  & \vdash_{\mathcal{T}} \pi &
+\textrm{4, 5 MP }\\
+\end{array}
+\]
+A second common counterpart of the Curry-Paradox Lemma is due to Meyer,
+Routley, and Dunn
+ (1979).
+[
+15
+]
+It uses two principles concerning conjunction: the law form of
+modus ponens
+and the idempotency of conjunction.
+\[\tag{MPL}
+\vdash_{\mathcal{T}} ((\alpha {\rightarrow}\beta) \wedge \alpha) {\rightarrow}\beta
+\]
+(Idem\(_{\wedge}\))
+The sentences
+    \(\alpha\) and \(\alpha \wedge \alpha\) are intersubstitutable
+    according to \(T\)
+This time the derivation goes as follows:
+\[
+\begin{array}{rll}
+1  & \vdash_{\mathcal{T}} ((\kappa {\rightarrow}\pi) \wedge \kappa) {\rightarrow}\pi &
+  \textrm{MPL }\\
+2  & \vdash_{\mathcal{T}} (\kappa \wedge \kappa) {\rightarrow}\pi &
+  \textrm{1 Curry-intersubstitutivity }\\
+3  & \vdash_{\mathcal{T}} \kappa {\rightarrow}\pi &
+  \textrm{2 Idem\(_{\wedge}\) }\\
+4  & \vdash_{\mathcal{T}} \kappa &
+  \textrm{4 Curry-intersubstitutivity }\\
+5  & \vdash_{\mathcal{T}} \pi &
+  \textrm{3, 4 MP }\\
+\end{array}
+\]
+Formulating the Curry-Paradox Lemma using Cont, rather than ContL or
+MPL, will make it easier to call attention (in the next section) to
+significant differences within the class of responses that reject both
+ of the latter
+ principles.
+[
+16
+]
+4. Responses to Curry’s Paradox
+Responses to Curry’s paradox can be divided into two classes,
+based on whether they accept the Troubling Corollary that all
+Curry-complete theories are trivial.
+Curry-incompleteness responses
+accept the Troubling
+Corollary. However, they deny that the target theories of properties,
+sets or truth are Curry-complete. Curry-incompleteness responses can,
+and usually do, embrace classical logic.
+Curry-completeness responses
+reject the Troubling Corollary;
+they insist that there can be nontrivial Curry-complete theories. Any
+such theory must violate one or more of the logical principles assumed
+in the Curry-Paradox Lemma. Since classical logic validates those
+ principles, these responses invoke a non-classical
+ logic.
+[
+17
+]
+There is also the option of advocating a Curry-incompleteness response
+to Curry paradoxes arising in one domain, say set theory, while
+advocating a Curry-completeness response to Curry paradoxes arising in
+another domain, say property theory (e.g.,
+Field 2008; Beall 2009).
+4.1 Curry-Incompleteness Responses
+Examples of prominent theories of truth that supply
+Curry-incompleteness responses to Curry’s paradox include
+ Tarski’s hierarchical theory, the
+revision theory of truth
+(Gupta & Belnap 1993) and the
+contextualist approaches (Burge
+1979, Simmons 1993, and 
+Glanzberg 2001, 2004). These theories all
+ restrict the “naive” transparency principle
+(Truth)
+.
+ For an overview, see the entry on the
+Liar paradox
+.
+ In the
+context of set theory Curry-incompleteness responses include
+Russellian type theories and various theories that restrict the
+ “naive” set abstraction principle
+(Set)
+.
+ See the entries on
+Russell’s paradox
+and
+alternative axiomatic set theories
+.
+In general, the considerations relevant to evaluating most
+Curry-incompleteness responses don’t appear to be specific to
+Curry’s paradox, but pertain equally to the Liar paradox (in the
+truth-theoretic domain) and Russell’s paradox (in the set- and
+ property-theoretic
+ domains).
+[
+18
+]
+For that reason the rest of this entry will focus on Curry-completeness
+ responses, though
+section 6.3
+briefly returns to the distinction in the context of so-called
+validity Curry paradoxes.
+4.2 Curry-Completeness Responses
+Curry-completeness responses to Curry’s paradox hold that there
+are theories that are Curry-complete yet nontrivial; such a theory
+must violate one or more of the logical principles assumed in the
+Curry-Paradox Lemma. Since the rule Id has generally been left
+unquestioned (but see French 2016 and Nicolai
+& Rossi forthcoming), this has meant denying that the
+conditional \({\rightarrow}\) of a nontrivial Curry-complete theory
+satisfies both MP and Cont. Accordingly, responses have fallen into
+two categories.
+(I)
+The most common strategy has been to accept that such a
+    theory’s conditional obeys MP, but deny that it obeys
+    Cont. Since Cont is a contraction principle, such responses can be
+    called
+contraction-free
+.  This strategy was first
+    proposed by Moh (1954), who is cited approvingly by Geach (1955)
+    and Prior (1955).
+(II)
+A second and much more recent strategy is to accept that such a
+    theory’s conditional obeys Cont, but deny that it obeys MP
+    (sometimes called the rule of “detachment”). Such
+    responses can be called
+detachment-free
+. This strategy is advocated, in different
+    ways, by Ripley (2013) and Beall (2015).
+Each category of Curry-completeness responses can in turn be
+subdivided according to how it blocks purported derivations of Cont
+and MP.
+4.2.1 Contraction-Free Responses
+The principle Cont that is rejected by contraction-free responses
+follows from two standard principles. These are single-premise
+conditional proof and a slightly more general version of
+modus
+ponens
+, involving at most one premise \(\gamma\):
+(MP′)
+If \(\gamma \vdash_{\mathcal{T}} \alpha {\rightarrow}\beta\) and
+    \(\gamma \vdash_{\mathcal{T}} \alpha\) then
+    \(\gamma \vdash_{\mathcal{T}} \beta\)
+(CP)
+If \(\alpha \vdash_{\mathcal{T}} \beta\) then 
+    \(\vdash_{\mathcal{T}} \alpha {\rightarrow}\beta\)
+\[
+\begin{array}{rll}
+1  & \alpha \vdash_{\mathcal{T}} \alpha {\rightarrow}\beta &
+  \\
+2  & \alpha \vdash_{\mathcal{T}} \alpha &
+  \textrm{Id }\\
+3  & \alpha \vdash_{\mathcal{T}} \beta &
+  \textrm{1, 2 MP′ }\\
+4  & \vdash_{\mathcal{T}} \alpha {\rightarrow}\beta &
+  \textrm{3 CP }\\
+\end{array}
+\]
+Contraction-free responses must thus reject one or the other of these
+two principles for the conditional of a nontrivial Curry-complete
+theory. Accordingly, two subcategories of theorists in category (I)
+can be identified:
+(Ia)
+A
+strongly contraction-free
+response denies that
+    \({\rightarrow}\) obeys MP′ (e.g., Mares & Paoli 2014;
+    Slaney 1990; Weir 2015; Zardini 2011).
+(Ib)
+A
+weakly contraction-free
+response accepts that
+    \({\rightarrow}\) obeys MP′, but denies that it obeys CP
+    (e.g., Field 2008; Beall 2009; Nolan 2016).
+The reason why responses in category (Ib) only count as
+weakly
+contraction-free is that, as steps 1–3 show,
+they accept the contraction principle according to which if 
+\(\alpha \vdash_{\mathcal{T}} \alpha {\rightarrow}\beta\) then 
+\(\alpha \vdash_{\mathcal{T}} \beta\).
+Proponents of strongly contraction-free responses hold that MP′
+doesn’t properly express the relevant form of
+modus
+ponens
+. They typically present their own form of that rule in a
+“substructural” framework, specifically one that lets us
+distinguish between what follows from a premise
+taken once
+and what follows from the same premise
+taken twice
+. (See
+ the entry on
+substructural logics
+.)
+ Accordingly, MP′ needs to be replaced by
+(MP″)
+If \(\gamma \vdash_{\mathcal{T}} \alpha {\rightarrow}\beta\) and
+    \(\gamma \vdash_{\mathcal{T}} \alpha\) then \(\gamma, \gamma
+    \vdash_{\mathcal{T}} \beta\)
+and the rule of “structural contraction” needs to be
+rejected:
+(sCont)
+If \(\Gamma, \gamma, \gamma \vdash_{\mathcal{T}} \beta\) then
+    \(\Gamma, \gamma \vdash_{\mathcal{T}} \beta\)
+It is because they reject structural contraction that strongly
+contraction-free approaches can claim to preserve
+modus ponens
+despite rejecting MP′ (see Shapiro 2011,
+Zardini 2013, and Ripley 2015a).
+Strongly contraction-free responses also need to block a derivation of
+MP′ using a pair of principles involving conjunction:
+(MP′\(_{\land}\))
+If \(\gamma \vdash_{\mathcal{T}} \alpha {\rightarrow}\beta\) and
+    \(\delta \vdash_{\mathcal{T}} \alpha\) then \(\gamma \wedge \delta
+    \vdash_{\mathcal{T}} \beta\)
+(Idem\(_{\wedge}\))
+The sentences \(\alpha\) and \(\alpha \wedge \alpha\) are
+    intersubstitutable according to \(T\)
+\[
+\begin{array}{rll}
+1  & \gamma \vdash_{\mathcal{T}} \alpha {\rightarrow}\beta &
+  \\
+2  & \gamma \vdash_{\mathcal{T}} \alpha &
+  \\
+3  & \gamma \wedge \gamma \vdash_{\mathcal{T}} \beta &
+  \textrm{1, 2 MP′\(_{\wedge}\) }\\
+4  & \gamma \vdash_{\mathcal{T}} \beta &
+  \textrm{3 Idem\(_{\wedge}\) }\\
+\end{array}
+\]
+Avoiding this derivation of MP′ requires denying that there is a
+conjunction \(\wedge\) that obeys both MP′\(_{\wedge}\) and
+Idem\(_{\wedge}\). According to many strongly contraction-free
+responses (e.g., Mares & Paoli 2014; Zardini 2011), one kind of
+conjunction—the “multiplicative” kind, or
+“fusion”—obeys MP′\(_{\wedge}\) but not
+Idem\(_{\wedge}\), whereas another kind—the
+“additive” kind—obeys Idem\(_{\wedge}\) but not
+ MP′\(_{\wedge}\) (see the entry on
+linear logic
+,
+ and Ripley 2015a).  If
+the substructural framework discussed above is used, the failure of
+MP′\(_{\wedge}\) amounts to the fact that for additive
+conjunction, \(\gamma, \delta \vdash_{\mathcal{T}} \beta\) is not
+equivalent to \(\gamma \wedge \delta \vdash_{\mathcal{T}}
+\beta\).
+As for weakly contraction-free responses, the failure of CP has
+sometimes been motivated using “worlds” semantics of the
+sort that involve a distinction between logically
+possible
+and
+impossible
+worlds (e.g., Beall
+2009; Nolan 2016). To refute CP we need the truth of \(\alpha
+\vdash_\mathcal{T} \beta\) and the falsity of \(\vdash_\mathcal{T}
+\alpha{\rightarrow}\beta\). On the target “worlds”
+approaches \(\vdash_\mathcal{T}\) is defined as truth preservation
+over a proper subset of worlds (in a model), namely, the
+“possible worlds” of the model. Hence, for \(\alpha
+\vdash_\mathcal{T} \beta\) to be true is for there to be no possible
+world (in any model) at which \(\alpha\) is true and \(\beta\) untrue.
+In turn, to refute \(\vdash_\mathcal{T}\alpha{\rightarrow}\beta\) we
+need a possible world at which \(\alpha{\rightarrow}\beta\) is untrue.
+How does that happen? Because connectives are defined in a way that
+takes account of
+all
+(types of) worlds in the model (possible
+and, if there be any, impossible) there’s an option for
+\(\alpha{\rightarrow}\beta\) to be untrue at a possible world in
+virtue of \(\alpha\) being true and \(\beta\) being untrue at an
+impossible
+world. And that’s just what happens on the
+target approaches. (Exactly how one defines the truth-at-a-world and
+falsity-at-a-world conditions for the arrow depends on the exact
+“worlds” approach at issue.)
+4.2.2 Detachment-Free Responses
+Detachment-free responses must block a straightforward derivation of
+MP based on a principle of transitivity together with the converse of
+single-premise conditional proof:
+(Trans)
+If \(\alpha \vdash_{\mathcal{T}} \beta\) and
+    \(\vdash_{\mathcal{T}} \alpha\), then \(\vdash_{\mathcal{T}}
+    \beta\)
+(CCP)
+If \(\vdash_{\mathcal{T}} \alpha {\rightarrow}\beta\) then
+    \(\alpha \vdash_{\mathcal{T}} \beta\)
+\[
+\begin{array}{rll}
+1  & \vdash_{\mathcal{T}} \alpha {\rightarrow}\beta &
+  \\
+2  & \vdash_{\mathcal{T}} \alpha &
+  \\
+3  & \alpha \vdash_{\mathcal{T}} \beta &
+  \textrm{1 CCP }\\
+4  & \vdash_{\mathcal{T}} \beta &
+  \textrm{2, 3 Trans }\\
+\end{array}
+\]
+There are two subcategories of theorists in category (II):
+(IIa)
+A
+strongly detachment-free
+response denies that
+    \({\rightarrow}\) obeys CCP (Goodship 1996; Beall 2015).
+(IIb)
+A
+weakly detachment-free
+response accepts that
+    \({\rightarrow}\) obeys CCP, but rejects Trans (Ripley
+    2013).
+The reason why responses in category (IIb) are only
+weakly
+detachment-free is that CCP, which these responses accept, can be
+regarded as a kind of detachment principle for the conditional.
+One strategy for replying to the charge that detachment-free responses
+are counterintuitive has been to appeal to a connection between
+consequence and our acceptance and rejection of sentences. According
+to this connection, whenever it is the case that \(\alpha
+\vdash_{\mathcal{T}} \beta\), this means (or at least implies) that it
+is incoherent by the lights of theory \(\mathcal{T}\) to accept
+\(\alpha\) while rejecting \(\beta\) (see Restall 2005). Now suppose
+that, by the lights of a theory \(\mathcal{T}\), it is incoherent to
+reject \(\alpha\) and it is also incoherent to accept \(\alpha\) while
+rejecting \(\beta\). Then, Ripley (2013) argues, there need be nothing
+incoherent by the theory’s lights about rejecting \(\beta\), as
+long as one doesn’t also accept \(\alpha\). There is thus room
+to give up Trans and adopt a weakly detachment-free response to
+Curry’s paradox.  Beall’s defense of the strongly
+detachment-free approach rests on related considerations. He argues,
+in effect, that a principle weaker than CCP can play the relevant role
+in constraining the combinations of acceptance and rejection of
+sentences including \(\alpha\), \(\beta\), and \(\alpha
+{\rightarrow}\beta\).
+4.2.3 Application to the Informal Argument
+The approaches to Curry’s paradox just distinguished 
+ find fault with different inferences and sub-conclusions of
+ the informal paradoxical argument in
+section 1.1
+.
+ A strongly contraction-free response corresponds to blocking step (3)
+of that argument, since it rejects MP′.  A weakly
+contraction-free response instead blocks step (4), since it rejects
+CP. Neither kind of detachment-free response will accept the reasoning
+in step (3). Since they accept Cont, detachment-free responses allow
+us to derive the
+conclusion
+of (4), whence weakly
+detachment-free responses further allow us to derive the conclusion of
+(3) by CCP.  However, both kinds of detachment-free response find
+fault with the final move by MP to (6).
+5. The Significance of Curry’s Paradox
+In this section, we explain some distinctive lessons that can be
+learned by considering Curry’s paradox. For discussion of the
+kinds of significance that versions of Curry’s paradox share
+ with related paradoxes, see the entries on
+Russell’s paradox
+and the
+Liar paradox
+.
+5.1 Dashing Hopes for Solutions to Negation Paradoxes
+Starting with Church (1942), Moh
+(1954), Geach
+(1955), Löb (1955) and Prior
+(1955), discussion of Curry’s
+paradox has emphasized that it differs from Russell’s paradox,
+and the Liar paradox, in that it doesn’t “involv[e]
+ negation essentially” (Anderson 1975:
+ 128).
+[
+19
+]
+One reason the negation-free status of Curry’s paradox matters
+is that it renders the paradox resistant to some resolutions that
+might be adequate for such “negation paradoxes”.
+Geach argues that Curry’s paradox poses a problem for any
+proponents of naive truth theory or naive set theory who, faced with
+negation paradoxes,
+might … hope to avoid [these paradoxes] by using a logical system
+in which ‘\(p\) if and only if not-\(p\)’ were a theorem
+for some interpretations of ‘\(p\)’ without our being able
+to infer thence any arbitrary statement…. (Geach
+1955: 71)
+The problem, he says, is that Curry’s paradox “cannot be
+resolved merely by adopting a system that contains a queer sort of
+negation”. Rather, “if we want to retain the naive view of
+truth, or the naive view of classes …, then we must modify the
+elementary rules of inference relating to ‘if’”
+(1955: 72). Geach’s view of the
+significance of Curry’s paradox is closely echoed by Meyer,
+Routley, and Dunn (1979: 127). They
+conclude that Curry’s paradox frustrates those who had
+“hoped that weakening classical negation principles” would
+ resolve Russell’s
+ paradox.
+[
+20
+]
+In short, the point is that there are non-classical logics with weak
+negation principles that resolve Russell’s paradox and the Liar,
+yet remain vulnerable to Curry’s paradox. These are logics with
+the following features:
+(a)
+They can serve as
+    the basis for a nontrivial theory according to which some sentence is
+    intersubstitutable with its own negation.
+(b)
+They can’t
+    serve as the basis for a nontrivial theory that is
+    Curry-complete.
+While it is unclear which logics Geach may have had in mind, there are
+indeed non-classical logics that meet these two conditions. Theories
+based on these logics accordingly remain vulnerable to Curry’s
+paradox.
+5.1.1 Paraconsistent Solutions Frustrated
+Meyer, Routley, and Dunn (1979) call
+attention to one class of logics that meet conditions (a) and (b).
+ They are among the
+paraconsistent logics
+,
+ which are logics
+according to which a sentence together with its negation will 
+not entail any arbitrary sentence. Paraconsistent logics can be used to obtain
+theories that resolve Russell’s paradox, and the Liar, by
+embracing negation inconsistency without succumbing to triviality.
+According to such a theory \(\mathcal{T}\), sentences \(\lambda\) and
+\(\lnot\lambda\) can be intersubstitutable, as long as both 
+\(\vdash _{\mathcal{T}} \lambda\) and \(\vdash _{\mathcal{T}} \lnot \lambda\).
+Such theories are “glutty”, in the sense that they affirm
+ some sentence together with its negation (see entry on
+dialetheism
+).
+ Yet a number of prominent paraconsistent logics can’t serve as
+the basis for Curry-complete theories on pain of triviality. Such
+logics are sometimes said to fail to be “Curry
+ paraconsistent” (Slaney
+ 1989).
+[
+21
+]
+5.1.2 Paracomplete Solutions Frustrated
+Many of the non-classical logics that have been proposed to underwrite
+responses to Russell’s paradox and the Liar paradox are
+paracomplete logics
+, logics that reject the law of excluded
+middle. These logics make possible “gappy” theories. In
+particular, where \(\lambda\) and \(\lnot\lambda\) are
+intersubstitutable according to such a theory \(\mathcal{T}\), it will
+fail to be the case that \(\vdash _{\mathcal{T}} \lambda \lor \lnot
+\lambda\). Some of these paracomplete logics likewise meet conditions
+(a) and (b).
+One example is the logic Ł\(_{3}\) based on the three-valued
+truth-tables of Łukasiewicz (see, e.g.,
+Priest 2008). Since it meets condition (a), Ł\(_{3}\)
+offers a possible response to Russell’s paradox and the
+Liar—in particular, a gappy response. Yet consider the
+iterated conditional \(\alpha {\rightarrow}(\alpha
+{\rightarrow}\beta)\), which we abbreviate as \(\alpha \Rightarrow
+\beta\). Suppose that a Curry sentence for \(\pi\) and an
+Ł\(_{3}\)-based theory \(\mathcal{T}\) is redefined to be any
+sentence \(\kappa\) intersubstitutable with \(\kappa \Rightarrow
+\pi\). Then \(\mathcal{T}\) will meet all the conditions of the
+Curry-Paradox Lemma, as was first noted by Moh
+(1954). Hence, as long as there is a \(\kappa\) that is
+intersubstitutable with \(\kappa \Rightarrow \pi\) according to
+\(\mathcal{T}\), then \(\vdash _{\mathcal{T}} \pi\). Consequently
+ Ł\(_{3}\) won’t underwrite a response to Curry’s
+ paradox.
+[
+22
+]
+To summarize: Curry’s paradox stands in the way of some
+otherwise available avenues for resolving semantic paradoxes by means
+of glutty or gappy theories. As a result, the need to evade
+Curry’s paradox has played a significant role in the development
+of non-classical logics (e.g., Priest 2006;
+Field 2008).
+5.2 Pointing to a General Paradox Structure
+The negation-free status of Curry’s paradox matters for a second
+reason. Prior makes the following important point:
+We can … say not only that Curry’s paradox does not
+involve negation but that even Russell’s paradox presupposes
+only those properties of negation which it shares with implication.
+ (Prior 1955:
+ 180)
+[
+23
+]
+What he has in mind is that Russell’s paradox and Curry’s
+paradox can be understood as resulting from the
+same general
+structure
+, which can be instantiated either using negation or
+ using a
+ conditional.
+[
+24
+]
+The general structure can be made explicit by defining a type of unary
+connective that gives rise to Curry’s paradox, and showing how
+this type is exemplified both by negation and by a unary connective
+defined in terms of a conditional.
+Definition 3
+(Curry connective)
+Let \(\pi\) be a sentence in the language of
+theory \(\mathcal{T}\). The unary connective \(\odot\) is a Curry
+connective for \(\pi\) and \(\mathcal{T}\) provided it satisfies two
+principles:
+\[\tag{P1}
+\textrm{If} \vdash_{\mathcal{T}} \alpha \textrm{ and } \vdash_{\mathcal{T}} \odot\alpha \textrm{ then } \vdash_{\mathcal{T}} \pi.
+\]
+
+ 
+
+\[\tag{P2}
+\textrm{If } \alpha \vdash_{\mathcal{T}} \odot\alpha \textrm{ then } \vdash_{\mathcal{T}} \odot\alpha.
+\]
+Generalized Curry-Paradox Lemma
+Suppose that
+\(\mathcal{T}\) is such that Id holds and that for some pair of
+sentences \(\pi\) and \(\mu\), (i) \(\mu\) and \(\odot\mu\) are
+intersubstitutable according to \(\mathcal{T}\) and (ii) \(\odot\) is
+a Curry connective for \(\pi\) and \(\mathcal{T}\). In that case
+ \(\vdash_{\mathcal{T}}
+ \pi\).
+[
+25
+]
+Proof
+:
+\[
+\begin{array}{rll}
+1  & \mu \vdash_{\mathcal{T}} \mu &
+  \textrm{Id }\\
+2  & \mu \vdash_{\mathcal{T}} \odot\mu &
+  \textrm{1 Curry-intersubstitutivity }\\
+3  & \vdash_{\mathcal{T}} \odot\mu &
+  \textrm{2 P2 }\\
+4  & \vdash_{\mathcal{T}} \mu &
+  \textrm{3 Curry-intersubstitutivity }\\
+5  & \vdash_{\mathcal{T}} \pi &
+  \textrm{3, 4 P1 }\\
+\end{array}
+\]
+The Generalized Curry-Paradox Lemma can now be instantiated in two
+different ways, so as to yield either Curry’s paradox or a
+negation paradox:
+To obtain Curry’s paradox, let the unary connective \(\odot\) be
+such that \(\odot\alpha\) is \(\alpha {\rightarrow}\pi\), and let
+\(\mu\) be a sentence intersubstitutable with \(\mu
+{\rightarrow}\pi\) according to \(\mathcal{T}\). Then P1 amounts to
+the instance of MP used in our derivation of the Curry-Paradox Lemma,
+while P2 is nothing other than our rule Cont.
+\[\tag{MP}
+\textrm{If }\vdash_{\mathcal{T}} \alpha {\rightarrow}\beta\textrm{ and }\vdash_{\mathcal{T}} \alpha\textrm{ then }\vdash_{\mathcal{T}} \beta
+\]
+
+\[\tag{Cont}
+\textrm{If }\alpha \vdash_{\mathcal{T}} \alpha {\rightarrow}\beta\textrm{ then }\vdash_{\mathcal{T}} \alpha {\rightarrow}\beta
+\]
+To obtain a negation paradox, let \(\odot\alpha\) be \(\lnot\alpha\),
+and let \(\mu\) be a sentence intersubstitutable with \(\lnot\mu\)
+according to
+ \(\mathcal{T}\).
+[
+26
+]
+Then P1 amounts to an instance of
+ex contradictione
+quodlibet
+(or “explosion”), while P2 is a
+reductio
+principle.
+\[\tag{ECQ}
+\textrm{If }\vdash_{\mathcal{T}} \alpha\textrm{ and }\vdash_{\mathcal{T}} \lnot\alpha\textrm{ then }\vdash_{\mathcal{T}} \beta
+\]
+
+ 
+
+\[\tag{Red}
+\textrm{If }\alpha \vdash_{\mathcal{T}} \lnot\alpha\textrm{ then }\vdash_{\mathcal{T}} \lnot\alpha
+\]
+Prior’s point is that the features of negation that are relevant
+to Russell’s paradox or the Liar paradox are
+exhausted by
+its status as a Curry connective
+. This makes clear why these
+paradoxes do not depend on features of negation, such as excluded
+middle or double negation elimination, that fail to hold in
+nonclassical theories where negation remains a Curry connective (e.g.,
+ in intuitionistic theories, where ECQ and Red both
+ hold).
+[
+27
+]
+Moreover, a Curry connective need not be very negation-like at all. It
+ may fail to be even a
+minimal negation
+(see entry on
+negation
+),
+ since it need not obey the law of double introduction:
+\[\tag{DI}
+\alpha \vdash _{\mathcal{T}} \odot\odot\alpha.
+\]
+For example, suppose that \(\odot\alpha\) is \(\alpha
+{\rightarrow}\pi\). Then in order for \(\odot\) to obey DI, it would
+have to be the case that \(\alpha \vdash _{\mathcal{T}} (\alpha
+{\rightarrow}\pi) {\rightarrow}\pi\). That principle is violated by a
+number of non-classical theories for which \(\odot\), when defined
+ this way,
+does
+qualify as a Curry
+ connective.
+[
+28
+]
+To summarize: Curry’s paradox points to a general structure
+instantiated by a wide range of paradoxes. This structure
+doesn’t itself involve negation, but it is also displayed by
+paradoxes that (unlike Curry’s paradox) do essentially involve
+negation, such as Russell’s paradox and the Liar paradox.
+The issue of which paradoxes display a common structure becomes
+important in light of the “principle of uniform solution”
+influentially advocated by Priest (1994). According to this principle,
+paradoxes that belong to the “same kind” should receive
+the “same kind of solution”. Suppose that we delimit one
+kind of paradox as follows:
+Definition 4
+(Generalized Curry paradox) We have a
+generalized Curry paradox in any case where the assumptions stated in
+the Generalized Curry-Paradox Lemma appear to hold.
+Assuming one accepts the principle of uniform solution, the question
+becomes what counts as proposing a uniform solution to all generalized
+Curry paradoxes. In particular, does it suffice to show, for every
+instance of the kind thus delimited, that what appears to be a Curry
+connective in fact fails to be one? It would seem that this should
+indeed be enough. It’s unclear why uniformity should
+additionally require that all seeming Curry connectives fail to
+qualify as such
+in virtue of violating the same
+condition
+. For instance, suppose that negation and our unary
+connective defined using \({\rightarrow}\) both appear to satisfy the
+generalized principle P2, in the former case because \({\lnot}\)
+appears to obey Red and in the latter case because \({\rightarrow}\)
+appears to obey Cont. Unless these two appearances share a common
+source (e.g., an implicit reliance on structural contraction, as
+claimed by Zardini 2011), there need be nothing objectionably
+non-uniform about taking one appearance at face value while dismissing
+the other as deceptive. (For discussion of the philosophical issue
+here, applied to a different class of paradoxes, see the exchange in
+Smith 2000 and Priest 2000.)
+If that is right, the desideratum that generalized Curry paradoxes be
+resolved uniformly needn’t discriminate between the various
+logically revisionary solutions that have been pursued. These include
+the following three options:
+One might hold that it is principle P1 alone that fails when
+\(\odot\alpha\) is instantiated as \(\lnot\alpha\) (to get a negation
+paradox), whereas it is P2 alone that fails when \(\odot\alpha\) is
+instantiated as \(\alpha {\rightarrow}\pi\) (to get a Curry paradox).
+On this approach, ECQ and Cont fail, while Red and MP hold (Priest
+1994, 2006).
+One might hold that P2 alone fails for both instantiations of
+\(\odot\). On this approach, Red and Cont fail, while ECQ and MP hold
+(Field 2008; Zardini 2011).
+One might hold that P1 alone fails for both instantiations of
+\(\odot\). On this approach, ECQ and MP fail, while Red and Cont hold
+(Beall 2015; Ripley 2013).
+Thus, for example, Priest’s own approach would count as
+resolving Curry’s paradox and the Liar paradox uniformly
+qua
+examples of generalized Curry paradox
+. This would be the case
+despite the fact that Priest evaluates Liar sentences as both true and
+false, whereas he rejects the claim that Curry sentences are true.
+In any event, Curry’s paradox raises challenges in connection
+with the issue of what type of uniformity should be required of
+solutions to various paradoxes (see also Zardini 2015). Priest himself calls attention to a
+kind of paradox narrower than the generalized Curry paradoxes, a kind
+whose instances include the negation paradoxes but
+exclude
+Curry’s paradox. This kind is picked out by Priest’s
+“Inclosure Schema” (2002);
+ see the entry on
+self-reference
+.
+ One ongoing dispute is about whether there might be a version of
+Curry’s paradox that counts as an “inclosure
+paradox”, though it resists Priest’s uniform dialetheic
+solution to such paradoxes (see the exchange in Beall
+2014b, Weber et
+al. 2014, and Beall 2014a, as
+well as Pleitz 2015).
+6. Validity Curry
+The last decade (as of the date of this version of this entry) has
+witnessed a boom in attention to Curry paradoxes, and perhaps
+especially to what have been called
+validity Curry
+or
+v-Curry
+paradoxes (Whittle 2004;
+ Shapiro 2011; Beall & Murzi
+ 2013).
+[
+29
+]
+V-Curry involves Curry sentences that specifically invoke a
+theory’s consequence or “validity” relation, by
+using either a conditional or a predicate that purports to express
+theory \(\mathcal{T}\)’s relation \(\vdash_\mathcal{T}\) in the
+language of \(\mathcal{T}\) itself.
+6.1 Connective Form
+For one form of v-Curry paradox, let the conditional mentioned in the
+ definition of a Curry sentence
+ (
+Definition 1
+)
+ be a
+consequence connective
+\({\Rightarrow}\). A sentence
+with \({\Rightarrow}\) as its major operator is to be interpreted
+thus: “That \(p\) entails (according to \(\mathcal{T}\)) that
+\(q\)”. 
+We now immediately obtain property-theoretic, set-theoretic or
+truth-theoretic versions of Curry’s paradox, provided only that
+\({\Rightarrow}\) meets the conditions MP and Cont of the
+Curry-Paradox Lemma.
+What makes this instance of the Curry-Paradox
+Lemma particularly troublesome is that it poses an obstacle to one
+common response to Curry’s paradox, namely the
+weakly
+ contraction-free
+response discussed in
+section 4.2.1
+.  That response depended on
+ rejecting the rule CP of single-premise conditional proof, one
+direction of the single-premise “deduction theorem”. But
+this is a rule that has seemed difficult to resist for a consequence
+connective (Shapiro 2011; Weber 2014; Zardini 2013). If \(\beta\) is
+a consequence of \(\alpha\) according to the consequence relation of
+theory \(\mathcal{T}\), where this theory has \({\Rightarrow}\) as
+its own consequence connective, then \(\mathcal{T}\) must surely
+contain the consequence claim \(\alpha
+{\Rightarrow}\beta\). Likewise, this variety of Curry paradox poses
+an obstacle for
+detachment-free
+responses, which require
+rejecting the rule MP. If a theory with its own consequence
+connective contains both \(\alpha\) and the consequence conditional
+\(\alpha {\Rightarrow}\beta\), then it must surely contain \(\beta\)
+as well. Or so, at least, it has seemed. Admittedly, the proponent of
+a
+weakly
+detachment-free response will argue that MP for
+ \({\Rightarrow}\) illicitly builds in transitivity
+ (see
+section 4.2.2
+).  Still, what seems
+ inescapable is the converse of CP, the rule CCP that is the other
+direction of the single-premise deduction theorem. If a theory
+contains the consequence conditional \(\alpha {\Rightarrow}\beta\),
+then surely \(\beta\) follows from \(\alpha\) according to the
+theory. That would still rule out a
+strongly
+detachment-free
+response.
+6.2 Predicate Form
+A second form of v-Curry paradox arises for a theory \(\mathcal{T}_V\)
+whose subject-matter includes the single-premise consequence relation
+\(\vdash_{\mathcal{T}_{V}}\) that obtains, according to that very
+theory, between sentences in its
+ language.
+[
+30
+]
+Let this relation be expressed by the predicate \(Val(x,y)\), and
+assume further that there is a sentence \(\chi\) that is either
+\(Val(\langle\chi\rangle, \langle\pi\rangle)\), or is at least intersubstitutable with the latter according to \(\mathcal{T}_V\). One form of v-Curry
+paradox employs two principles governing \(Val\), which we call
+“validity detachment” and “validity proof”
+following Beall & Murzi (2013).
+\[\tag{VD}
+\textrm{If }\gamma \vdash_{\mathcal{T}_{V}} Val(\langle\alpha\rangle, \langle\beta\rangle)\textrm{ and }\gamma \vdash_{\mathcal{T}_{V}} \alpha\textrm{ then }\gamma \vdash_{\mathcal{T}_{V}} \beta
+\]
+
+ 
+
+\[\tag{VP}
+\textrm{If }\alpha \vdash_{\mathcal{T}_{V}} \beta\textrm{ then }\vdash_{\mathcal{T}_{V}} Val(\langle\alpha\rangle, \langle\beta\rangle)
+\]
+Using these principles, we get the following quick argument for
+\(\vdash_{\mathcal{T}_{V}} \pi\).
+\[
+\begin{array}{rll}
+1  & \chi \vdash_{\mathcal{T}_{V}} \chi &
+  \textrm{Id }\\
+2  & \chi \vdash_{\mathcal{T}_{V}} Val(\langle\chi\rangle, \langle\pi\rangle) &
+  \textrm{2 Curry-intersubstitutivity }\\
+3  & \chi \vdash_{\mathcal{T}_{V}} \pi &
+  \textrm{1, 2 VD }\\
+4  & \vdash_{\mathcal{T}_{V}} Val(\langle\chi\rangle, \langle\pi\rangle) &
+  \textrm{3 VP }\\
+5  & \vdash_{\mathcal{T}_{V}} \chi &
+  \textrm{4 Curry-intersubstitutivity }\\
+6  & \vdash_{\mathcal{T}_{V}} \pi &
+  \textrm{4, 5 VD }\\
+\end{array}
+\]
+As applied to this
+predicate form
+of v-Curry, a weakly
+contraction-free response would resist the “contraction”
+from step 2 to step 4 by rejecting the rule VP, and a
+detachment-free response would reject VD, even in the zero-premise form used at step 6. Again, though, both
+VP and zero-premise VD have seemed inescapable in view of the intended
+interpretation of the predicate \(Val\) (Beall
+& Murzi 2013; Murzi 2014; Murzi & Shapiro 2015; Priest 2015;
+Zardini 2014).
+[
+31
+]
+Finally, even if VD is rejected as illicitly involving transitivity, what seems inescapable is the converse of VP. If so, that would at least rule out a
+strongly
+detachment-free response.
+An arguably more powerful version of v-Curry reasoning is presented by
+Shapiro (2013) and Field
+(2017: 7). This reasoning can take either
+connective or predicate form, but it doesn’t depend on CP or VP.
+Here we give the predicate form using \(Val\). As above, we first
+derive that \(\chi \vdash_{\mathcal{T}_{V}} \pi\) using VD. In view of the
+meaning of \(Val\), the conclusion that \(\chi \vdash_{\mathcal{T}_{V}}
+\pi\) shows that \(Val(\langle\chi\rangle, \langle\pi\rangle)\) is
+true, i.e., that \(\chi\) is true. But if \(\chi\) is true and \(\chi \vdash_{\mathcal{T}_{V}}
+\pi\), then it would seem
+\(\pi\) must also be true. Since
+weakly
+detachment-free
+(nontransitive) responses to v-Curry do allow the derivation of \(\chi
+\vdash_{\mathcal{T}_{V}} \pi\), this reasoning poses an objection to
+such responses as well.
+6.3 Significance
+If, in fact, v-Curry paradoxes aren’t amenable to weakly
+contraction-free or strongly detachment-free responses, then (assuming the rule Id is retained) the
+space of Curry-complete responses is restricted to
+strongly
+contraction-free
+and
+weakly detachment-free
+responses.
+The former responses, as explained in
+section 4.2.1
+,
+ are typically presented by reformulating
+modus ponens
+(or detachment for the validity predicate) in a substructural deduction system and rejecting the structural contraction rule sCont. The
+latter responses, as explained in
+section 4.2.2
+,
+ reject the structural principle of transitivity. For this reason,
+v-Curry paradoxes have sometimes been taken to motivate
+substructural
+consequence relations (e.g.,
+Barrio et al. forthcoming; Beall & Murzi
+2013; Ripley 2015a; Shapiro 2011, 2015).
+[
+32
+]
+The lively and wide-ranging debate on v-Curry paradoxes has resulted
+in genuine progress in our understanding of Curry paradoxes. In the
+end, what has become clear is that while v-Curry paradoxes may invite
+different resolutions from non-v-Curry paradoxes, they remain within
+the same mold as generalized Curry paradoxes. In particular, in the
+general template of
+section 5.2
+one may take \(\odot\) to express (either as a predicate or as a
+connective) consequence in light of \(\vdash_\mathcal{T}\) itself.
+This is the heart of v-Curry. Inasmuch as there are (many) different
+(formal) consequence relations definable over our language (e.g.,
+logical consequence in virtue of logical vocabulary, epistemic
+consequence in virtue of logical-plus-epistemic vocabulary, and so on)
+there are thereby many different v-Curry paradoxes that may arise.
+Still, the space of solutions to these paradoxes is the space of
+solutions to the generalized Curry paradoxes canvassed in this
+entry.
+There remain, however, at least two reasons v-Curry paradoxes merit
+separate attention.  First, as noted above, two categories of
+Curry-complete solutions — the weakly contraction-free and
+strongly detachment-free options — have appeared especially
+problematic in the case of v-Curry paradoxes. Second, suppose that one
+treats an ordinary Curry paradox (property-theoretic, set-theoretic or
+semantic) in a Curry-complete fashion. There may still be reason to
+treat the corresponding (connective or predicate) v-Curry paradox in a
+Curry-incomplete fashion, perhaps in virtue of seeing a theory’s
+consequence relation as essentially beyond capture by any connective
+or predicate in the language of the theory (see, e.g., Myhill 1975;
+Whittle 2004). Thus, a “non-uniform” solution to ordinary
+Curry paradoxes and their v-Curry counterparts may — once
+again — be a motivated
+non-uniformity.
+[
+33
+]
+Bibliography
+Key Historical Sources
+Curry, Haskell B., 1942a, “The Combinatory Foundations of
+Mathematical Logic”,
+Journal of Symbolic Logic
+, 7(2):
+49–64. doi:10.2307/2266302
+–––, 1942b, “The Inconsistency of Certain
+Formal Logics”,
+Journal of Symbolic Logic
+, 7(3):
+115–117. doi:10.2307/2269292
+Curry, Haskell B. and Robert Feys, 1958,
+Combinatory
+Logic
+, volume 1, Amsterdam: North-Holland.
+Fitch, Frederic B., 1952,
+Symbolic Logic: An
+Introduction
+, New York: Ronald Press Company.
+Geach, P.T., 1955, “On
+Insolubilia
+”,
+Analysis
+, 15(3): 71–72. doi:10.1093/analys/15.3.71
+Löb, M.H., 1955, “Solution of a Problem of Leon
+Henkin”,
+Journal of Symbolic Logic
+, 20(2):
+115–118. doi:10.2307/2266895
+Meyer, Robert K., Richard Routley, and J. Michael Dunn, 1979,
+“Curry’s paradox”,
+Analysis
+, 39(3):
+124–128. doi:10.1093/analys/39.3.124
+Moh Shaw-Kwei, 1954, “Logical Paradoxes for Many-Valued
+Systems”,
+Journal of Symbolic Logic
+, 19(1):
+37–40. doi:10.2307/2267648
+Prior, A.N., 1955, “Curry’s Paradox and 3-valued
+Logic”,
+Australasian Journal of Philosophy
+, 33(3):
+177–82. doi:10.1080/00048405585200201
+Other References
+Anderson, Alan Ross, 1975, “Fitch on Consistency”, in
+Anderson, Marcus, and Martin 1975: 123–141.
+Anderson, Alan Ross and Nuel D. Belnap, Jr., 1975,
+Entailment: the Logic of Relevance and Necessity
+, volume 1,
+Princeton, NJ: Princeton University Press.
+Anderson, Alan Ross, Ruth Barcan Marcus, and R.M. Martin (eds),
+1975,
+The Logical Enterprise
+, New Haven, CT: Yale University
+Press.
+Ashworth, E.J., 1974,
+Language and Logic in the Post-Medieval
+Period
+, Dordrecht: Reidel.
+Bacon, Andrew, 2015, “Paradoxes of Logical Equivalence and
+Identity”,
+Topoi
+, 34(1): 89–98.
+doi:10.1007/s11245-013-9193-8
+Barrio, Eduardo, Lucas Rosenblatt, and Diego Tajer, forthcoming,
+“Capturing Naive Validity in the Cut-Free Approach”,
+Synthese
+, first online 1 September 2016.
+doi:10.1007/s11229-016-1199-5
+Beall, Jc, 2009,
+Spandrels of Truth
+, Oxford: Oxford
+University Press. doi:10.1093/acprof:oso/9780199268733.001.0001
+–––, 2014a, “End of Inclosure”,
+Mind
+, 123(491): 829–849. doi:10.1093/mind/fzu075
+–––, 2014b, “Finding Tolerance Without
+Gluts”,
+Mind
+, 123(491): 791–811.
+doi:10.1093/mind/fzu081
+–––, 2015, “Free of Detachment: Logic,
+Rationality, and Gluts”,
+Noûs
+, 49(2):
+410–423. doi:10.1111/nous.12029
+Beall, Jc and Julien Murzi, 2013, “Two Flavors of
+Curry’s Paradox”,
+Journal of Philosophy
+, 110(3):
+143–165. doi:10.5840/jphil2013110336
+Bimbó, Katalin, 2006, “Curry-Type Paradoxes”,
+Logique & Analyse
+, 49(195): 227–240.
+Brady, Ross, 2006,
+Universal Logic
+, Stanford, CA: CSLI
+Publications.
+Bunder, M.W., 1986, “Tautologies That, with An Unrestricted
+Comprehension Axiom, Lead to Inconsistency or Triviality”,
+Journal of Non-Classical Logic
+, 3(2): 5–12.
+Burge, Tyler, 1979, “Semantical Paradox”,
+Journal
+of Philosophy
+, 76(4): 169–198. doi:10.2307/2025724
+Carnap, Rudolf, 1934, “Die Antinomien und die
+Unvollständigkeit der Mathematik”,
+Monatshefte für
+Mathematik
+, 41: 263–84.
+–––, 1937,
+The Logical Syntax of
+Language
+, Amethe Smeaton (trans), London: K. Paul Trench.
+Church, Alonzo, 1932, “A Set of Postulates for the
+Foundation of Logic”,
+Annals of Mathematics
+, 33(2):
+346–366. doi:10.2307/1968337
+–––, 1942, “Review:
+The Inconsistency
+of Certain Formal Logics
+by Haskell B. Curry”,
+Journal
+of Symbolic Logic
+, 7(4): 170–71. doi:10.2307/2268117
+Cook, Roy T., 2014, “There is No Paradox of Logical
+Validity!”,
+Logica Universalis
+, 8(3–4):
+447–467. doi:10.1007/s11787-014-0094-4
+Curry, Haskell B., 1930, “Grundlagen der kombinatorischen
+Logik (Teile I & II)”,
+American Journal of
+Mathematics
+, 52: 509–36, 789–834.
+–––, 1950,
+A Theory of Formal
+Deducibility
+, (Notre Dame Mathematical Lectures, 6), Notre Dame,
+IN: University of Notre Dame Press.
+ [
+Curry 1950 available online
+]
+–––, 1952, “On the Definition of Negation
+by a Fixed Proposition in Inferential Calculus”,
+Journal of
+Symbolic Logic
+, 17(2): 98–104. doi:10.2307/2266240
+Curry, Haskell B., J. Roger Hindley, and Jonathan P. Seldin, 1972,
+Combinatory Logic
+, volume 2, (Studies in Logic and the
+Foundations of Mathematics, 65), Amsterdam: North-Holland.
+Field, Hartry, 2008,
+Saving Truth from Paradox
+, Oxford:
+Oxford University Press.
+doi:10.1093/acprof:oso/9780199230747.001.0001
+–––, 2017, “Disarming a Paradox of
+Validity”,
+Notre Dame Journal of Formal Logic
+, 58(1):
+1–19. doi:10.1215/00294527-3699865
+Fitch, Frederic B., 1969, “A Method for Avoiding the Curry
+Paradox”, in Nicholas Rescher (ed.),
+Essays in Honor of
+Carl. G. Hempel
+, Dordrecht: Reidel, pp. 255–265.
+French, Rohan, 2016, “Structural Reflexivity and the
+Paradoxes of Self-Reference”,
+Ergo
+, 3(5):
+113–131. doi:10.3998/ergo.12405314.0003.005
+Glanzberg, Michael, 2001, “The Liar in Context”,
+Philosophical Studies
+, 103(3): 217–251.
+doi:10.1023/A:1010314719817
+–––, 2004, “A Contextual-Hierarchical
+Approach to Truth and the Liar Paradox”,
+Journal of
+Philosophical Logic
+, 33(1): 27–88.
+doi:10.1023/B:LOGI.0000019227.09236.f5
+Goldstein, Laurence, 2000, “A Unified Solution to Some
+Paradoxes”,
+Proceedings of the Aristotelian Society
+,
+100(1): 53–74. doi:10.1111/j.0066-7372.2003.00003.x
+Goodship, Laura, 1996, “On Dialethism”,
+Australasian Journal of Philosophy
+, 74(1): 153–161.
+doi:10.1080/00048409612347131
+Grelling, Kurt and Leonard Nelson, 1908, “Bemerkungen zu den
+Paradoxien von Russell und Burali-Forti”,
+Abhandlungen der
+Fries’schen Schule
+, 2: 301–334.
+Gupta, Anil and Nuel Belnap, 1993,
+The Revision Theory of
+Truth
+, Cambridge, MA: MIT Press.
+Halbach, Volker and Albert Visser, 2014, “The Henkin
+Sentence”, in Maria Manzano, Ildikó Sain, and Enrique
+Alonso (eds),
+The Life and Work of Leon Henkin
+, (Studies in
+Universal Logic), Cham: Springer International, pp. 249–264.
+doi:10.1007/978-3-319-09719-0_17
+Hanke, Miroslav, 2013, “Implied-Meaning Analysis of the
+Currian Conditional”,
+History and Philosophy of Logic
+,
+34(4): 367–380. doi:10.1080/01445340.2013.812832
+Hilbert, David and Paul Bernays, 1939,
+Grundlagen der
+Mathematik
+, volume II, Berlin: Springer.
+Humberstone, Lloyd, 2006, “Variations on a Theme of
+Curry”,
+Notre Dame Journal of Formal Logic
+, 47(1):
+101–131. doi:10.1305/ndjfl/1143468315
+Kripke, Saul A., 1975, “Outline of a Theory of Truth”,
+Journal of Philosophy
+, 72(19): 690–716.
+doi:10.2307/2024634
+Mares, Edwin and Francesco Paoli, 2014, “Logical Consequence
+and the Paradoxes”,
+Journal of Philosophical Logic
+,
+43(2–3): 439–469. doi:10.1007/s10992-013-9268-4
+Meadows, Toby, 2014, “Fixed Points for Consequence
+Relations”,
+Logique & Analyse
+, 57(227):
+333–357.
+Murzi, Julien, 2014, “The Inexpressibility of
+Validity”,
+Analysis
+, 74(1): 65–81.
+doi:10.1093/analys/ant096
+Murzi, Julien and Lorenzo Rossi, forthcoming,
+“Naïve Validity”,
+Synthese
+, first online 27 September 2017.
+doi:10.1007/s11229-017-1541-6
+Murzi, Julien and Lionel Shapiro, 2015, “Validity and
+Truth-Preservation”, in Theodora Achourioti, Henri Galinon,
+José Martínez-Fernández, and Kentaro Fujimoto
+(eds),
+Unifying the Philosophy of Truth
+, Dordrecht: Springer.
+doi:10.1007/978-94-017-9673-6_22
+Myhill, John, 1975, “Levels of Implication”, in
+Anderson, Marcus, and Martin 1975: 179–185.
+Nicolai, Carlo and Lorenzo Rossi, forthcoming, “ Principles
+for Object-Linguistic Consequence: from Logical to Irreflexive”,
+Journal of Philosophical Logic
+, first online 20 June 2017.
+doi:10.1007/s10992-017-9438-x
+Nolan, Daniel, 2016, “Conditionals and Curry”,
+Philosophical Studies
+, 173(10): 2629–2649.
+doi:10.1007/s11098-016-0666-7
+Pleitz, Martin, 2015, “Curry’s Paradox and the
+Inclosure Scheme”, in Pavel Arazim and Michal Dančák
+(eds),
+Logica Yearbook 2014
+, London: College
+Publications.
+Priest, Graham, 1994, “The Structure of the Paradoxes of
+Self-Reference”,
+Mind
+, 103(409): 25–34.
+doi:10.1093/mind/103.409.25
+–––, 2000, “On the Principle of Uniform
+Solution: A Reply to Smith”,
+Mind
+, 109(433): 123–126. doi:10.1093/mind/109.433.123
+–––, 2002,
+Beyond the Limits of
+Thought
+, Oxford: Oxford University Press.
+doi:10.1093/acprof:oso/9780199254057.001.0001
+–––, 2006,
+In Contradiction
+, Oxford:
+Oxford University Press. Expanded edition (first published 1987).
+doi:10.1093/acprof:oso/9780199263301.001.0001
+–––, 2008,
+An Introduction to Non-Classical
+Logic: From If to Is
+, second edition, Cambridge: Cambridge
+University Press. doi:10.1017/CBO9780511801174
+–––, 2015, “Fusion and Confusion”,
+Topoi
+, 34(1): 55–61. doi:10.1007/s11245-013-9175-x
+Quine, W.V.O., 1953, “Mr. Strawson on Logical Theory”,
+Mind
+, 62(248): 433–451.
+doi:10.1093/mind/LXII.248.433
+Read, Stephen, 2001, “Self-Reference and Validity
+Revisited”, in Mikko Yrjönsuuri (ed.),
+Medieval Formal
+Logic
+, Dordrecht: Kluwer Academic Publishers, pp. 183–196.
+doi:10.1007/978-94-015-9713-5_7
+Restall, Greg, 1993, “How to be
+Really
+Contraction
+Free”,
+Studia Logica
+, 52(3): 381–91.
+doi:10.1007/BF01057653
+–––, 1994,
+On Logics Without
+Contraction
+, PhD thesis, The University of Queensland.
+ [
+Restall 1994 available online
+]
+–––, 2005, “Multiple Conclusions”,
+in Petr Hájek, Luis Valdés-Villanueva, and Dag
+Westerståhl (eds),
+Logic, Methodology and the Philosophy of
+Science: Proceedings of the Twelfth International Congress
+,
+London: College Publications, pp. 189–205.
+ [
+Restall 2005 available online
+]
+Ripley, David, 2013, “Paradoxes and Failures of Cut”,
+Australasian Journal of Philosophy
+, 91: 139–164.
+doi:10.1080/00048402.2011.630010
+–––, 2015a, “Comparing Substructural
+Theories of Truth”,
+Ergo
+, 2(13): 299–328.
+doi:10.3998/ergo.12405314.0002.013
+–––, 2015b, “Contraction and
+Closure”,
+Thought
+, 4(2): 131–138.
+doi:10.1002/tht3.166
+Rogerson, Susan, 2007, “Natural Deduction and Curry’s
+Paradox”,
+Journal of Philosophical Logic
+, 36(2):
+155–179. doi:10.1007/s10992-006-9032-0
+Rogerson, Susan and Greg Restall, 2004, “Routes to
+Triviality”,
+Journal of Philosophical Logic
+, 33(4):
+421–436. doi:10.1023/B:LOGI.0000036853.44128.8f
+Rosenblatt, Lucas, 2017, “Naive Validity, Internalization,
+and Substructural Approaches to Paradox”,
+Ergo
+, 4(4):
+93–120. doi:10.3998/ergo.12405314.0004.004
+Seldin, Jonathan P., 2006, “The Logic of Curry and
+Church”, in Dov M. Gabbay and John Woods (eds),
+Handbook of
+the History of Logic, Volume 5: Logic from Russell to Church
+,
+Amsterdam: Elsevier, pp. 819–873.
+Shapiro, Lionel, 2011, “Deflating Logical
+Consequence”,
+The Philosophical Quarterly
+, 61(243):
+320–42. doi:10.1111/j.1467-9213.2010.678.x
+–––, 2013, “Validity Curry
+Strengthened”,
+Thought
+, 2: 100–107.
+doi:10.1002/tht3.80
+–––, 2015, “Naive Structure, Contraction
+and Paradox”,
+Topoi
+, 34(1): 75–87.
+doi:10.1007/s11245-014-9235-x
+Simmons, Keith, 1993,
+Universality and the Liar: An Essay on
+Truth and the Diagonal Argument
+, Cambridge: Cambridge University
+Press.
+Slaney, John, 1989, “RWX in Not Curry Paraconsistent”,
+in Graham Priest, Richard Routley, and Jean Norman (eds),
+Paraconsistent Logic: Essays on the Inconsistent
+,
+Munich: Philosophia, pp. 472–480.
+–––, 1990, “A General Logic”,
+Australasian Journal of Philosophy
+, 68(1): 74–88.
+doi:10.1080/00048409012340183
+Smith, Nicholas J.J., 2000, “The Principle of Uniform
+Solution (of the Paradoxes of Self-Reference)”,
+Mind
+,
+109(433): 117–122. doi:10.1093/mind/109.433.117
+Tajer, Diego and Federico Pailos, 2017, “Validity in a
+Dialetheist Framework”,
+Logique & Analyse
+, 60(238):
+191–202.
+van Benthem, Johan, 1978, “Four Paradoxes”,
+Journal of Philosophical Logic
+, 7(1): 49–72.
+doi:10.1007/BF00245920
+Wansing, Heinrich and Graham Priest, 2015, “External
+Curries”,
+Journal of Philosophical Logic
+, 44(4):
+453–471. doi:10.1007/s10992-014-9336-4
+Weber, Zach, 2014, “Naïve Validity”,
+The
+Philosophical Quarterly
+, 64(254): 99–114.
+doi:10.1093/pq/pqt016
+Weber, Zach, David Ripley, Graham Priest, Dominic Hyde, and Mark
+Colyvan, 2014, “Tolerating Gluts”,
+Mind
+,
+123(491): 813–828. doi:10.1093/mind/fzu057
+Weir, Alan, 2015, “A Robust Non-Transitive Logic”,
+Topoi
+, 34(1): 99–107.
+doi:10.1007/s11245-013-9176-9
+White, Richard B., 1979, “The Consistency of the Axiom of
+Comprehension in the Infinite-Valued Predicate Logic of
+Łukasiewicz”,
+Journal of Philosophical Logic
+,
+8(1): 509–534. doi:10.1007/BF00258447
+Whittle, Bruno, 2004, “Dialetheism, Logical Consequence and
+Hierarchy”,
+Analysis
+, 64: 318–26.
+doi:10.1093/analys/64.4.318
+Zardini, Elia, 2011, “Truth Without Contra(di)ction”,
+Review of Symbolic Logic
+, 4(4): 498–535.
+doi:10.1017/S1755020311000177
+–––, 2013, “Naive
+Modus
+Ponens
+”,
+Journal of Philosophical Logic
+, 42(4):
+575–593. doi:10.1007/s10992-012-9239-1
+–––, 2014, “Naive Truth and Naive Logical
+Properties”,
+Review of Symbolic Logic
+, 7(2):
+351–384. doi:10.1017/S1755020314000045
+–––, 2015, “Getting One for Two, or the
+Contractors’ Bad Deal. Towards a Unified Solution to the
+Semantic Paradoxes”, in Theodora Achourioti, Henri Galinon,
+José Martínez-Fernández, and Kentaro Fujimoto
+(eds.),
+Unifying the Philosophy of Truth
+, Dordrecht: Springer.
+doi:10.1007/978-94-017-9673-6_23
+Academic Tools
+How to cite this entry
+.
+Preview the PDF version of this entry
+at the
+Friends of the SEP Society
+.
+Look up topics and thinkers related to this entry
+at the Internet Philosophy Ontology Project (InPhO).
+Enhanced bibliography for this entry
+at
+PhilPapers
+, with links to its database.
+Other Internet Resources
+[Please contact the author with suggestions.]
+Related Entries
+dialetheism
+|
+Gödel, Kurt: incompleteness theorems
+|
+lambda calculus, the
+|
+liar paradox
+|
+logic: algebraic propositional
+|
+logic: combinatory
+|
+logic: linear
+|
+logic: paraconsistent
+|
+logic: substructural
+|
+negation
+|
+paradoxes: and contemporary logic
+|
+Russell’s paradox
+|
+self-reference
+|
+set theory: alternative axiomatic theories
+Acknowledgments
+We are grateful to Julien Murzi, Lorenzo Rossi, and an anonymous
+referee for detailed comments that led to clarifications and
+improvements. We also wish to thank the participants of our 2016
+graduate seminar at UConn on this topic.
